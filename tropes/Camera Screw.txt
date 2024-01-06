@@ -1,0 +1,174 @@
+Camera Screw: 
+This is based on opinion. Please don't list it on a work's trope example list.
+
+Sometimes 3D video games, particularly early ones, have bad camera controls. This can make it hard to look in the desired direction, from simply keeping you from getting a good look at where you want to go to being an Event-Obscuring Camera.
+
+There are multiple ways the camera can screw up:
+
+-   Keeping the player from moving the camera during a precision maneuver or hectic play, possibly leading the player to move in the wrong direction.
+-   "Helpfully" moving the camera away from where the player has intentionally put it.
+-   In a game with full camera control, suddenly and arbitrarily switching to a fixed camera for no particular reason.
+-   Having the camera collide with obstacles, rather than navigating around them, or passing through them.
+-   Allowing the camera to move behind obstacles you can't see through without turning them transparent.
+-   Suddenly pointing the camera directly at a wall or rock.
+
+Not to be confused with Camera Abuse, where the actual viewing device is "harmed"; or Interface Screw, where the interference with controls and/or view are used as an intentional — and mostly more tolerable — gameplay mechanic.
+
+---
+Camera Screw Example in 
+
+## Examples:
+
+
+
+---
+Camera Screw Example in Action Adventure
+
+-   **Advent Rising** has both the lock-on "flick targeting" and camera control mapped to the same stick, with no way to turn the lock-on off or lower its sensitivity, leading to situations where your camera will flip a full 180 degrees to aim at someone not even bothering you in the midst of a platforming sequence.
+-   The PS2 game **Castlevania: Lament of Innocence** has very few platforming sections, but all of them feature frustrating mid-jump camera moves. Fortunately, falling in these cases instantly sends you to the room's entrance, keeping the frustration factor from getting **too** high.
+-   The major complaint most have against **Epic Mickey** is a screwed-up camera system. Combining it with a very large world map and restlessly chasing enemies that can't be killed in one shot with either paint or thinner make things a lot harder.
+-   **Hard Edge**, an action-adventure game that was inspired by **Resident Evil**, also features with the latter's signature static camera angles that can lead to some confusion with some of the game's environment.
+-   In **Legacy of Kain: Defiance**, the number of players who have torn their hair out during Raziel's sequences in Vorador's Mansion has become too large to count. What's worst about this is that one of the sequences of jumps takes a long climb and an inexplicable deadly mist has suddenly risen on the floors you'd just cleared a few minutes ago, making you do the whole thing again with every missed jump.
+-   **LEGO Adaptation Games**:
+    -   In two-player mode in **LEGO Star Wars** and many of the sequels, the camera keeps both players in-frame at all times, and has a camera force field that prevents your character from leaving the frame area (instead of splitting the screen to focus on each character separately). If you manage to trick the force field, it will **teleport** you back into the frame, sometimes as a completely different character.
+    -   The first **Raiders of the Lost Ark** level from **LEGO Indiana Jones**, of course, has the scene where you run from a boulder in Indiana-Jones cam view. If you fail enough times however, you can ride the boulder out in one of the most hilarious cutscenes ever.
+-   Clunky camera controls are one of the most common complaints about **Mega Man Legends**, with the player character always facing the same direction as the camera. It's not as bad as in **Bubsy 3D**, but still pretty cumbersome.
+-   **Tomb Raider**: As a general rule, the camera gets worse as the series goes on (and, as **Legend** and **Anniversary** suggest, that doesn't seem to be changing much), starting off generally consistent and doing what it's supposed to by staying behind you in the first few games, then later on adding pointless, unchangeable<sup>note&nbsp;</sup> angles that add nothing to the view except Fake Difficulty. Although there are moments in the games before that which spring something on you fast enough that you don't have time to stop and reset the camera, so you must make do with an odd angle.
+
+---
+Camera Screw Example in Action Game
+
+-   One level of **Bomberman 64**intentionally screws with the camera by positioning it underneath the large sheet of ice Bomberman is walking on. As the camera looks up through the ice, the directions of "up" and "down" are essentially reversed from the player's perspective. But why should Bomberman be disoriented by where the camera is?
+-   **Devil May Cry**: The games frequently change the camera angle mid-jump, which makes some boss battles or platforming sections harder than intended. The key to your survival is that the game doesn't realign your controls until you land, so you need not jerk the controller around. The third fight with Griffon in the first game is nearly unwinnable on higher difficulties because of this.
+-   **God of War** just loves to change camera angles during precision balance scenes. The game's Edge Gravity may or may not let you grab onto the beam as you fall from it.
+-   The first 3D **Ninja Gaiden** game and its rereleases suffered from a poor camera as well. Perhaps most notably was the first version, in which you couldn't even control the camera with the right stick; rather, moving the right stick would instantly put you in first-person mode. This goes against what has become second nature to most gamers since the advent of the right stick, and the mistake of trying to correct the camera in the middle of a battle has led to many bloody deaths. Fortunately, this was corrected in later versions of the game. Unfortunately, the camera is still absolutely awful.
+-   The first **Spider-Man: The Movie** game had a wretched camera system that completely spoiled the game for many, because it was **totally** non-reactive and controlled entirely by the user. This might be okay for certain situations, but when the player is being bombarded by enemy mooks and trying their hardest not to get blown to shreds, they typically don't have the time to make sure that the camera is positioned just right.
+-   **Warriors of Might and Magic**: Players often complain about its shabby camera controls, which often harvest more victims than the monsters themselves.
+
+---
+Camera Screw Example in Adventure Game
+
+-   The camera in **Highlander: Last of the MacLeods** is all over the place, jumping to new angles multiple times in the same area.
+
+---
+Camera Screw Example in Driving Game
+
+-   **The Simpsons Hit & Run** pulled the "You have a Free Rotating Camera, but only when we feel like it" schtick that pervades a lot of 3D games. Usually it lazily follows your character and you are free to rotate it around, zoom in, and zoom out, with the second analog stick, but sometimes it gets "stuck" and refuses to move in a direction for entirely arbitrary reasons and it decides to wrench around during platforming segments at the absolute last second — long **after** you've already set the camera and lined your jump up.
+
+---
+Camera Screw Example in First-Person Shooter
+
+-   In the **Call of Duty** games, taking hits causes the camera to shake madly, making it impossible to aim accurately and allows the enemy to hand you your ass on a plate, especially on the highest difficulty. The AI actually takes advantage of this by always managing to shoot you and throw off your aim just before you pull the trigger. This also applies in multiplayer, though post-**Modern Warfare** games generally allow you to mitigate this somewhat by taking a perk that reduces the amount of flinching done when you get hit.
+-   **The Chronicles of Riddick** games change from first person to third person whenever you climb, which is fine for the sneaking parts of the game, but not so much for the shooter parts.
+-   In **GoldenEye (Wii)**, the aim button will also act as a lock-on button, which prioritizes environmental hazards like explosive barrels over enemies. Great for when you charge into a room full of baddies and want to make a grand entrance. Not so great for when said baddies are aerating your skull from the complete opposite side of the room from the hazard that the game is so intent on you shooting down. Even less so when you're rescuing hostages that the enemies have decided to huddle around an explosive barrel.
+
+---
+Camera Screw Example in Platform Game
+
+-   **Banjo-Kazooie** suffers from camera issues, even in the XBLA version which is actually worse in design since the N64 controller had C-buttons, meaning one press made the camera swing around a certain angle, whereas using the right analog stick on an Xbox 360 controller gives the illusion of being able to adjust to any number of degrees....which it does not, at all. Despite the camera controls being essentially ripped off from **Super Mario 64**, the camera will auto-adjust infrequently so, and....well just try to play Click Clock Wood and see if you can avoid falling because the camera suddenly cut to another angle and threw you off.
+-   **Croc: Legend Of The Gobbos** has camera issues, combined with a poor turning mechanism. This is particularly frustrating when you are running away from bosses that chase you, or you are trying to make a specific jump. The occasional swimming sections with their poor controls and bad lighting suffer from this in particular.
+-   **Earthworm Jim 3D** had a notoriously bad camera system, described by one reviewer as "on a kamikaze mission to destroy the game." It was all too happy about readjusting itself, it almost never defaulted to the angle you actually needed it to be in, the left and right rotation buttons barely caused it to inch at all, and worst of all, you couldn't even tilt it up and down. This may not have been such a problem were it not for the fact that vertical sections or long jumps downward aren't exactly an uncommon occurrence, forcing you to rely on blind guesses to land your jumps.
+-   In **Heavenly Bodies**, it's easy to end up on a constantly rotating object and send the camera spinning around with you as it desperately tries to keep you in focus.
+-   **Jak and Daxter: The Lost Frontier**:
+    -   Because the game was made for PSP initially, there's no up/down camera movement allowed. Even on the PS2 version.
+    -   Even compared to other PSP games, the camera is bad. Good luck shooting the target you wanted with its jerky, sticky camera controls.
+-   Unusually for a 2D platformer, **Mari0** has this in co-op mode, albeit as an obviously **deliberate** element. The screen scrolling stays with whoever is the farthest to the right, thus making it very difficult for anyone who falls behind to catch up without either dying (thus being able to respawn onscreen) or making quick and skillful use of portals.
+-   **Mega Man X7**'s camera isn't so problematic during 2D segments, but the 3D segments have issues. Different sections of levels will switch between giving the player full control of the camera's rotation (albeit with it slowly turning in the direction you walk), having a fixed angle, or following the first setup but without the ability to control its rotation unless you walk in a certain direction. It's the last two options that get particularly screwy, as the fixed angles are often not ideal for the specific level's scenario (the "run towards the camera" setup is common, and part of Splash Warfly's stage where the player has to fight a midboss has the camera point **away** from where the boss spawns and ensures that first-timers will be ambushed before they can realize what's going on) or is far too zoomed in (some sections of platforming in Wind Crowrang's stage are turned into blind jumps because of this), and the other setup is pretty much a crapshoot as far as trying to take in your surroundings goes. Snipe Anteater's stage has a screwy camera on-purpose whenever the stage's Interface Screw kicks in.
+-   **Prince of Persia: Warrior Within** loves to change the camera during tricky jumps, or tricky climbing sequences, or difficult Parkour sessions. It also focuses on the Dahaka at one point, to the exclusion of knowing where you're going. This is mitigated by the controls: They usually move the prince relative to the screen (which, with the 3rd person camera, is normally equivalent to "relative to the prince"). However, when the perspective shifts to another angle, as long as you keep the move buttons pressed, you'll walk as if the shift never happened. Only when you release the button do the controls accommodate the new perspective — so if you run in a straight line and the camera shifts to show that friendly guy in black with the surplus of arms trying to play catch with you and you keep the up-button pressed, you'll continue running in said straight line instead of doubling back and going straight towards your pursuer.
+-   **Psychonauts**: You face a boss fight where the room goes dark, and the boss has darkvision. You can then use your Psychic Powers to look through the boss's eyes, which means you control yourself from the perspective of a camera that keeps leaping between several spots, and you have to attack the camera. (It's optional, though, as you can also look for a small visual cue in the darkness and keep the camera under your own control.)
+-   **Sly Cooper: Thieves in Time** usually has a Free Rotating Camera... but there are a lot of platforming segments where camera control is wrenched away from you and locked to some arbitrary location. Presumably it's done to help, but all it accomplishes is to annoy the piss out of you and make these segments much harder than they would be with a free camera.
+-   **Sonic the Hedgehog**:
+    -   Bad camera control is one of the (at times, overexaggerated) common complaints about the 3D games (and many other Sega games as well). Mostly fixed in **Sonic Unleashed** and beyond.
+    -   It can be particularly frustrating in **Sonic Adventure 2**, where the game taunts you by allowing you to move the camera to look, but then resetting it as soon as you move a muscle.
+-   **Spyro the Dragon**:
+    -   **Spyro: Enter the Dragonfly** has a camera that couldn't be readjusted unless you're standing still.
+    -   **The Legend of Spyro: Dawn of the Dragon**: The camera will not move more than an inch to the left or right in about half the areas you go to. You have (mostly) free rein in wide-open areas like the main part of the Valley of Avalar, but otherwise...
+-   **Super Mario Bros.**:
+    -   **Super Mario 64**:
+        -   This game defined the 3D Platformer genre in the same way that **Super Mario Bros.** defined the 2D Platformer genre. It was a breakthrough in multiple ways, was the top selling game for the Nintendo 64, and is still considered to be one of the greatest games ever made. It **also** left the player with the idea that the "Lakitu Camera" was under the control of Bowser and was working hard to prevent you from finishing the game. The default camera angles were, to be blunt, not very good, and the worst part of it was that if you tried to manually move the camera, it would automatically readjust itself.
+        -   Trying to cross a narrow bridge or sneak by an enemy? The more slowly and cautiously you move, the more erratic the camera gets. This is because when you move quickly the camera drifts farther back, and when you stop or slow down, it pulls tight — but when it's in tight it can (and will) swing from one side of Mario to the other in an instant.
+        -   The camera controls move the camera in about 30 degree shifts at a time and that they have a limit to how far around they go. Precision jump? More often than not, it's either between two "ticks" on the camera, or just outside the allowable angle.
+    -   In **Super Mario Galaxy 2**, several of the Green Stars are placed in such a way that the camera is about as unhelpful as possible in letting you get them. Many of them are located out in space without anything on the screen to help you gauge exactly how far out they are or where they lie on the horizontal plane. And worst of all, in some cases, you have to jump toward the star from a spot where it's **physically impossible to see it**. The Flipsville one, where you have to fall into the star via reverse gravity is worst of all, but one in Starshine Beach is also worth singling out; it lies just beneath an overhang in the middle of the ocean, and once you get to a spot where you can reach the star, it's in a place where you can no longer see it. Meanwhile, to get high enough to grab it, you have to leap out of the water with Yoshi's flutter jump and then dismount him in mid-air... again while you're not quite able to see exactly where above you the star is. Worst of all is possibly the third Green Star in Throwback Galaxy, where the camera is facing the opposite direction of the star, which is suspended in mid-air. Since the camera refuses to let you adjust it, your only option is to **make blind leaps off an edge toward the camera.**
+    -   **Super Mario 3D World** is generally seen as where the series finally nailed its camera controls... in single-player mode, at least. Multi-player is a different story, however, as the game has serious difficulty deciding which player it should be focusing on, which can easily result in players dropping out of the back of the camera area. The Captain Toad segments also suffer a little from the camera being zoomed a little too far out, though fortunately the developers picked up on this and implemented a more refined camera for **Captain Toad: Treasure Tracker** the following year.
+-   **Super Monkey Ball**: Since the camera is centered behind your monkey, this often causes it to go into a carousel mode, because the sightliest tilt will cause it to move around, which is even more frustrating once you combine narrow paths with curves.
+
+---
+Camera Screw Example in Puzzle Game
+
+-   **Scribblenauts**: The camera always switches back to Maxwell, the protagonist of the game if you leave the camera at a different place for a few seconds This is especially annoying, when you try to do something with your summoned items somewhere else on the level. Good luck combining three items (far from Maxwell) without constant frustration and anger...
+
+---
+Camera Screw Example in Rhythm Game
+
+-   Part of the inherent challenge of **Groove Coaster** is precisely having to deal with choreographed, shifting camera angles.
+-   **SOUND VOLTEX** has a special song unlocked during April Fool's Day. It's the tutorial music, that is at level 1, but is in the hardest difficulty slot, usually reserved for song in the double digits. Turns out this is due to the camera becoming skewed along the way of the song, to the point of clipping through the note area at times while dialogue from a character appears.
+
+---
+Camera Screw Example in Role-Playing Game
+
+-   **Dark Souls**:
+    -   The game improves on the lock on feature of **Demon's Souls**, but it still has a few moments of 'lock onto everything **but** the spider that's ripping your face off'. In addition, the camera occasionally bumps into scenery, causing it to spastically zoom in and out.
+    -   The fact there's no true first-person view and the fact you can only look up/down by about 60 or so degrees makes it particularly annoying to look down or up, say, a ladder before traversing. Also, when aiming a bow, instead of giving you a first-person perspective like any other game of this type would, it instead opts to give you an 'over the shoulder' view, and the arrow always hits slightly to the **left** of your crosshair and will oftentimes hit terrain two feet in front of your face rather than whatever you were shooting at in the distance.
+-   In **Demon's Souls**, it was evidently decided that a horde of demons wasn't enough to deal with, and Everything Trying to Kill You extends even to the Camera Lock-On. Targeting the wrong enemy in some games is annoying, but targeting the wrong enemy in this game can be outright fatal, particularly in those segments where you're walking along a narrow ledge, a powerful enemy is just ahead, and your target lock decides it would rather pick the giant flying enemy far from the stage oh wait you were pressing forward weren't you whoops goodbye.
+-   **Infinite Undiscovery**: In the Vesplume Tower, the castle perimeter areas have fixed cameras and dogs that dash at one or more characters for what at the time is about 1/3 of their HP. These dogs come at you from an angle that WOULD allow you to see them coming, easily, if not for the fixed camera.
+-   **Kingdom Hearts**:
+    -   **Kingdom Hearts** can be frustrating at times due to the small rooms in some levels like Wonderland or Monstro causing the camera to spin everywhere at the slightest hint of movement. Thankfully this was fixed for the sequel.
+    -   **Re:coded**: Due to the camera controls, the platforming is even more eminent than in the original; combine that with the typical Kingdom Hearts camera syndrome and the fact that it's on the DS, and you have the most frustratingly Fake Difficult game in the series.
+-   **Neverwinter Nights**:
+    -   The behind-view cameras in both games are abysmal. Your best hope at actual control is the overhead camera.
+    -   **Neverwinter Nights 2** has a pretty bad camera. Zooming in to the characters heads when they are under a doorway is one of the smaller issues.
+    -   **Neverwinter Nights 2** has a major problem with camera rotation that you couldn't fix with the in game settings no matter what. It had to do with the actual size of the room, so for some rooms, you'd move your mouse to the side of the screen and it would do a 1080 before you could remove it, and on others it took about a minute to do a full rotation.
+-   **Phantasy Star Zero** has the most unreliable camera control on the fields. While navigating through the city is fine, the camera in the fields tends to follow its own rules. First, it adjusts itself REALLY slowly. Second, it can only be manually controlled by holding X and pressing L or R, unless you plan to "lock on" by holding L or "Snap to where/what I am looking, by tapping L. And Third and most nightmarish: It will almost ALWAYS locks itself IN FRONT of the character when you leave an area, effectively getting you back to the area you just left as soon as you enter a new one. Oh, and it doesn't have a "Boss Camera", so... Have fun.
+-   In **Pokémon X and Y**'s Lumiose City is different from the rest of the game, with the camera following your character around with dodgy rotation making the city somewhat difficult to navigate.
+-   **Wild AR Ms 4** was actually a step **back** from previous games that allowed you to rotate the camera at least in the horizontal axis. The camera in **WA4** is entirely fixed except for allowing you to zoom, which every so often makes for a frustrating bit of exploration. Thankfully it was fixed in **Wild ARMs 5**, replacing it with a fully 3D right-stick-controlled camera.
+
+---
+Camera Screw Example in Simulation Game
+
+-   **Hometown Story**: The player has no control over the exterior camera and it has a tendency to change angles right in front of house doors so they are more or less facing them. A few houses have their **back** to the default camera angle of the map.
+
+---
+Camera Screw Example in Sports Game
+
+-   The camera from the Waterskiing/waterboarding game in **Wii Sports Resort** often goes slower than the player character, which results in being often unable to get back in balance and, thus, gain no points. It becomes unnerving on Medium or Hard difficulty levels, where obstacles are added to the course and it's sometimes impossible to see them because of the camera. Yet it's on the SEA.
+-   Super NES basketball game **Super Dunk Shot** and soccer game **Tony Meola's Sidekicks Soccer** both used cameras that always panned behind whoever had the ball, as an attempt to show off Mode 7 technology. It only made gameplay confusing in the long run, especially when you were fighting for possession, as the camera swings along with the back of the player.
+
+---
+Camera Screw Example in Stealth-Based Game
+
+-   **Assassin's Creed** games occasionally take control of the camera when you're within a quest, usually to hint the player at where they're supposed to go. It's very useful...most of the times. In the PC version of **Brotherhood** towards the end of the game there are several spots where the camera goes to an angle that you're not at one of the 8 major spots (up, up/right, right, down/right, down, down/left, left, up/left) and using the WASD key mappings the jumps can be nearly impossible, particularly with your target shooting at you while you try to figure out the best way to get through your view disability. Fortunately, all of the spots encountered are in side quests, not necessary to completing the game.
+-   **Assassin's Creed II**:has platforming sequences a la **Uncharted**. **Timed** platforming sequences in some cases. You may have got your moves down pat when freerunning over Venice (or even practicing aforementioned sequences before triggering the timer), but it's a whole 'nother ballgame when you try to do the same thing with a "helpful" camera screwing with your perspective every step of the way.
+-   The camera in **Metal Gear Solid: Portable Ops** was an abomination. On TUS, the big **Metal Gear** fansite, it actually won the poll for 'the hardest boss in the game'. There is a way of controlling the camera at the same time as moving, but it requires a technique many **Monster Hunter** fans have come to know as the "claw grip": curling your left hand into a C and operating the D-pad with the side of your left forefinger, which results in some nasty finger pain and is only possible if you have tiny hands. There was a button to lock the camera behind your soldier, but it was the same as the Aim button - so if they had a gun equipped, they'd point it. And if they were disguised with the Chameleon icon and pointed a gun, they'd immediately lose their protection and could be seen.
+-   In **Tenchu**, you can't look up or down manually without going into first person view, and it points straight down whenever you go near a ledge. It may have seemed practical on paper, but this is nothing that a fully controllable camera couldn't handle.
+
+---
+Camera Screw Example in Survival Horror
+
+-   **Alone in the Dark (2008)** occasionally has some poor angling for the third-person camera. However, the ability to switch to first person view almost any time as well as a lock-on function for melee combat help to alleviate this a little bit. However, the camera still likes to be dramatic and epic in certain scenes, so maintaining control of a car after a dramatic jump is a little addled.
+-   In the **Blair Witch** PC game, one part of the forced tutorial level is to explain that when you're given a bad camera angle with the game's survival horror style camera, you should retreat to another area with a better camera angle.
+-   **Resident Evil**:
+    -   The series predates **Silent Hill** in the use of Tank Controls, to make controlling characters be consistent no matter what the camera angle is. However, starting with **Resident Evil – Code: Veronica**, the consoles **were** able to render the backgrounds in real time, and the developers added effects like camera panning and zoom in one single angle, which looks nice on a tech demo but can screw with a player's perception of space. In the vast majority of cases it also serves to create tension since enemies are usually offscreen and come from Behind the Black; opinions on that are VERY mixed. The Nintendo 64 port of **Resident Evil 2** had optional non-tank controls much like the aforementioned **Silent Hill 2**, which had the same unfortunate drawback of radically changing the player's course whenever camera angles would shift.
+    -   **Resident Evil 6** has some levels where your character is forced to run from something, usually an invincible enemy or an environmental hazard such as an explosion. During those parts, the camera often changes angles instead of normally following behind your character. This usually isn't a problem, but the camera can abruptly change its position, meaning that during one part, pressing right makes your character run to the right, then the camera suddenly changes position, causing pressing right to make your character run left instead, right back into the thing you were trying to avoid, resulting in an instant death.
+-   The **Silent Hill**:
+    -   The series messes with the camera **intentionally** on a few occasions; the weird camera angles just add another dimension to the general Mind Screw. Beautifully creepy cinematography aside, most of the sequels keep this and compound it with difficult combat controls (which, again, is somewhat intended: most of the protagonists are not trained, effective fighters) to make many mook fights frustrating, item-expensive, or downright **lethal**, as the camera aggressively moves every which way but towards oncoming enemies.
+    -   Camera issues cross over to Scrappy Mechanic in **Silent Hill: Origins** where the camera is prone to spontaneously jerk to different angles or abruptly lock into a Fixed Camera perspective, and you only have about half a nano-second to react before Travis abruptly starts running in a different direction. It's actually difficult to escape certain areas where the camera locks because when the camera changes angles Travis abruptly runs **straight back into the area**, and god help you if a Straightjacket or Carrion is making a beeline for you.
+-   Camera screwing is a staple in the modern horror game, but the **Slender** games turn it into a core gameplay element. The more glitchy your literal handheld camera gets, the closer the titular Slenderman is relative to your position. Not really surprising, considering it's an adaptation.
+
+---
+Camera Screw Example in Wide-Open Sandbox
+
+-   **Grand Theft Auto IV** took the camera to incredible levels of stupidity by turning it into a chase camera that initially sits slightly to the left of the car, which gives you the feeling you aren't driving straight. While the new camera was controllable so that you could shoot better (near full 360 degrees worth of in-car shooting), it also required you to maintain a very, very slight rightward pressure on the camera control stick to get the camera behind the car. That's **real** fun to do for longer than 30 seconds.
+-   The camera in **Grand Theft Auto: Vice City Stories**, besides having the same chase-cam problem of San Andreas (the game being made in the same engine), also has an annoying programming oversight when it came to piloting helicopters, at least in the PSP version. When driving regular vehicles (cars, trucks, boats, etc), the up/down axis of the analog controls vertical movement of the camera, while in bikes it makes Vic lean forwards or backwards on them. However, in aircrafts, where said axis had to be used for the pitch movement, the camera nudge was NOT removed, so when you pitch a chopper up or down, the camera follows, which is really annoying since to make a helicopter go forward at high speeds you must turn its nose down constantly, i.e. looking at the ground all the time instead of forward.
+-   **No More Heroes** switches from a controllable camera to a fixed camera when you hit the stairs to Travis's motel room. The camera angle changes such that if you hold down the control stick, Travis will hit the stairs, the camera will change, and Travis will run down the stairs and away from the hotel. It takes a very quick touch to hit the stairs at top running speed and not go backwards a few times.
+-   **\[PROTOTYPE\]** has a working camera most of the time, but it's lock-on is certainly not trustworthy. It has a habit of locking on everything you were not aiming, potentially fatally in the later missions, given the games Nintendo Hard nature. To make things worse, grappling Non Player Characters is basically the only way to restore health to anywhere near full. It's not uncommon to die because the game first locks into a faraway enemy, ignoring the duo playing tennis with you, and then further screws you over by giving you taxi while trying to grab the only nearby NPC.
+-   **Saints Row**:
+    -   The game gets the driving camera right, but **flying** vehicles have it wrong. In a helicopter, the control scheme is that the turning keys have very little effect and it is actually the camera angle that exerts the most control over the heading of your chopper. Don't look at the building you're trying to avoid or it will act as a black hole and inexorably pull you towards it.
+    -   The driving camera has a tendency to go back to facing straight forward when you're trying to shoot things from within the car. **The Third** fixed this, where the camera's orientation while driving in cruise control can **only** be changed by the player moving the right analog stick/mouse/what have you, but at the same time if you keep it pointed in a specific direction it will stay aligned with the car in that manner while turning - helpful for shooting anyone chasing you in their own car.
+-   **Spore**, in the space phase, will sometimes, in the heat of battle, have the camera suddenly pull up.
+
+---
+Camera Screw Example in Other / Multiple
+
+-   In any **Star Wars** video game featuring a flying level of snowspeeder on AT-AT combat (**Rogue Squadron**, **Shadows of the Empire**, and **Star Wars: Battlefront**, to name a few), there's a good chance the normal rear third person view will switch to a side-on third person view the moment your tow cable is successfully attached. Good luck not crashing or breaking the cable immediately, much less successfully tangling up the AT-AT's legs enough to bring it to the ground.
+
+---

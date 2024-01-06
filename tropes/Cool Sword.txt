@@ -1,0 +1,726 @@
+Cool Sword: 
+_"I can tell you with no ego, this is my finest sword. If on your journey, you should encounter God, God will be cut."_
+
+There is something a sword has that other weapons don't. It could be that it is an Elegant Weapon for a More Civilized Age, or perhaps it's because sword fights just look _so impossibly cool_. Often Heroes Prefer Swords.
+
+**These weapons even come in multiple categories:**
+
+-   Longsword (two-handed): The quintessential knightly weapon of the Late Middle Ages, with an average blade length of 90 cm (35 in). Sometimes used as a generic term referring to any sword that long or longer. This type of sword came into vogue in the late 13th century, and remained in use until the 17th century. Prone to a lot of misidentification, it's commonly mistaken for a bastard sword, greatsword, broadsword and other types of swords from the Middle Ages and Renaissance. The longsword was made to be wielded with two hands, and thus has a handle long enough to comfortably accommodate them, yet doesn't qualify as a BFS since it can be used one-handed, although you would lose dexterity in your swordplay if you did. Greatswords ARE the BFS of the real world, sometimes as tall as a man of their period and with pretty big handles and handguards. Some of the specific types of greatswords are mentioned below. Both the German and Italian schools of swordsmanship deal with the longsword.
+    -   Zweihänder (two-hander): With a blade length of 120-150 cm (4-5 ft) it's the longest known sword, the real life BFS. Bigger. Longer. Better. Used for intimidation, decapitation, and decimation. Especially good for lopping enemy pike tips off, not to mention enemy heads.
+    -   Claymore (two-handed): Scottish sword with a blade length of 100-115 cm (39-45 in). Sometimes used by blonde women to kill human-eating monsters.
+    -   Rapier: Ho ho! Ha ha! Guard! Turn! Parry! Dodge! Spin! Ha! Thrust! Quip! A one-handed sword with a long (~40 in), stiff, narrow blade for thrusting play. The favorite weapon of The Cavalier Years, where swashbuckling heroes and Pirates roamed. Expect Implausible Fencing Powers and lots of Flynning. See also: foils (which are blunt and used in fencing).
+    -   Falx (two-handed): The Dacian Legionnaire-killer. This awesome weapon is long, and it's curved, but unlike most curved weapons, it is sharp on the _inside_ curve instead of the outside, so it can hook up any lorica segmentata (Roman plate armor), decapitate you with a push and a pull and hack off limbs. One of the few weapons that actually changed Roman standard armor. There was also a shorter, one-handed version of the weapon as well.
+    -   The Montante, a two-handed longsword almost as tall as a man, also called the Spanish/Hispanic/Iberian Montante, was the Spanish and Portuguese BFS, deeply feared in the battlefield at a time when Spain was the dominating world power and, despite its enormous size, wielded with great agility. A textbook example of the use of the Montante was when employed by a lone warrior to defend a small position against several attackers.
+-   Transition Sword Category: typically has an average blade length of 70 cm (28 in).
+    -   Bastard Sword/Hand-and-a-Half Sword: Smaller in blade and hold than a longsword, but longer than a shortsword. These swords can support about a hand... and a half. It is designed to be used primarily one-handed, but can easily switch to two-handed for more powerful strikes. The pommel of the weapon can hold the back half of the non-dominant hand. Primarily used in medieval and European settings. Compare longsword and arming sword.
+    -   Tachi/Katana (two-handed): The weapon of choice of the Samurai and certain Ninja (especially of the highly visible variety). Tachi were in vogue for most of the time, being supplanted by katana after the Sengoku Period. Are considered the coolest swords of all by some people. Not all Japanese swords were katana, but popular culture doesn't know that...nor are they generally aware of the Katana's European counterpart, the German Großes Messer and the two-handed Kriegsmesser
+    -   Scimitar (one-handed): Includes all kinds of curved, non-katana swords, including the Pirate cutlass, the Indian _talwar_, the European falchion and sabre, and the Chinese _dao_. Usually wielded by heroes in the "Arabian Nights" Days, as well as good-hearted dark elves.
+    -   Falcata (one-handed): Similar to a kukri or kopis, and probably a distant relative to them via Greek trade, these pre-Roman Spanish machetes are curved downwards, yet also retain a sharp thrusting point. It is considered the ancient Hispanic sword par excellence, even although it was actually only characteristic of Southern Spain and probably never saw the wide usage pop culture attributes to it; its relevance may come from being highly distinctive in shape and absolutely beautiful overall (they were considered luxury articles, and Hannibal Barca likely had one as his sidearm given his Iberian connections).
+    -   Spatha (one-handed): Longer than a Gladius, but too short for a longsword, pattern-welded for greater strength. From late Roman days to the First Crusade, this was one of the most common sword types in Europe. King Arthur is likely to have historically used one, and any Viking that isn't swinging an axe or stabbing with a spear might have one of these. Also called a broadsword or broadblade, the literal meaning of Spatha, although modern use of "broadsword" refers to an Arming Sword or a basket-hilted sword. The other translation for 'Spatha' is 'spade' or 'shovel', because it was 'invented' by enlarging the Gladius in order to make it more useful for jobs around the camp. It is therefore the ancestor of not just most later medieval European straight swords, but also of the entrenching tool.
+    -   Viking sword and its descendants (one-handed swords): The classic, cross-shaped knightly weapon, a descendant of the Spatha and those originally used by the Vikings, and commonly paired with a shield. As such, this is usually found in the hands of the Knight in Shining Armor, though heroes of all kinds have made use of them. Often mistakenly called a "longsword," especially by Tabletop Gamers. The term "Arming sword" is often mistakenly applied to all one-handed swords. The word only entered the language in the 15th century, and in general refers to swords as they transitioned from a main weapon to a side weapon. _jian_ is the Chinese equivalent, with many of the same cultural associations.
+    -   Claymore, Basket-Hilted (one-handed): Descendant of the above with a blade length of 75-90 cm (30-35 in).
+    -   Jian (one-handed): Known as "The Gentleman of Weapons", the jian is not just a national weapon but a cultural icon. One of what is considered the four "main" weapons of Chinese antiquity, the jian was the weapon of officers, nobles and men of high standing. The typical jian has a double-edged blade and often include a colorful tassel in the pommel. Most modern blades are flexible for ceremonial or performance purposes. A staple of Chinese historical fiction, it is a requirement of any proper Wuxia film.
+-   Shortsword Category: Most variations are shorter than a transition sword, but not quite a knife, having an average blade length of 50 cm (20 in) that is closer to a machete. Are so short that they are always one-handed.
+    -   Xiphos: A type of Greek sword that has a vague leaf-like shape to it. The end is slightly wider than the middle, so it has more centrifugal force and is thus much better for breaking things and cutting stuff.
+    -   Gladius: The sword of choice for stories set in Rome, even although, ironically, it originated in Hispania, where Celtiberians, Lusitanians and other tribes used it to chop each other's heads; the Romans adopted this highly efficient blade after watching what Carthage's Hispanic mercenaries could do with it. If it's not a gladius but about the same size, it's a likely weapon of choice for children or Hobbits. The Japanese equivalent is the _kodachi_/_wakizashi_, which samurai often carried with the tachi/katana.
+
+**Sometimes the sword is especially special because:**
+
+-   Absurdly Sharp Blade: It can cut through (practically) anything.
+    -   ...Like Cannot Cut Like: except another equally cool sword.
+-   Ancestral Weapon: It was owned by some important ancestor.
+-   BFS: It's frickin' HUGE.
+-   Bifurcated Weapon: It's combined with another weapon.
+-   Black Swords Are Better: It's dark.
+-   Blade Below the Shoulder: It's attached to the wielder's arm instead of being held.
+-   Clingy MacGuffin: You can't get rid of it.
+-   Double Weapon: It's got two blades instead of one.
+-   Empathic Weapon: It's got a mind of its own.
+    -   Only the Chosen May Wield: And it chose you, and you alone, to be its personal wielder.
+    -   Talking Weapon: Or it talks!
+    -   Living Weapon: Perhaps it has a life of its own.
+-   Evil Weapon: It's evil.
+-   Flaming Sword: It's on fire.
+-   Forged by the Gods: It was made by a _god_.
+-   Giant's Knife; Human's Greatsword: Big creatures consider it a dagger, this doesn't stop you from using it as a BFS.
+-   Infinity +1 Sword: It's rare.
+-   It Was a Gift: Someone significant gave it to you.
+    -   Especially when it's a token that you're his successor.
+-   Laser Blade: It's made of Pure Energy.
+-   Legendary Weapon: It's _famous_.
+-   Named Weapons: It's got a name of its own.
+-   Situational Sword: It can only be wielded in the right circumstances.
+-   Soul-Cutting Blade: It cuts more than just the body.
+-   Sword of Plot Advancement: It's the villain's Achilles' Heel.
+-   Vibroweapon: It vibrates. ...Er.
+-   Weapon of X-Slaying It is especially effective against a particular type of creature; or maybe a singular entity. Or even the only thing that can hurt said entity.
+-   Wrecked Weapon: It was broken.
+    -   Reforged Blade: ...and remade.
+
+This trope is Older Than Feudalism, because the sword is a very, very old weapon and there are tons of examples from mythology. Possibly the most iconic Cool Sword of all is Excalibur, the sword the Lady in the Lake gave to King Arthur (which supposedly wasn't the original Sword in the Stone).
+
+And no, having a sword is not (necessarily) Compensating for Something.
+
+Recording the sheer number of characters who use swords in media would make for a VERY long trope. Basically, name any hero from a Heroic Fantasy series or an RPG (of any genre), and chances are he'll be using a sword. Thus, this trope should be reserved for _cool_ swords; those with some exceptional quality, name, or power. Not just any old sword will do.
+
+For swords that aren't fantastically and impractically cool, see our Useful Notes: Swords page. Oddly Shaped Sword is the Sub-Trope for swords that have a really _weird_ shape.
+
+---
+Cool Sword Example in 
+
+## Examples:
+
+-   Video Games
+
+
+
+---
+Cool Sword Example in Anime & Manga
+
+-   **Super Robot** shows will often have the Humongous Mecha of The Hero wield some kind of Cool Sword, impossibly huge or otherwise.
+    -   One of the first was **Great Mazinger**'s Mazinger Blades, a pair of swords hidden in its legs and which were generally used one at a time.
+    -   **Zambot 3** had a huge katana with sai-like prongs on the guard.
+    -   **Daitarn 3** had, among other weapons, the Daitarn Zamber.
+    -   **Voltes V** employed the Tenkuuken (Heaven-Air Sword) in all of its Finishing Moves. Voltes later gets upgraded so that it can fire the Choudenji Ball (Super Electromagnetic Ball).
+    -   From **Voltron**: Form Blazing Sword!
+    -   **God Sigma**: "**Musouken!**"
+    -   **Braiger**: The Brai-Sword. It also shoots laser beams.
+    -   **Mazinkaiser** has what is referred to as "Kaiser Blade Full Power", which is a double-handed broadsword that extends from the machine's **chest plate**. And it has two smaller ones, Shoulder Slicers, that are launched from the gaps in its shoulders!
+-   **Claymores** use... well claymores. They're effectively a symbol of the human ability to resist the youma.
+-   The many famous swords of **One Piece** with Mihawks' 'Yoru' or Zoro's 'Wado Ichimonji ' only being a few examples out of the ever growing list of cool Swords.
+    -   Add Kizaru's sword of light to the list, it's a magic/chi variant of a lightsaber.
+-   The Gauntlet swords in **Bakugan New Vestroia** are similar to lightsabers.
+    -   In Mechtanium Surge Dan and Mag Mel (Barodius) create energy swords with no handles!
+-   **Berserk**: The Dragon Slayer, a BFS among BFS'es, which has taken on a supernatural essence of its own due to all the demons that Guts has killed with it.
+    -   There's also the Sword of Resonance wielded by the Skull Knight, which has the ability to slice through dimensions.
+-   **Bleach**. All Shinigami (and then some other characters) carry **zanpaktou** (soul swords). Usually they look like normal swords, but when the wielder achieves First Release (Shikai), they can be temporarily made... well, variations on larger, longer, sharper, they become two swords, one of them becomes something like a few dozen razor-sharp cherry blossoms. Final Release (Bankai) is something else entirely. Usually, the weapon can't even be classified as a sword anymore. The resident Mad Scientist has one that turns into a Kaiju Caterpillar, a member of squad 11 has one that's a giant combination of a Dao and some kind of pendulum-blade thing which he spins around to increase its power. It's Shonen Manga, so you get what you pay for.
+-   In **Blue Exorcist**, Rin has Kurikara. Important for being a) handed to him by his father figure before he died b) acting as a Power Limiter for his Blue Flames and demonic abilities c) being an ancient demon slaying blade and finally d) also acting as a Flaming Sword when drawn.
+-   The Sunlight Heart Plus in **Buso Renkin**. The upgrade to a lance is a sword... that can turn into a lance filling the empty space with energy. And can fly to the moon.
+-   **Choujin Sensen** has Sasamura wielding his katana skill in hopes of honing his \[Void\] sword style. The \[Void\] is a selfless state of mind that allows the user to perform a Clean Cut.
+-   Aion's sword in **Chrono Crusade**, which (in the manga) contains his horns, making it the source of his power. Father Remington also has a energy sword.
+-   **Delicious in Dungeon** has Kensuke, Laios's Living Weapon. It later grows the symbol of a winged lion, the guardian of the Golden Kingdom and one of the only creatures said to be a match for the power of the Lunatic Magician.
+-   **Dragon Ball**:
+    -   Future Trunks's sword, which was used to kill Freeza. King Cold believed the sword was the reason how he could kill Freeza, but it's soon revealed that the sword is nothing special. However. It got chipped when Android 18 blocked the attack from Super Saiyajin Trunks and he hardly used it ever since. And in the non-canon seventh movie, it broke into two when Trunks fought a One-Winged Angel Android 13. Since after Trunks's training in the Room of Spirit and Time, Trunks never used his sword for the rest of the manga (and **Z** anime), likely due to its damage.
+    -   In **Dragon Ball Super**, Trunks has another sword (or the same was just repaired), and even though it is just a regular sword and not necessary for him to use in combat, Trunks feels comfortable to have it by his side. However, in the finale of his arc, Trunks somehow manages to create a Genkidama and transfers all the energy into his sword, turning it into the Sword of Hope and defeats Fused Zamasu with it.
+    -   Super Janemba turns an oni's mace into the red Dimension Sword. As its name implies, it cuts through dimension and can create dimension portals. It throws Sword Beams all the time and gives SSJ3 Goku big trouble.
+-   **Dragon Recipe**: Kalsiss is the strongest holy sword of the Holy Sword clan. Her owner, Incia, uses her for the purpose of preparing dragon meat, because no normal sword can cut the flesh of a Kaiser Dragon.
+-   Tokiya Mikagami of **Flame of Recca** has a family heirloom sword named Ensui, which also doubles as a ninja madogu. Inactive, it's just a little bone handle with a spike, but when he immerses it in water it becomes a very lethal water blade. Not only can he use any fluid in it (including blood and acid) but he can use any of the forms of water (ice, steam), manipulate his surroundings, and create water doppelgangers. The more liquid he uses, the stronger it gets. The fact that he's a damn good swordsman (and the only trained fighter in the group) does not detract from Ensui's coolness.
+-   Major General Olivia Armstrong's saber in **Fullmetal Alchemist** has to count. It has cool carving on it, and it has passed down the Armstrong line for generations!
+-   Real Robot wise, such is the rule of every single **Gundam** in existence: each Gundam has to have a beam saber or otherwise similar weaponry made of metal.
+    -   **Gundam SEED Astray** takes this to wild extremes - Lowe Guele creates the Gerbera Straight katana so his Astray Red Frame doesn't run out of juice. Then, he built a **150 meter version** of that sword. Then, he built the Tactical Arms for Gai Murakumo's Astray Blue Frame, with one of its forms being a sword! Later on, Lowe makes his own Tactical Arms after the Red Frame gets beat up pretty badly.
+-   In **GUN×SWORD**, Vaan wields a Whip Sword that he wears around his waist like a belt that also acts as the activation key for his Humongous Mecha.
+-   As a Shout-Out, a scene in **Hayate the Combat Butler** shows our hero with three swords stuck in his back. Between appearances, the actual weapons stabbing him change. This is because all six of them are various Cool Swords used by the Original Generation mecha of the **Super Robot Wars** series.
+-   **Inuyasha**'s title character has his Tessaiga. So cool that Sesshomaru's antagonism is partially out of jealousy over Inuyasha being able to wield it, but not him.
+    -   Though the swords Sesshomaru does use are no slouches either: the Healing Shiv Tensaiga, the Evil Weapon Tokijin, and the Weapon of Mass Destruction Bakusaiga.
+-   In **Jojos Bizarre Adventure**, Black Knight Bruford wields a cool sword named "Luck" which is engraved on the blade. After he is defeated and briefly restored to his old noble self, Bruford passes on the sword to Jonathan, and adds a "P" to it with his own blood and renames it "Luck&Pluck" in honor of Jonathan's courage. Jonathan later makes good use of "Luck&Pluck" in his battle with Dio.
+-   **Kirby: Right Back at Ya!**: In addition to Meta Knight’s sword Galaxia (Mentioned below in the Video Games folder), there’s also the weapon wielded by Sirica, a one-shot character who appears in “Crusade for The Blade.” While the weapon itself is technically a multi-use firearm, it **does** have a retractable blade that, when activated, can be used for close combat.
+-   In **Lupin III**, Goemon has **Zantetsuken**, a katana made out of either a special alloy or a meteorite (depending on the version), which can cut absolutely anything. (Except particularly strong enemies' weapons. And konnyaku gel.)
+-   **Lyrical Nanoha**:
+    -   Signum's Laevatein is a mechanical sword with a bolt-action cartridge system that can burst into flame, split into sections as a Whip Sword, and combine with its sheath to form a bow. Plus, it's a Large Ham that speaks German and is voiced by Tetsuya Kakihara.
+    -   Fate Testarossa's Bardiche can also become a Cool Sword when it assumes its Zanber Form, Riot Blade, Riot Zanber Stinger, Riot Zanber Calamity or Riot Zanber II. And Bardiche speaks English with a deep voice.
+-   Nike in **Magical Circle Guru-Guru** eventually learns to call upon the magic sword of light, "Kira Kira." It's highly effective when used properly, but can be finicky about anything interrupting the process. This has resulted in Kira Kira having where the point of the blade would be instead be an old man's head and a little schoolhouse. On the other extreme, being summoned in an ice cave made it an ice sword.
+-   Mikoto's sword **Miroku** in **My-HiME**. Powerful enough to cut through gilded steel, and she can call it from anywhere if she isn't already holding it. It's also part of the body of the Big Bad.
+-   **Naruto**:
+    -   **Naruto** features the weapons of the Seven Swordsmen of the Mist. Each has a unique ability or use, some more mundane than others.
+    -   There is also Hatake Sakumo's chakra blade, which is presumably why he was nicknamed White Fang. Kakashi inherited this blade. It is unknown whether it had any special abilities aside from glowing white when used.
+-   Asuna's Ensis Exorcizans in **Negima! Magister Negi Magi**, a huge demon-banishing sword that can also cancel any magic, even wide-range area spells used to decimate entire armies. Comes in the form of a Paper Fan of Doom if you don't summon it properly.
+    -   Then there's Jack Rakan. He's called "The Thousand Blades" for a reason.
+    -   Speaking of Akamatsu's work. In **Love Hina** the Urashima family had in its possession a sword simply called "Hina". It makes the wielder become a lot stronger and better in combat, but the thing is cursed and the demon that was sealed into it will possess the wielder if they aren't strong enough. It appeared once again in **Negima** in the hands of an enemy who likely stole it. The blade itself is pitch black and in combat it has its own aura that resembles black flames.
+-   **Pretty Cure**:
+    -   In **Yes! Pretty Cure 5 GO!GO!**, the Cures gain the Cure Flurets, rapier-like swords which... they only use for a tag team finisher attack. In The Movie, it's revealed that Coco, in his human form, can create a gold one and when Cure Dream gains her movie-only Super Mode, she creates the Shining Fluret, which she promptly sword fights with against the movie's Big Bad.
+    -   The opening for **Smile PreCure!** reveals that Cure Beauty will be able to create an ice sword. She ends up doing this in episode 25 and by episode 43 reveals that she can dual-wield them and uses them for her second finisher, the Beauty Blizzard Arrow.
+    -   Averted with Cure Sword of **Doki Doki! PreCure** - despite the name, she does not have any sort of sword.
+    -   In **HuGtto! Pretty Cure**, Cure Yell ends up summoning a weapon called the "Pretty Cure Sword", which bore a glowing rainbow-colored aura. However, she ends up rejecting the weapon when she realizes a sword isn't want the team needed and they end up with standard wand-like devices known as "Miracle Swords"
+-   Lohengrin and the Prince's swords in **Princess Tutu**. The Prince's sword can even turn into two swans when broken, which... is a bit silly, but still cool, since it allows Mytho to call the sword to him after Fakir breaks it with Lohengrin's sword.
+-   In **The Red Ranger Becomes an Adventurer in Another World**, the Sacred Sword is the royal family's holy sword created by fusing seven holy swords together and the prized weapon that was once used by a previous hero to seal away the demon lord. It's a Morph Weapon capable of changing its shape to change its abilities and is powerful enough to stagger even Red's Maximum Kizuna Kaiser.
+-   **Rurouni Kenshin**: Kenshin's reverse-edged sakabato.
+-   **Saint Seiya**: Odin's cloth includes the Sword of Balmung, which is a powerful weapon capable of destroying anything its wielder wishes to. Case in point, Seiya uses it to destroy the curse on Hilda without physically harming her.
+-   Yoh's katana Harusame in **Shaman King**.
+-   Gourry's Sword of Light from **Slayers**. A functional enough sword in its normal form, but if the blade is removed and Gourry's calls "Light Come Forth" it becomes a light-saber that can kill demons.
+-   **Soul Eater**:
+    -   Ragnarok, who varies in size and shape (though not to BFS standards), but most of the time looks like a longsword. A black longsword, who is not so much attached to his wielder as he is **inside them** when not being used in combat. Also counts as a Vibroweapon, and a bullying Talking Weapon.
+    -   Tsubaki would also count after she gains her Uncanny katana mode after defeating her brother and he allows her to absorb him. Then there are her forms after Black Star works out the Nakatsukasa Purpose.
+    -   Excalibur. To clarify: His sword form is perfectly symmetrical, and gives his meister powers that put them on the level of godhood (super speed, strength, etc.) Though, to wield him one must worship the very ground he walks on and follow all of his demands, if you don't do things EXACTLY his way, he won't do jack for you. The sword and his list of demands (1000 of them!) is SO annoying, nobody in the Manga has managed to use it (Some have tried, but when you bring it up, they always get the exact same look of dread on their face. It looks like a hybrid of the face one gets when constipated, combined with what occurs after a Groin Attack), with the occasional reference to one or two people who have managed to use it in the past. In an anime episode, Hiro (minor character only seen ONCE in the manga series), actually finds Excalibur tolerable and also enjoyable, and becomes the strongest meister in all of Shibusen, even taking out Black Star, Kilik and Death the Kid. This ended when Hiro couldn't stand Excalibur's constant sneezing and puts him back.
+-   Tenchi Masaki nets himself a few in the three continuities he's a major player in (re: ones where Sasami doesn't take over.) In the OVA, he has Tenchiken, the lightsaber-like weapon that belonged to his grandpa. It's also set so that if a non-Juraian touches it, it electrocutes them. He also has the Light Hawk Sword, an energy sword **he** creates from the Light Hawk Wings, powerful enough to disintegrate Kagato... and split his spaceship Souja in half!
+    -   **Tenchi Universe** goes back to just Tenchiken, but The Movie shows his mom Achika pulling more out of it by elongating it to the point where she could cleave the monster KAIN.
+    -   **Tenchi in Tokyo** gives Tenchi a crystal-like sword, comprised of six gems... but, because Tenchi wants to be normal, he separates the gems and gives them to the girls.
+-   Kamina from **Tengen Toppa Gurren Lagann** melted down a pair of swords to create a lethal, gigantic version of his sunglasses. It gets better too.
+    -   Kamina also wields a katana himself, and the katana is bigger than the sheath in which it is stored.
+-   Touta's "gravity sword" from **UQ Holder!** is a black katana that is able to alter the effect gravity has on it. It can be rendered completely weightless for effortless wielding, or it can increase its own mass to insane levels, giving it enormous striking power. The highest setting Touta has used thus far is the "10,000x" gravity multiplier, giving the sword an apparent weight of 500 tons. It was apparently created by Albireo Imma, a master of gravity magic.
+-   **Yaiba** is full of this, ad has a wide selection, including: Fujin's Sword, Raijin's Sword, Ryujin's Sword, the Devil King Sword, the Water Demon Longsword and the Fire Demon Longsword.
+
+---
+Cool Sword Example in Comic Books
+
+-   The Ebony Blade (sounds like a brand of razor) of the Black Knight was forged by Merlin, can cut through pretty much anything like butter, can absorb and even reflect energy, and can be summoned to the Knight's hand. So what if it comes with a blood curse?
+-   The Moon Sword from Sláine: the Horned God is a weapon so terrible that it does not merely cut its foes; rather, their bodies rip themselves open to receive it.
+-   The Makluan Sword used by the first Swordsman. Made by the Mandarin, it had a numerous weapons built in, including disintegrator rays, and a flamethrower.
+-   The Muramasa Blade forged for Wolverine, containing a "shard of his soul", is said to be the only weapon that can kill him (or his kin, apparently) for good. It ultimately killed Sabretooth. Daken had part of it melted down and grafted onto his wrist claws (which retract, like Wolverine's).
+-   There is a fictional version of the real-life mythical sword the Kusanagi-no-Tsurugi (the "Grass cutter") in the Marvel Universe, which plays an important role in the first "Ares" miniseries.
+-   Gram, formerly the sword of Sigurd the Ever-Glorious, currently belonging to Loki. It comes with the handy ability to reveal truths, free people from possession or parasitic influence, and in a pinch can be used to stab someone. It has a truly ludicrously complex origin. Approximately: It was retroactively created by Old!Loki (there are several Lokis in the comic) from curse and greed and revenge through the power of legend to free/defeat himself. Basically it's weaponized Brutal Honesty.
+-   Drift has his Great Sword, which are a common weapon of the Circle of Light. There is a drawback in that they draw power from the user's soul, making it a case of Awesome, but Impractical, so Drift uses it sparingly. Even worse, one of the few times he does use it, it gets stolen and used to chop his legs off.
+    -   Later on, Cyclonus acquires a Great Sword of his own, and due to unique circumstances manages to charge it to impressive levels. He also at one point repurposes it as a Healing Shiv.
+-   The Odinsword. A **huge** sword several hundred feet in length, it's so powerful that it's considered a weapon of mass destruction by the Asgardians. Let that sink in for a second. A race of superpowerful **warrior gods** fear the Odinsword's power. In **Fear Itself** Odin revealed the sword's true name is Ragnarok.
+-   Interestingly, Antarctic Press had a series of "How to Draw Manga" books with one section on swords. The artist pretty much told the reader that if you're gonna draw a Cool Sword, make it **practical**.
+-   **Contest of Champions (2015)**: French heroine Guillotine's sword, La Fleur du Mal, is capable of cutting through damn near anything (it actually manages to cut an alternate Captain America's shield). And if for some reason making contact with a being is unavailable, the sword can command the souls of its previous owners to attack. This is outweighed by the drawbacks, such as the sword being alive, bloodthirsty, and that it binds the souls of its owners to it even beyond death. And also speciest.
+-   In the 2016 comics, Doctor Strange forges the first magical relic that bears **his** name, a sword capable of cutting through dimensions. When his forging mentor Eoffren dubs it the Sword of Strange, Stephen instead calls it a scalpel: the Scalpel of Strange.
+-   **Fables** features two such swords.
+    -   There is Maerorgladi, the Sword of Regret, wielded by Goldilocks. This is an enchanted sword that "hungers" and never fails to kill. For every soul slain with intent, it takes another at random, as the blood price for its service.
+    -   There is also The Vorpal Sword, an enchanted weapon that kills anything with a single cut and makes the distinct sound "Snicker-Snack!" with each strike.
+-   In **Fish Police**, Inspector Gill acquires a sword which he names Suds-Guzzler.
+-   Martha from **Give Me Liberty** uses one (a saber) when she fights the gay nazis IN SPACE! (She wisely refuses to use firearms, since they'd puncture the station's outer hull, which would kill both parties. Her opponents are not that smart.)
+-   While few of the swords **Hellboy** has used were particularly elaborate, they were all very old. Only ever used as improvisational weapons, you'd think a rusty piece of metal wouldn't be that cool. But they are. May be Mike Mignola's love of Gothic antiquity rearing its head.
+    -   He was recently given Excalibur, which appears as a somewhat ornate and unusually long gladius. There's also his father's sword, which waits for him in Pandemonium and will herald the Apocalypse.
+-   Soultaker, the blade of Katana from **The Outsiders**, drinks the souls of those it kills, and then makes them available as ghosts to answer questions.
+-   In DC Comics, Nightmaster was a member of **Shadowpact** and was the wielder of the **Sword of Night**. The sword gave eternal youth, the ability to compel the truth from someone, cut through almost anything, warned its wielder of danger and could split into three swords that shot out at victims.
+-   **Superman**: In **The Day the Cheering Stopped**, the Sword of Superman is a short double-edged orange broadsword forged at the dawn of the universe which can grant its wielder godlike knowledge and power.
+-   The adamantium/titanium (depending on what version) sword in **Blade** that has an interesting security system built into it to mutilate the hand of any unknowing wielders. (When it's titanium, Blade has to actually behead the vampire to kill them.)
+-   **Usagi Yojimbo**: Usagi's daisho, a katana and wakizashi named Willow Branch and Young Willow, respectively. While the weapons are nothing more than master-crafted swords Usagi won in his first tournament, they have seen extensive use over more than a decade, cutting tree trunks and nicking other swords in Blade Locks, and are still in pristine condition.
+-   **X-Men**: Illyana Rasputin's Soulsword, forged from her very soul. It's incapable of cutting purely physical objects (though it still blocks things just fine), but it can cut through anything the least bit magical — artifacts, enchantments, demons, etc. — like a hot knife through butter. It also generates a kickass armor when she wills it. Ilyana's own magical abilities are also enhanced while wielding the Soulsword. Finally, the sword is a symbol of her mastery over Limbo.
+-   The **X-Men** Crisis Crossover **X of Swords** deals with a contest involving ten legendary blades being used by ten X-Men to battle ten foes wielding their own cool swords. Besides Wolverine's Murasama and Magik's Soulsword, the other blades used here:
+    -   The Skybreaker, the first Vibranium weapon forged, used by Storm after stealing it from the Black Panther.
+    -   Warlock, the technoorganic being and friend of his welder Cypher.
+    -   The Light of Galador, a sword formerly used by the Spaceknights, now used by the young Cable.
+    -   The Starlight Sword, a mystical weapon forged from the walls of the Starlight Tower, taken by Betsy Braddock, the current Captain Britain.
+    -   The Sword of Might, one of two weapons that could be used to create a new Captain Britain, now used by Brian Braddock, now Captain Avalon.
+    -   Scarab, a **kopesh**\-like weapon, used by Apocalypse.
+    -   Godkiller and Grasscutter, mythical god-killing weapons, both welded by Gorgon.
+-   The main heroine of **Blade Devil** uses a magical transforming sword called the "Rays of Dawn" as her primary weapon.
+
+---
+Cool Sword Example in Fairy Tales
+
+-   In **The Blue Mountains**, the princess leaves behind a sword for the soldier. When he despairs of finding her and goes to kill himself, it has writing on its blade to tell him where to go.
+-   In Asbjørnsen and Moe's **Soria Moria Castle**, the trolls all own swords, and magical potions to drink when they use them, because they are too heavy even for trolls without them. Fortunately, they leave them where the princesses can have Halvor drink the potion and use the sword.
+    -   In "The Seven Foals", the sword works the same.
+
+---
+Cool Sword Example in Fan Works
+
+-   The author of the **Harry Potter** fic within a fic in **Another Life** gives her Author Avatar the ultimate cool sword: Excalibur, "the mystic sword of Merlin." Then, because that's not cool enough, she melts it down to make "Excaluzi, the Mystic Machine Gun That Slew Voldemort."
+-   **Atlantis Rising** has three of them, the Swords of Wisdom, Justice and Renewal, which are the only weapons powerful enough to destroy the Heartstone and the Orichalcos with it. The Sword of Renewal was also **Excalibur.**
+-   **Boundary Of The Blue Sky**:
+    -   Kazuya's long broadsword, Archangel. It can summon the Grand Wolf Demon Ookami, and can cut through diamonds, titanium, and even abstract things like light and darkness. He also has a short gun katana called Transcend Soul. He can combine the two to create Guardian King of Relics, a huge, blue sword that can rend existence apart.
+    -   Asuna's Infernal Depth Blade,a sword that can set itself on fire for added damage.
+-   **Child of the Storm** has a few:
+    -   The Sword of Gryffindor, impregnated with Basilisk venom, is mentioned a few times.
+    -   Twilight was wielded by Surtur, the original Dark Phoenix.
+    -   Ván, the Sword of Hope, appears to be a completely unremarkable arming sword to the untrained eye - something which is lampshaded (and is implied to have made the damn thing practically impossible to find, since no one's seen it for the past million years). Despite this unassuming appearance, it is sentient (probably), layered with enchantments, made of uru and vibranium, and designed to both match Twilight and No-Sell **Phoenix fire** - something at which, remarkably, it succeeded. That's pretty darn cool.
+    -   Harry's sword, forged for him by Uhtred, with the guidance of Tony Stark, and enchanted by Loki. It was designed along the lines of an Alfheim sabre, based on Harry's preference for speed based attacks, with a few twists. Thanks to parallel evolution, the end result is explicitly described as closely resembling the **shashka**, the famed sabre of the Russian Cossacks and real life example of this trope. Since this triggers more than a few Red Room based memories, this is not necessarily a good thing. After the **Bloody Hell** arc, it becomes even cooler, as Dracula impaling Harry with it and then blasting him with magical lightning, causes it to take on attributes of Harry's Phoenix-infused blood, and possibly gives it a bit of sentience. At this point, Harry names it Curtana, after the legendary sword of Sir Tristan.
+    -   In the sequel, Harry Dresden manages to alter his blasting rod with help from Captain Luccio, and implicitly a dwarf from Nidavaellir who owed Strange a favour, using some mithril and Vibranium. What does this result in? Well, a blasting rod... that doubles as a goddamn **lightsabre**.
+-   **City of Chains** features **Everburn,** Lucien's family sword. Bonus points for being a BFS and having an enchantment that superheats it to cut through more stuff.
+-   **Fate of the Clans**:
+    -   Mordred's Clarent is able to launch a tower of thick hatred and mana as a Noble Phantasm.
+    -   When he was alive, the sword Cú Chulainn used most often was a demonic weapon. Another demonic sword he used back then was Fragarach, which could deploy from its sheath for a strike without even being touched, forces someone to be incapable of lying as long as the blade's at their throat, and can alter the order of events so even when it strikes last it hits first for a fatal blow and makes it so it kills the other person before they struck so their attack vanishes. The sword is also Forged by the Gods and had an Only the Chosen May Wield rule in which only those the sword considers worthy can use it.
+-   In the **Firefly** fanfic **Forward**, River acquires a Chinese **jian** that was once owned by a General Jingwei. Aside from being a nice blade, it also channels electricity.
+-   **Half Past Adventure** features the Root Sword, a shortsword that debuted in **Adventure Time** proper; it's a cream-colored blade with a rootlike shape to its hilt.
+-   **Harbinger (Finmonster)** (**Danny Phantom**, **ParaNorman**): Wendy Corduroy's sword, besides being a BFS, has runes running down the middle, and Danny notes that it's **not** a normal weapon, given its ability to harm supernatural entities.
+-   **Hottie 3: The Best Fan Fic in the World**: Hottie's primary weapon is Nothung, the sword that belonged to Billy from **Adventure Time**. It was given to her by Finn.
+-   Kyon's Laserblade in **Kyon: Big Damn Hero**, whose hilt was used by one of his ancestors and blade was made from the remains of a robot from another world.
+-   **A Man of Iron** continues Westeros' tradition of having lots of cool swords lying around. In addition to the canonical Ice:
+    -   Tony has forged two Valyrian steel swords, Lawkeeper (which he gave to Rhodey) and Shadowfang (which he gifts to Jon, hoping to create a new Ancestral Weapon for the Iron Pointe Starks). Bonus points to the latter, which has a sunstone in the hilt, which makes it lighter to wield.
+    -   House Bracken's Ancestral Weapon, Hate Eternal, which is powerful enough to cut through both of a man's hands in one blow even when used by a teenager like Theon.
+    -   Gerion Lannister, now called Nikolos Fury, retrieved and now wields Brightroar.
+-   **Nails**: Saber's sword. The edge is sharp enough to cut through atoms and cause nuclear fission explosions with every swing.
+-   **The Night Unfurls**: All Hunters have at least one Impossibly Cool Weapon that can switch between two forms, called a trick weapon. One of the forms resemble a sword.
+    -   Kyril currently possesses the Holy Moonlight Sword, once the "guiding moonlight" of Ludwig, the Holy Blade. It is the only known sword in the story that can glow, shoot beams of energy, and have a will of its own.
+    -   Sanakan's first weapon is the Kirkhammer, a silver sword that can combine with a stone block to form a large hammer. Her current weapon, the Holy Blade, is a silver sword (similar to the one for Kirkhammer) that transforms into a BFS by combining it with its sheath. Both are Bifurcated Weapons.
+    -   Hugh has two: a katana with a blood rite (Chikage), and a curved sword that can switch into a bow (Simon's Bowblade).
+    -   The Church Pick, wielded by Lily, has an unusual appearance. It has a broad blade, a long hilt, and no guard. It can also transform into a polearm.
+    -   Soren's current weapon is a rapier-gun hybrid, named the Reiterpallasch.
+-   **Nightwing: The Series**: Deathstroke wields a katana-like blade which he wears on his back and uses for up-close assassinations.
+-   **The Palaververse**: The Sun Blade, a golden sword without a hilt meant to be wielded with magic alone. It was originally an Antlertean artifact used by the Mage-Lords to control the Sun's motion, and is currently in Celestia's possession.
+-   **The Pieces Lie Where They Fell**: Night Blade's Ancestral Weapon **Determined Point**, and the Masamane sword he replaced it with.
+-   **Pony POV Series**:
+    -   In the Dark World, Minty Pie — at some point during her offscreen adventures — acquires the Sword of Four Seasons, a magically blessed sword capable of purifying beings its used on.
+    -   Lord Tirek, during his original rampage, possessed a sword called Eclipse, that was forged from the remains of Pandora's Box that had contained the immense dark magic he'd absorbed to gain his power.
+-   In **The Princess and the Dragon**:
+    -   Jean Claude's sword made from the scales of a White Dragon kit.
+    -   Bakura's (stolen) magical weapon, aptly named Dragonsbane.
+-   In **Purple Days**, Joff retrieves Brightroar and fuses it to his soul, allowing him to summon and dismiss it at will.
+-   The Nickelodeon fanon show **The Rainbow Blade** has the self-titled Rainbow Blade.
+-   In Chapter 22 of **Ranma Saotome, Chi Master**, Ranma and Shampoo each receive a very valuable and exquisitely forged sword from Ranma's guru (who is also Shampoo's grandmother); Ranma a Jian for his hard work as her apprentice, and Shampoo a Dao as a belated sixteenth birthday present.
+
+-   In **Truth and Consequences**, Adrien recieves Fang, a green katana fueled by the Power Of Hate, forged by combining the powers of the Ladybug and Black Cat Miraculous, and wielded by Sarutobi Sasuke, who was a past wielder of the Black Cat. It can't even be drawn from its sheath unless the wielder has enough hate for whatever they want to destroy, but is impossibly sharp in the instant after it's drawn. Sarutobi refuses to give it up until Adrien proves he's worthy of it, and puts him through hell to do so.
+-   In **The Weaver Option**, Taylor has the Nebula's Shard, an ancient Eldar weapon that kills all Eldar in its immediate vicinity in a rather spectacular manner if it manages to cut any one of them.
+
+---
+Cool Sword Example in Films — Animation
+
+-   **Final Fantasy VII: Advent Children**:
+    -   Cloud's Fusion Swords, four BFS (and two regular-sized swords) that combine into one huge honking sword that looks just like the Buster Sword.
+    -   Also Souba, Kadaj's double-bladed katana.
+-   **Frozen II**: Anna grabs a sword made of ice from a statue when she and her family are threatened by a wary group of people they meet as they travel north.
+
+---
+Cool Sword Example in Films — Live-Action
+
+-   The "Alumutian" blades in **Prince of Persia and the Sands of Time**.
+-   The Sword of Doom and the Sword of Fate in **Scooby-Doo and the Samurai Sword**.
+-   The Vorpal Sword in **Alice in Wonderland (2010)**.
+-   The Sword of Azundati in Amazons.
+-   In **Avengers: Endgame**, Thanos has a massive double-bladed sword that he can do a variety of cool tricks with. With this sword, Thanos broke Captain America's Nigh-Invulnerable vibranium shield, which was able to No-Sell **everything** prior to the sword.
+-   **The Bastard Sword** The sword itself has legendary properties.
+-   In the **Blade Trilogy**, the title character has a booby-trapped silver katana for fighting vampires.
+-   In **Braveheart**, William Wallace's claymore becomes a symbol of the man.
+-   **Conan the Barbarian (1982)** features two cool swords, the Master's Sword, which Conan's father makes, and the Atlantean sword that Conan finds. The Master's sword gets stolen and Conan is able to slash through it with the power of the Riddle of Steel, then uses the shards to kill Thulsa Doom. Each prop sword cost $10,000 to make.
+-   Green Destiny, the sword everyone is fighting over in **Crouching Tiger, Hidden Dragon**.
+-   The same six-fingered sword prop is Top Dollar's weapon of choice in **The Crow**
+-   The warrior in the Stone Punk film **The Dead Lands** wields a pair of short swords carved from stone.
+-   The eponymous sword in the movie **Excalibur** was ... well ... Excalibur! It often reflects green light to make it look otherworldly.
+-   In **Highlander**, Connor uses an ancient katana that was made far before its time by the genius swordsmith Masamune. The Kurgan uses a two-handed sword that can be disassembled and hidden in a briefcase.<sup>note&nbsp;</sup>. Fasil uses a Toledo steel broadsword that Brenda claims is worth a million dollars, and it certainly looks the part. Kastagir uses a curved Manchu scimitar, and Kim (whose fight with the Kurgan was filmed but never appeared in the film as the footage was sadly destroyed in a fire) opts for dual wakizashi.
+-   The swords made by Hattori Hanzo from **Kill Bill**. Three people in the movie have had swords made for them by the legendary swordsmith: the Bride, Bill himself, and Budd.
+-   Balian of Ibelin inherits his father's sword in **Kingdom of Heaven**. The DVD features include a piece on how they went about making the sword to look as cool as possible without compromising its functionality.
+-   The ancestral two-handed sword carried by Etienne Navarre in **Ladyhawke**. Each wielder embeds a jewel on its handle to mark its lineage.
+-   In **The Last Witch Hunter**, Kaulder wields Hexenbane, a sword that killed possibly hundreds of witches, can crush stone and has a mechanism enabling it to be set on fire.
+-   **The Northman**: Amleth's magical sword Draugr, which can only be drawn at night or at the "Gates of Hel" and appears to be forged from damascus steel inlayed with runes.
+-   **Pirates of the Caribbean**:
+    -   The sword Will makes for James Norrington in the first film shows up in all the sequels and is regularly noted as a "nice sword". It's replaced by Blackbeard's sword in the fourth movie which can control ships! It is later owned by Barbossa at the end.
+    -   It seems as if the only redeeming quality of working on the **Flying Dutchman** under the command of Davy Jones is that you get a really kick-ass sword. Just look at Hadras's.
+-   The sword made by Domingo Montoya for the six-fingered Count Rugen and wielded by Domingo's son Inigo Montoya in **The Princess Bride**.
+-   The titular weapon in **Questforthe Mighty Sword**.
+-   In **Red Sun**, the gold sword the Emperor of Japan sent to President Grant as a token of friendship
+-   Lord Loxley's sword in **Robin Hood: Prince of Thieves**, which the Sheriff of Nottingham pulls out in the last fight sequence. He dominates the fight until he drops it, but as soon as he picks it up again, he splits Robin's sword in twain.
+-   Used thematically in **Seven Swords**, as it is implied that the heroes' power is because of the **swords**, rather than their own use of them. As for the swords themselves: The Deity can cut through stone, The Dragon can **break** it; Heaven's Fall has a sliding blade that can extend from either side of the hilt; The Shooting Stars are two swords which can be attached to each other and used as a flail-whip...thing.
+-   **Star Trek (2009)**: When asked what his specialty was in combat, Sulu answers "fencing." Kirk is less than impressed until Sulu whips out a telescoping saber and kicks a little ass.
+-   **Star Wars**: Lightsabers in general are pretty darn cool. Particular examples from the films include:
+    -   Darth Maul's double version.
+    -   Count Dooku's bent handle version, which mimics the current pistol-grip handle used in Olympic fencing so Christopher Lee could mix point-control techniques from his fifty years of experience in fencing with kendo techniques.
+    -   Luke's green one was unique in the original trilogy.
+    -   Mace Windu's purple lightsaber, which is unique in the films. Samuel L. Jackson requested the color so he could pick himself out in the big fight scenes.
+    -   The crystal within Kylo Ren's lightsaber is cracked, which causes the blade to have a fiery, unstable look to it. It also has two venting ports on the crossguard that manifest as small blades in themselves, which he can use to break a Blade Lock by driving the exhaust into his opponent, separate from the main blade.
+    -   Imperial Inquisitors use double-bladed sabers that can spin, confusing and intimidating opponents. They can also function as mini-helicopters, allowing their users to fly.
+    -   A unique variant is the Darksaber. Forged by Tarre Viszla, the first Mandalorian Jedi, it is considered a symbol of power by Mandalorians — whoever rightfully wields the sword (having won it in combat) is the ruler of Mandalore.
+-   Patrick Swayze's character in **Steel Dawn** fight with one. And it's shiny too!
+-   In **The Sword and the Sorcerer**, the hero is armed with a triple-bladed sword that can shoot two of its blades.
+-   In **TRON: Legacy**, as well as having discs to go hand-to-hand combat with, Quorra reveals a new weapon, a lightsaber-like<small>◊</small> sword<small>◊</small>.
+-   **Warcraft (2016)** has Lothar's and Llane's blades, lion-decorated swords wih runic inscriptions on them. They don't seem to be special in any way, they just look way cool.
+-   **Yamato Takeru** has the Ame no Murakumo no Tsurugi (see Mythology and Religion below for more on that), which contains most of Tsukuyomi's Physical God powers, and the Sword of Karasai, which is embedded in stone in the underworld and can turn into what's basically a lightsaber (complete with matching noises). The barbarian warlord Kumaso Takeru has a two-handed scimitar which, while merely a mundane weapon, also looks fairly impressive.
+
+---
+Cool Sword Example in Gamebooks
+
+-   The titular Bloodsword and its twin, the Demon's Claw in **Blood Sword**, these two weapons were made by the angel of Death to separate the world of dead from the living. As such they are easily the most powerful weapons in the series and are especially devastating against undead (capable of killing them instantly). Other interesting swords include Bludtranker, a sword that was forged from a sliver of the sword belonging to the god Frey and deals extra damage to giants, and the sword of Loge which is blue crystal sword whose blade turns invisible in combat - making it easier to hit enemies as they have a difficult time defending against the unseen blade.
+-   In the **Blade of the Young Samurai**, you are the titular samurai and you're on a quest to recover 3 magical items in Nippon, including your father's katana which is a "sunblade" that lets you trash practically any enemy you encounter.
+-   **The Fabled Lands** has a few available during certain quests, but none moreso than the White Sword. It's described as being made from a white metal, adds a whopping +8 to the Player Character's combat skill and cannot be lost through robbery, imprisonment, or even death. Fittingly, it is given to the player as a gift by Nagil, the God of Death if the player has the Chosen One Of Nagil title.
+-   **Lone Wolf**:
+    -   The **Sommerswerd**. A golden weapon said to have been forged by "a race that men would now call gods". +8 to combat skill, double damage to the undead, only **good** weapon that can kill a Darklord. Granted, the Darklords made plenty of weapons to use against themselves via Enemy Civil War, but those tend to be Artifacts of Doom.
+    -   The Ironheart Broadsword from Book 11. It has a badass description, a name that rivals "Sommerswerd" in coolness, and is the only weapon other than the Sommerswerd that can kill the Chaos-master. Unfortunately you don't get to keep it, and if you brought the Sommerswerd, the Sword of the Sun doesn't even let you find it. Maybe it was jealous?
+-   A villainous version shows up in **Way of the Tiger** with the sword, Sorcerak. Your character, Avenger is a Barefisted Monk ninja who avoids using weapons other than shurikens and maybe poison needles (if that skill was chosen). Instead Sorcerak belongs to his archenemy, Honoric who's the grand marshal of an army dedicated to an evil deity. Sorcerak radiates fear in enemies and will absorb opposing magic - this will prove useful to Avenger if he has a chance to kill Honoric early on.
+-   Several examples appear in R.L Stine's **Wizards, Warriors and You** series for the titular Warrior. He can choose from a cutlass that can fly and fight on its own, a claymore with a flawed enchantment that allows it to regrow a new blade if broken but may attack its own wielder, and the Warrior's main weapon - the Sword of the Golden Lion. The Sword of the Golden Lion was forged by the creator of the Excalibur and rivals that sword in power. There's even one book where the two swords are used in fight with each other, as the Warrior has a duel with the evil phantom of Sir Bedevere who turned out not to have returned the Excalibur.
+
+---
+Cool Sword Example in Literature
+
+-   **The Asterisk War**: Orga Luxes come in all shapes and sizes, but special mention goes to the Four Colored Magic Swords, weapons so powerful they're said to be able to destroy the world if their power is misused. One of these, the Ser-Veresta, is wielded by The Hero Ayato.
+-   In R.S Belcher's **The Brotherhood of the Wheel** and its sequel **King of the Road**, the Blue Jocks motorcycle club are also strongly tied to the Brethren branch of the Brotherhood of the Wheel. Their prize possession, as descendants of the Knights Templar, is the Nigh-Invulnerable claymore "Braithreachas". Won in battle from a Fae knight, it can cut supernatural beings that ignore bullets, grenades and flamethrowers (immaterial supernatural beings will pass through it unharmed, but there are artifacts that can make these creatures solid to "Braithreachas").
+-   In Cecilia Dart-Thornton's **The Crowthistle Chronicles** series, an ancient Weathermaster forged Fallowblade, a sword made of differing layers of nickel, gold and platinum then enchanted with weather sorcery, to battle the Fair Folk.
+-   J. R. R. Tolkien had several examples in his books:
+    -   Glamdring ('Foe Hammer'): this elven-blade was originally wielded by Turgon, the king of Gondolin; it was lost over the years, but was later rediscovered by Gandalf. Quite possibly, this was the weapon used to slay Durin's Bane, the Balrog in Moria.
+    -   Orcrist ('Goblin Cleaver'): Glamdring's twin. After it was rediscovered, Thorin Oakenshield used it as his weapon of choice. It was buried with him after his death.
+    -   Sting, an elven-knife discovered with Orcrist and Glamdring, and named by Bilbo Baggins. He used it several times, most notably against the spiders of Mirkwood. He later gave it to Frodo Baggins; his friend Samwise Gamgee used it to wound and drive off Shelob, a giant Eldritch Abomination in spider form.
+        -   In addition to being of superior craftsmanship, elven-blades of the vintage of Glamdring, Orcrist, and Sting had the special power of glowing blue when orcs were near. After being buried with Thorin, Orcrist's glowing power seemed to be extended to all foes, such that "the fortress of the dwarves could not be taken by surprise." Having been forged in the first age, they were also almost **seven thousand years old** by the time of the events of The Lord of the Rings - apparently cool elven swords don't rust.
+    -   Ringil: Fingolfin's sword that 'glittered like ice'<sup>note&nbsp;</sup> and inflicted seven(?) grievous wounds on Morgoth, Tolkien's Satan figure.
+    -   Gurthang ('Iron of Death'):, the Sentient Weapon Túrin Turambar used in all his greatest and most tragic acts, culminating with the slaying of Glaurung (father of dragons), and his own suicide shortly after. And Túrin will use it to kill Morgoth during Dagor Dagorath, the Final Battle.
+    -   Narsil ('Sun-Moon'):, Elendil's sword, which was one of two weapons (along with Gil-galad's spear) that vanquished Sauron at the end of the Second Age, but was broken in the process. Isildur used the sword's remnants to cut the Ring from Sauron's hand. It was later reforged by elven-smiths as Andúril ('Flame of the West') and wielded by Aragorn, the Heir of Isildur. After being reforged it was said that it shone with the red light of the Sun and the cold light of the Moon. Like Glamdring, Orcrist, and Sting, Narsil was also originally forged in the first age, making this another incredibly ancient sword.
+    -   Herugrim: Théoden's sword, which might not have had any particular powers but has possibly the coolest name of all Tolkien's swords. Notably cool enough that Théoden was willing to offer Gandalf any reward for helping him escape from Wormtongue's "leechcraft" **except** this sword.
+    -   Gúthwinë ('Battle Friend'): wielded by Éomer, Théoden's nephew and heir.
+    -   The Morgul Blade wielded by the Witch-King to stab Frodo at Weathertop is a villainous and nasty example, being specifically constructed to leave toxic shards embedded in its target.
+-   Bernard Cornwell's Saxon Stories series has a ton of cool swords, including the protagonists's blade Serpent Breath, so named because it has nearly-invisible lines in it that resemble a dragon's breath. Other names include Widow Maker and Heart Breaker.
+    -   Caledfwylch in his Warlord Chronicles, which would become known as Excalibur by the later generations.
+-   The Twelve Swords of Power in the books of Fred Saberhagen.
+    
+    **I shatter Swords and splinter spears;  
+    None stands to Shieldbreaker.  
+    My point's the fount of orphan's tears  
+    My edge the widowmaker.**
+    
+-   In **The Stepsister Scheme** by Jim C. Hines (think The Brothers Grimm meet Charlie's Angels) The Cinderella Captain Ersatz Danielle has a sword made of glass which contains her mother's soul.
+-   The spirit-sword Shadowmaker in Douglas Hill's **Master of Fiends**. Not only does it change shape depending upon the tactical situation, but it ends up in the hands of one of the few genuine badasses in the series.
+-   The Sword Of Kings in The Quest of the Unaligned. A massive sword somewhere between longsword and zweihänder, it has demonstrated powerful Anti-Magic properties (allowing its wielder to parry spells as though they were physical objects) and may have other magical properties.
+-   In Stuart Hoden's **Warp Angel**, there are 'acid swords'. An acid sword is force-field projecting hilt that shapes an extremely corrosive pool of acid into a blade. Getting hit by one tends to result in limbs getting melted off and large gouges getting burnt into flesh. The acid sword is so corrosive that, with the exception of the force field of another acid sword, the blade will dissolve through anything in the story setting including hardened far-future alloys.
+-   In "The Yellow Dwarf", a kind mermaid gives the King of the Gold Mines a sword carved from a diamond and brighter than the Sun's rays, which he uses to slay many enemies on his way to save his fiancée from the dwarf's captivity. Unfortunately, he drops it while trying to reassure her that he still loves her, and the dwarf snatches it up and kills him with it.
+-   In Geoph Essex's **Lovely Assistant**, Jenny Ng (like the rest of the Grim Reapers) wields a very oddly described sword brought to her by Rex, her appropriately pale horse. While it turns out to be a very bad idea (for unrevealed reasons) to use it on living people, and it can't touch the creature they face in the climax, its true functions turn out to be much more important and useful than any mere weapon.
+-   Michael Moorcock has more than just Stormbringer, his first Erekose story has the hero being the only one capable of using the sword Kanajana. Kanajana is held in a special sheathe that keeps its deathly aura (implied to be extreme radiation) in check. When unsheathed, its aura sickens and will eventually kill any person other than Erekose and getting struck by the blade is a One-Hit Kill due to its toxicity.
+-   Author Richard Kirk (a pseudonym for Robert Holdstock of **Mytahgo Woods** fame) wrote the Raven: Swordsmistress of Chaos series, in the fourth book **The Lords of Shadows** the golden metal Mabion is mined for its strong but light qualities. However when specially treated and made into a Mabion blade, this sword can steal the might of its victims - growing stronger if used to kill a mighty foe but growing weaker if used on weaklings - a Mabion blade will actually fight on its on accord to a limited degree (won't fly around, but will guide the user's hand).
+-   In Book 2 of **The 39 Clues**, Dan Cahill gets a pair of Japanese swords.
+-   The 'aeon edge' from **Aeon Legion: Labyrinth** that has an edge that cuts with accelerated time. It basically ages everything to death and there are very few substances that can stand up to the ravages of time. It also has a burst function that sends out a wave of energy powerful enough to rip through a tank. It requires ammo to use and has a stun mode.
+-   In **A Land Fit for Heroes** there is Ringil's Kiriath-forged greatsword Ravensfriend. As it turns out, in right circumstances it is also a Talking Weapon. Later on we learn all Kiriath weapons are like this.
+-   From the "Jabberwocky" poem in **Alice in Wonderland**, there's the vorpal sword. The vorpal sword goes on to become iconic in tabletop gaming circles through Dungeons & Dragons.
+-   **A Song of Ice and Fire** has some:
+    -   Valyrian steel blades are, by definition, cool blades. There are only 200-something remaining blades in the world, as the secret of their making is lost. They are light, durable and incredibly sharp, and one of the only known weapons capable of harming the Others. Some Valyrian steel swords appearing in the books:
+        -   Ice, the Stark's Valyrian steel greatsword.
+        -   Longclaw, a bastard sword for a bastard, originally an heirloom of House Mormont but remade with a wolfhead pommel and gifted to Jon Snow.
+        -   Oathkeeper and Widow's Wail, two swords with a blood-red coloration made from Ice.
+        -   Aegon the Conqueror's Blackfyre. His sister/wife Visenya had Dark Sister. Both became legacy weapons, with Blackfyre wielded and inspiring the name of the bastard pretender Daemon Blackfyre, while Dark Sister would go on to be wielded by Prince Daemon Targaryen, Aemon the Dragonknight and Brynden "Bloodraven" Rivers. Both are currently unaccounted for.
+        -   Lady Forlorn, ancestral sword of House Corbray.
+        -   Heartsbane, ancestral sword of House Tarly.
+    -   Other, cool swords also appear, including:
+        -   Dawn. It's made from a fallen star, milky-white color, one of the few non-Valyrian blades that are on par with them
+        -   Lightbringer, Azor Ahai's legendary Flaming Sword.
+        -   Needle, Arya Stark's skinny Royal Rapier.
+        -   Thoros of Myr's swords, set on fire with wildfire (and later, Blood Magic). The former is for pure showmanship, and he keeps needing to buy new ones because setting ones sword on fire absolutely ruins the thing.
+        -   The arakh, the weapon of choice for the Dothraki, described as half sword, half scythe and capable of taking a man's arm off.
+-   Caspian's katana sword in **Astral Dawn** is an example of this. It has a silver blade and is made from his center. He later creates a more powerful version with a gold blade. Another awesome sword is the sword Caspian has to find in order to defeat Devlyn, Magali's crystal blade Sword of Fracture.
+-   **The Balanced Sword** has several swords created by an Ultimate Blacksmith, each of which has its own name and unique power. In addition, there's Poplock's sword Steelthorn, which is quite small (a larger person might even consider it a dagger), but is enchanted to deal damage as if it were a much larger weapon.
+-   **Bazil Broketail**: Bazil's sword Ecator, which was given to him in the second book (aptly titled **A Sword for a Dragon**) in place of lost Piocar. It is enchanted and imbued with a spirit of the same name, making it basically indestructible, capable of cutting through any material and draining the life force of enemies it hits.
+-   The Sword of Riva from **The Belgariad**. An incredibly large sword made of meteoric iron, it's so heavy it needs the MacGuffin stuck on its pommel to lighten its weight. It also has a tendency to glow with blue fire when aforementioned macguffin is attached.
+    -   Garion is able to use the Orb of Aldur to give a friend's sword some similar properties. By the time Garion is done with it, 'Zakath is able to use his BFS as a rapier because it weighs absolutely nothing.
+    -   Cthrek Goru, Torak's black sword, is also pretty damn cool. A cursed BFS that leaks shadow with every swing, it intills fear in all those menaced by it. Wielded first by Torak, and then by the Demon Lord Mordja, it is present at both EVENTs and serves as the Evil Counterpart to the Sword of the Rivan King.
+-   Sadrao and Kuroinu's swords in **Black Dogs**. Sadrao's, which possibly counts as a BFS (if you're human-sized), is said to be so well crafted that if properly taken care of it could be used for a hundred years.
+-   In **Book of the New Sun**, Severian's executioner's sword "Terminus Est" has a hollow blade half filled with mercury, with the intent of causing its balance to shift when making a decapitating strike from above, thus making the strike more effective (NOT with the intent of poisoning the blade).
+-   **The Camp Half-Blood Series**:
+    -   Percy Jackson's sword, Anaklusmos/Riptide, which is made of celestial bronze and can only hurt heroes, monsters and gods; it also turns into a pen and reappears in Percy's pocket if he ever throws or drops it somewhere. It can also be used as an actual pen, but it takes 9 main books for Percy to realize this.
+    -   Then there's Luke Castellan's sword Backbiter, forged of both steel and bronze so it can hurt both mortal and god made from Kronos's scythe and eventually reforged into that shape.
+    -   Nico di Angelo wields a black sword made of Stygian Iron. The sword has the unique ability to absorb a monster's life force when killed, thereby stopping the Resurrective Immortality of monsters.
+    -   **The Heroes of Olympus** has Jason's Imperial Gold sword, which can also turn into a javelin. Sadly, it broke during the fight with Enceladus. Though he gets a new one from Juno herself at the end of the book.
+    -   **Magnus Chase and the Gods of Asgard** brings us Sumarbrander, the Sword of Summer/Jack. A sentient, floating, ''talking' sword that can kill pretty much anything, create portals into other worlds, and will boast as it does so.
+-   While not always a sword, Seyonne in Carol Berg's **Rai Kirah** series multiple times uses his shapeshifting silver Warden's knife as one. Claims to coolness include being the only weapon that can be taken beyond a portal (where combats with demons take place) and being able to ""slice through the incorporeal body of a demon".
+-   Many a young fantasy fan was introduced to this trope by Dyrnwyn in **The Chronicles of Prydain**.
+-   In the Clark Ashton Smith short story **The Testament of Athammaus**, the titular Athammaus is an executioner in the prehistoric lands of Hyperborea. To accomplish his task, he has a sword of judgement that's been passed down for generations. This beautiful two-handed sword is made of copper! But despite being made of such a soft metal, such is Athammaus's strength and skill with it, that he never fails to decapitate a criminal with one stroke.
+-   In C. S. Lewis's **The Lion, the Witch, and the Wardrobe**, Peter is given a sword by Father Christmas. In **Prince Caspian**, when they have found themselves back in Narnia, they go to get their gifts, and Peter takes it down and announces that it is his sword, with which he killed the wolf.
+    -   In the **Prince Caspian** scene described above, he refers to the sword as **Rhindon** - Wiki Narnia has a detailed description.
+    -   Surely the rapier of Reepicheep the Mouse falls under this trope the one way or the other?
+-   In Dan Abnett's **Gaunt's Ghosts** novels, Ibram Gaunt's swords are not only chainswords; his first one was a gift from his mentor, and after it is wrecked (much to his distress), he receives the power sword of Hieronymo Sondar, the founder of Vervunhive, while he tries to defend it in **Necropolis**. In **Only in Death**, Varl confirms Gaunt's death by showing the sword. Then Ezsrah takes it for a **bludtoll**, a Roaring Rampage of Revenge to culminate in his own death, and Mkoll chases after him to recover it. Rather than fight Ezsrah, he agrees to follow him until he dies and recover the sword then.
+-   In Dan Abnett's Warhammer 40,000 novel **Ravenor Returned**, they go up against a warp-tainted sword, which is **vampiric**. The wound freaks out the doctor they find to treat it.
+-   **Dawn of War**: In Chris Roberson's **Dawn Of War II**, Wisdom. Explicitly described as a rare sword so marvelous as to have a name. Lost in a fight with a tyrannid, it is found again in a collection of xenos artifacts, and one Space Marine immediately takes it up in order to undo the shame.
+-   In the **Diablo** novel **The Black Road**, the main character, Darrick, looks for a sword, Stormfury, that will allow him to defeat the main villain of the book. When he finds it, the sword looks like a plain infantryman's weapon. When Darrick questions its lack of style, the sword's guardian points out that an impressive and awe-inspiring weapon would be more likely to be stolen, and the sword's abilities could not to be kept secret.
+-   Various "great weapons" in Steven Brust's **Dragaera** series.
+-   In **The Dreamside Road**, Orson’s sword of fire is his signature weapon and can cut through everything from guns to Tucker’s Cobalt isotope-powered metal.
+-   **The Dresden Files**:
+    -   The Swords of the Cross, which each have a nail from the True Cross worked into the blade. They are **Fidelacchius**, **Esperacchius**, and **Amoracchius**: the swords of Faith, Hope, and Love respectively. If that weren't cool enough, **Ghost Story** confirms that they are also respectively the Kusanagi-no-Tsurugi, Durandal, and Excalibur, or were at least reforged therefrom.
+    -   In due course, the Sword of Faith breaks, when used by one with impure intent. It is now nothing but a hilt. This hilt comes into the possession of a nerd, in a moment of great peril. The nerd is proved worthy. Fidelacchius appears to be delighted to become precisely the kind of sword that every nerd immediately thinks of when given the specifications "cuts through anything" and "starts out as just a hilt". That said, there is a limit to its awesome power. It will not harm mortals, only the supernatural. So against a mugger or mortal minion of a demon and the angelic light will not touch them.
+    -   The Wardens of the White Council have some heavily enchanted swords which can cut through magic. Harry didn't get one when he was made a Warden in **Dead Beat** because the wizard who makes them was rendered unable to do so by the events of the book.
+-   **Stormbringer** from **The Elric Saga** by Michael Moorcock, which has the distinction of being a Cool Sword, a BFS, **and** an Artifact of Doom.
+-   Vasilis, the Sword of Light and Darkness, is a flaming, magical sword capable of killing demons, featured in the final book of **Literature/Fablehaven**.
+-   During the final confrontation in K. J. Taylor's **The Fallen Moon** each of the two opponents wields one. Arenadd uses the traditional Northern sickle specially made for him. Erian has his father's sword which he has had blessed by the sun god.
+-   In the old Chinese classic **Fengshen Yanyi**, most characters use swords, though they're usually pretty mundane and used in normal combat, some are actually cool enough to actually be a magic weapon for the user. Notable examples:
+    -   Qingxu Daode Zhenjun's Treasure Sword of Moye, which when swung releases a beam of white light that instantly beheads anyone touched by it.
+    -   Mo Liqing of the Four Demon Clan Generals wields the deadly Azure Cloud Sword, a sword inscribed with the four elements which, when swung, can release a storm of black, shredding wind and conjure fireballs from the sky.
+    -   Princess Longji has a veritable collection of precious sword and she always use a different one in combat: she has the Double Dragon Sword, the Flying Luan <sup>note&nbsp;</sup> Sword and finally the Jade Pond White Light Sword. At least the first one is powerful enough to allow her to counter other magical treasures.
+    -   Lu Yue, the plague Immortal, carries around the Plague-Sending Sword, while one of his disciples wields the coma-inducing Torpor Sword.
+    -   Yuding Zhenren has, as his only weapon, the Immortal-Beheading Saber, which does exactly what's implied by the name (note that the Immortals in the book have everlasting life and youth but can be killed).
+    -   Luo Xuan, the Fire-Wreathed Immortal, dual wields the Flying Smoke Swords, which are implied to be on fire.
+    -   Tongtian Jiaozhu possess the Four Treasure Swords, four extremely powerful, baleful swords which were created to eradicate scores of Immortals in one strike and are needed to form the Immortal-Executing Formation. They are the Immortal-Executing Sword, the Immortal-Carving Sword, the Immortal-Trapping Sword and the Immortal-Severing Sword.
+-   **Forest Kingdom**: There are any number of cool swords in the series, notably the Infernal Devices — Rockbreaker, Flarebright and Wolfsbane (gigantic, malevolent and sentient magical swords) — and the Curtana, known as the Sword of Compulsion. They're all evil, but undeniably cool. The Rainbow Sword from the same novels is something of an inversion, as it appears to be an entirely normal blade, and doesn't even have a cool name, although it does have its own powers and proves pivotal in the story.
+-   Garth Nix's **Old Kingdom** series has twin swords Binder and Nehima, crafted by the Wallmakers, an ancient line of royal artificers.
+    -   Binder prevents Lirael from taking itself until she swears she will use it to defeat a great undead monster, and to return it to its rightful owner when she's done.
+    -   Lirael is given the sword Nehima once she discovers her destiny as future Abhorsen. It seems to change its own inscription every time she looks at it, reflecting her progress along that path. It is eventually reforged with the combined powers of necromancy and all the Charter magic bloodlines and used to seal away the Big Bad Orannis the Destroyer.
+-   In Graham McNeill's **Warhammer 40,000** Horus Heresy novel **False Gods**, Maggard wields a Kirlian blade — "forged on ancient Terra and said to be able to severe the connection between body and soul" — and Horus is impressed with how it killed the walking corpses (as well as with Maggard's own skill).
+    -   Horus himself carries a golden sword, forged for him by one of his battle brothers when he was made Warmaster.
+    -   Temba carrires a warp-tainted sword that Temba whispered Horus's name to before fighting with new skill (although the sword is too blood thirsty, and Horus manages to kill him). But Horus's wound is killing him, and Loken discovers the sword was a xenos artifact — too late to prevent Erebus, whom he knows responsible for this, from taking Horus to a shrine.
+    -   In James Swallow's **The Flight of the Eisenstein**, Garro's sword Libertas. Parts of it are older than the Age of Strife, and when he discovers Horus's treachery, he has his men swear their oath of moment on it. Later the reanimated corpses have "plague knife" which produce infection when they strike.
+-   In **Harry Potter**, there's the Sword of Gryffindor, which is a goblin-made, pure silver sword capable of being strengthened by the magical properties of creatures it slays. After absorbing basilisk venom, it becomes one of the few known methods of destroying a Horcrux.
+-   **The First Law**
+    -   **The Heroes** has the Father of Swords. It's described as an absurdly large two-handed sword of dull gray that looks like something a person who'd only heard about swords in stories would think up. In the book, its current bearer is Whirrun of Bligh, who regards it as a blessing and a curse. Although the weapon looks impractical, he wields it with shocking quickness.
+    -   Logen is given a sword made by the Master Maker, infused with magic. While it does not look impressive, it has a sharp edge that never dulls.
+-   In **Hope and Red**, Hope wields the Song of Sorrows. The humming sound the blade makes when it moves through the air is said to be the loss it feels at every death.
+-   In **The Icemark Chronicles**, the hero of the second book, Charlemagne, is given a prophetical sword called the Blade of Fire.
+-   In **Implied Spaces**, the protagonist's sword, Tecmessa, has the ability to send his enemies to a sealed pocket universe.
+-   The **Kingdom's Disdain** series: The Castle of Aldroy has a "Hall of Swords", a whole room of them. The most prominent so far is Valsofren, a sword as long as a man is tall that is said to only cut those the weilder hates, never an ally or loved one. This tragically doesn't apply to Accidental Murder.
+-   In the first tie-in novel for **Knightmare**, Treguard of Dunshelm gains a Cool Sword when slaying the dragon Bealwit. The dragon's blood bestows magical power on his formerly mundane weapon, which is known thereafter as Wyrmslayer.
+-   In the Lord Dunsany story, **The Fortress Unvanquishable Save For Sacnoth**. Sacnoth is an Absurdly Sharp Blade that is the greatest sword in the world. It was made by taking the spine of the Nigh-Invulnerable dragon Tharagavverug after it was slain. The spine was sharpened with one of Tharagavverug's steel eyes and the other eye was affixed to the hilt to give the wielder warning of danger. Sacnoth is so mighty, it can cleave through steel walls with ease and in a sword fight against the 2nd most powerful sword in the world, Sacnoth kept notching the other sword while taking no harm itself.
+-   In **Loyal Enemies**, darkans are an entire category of Cool Swords. They're extremely sharp, beautifully decorated and roughly katana-shaped. As druidic weapons, they have an inbuilt Detect Evil ability and glow green in the presence of darklings. This actually proves more annoying than useful, as the darkan used in the story is wielded by werewolf Shelena. Try to sneak up on somebody with your sword shining like a glowstick.
+-   In **Malazan Book of the Fallen**, the most feared weapon is the Elder God-forged sword Dragnipur a One-Hit Kill sword thattakes the victim's soul and imprisons it in an other-dimensional prison wagon that is eternally fleeing oblivion.
+-   Need, from Mercedes Lackey's **Velgarth** books, is an archtypical version. In the hands of a mage or other martially unskilled person, the sword confers the abilities of a master fighter, to the point of hijacking their body if need be. In the hands of a warrior or other magically unskilled person, it provides nearly complete immunity to any magic cast on them without their permission. No matter **who** holds it, she will heal with remarkable speed. The downsides? Need chooses its bearer and will only work for a woman, will not harm a woman even if the woman in question is trying to kill Need's bearer, and will... press... its wielder into aiding any woman in the area whether that woman wants help or not.
+    
+    Woman's Need calls me
+    
+    As Woman's Need made me
+    
+    Her Need I must answer
+    
+    As my maker bade me.
+    
+    -   Somewhat amusingly, in her last appearances in the series Need is wielded by Firesong k'Treva, a gay **male** Hawkbrother archmage. Need, by this point fully conscious, explains that Firesong is able to make full use of her power because he is "balanced," his masculine and feminine qualities in harmony.
+-   In Teresa Frohock's **Miserere: An Autumn Tale**, the good guys' swords can not be wielded if stolen; this is what tells Raechel that Lucian was given the sword he carries.
+-   **Changeling** from C.J. Cherryh's **Morgaine Cycle** has a edgeless "blade" made out of crystal, which would make it harmless... except that, when unsheathed, its tip produces a rift in the fabric of reality that sucks up everything in its path.
+-   Captain Reilly's Legendary Weapon katana in "Okuyyuki". Made even cooler by being inhabited by a genuine Japanese **kami** spirit, who teaches him Japanese and eventually becomes a sort of Magical Girlfriend to him.
+-   All of the live swords in **Paladins**; the Khan, the Nameless, and Nadide all appear in the novel, and many more are mentioned.
+-   The sword of Martin the Warrior from the Redwall series. Another case of meteoric iron, plus handed down through many followers. It's been described as having an edge like midwinter, which is just pure badass. This weapon is proof a sword doesn't have to have a unique look (all it has going for it is a ruby pommelstone and black-cloth-wrapped handgrip) to be a Cool Sword, though in the animated series, it has the Arc Words "I AM THAT IS" engraved in the blade. It wasn't always a Cool Sword; in the prequel **Martin the Warrior**, it's just his family's sword, with nothing else special about it. When Martin arrives in Mossflower, Tsarmina breaks it in a fit of rage, and it later gets reforged using meteoric iron by Ultimate Blacksmith Boar the Fighter into the blade of legend. It goes through dozens and dozens of generations without any sign of tarnish or damage, and may or may not be imbued with the spirit of its original wielder as any hero who picks it up as their main weapon finds it perfect for them and then proceeds to kick ass and take names.
+-   **Retired Witches Mysteries**: Witches in the series have a specific tool, depending on their respective element, that helps them focus their powers and retains some of their magic after years of use. Fire witches, like Elsie, have a sword; hers, which was made in Toledo, Spain, has a silver hilt inscribed with fire symbols and is sharp as a razor.
+-   Zodiac, Tooi's sword in **The Reunion With Twelve Fascinating Goddesses**. It normally takes the form of a black short sword, but changes in appearance depending on which of the goddesses possesses it. It has possibly the coolest origin story as far as swords go, being forged by Zesca, the Deity of weapons, using Etherium mined by Gushana, the Deity of earth, and finally completed using Tooi's blood and the souls of all twelve goddesses.
+-   Parodied in the **River of Dancing Gods** series with Joe the Barbarian and his mighty sword Irving.
+-   In Robert E. Howard's **The Hour of the Dragon**, Zenobia brings Conan the Barbarian a sword when she rescues him.
+    
+    **Whatever else she might be, she was proven by that dagger to be a person of practical intelligence. It was no slender stiletto, selected because of a jeweled hilt or gold guard, fitted only for dainty murder in milady's boudoir; it was a forthright poniard, a warrior's weapon, broad-bladed, fifteen inches in length, tapering to a diamond-sharp point.**
+    
+    -   In **The Phoenix on the Sword**, a long-dead seer talks with Conan and gives his sword a phoenix mark, which allows it to kill Eldritch Abominations even when broken.
+    -   Conan's first sword when he was just a teenager evading some wolves. He stumbles upon the barrow of a long-dead chieftain. This chieftain had been entombed with his broadsword, which was one of the earliest iron weapons to have been made since Atlantis had fallen. Despite its age, there were only a few spots of rust and was still good condition. It was a fine sword for any age and when Conan took it, the chieftain went undead leading to a fight, with Conan emerging with his first sword. Despite being otherwise mundane, this blade would be the influence for Conan's magical Atlantean sword in the movie and TV adaptations.
+    -   Interestingly **rarely the case** in the original stories by Howard. Conan tends to lose his weapons through various circumstances like breaking them in fights or getting them confiscated after being arrested or captured. He tends to just use whatever he can pick up in his adventures - primarily swords and axes, maybe occasionally a spear or club, but they'll always be nondescript and fairly mundane. He's not particularly attached to them, either - in one story where he **does** have a cool sword he briefly considers selling it to cover a gambling debt, and only stops when he realises he can just keep the sword and use it to make more money.
+-   In Ruth Frances Long's **The Treachery of Beautiful Things**, Jack goes to Wayland for a sword to use against the nix. To have any hope, he must exchange for it without haggling. Once he describes what he is doing, and hands over the payment, Wayland hands over Mimung, and tells him that it is the sword of the fool, suitable for what he's setting out to do.
+-   In **The Scar**, Uther Doul wields a "possible sword" from the Ghosthead Empire; when swung imprecisely, it simultaneously strikes everywhere it could have possibly struck. Note that if you are not a competent swordsman, it is possible to cut yourself.
+-   In Victoria Hanley's **The Seer and the Sword**, Landen's kingdom had a magical sword. Unfortunately not good enough to keep from being conquered. Landen's dying father ordered him to learn to sword-fight and use it.
+-   In **Shadow of the Conqueror,** Imperious is Dayless the Conqueror's masterpiece sunucle, the most perfect and powerful sword ever created on Tellos: blue and gold, longer than ordinary one-handed swords, capable of Absurd Cutting Power, with a hilt stylized to resemble a flaring sun and enough of Dayless's dark secrets cooked into it to render it impervious to the darkstone that normally shatters sunucles. The sunforger's guild used to constantly petition him to just let them examine it, which he absolutely refused. One of his last regrets before jumping off the edge of the world is that he isn't strong enough to carry Imperious with him so that they can leave the world together, and his first objective after becoming young again is to get back home to reunite with his beloved sword.
+-   In the **Shannara** series by Terry Brooks there are two of these. The Sword of Shannara, which can reveal the truth about anything it touches, and the jet black Sword of Leah, which, having been dipped in the Hadeshorn, can now cut and parry magic as though it were iron and steel.
+-   In Bernard Cornwall's Sharpe novels the title character wields a heavy cavalry sword. Whilst this weapon is not unusual for the period in which the books are set it is unusual for a light infantry officer to carry such a large blade. In **Sharpe's Sword** Sharpe was given the choice between a cool sword that was more like a work of art, a symphony designed to kill, and a mass-produced heavy cavalry sabre that had been customised with love by his friend Patrick Harper. Guess which one he chose.
+-   **Somewhither**, Ilya's sword **Shirabyoshi** is a hundred year old katana which belonged to his grandfather...and can kill werewolves.
+-   In **The Song of Roland**, we have Durandal, No, not that one., the sword of Charlemagne's paladin, Roland. Said to be indestructible, in addition to containing various holy relics in its hilt, including a tooth of St. Peter, blood of St. Basil, and a hair of St. Denis.
+    -   This sword was so indestructible, that when Roland attempted to smash it to prevent it being taken by the Saracens, he accidentally created La Brèche de Roland, a large gap in the Pyrennes mountains forty meters wide and a hundred meters tall.
+-   The **Star Wars Expanded Universe** expands on the types of lightsabers available. Mara Jade also has a pink one, as did Siri Tachi, a love interest for Obi-Wan when he was young. There are also tonfa-style sabers, the rapier-like lightfoils, and lightwhips which are almost always wielded by hot dark side temptresses.
+-   **The Stormlight Archive**: Shardblades are enormous Soul Cutting Blades that often have fancy designs or symbols on the blade. They are much much lighter than their massive size would indicate and can be vanished to Hammerspace when not being used. Word of God is that part of the reason he came up with them was because he was annoyed that the coolest fantasy swords were in a sci-fi series. Also, living Shardblades wielded by an active Knight Radiant are even cooler, having glowing Tron Lines on them on them in the Radiant's order's colour. They don't even have to be swords.
+-   The titular blade of the **Sword of Truth** series. It's indestructible, can cut through anything the wielder perceives as an enemy, and feeds off the user's anger. And in the right hands, it can make the wielder a near unbeatable swordsman.
+-   Tad Williams's **Memory, Sorrow, and Thorn** is about the three titular swords and their role in defeating (or not) the Storm King.
+-   In Terry Pratchett's **Discworld** series:
+    -   Inverted with Carrot Ironfoundersson's sword, which is the most unmagical sword there is. It has no power, it has no name, there is nothing written on it, there are no jewels on its hilt. It's just "a long piece of metal with very sharp edges." But it's still a Cool Sword, because, as Fred Colon observes, "Real kings had shiny swords, obviously. Except, except, except maybe your **real** real king of, like, days of yore, he would have a sword that didn't sparkle one bit but was bloody efficient at cutting things." Said sword can effortlessly rip through metal, and on one occasion, went right through a man and buried itself into the solid granite pillar behind him...because a real king doesn't just pull a sword from a stone, he can shove a sword **into** a stone.
+        
+        The tendency for swords to be magical and special and what not was lampshaded when Carrot first received his sword, as it was noted that the fact that it wasn't magical or special in any way made it one of the most unique swords in the world. In the same book, the fake heir to the throne has a glittery, gem-laden sword of inestimable coolness that utterly fails to save him vs. a dragon. The trick, though, lies in how magic on the Discworld works. Death and his family, for example, can pass through walls and such because they're more **real** than other things. If Carrot's sword truly has no magic in it, then it's got to be thoroughly **real**, which would make it extremely powerful when pitted against...well, most anything on the Disc.
+        
+    -   Death's sword, however, is so thin it can barely be seen, and so sharp it can cut a flame in half. It's primarily another tool for reaping the souls of the dead, so its blade has the same properties as his scythe, but for the most part it's reserved for kings.
+    -   Vetinari's sword is rumored to be one of these (supposedly made from iron extracted from human blood), but in fact it is completely ordinary. It's not even a sword. People assume his walking stick is a Sword Cane (with the aforementioned blood of a thousand enemies rumour), and he allows them to think this because "if people think you might have a sword, they forget that you definitely have a club". His actual weapons of choice are ordinary stilettos.
+    -   The swords of Cohen the Barbarian and his Silver Horde may look all worn and notched, but that's just because they've gotten a lot of use. Since the Discworld runs on Narrative Causality, the Horde (seven geezers, one of them in a wheelchair) run (or, in one case, **roll**) roughshod over entire armies, but that comes back to bite them when they're facing Carrot, solo, armed with a **spectacularly** unmagical sword. Cohen, knowing from long experience exactly what that sort of setup does to the probabilities, backs down immediately.
+    -   Hrun's sword Kring from **The Colour of Magic** is so cool it can not only hold a conversation (probably better than Hrun can), but can also take over anyone wielding it. It has various motivations, from forcing its wielder to be a hero, as with Rincewind, to avoiding being stuck in a coal seam for millions of years (it was thrown in a lake once, possibly for being annoying, and didn't enjoy that). Ironically, what it **really** wants is to be a ploughshare ("I have no idea what that is, but it sounds like an existence with some point to it").
+-   **The Traitor Son Cycle**:
+    -   The Fell Sword is a magic construct that can cut through the soul of any living being, though it can only be wielded in the athereal.
+    -   The Wyrm of Erch gives Bad Tom an giant zweihander that can cut through absolutely everything.
+    -   Pavlo Payam's ancient sword is a double whammy, being both a physical Absurdly Sharp Blade and a Fell Sword.
+-   Chosen Ones in **Tsun-Tsun TzimTzum** get armed with the Shard of Kether, a blade that grants strength and endurance to its wielder and also has been known to burst into flame when needed. It's a good thing it's so cool, because Noah, the latest Chosen Ones, is otherwise terribly unfit for the role. At one point, he marvels that he's managed to kill a monster, and then admits to himself that no, **Shard** killed the monster - he just happened to be holding it at the time!
+-   In **The Unhandsome Prince**, the enchanted sword that Prince Hal picks up at a tavern appears to be utterly useless—one character comments, "Mr. Genius here gets the only magic sword that guarantees you'll get your butt kicked"—but it's still a cool sword, beautifully crafted from the finest quality materials. It's a "singing sword", which, as Hal explains, doesn't mean it **actually** sings, but that it's so well made that it emits a musical tone when tapped. It becomes even cooler once Hal figures out the trick to using it.
+-   **Villains by Necessity**: Truelight, Fenwick's longsword, which lets off its own magical light and can sense Evil.
+-   By the same author, we have Nightblood from **Warbreaker**. Created by forging a thousand souls into its black blade, it is sentient, quite intelligent, and bent on destroying all evil in the world. When drawn, it will vaporize anything you hit with it, at the cost of draining away your soul. Oh, and Word of God is that it's a Flawed Prototype/Super Prototype that was an attempt to create a Shardblade.
+-   In William King's **Warhammer 40,000** Space Wolf novel **Wolfblade**, Ragnor loses his sword defending the House of Belisarius. The Celestarch therefore gives him one: from the time of the Emperor, that had once belong to Skander. It fits his hand as if made for him, and the rune radiate a strange coldness.
+-   In **The Wheel of Time** we have the impossibly cool **Callandor**, a sword-shaped crystal artifact capable of greatly amplifying magic, one of the most powerful magical artifacts in existence, which only The Chosen One could pull out of its magical stasis. Our hero pulled it out, then jammed it back into the ground to remind everyone he was coming back for it, rather than use it. Turns out this was smart, as **Callandor** was flawed, and constant use would drive him insane even faster than normal, if it didn't kill him first. He's used it once or twice since then, and even for him, gone nutty.
+    
+    The series also has Rand's first sword, his father's, marked as a blademaster's weapon which could never be damaged. It was destroyed when he stabbed Ba'alzamon with it. Rand then got the sword of King Laman of Cairhien. Even Mat has an **ashandarei**, a spear with a sword blade on the end. There was also Justice, the sword of Artur Hawkwing. The swords with heron marks have different degrees of coolness. Most of them are mundane and modern, albeit of excellent workmanship. The rest are relics of the Age of Legends. Most of them are just mass-produced standard issue weapon (like the Japanese WWII-era Shingunto swords, but wrought with the One Power), while the very few are individually crafted for prominent personalities.
+    
+
+---
+Cool Sword Example in Live-Action TV
+
+-   In **Kaamelott**, there's of course Excalibur. Arthur Pendragon manages to pull the sword from the stone at age six (as he was chosen by the gods of Brittany), and it becomes a Flaming Sword whenever he wields it. He puts it back in the stone in Season 5 before disappearing. In **Kaamelott: Premier Volet** (The Movie), Arthur reclaims the sword, but it seemingly loses its powers... and regains them in the climactic duel pitting Arthur against Lancelot, only this time the flame is blue and produces lightnings.
+-   In Kamen Rider, Kuuga (Rising) Titan, Agito Flame, Burning and Shining, Ryuki, Knight, Ohja and the Alternatives, Faiz (all Forms) and Kaiza, Blade, Kabuto Hyper and Sasword, Den-O Sword and Liner, Zeronos Altair, Kiva Garuru and Emperor, Ixa Burst, Saga, Accel, OOO, and Fourze Elek States.
+    -   The English version of Ryuki has Dragon Knight, Wing Knight, Strike, and Eubulon.
+    -   One of the Final Form Rides for Kamen Rider Decade is Final Form Ride Blade Blade. Which is Kamen Rider Blade as a big sword. Which he swaps with Shinken Red's sword for a tag team attack.
+    -   And don't forget the original sword-wielding Kamen Rider, Kamen Rider BLACK RX and his gut-plunging Revolcane. Masked Rider carries that along with the Electro-Saber.
+    -   And also don't leave out **every single Rider** from **Kamen Rider Saber** who transform using the power of their swords. Each of them embodies a different Elemental Power, such as Saber using dragons and fire with Kaenken Rekka<sup>note&nbsp;</sup>, Blades possessing lion and water motifs with Suiseiken Nagare<sup>note&nbsp;</sup> and Espada with lightning, djinns and magic lamps armed with Raimeiken Ikazuchi<sup>note&nbsp;</sup>. Even the villainous Riders carry swords as well.
+-   **A Song of Ice and Fire**:
+    -   **Game of Thrones**:
+        -   The most prized heirloom of House Stark is the enormous greatsword called Ice. It is made of Valyrian Steel, which makes it impossibly sharp. Ned used it for execution and ceremonial purposes, and in general battle, used normal swords.
+        -   Jon's parting gift to his little sister Arya is a custom-made rapier she names Needle.
+        -   Jon is rewarded with the Valyrian steel bastard sword Longclaw by the Lord Commander, Jeor Mormont, who felt the sword's name suited a wolf as much as a bear. Its most distinctive feature is a custom pommel of a white wolf with red eyes. Its functional coolness comes from the fact that as it's Valyrian steel, it's able to hold an incredibly keen edge. It can also block White Walkers' weapons and shatter them with one blow.
+        -   Joffrey shows off his cool sword Hearteater in "Blackwater" but flees the battle without even unsheathing it.
+        -   Since House Lannister lacks an ancestral cool sword, Tywin has House Stark's ancestral Valyrian steel sword Ice reforged into **two** swords, Widow's Wail and Oathkeeper, a status symbol only the Targaryens are known to have matched with Blackfyre, sword of the Targaryen kings and heirs and Dark Sister, Visenya's sword, though probably less because he wants two really cool swords and more because he wants to show how completely House Stark has been crushed, and to manufacture legitimacy for Lannister rule of the Seven Kingdoms. Oathkeeper lacks some of the more spectacular elements of its book counterpart (namely its highly distinctive rippling red-and-black blade), but its handle is still ludicrously baroque. Twyin gives Oathkeeper to Jaime, who in turn presents it to Brienne, who is the one to name it this. Once she swears to Sansa, Ice returns to the North... partially. Following the death of Tommen in the aftermath of the Green Trial, Jaime takes up Widow's Wail.
+        -   The hilt of Roose's sword is specifically designed to resemble an inverted headless flayed man, with the guard formed by his outstretched arms.
+        -   The hilts of Daario's arakh and dagger are shaped like naked women.
+    -   **House of the Dragon**:
+        -   King Viserys owns the ancestral Targaryen family sword Blackfyre. Aegon II inherits it after his death (or rather usurps the ownership along with the crown).
+        -   His younger brother Daemon owns and wields their secondary ancestral sword, Dark Sister.
+-   In **Auction Kings**, An authentic katana from World War 2? A Sword Cane? Gallery 63 has sold both.
+-   **Babylon 5**: Londo was an accomplished duelist and member of a prominent duelling club in his youth, and owns a matched pair of cotari (Centauri duelling swords) from that period of his life. They adorn the wall in his quarters on Babylon 5, and see occasional use throughout the series.
+-   The Sword of Power in **Cursed (2020)** is an ancient Fey-forged sword covered in glowing runes, that can only be destroyed with Fey Fire and can grant the wielder great combat abilities and/or augment their magic if they have powers. It's also known as the Devil's Tooth and the Sword of Kings, and it **may** be Excalibur.
+-   In **Farscape** we could witness Ka D'Argo's Qualta blade, which was a pretty impressive sword. Until he held it differently and made it a Qualta rifle!
+-   **Guardian: The Lonely and Great God**: Kim Shin has one stuck in his chest. It's invisible to almost everyone except Eun-tak, and even she can't see it at first.
+-   The flaming sword used by Kröd Mändoon in **Kröd Mändoon and the Flaming Sword of Fire**.
+-   The Sword of Truth, wielded by the eponymous hero in **Legend of the Seeker**.
+-   **Merlin**, the sword forged in the dragon's breath, later to be known as Excalibur. It will cause disaster when used by the wrong person, and it can kill the already dead.
+-   **Shadow and Bone**: Season 2 has the Neshyenyer, the only weapon that can kill nichevo'ya. It's never rusted despite being centuries old, and glows a luminous crystal.
+-   **The Shannara Chronicles**, in addition to the famous Sword of Shannara itself, adds its opposite number the Warlock Sword (which can be used to bring the Warlock Lord back to life) and also has magically collapsible swords as the weapon of choice of the Druids.
+-   **Star Trek**:
+    -   There's the Sword of Kahless, said to be the first **bat'leth**, forged by Kahless the Unforgettable, which legends claim was forged when a lock of Kahless' hair was dipped into lava, cooled in a certain lake and forged into the blade. The weapon was used to slay the tyrant Molor, defeat the demonic Fek'Ihri, and form the first Klingon Empire. While it IS a Cool Sword, it had no real power other than the power of symbolism, something Worf and Kor learn centuries later when they retrieve it.
+        -   Bat'leths are generally considered to be Awesome, but Impractical, as its design robs the wielder of a sword's primary advantage over a weapons with a shorter blade range. Trying to use it like a normal sword results in one of the pointy ends facing your own gut, which can end badly. It's probably good for defense, but not much for attacking an enemy with a normal sword, provided the enemy knows to maintain the range.
+        -   Not to mention that in a series with phasers, using them in actual fighting is unlikely to ever end well.
+    -   **Star Trek: Picard**: Elnor's tan qalanq (the iconic weapon of the Qowat Milat) is a straight, single-edged Absurdly Sharp Blade which happens to be evocative of some East Asian swords. Both the hilt and scabbard are wooden, so the tan qalanq's understated beauty mirrors his graceful Fantastic Fighting Style. When it's brandished by a Qowat Milat, this Romulan sword is as elegant as it is deadly, as a lone warrior nun can vanquish multiple foes armed with energy weapons and behead a person with one smooth stroke.
+-   In Season Four of **Stranger Things**, when the prisoners are about to face the Demogorgon, one of the weapons in the cabinet can be briefly seen to be a sword that bears a striking resemblence to the one wielded by Arnold Schwarzenegger in **Conan the Barbarian (1982)**. Turns out to be a Chekhov's Sword in the season finale, when Hopper uses it to decapitate that same Demogorgon.
+-   **Super Sentai**/**Power Rangers** has a lot of these, usually given to The Hero. Many Megazords also wield swords.
+    -   Back in **Mighty Morphin' Power Rangers** there was also the Sword of Darkness which Rita gave to Tommy to keep him from snapping out of her mind control spell and in the second season the Sword of Light, used to transfer Jason, Zack, and Trini's powers to Rocky, Adam, and Aisha.
+-   In **Thunderbolt Fantasy**, The Sword of Divine Retribution is a beautiful sword given as a gift from the gods to humans in order to repel the demon invasion. After the war, it is split into three parts, but is soon hunted down.
+-   **Todd and the Book of Pure Evil** has Sand Dragon, which Todd forges in the first season finale until the guidance of the Metal Dudes, who expect him to use it to kill Curtis and cement his place as the Pure Evil One. He refuses to do this, and instead wields Sand Dragon against the various evils created by the Book throughout the rest of the series (and Rebel Leader Jenny uses it in the Bad Future) until Man Goat!Atticus shatters it during the Final Battle.
+
+---
+Cool Sword Example in Mythology and Religion
+
+-   In some versions of the myth, Perseus had a special sword that could cut the armored neck of a Gorgon. Athena and Hermes gave it to him.
+-   The swords of Japanese swordmakers, like Masamune and Muramasa, are treated like this.
+-   The sword of the famed alchemist Paracelsus, which supposedly contained Azoth (a cure-all) in its pommel, and a gem containing an imp that could be sent out to wreak havoc.
+-   The paired swords Gan Jiang and Mo Ye from the Wu and Yue Spring and Autumn Annals.
+-   Arthur's sword Excalibur. The original Sword in the Stone was also a cool sword. According to some versions, Excalibur was given to Arthur by the Lady of the Lake after it broke. Other versions have them as the same sword.
+-   The Ama-no-Murakumo-no-Tsurugi (Sword of the Gathering Clouds of Heaven) from Japanese myth. Better known by the less cool name Kusanagi-no-Tsurugi (Grass Cutting Sword) which can control the winds. It's possible that it was real weapon but most historians are convinced that even it was real it's been lost for a very long time.
+    -   The Kusanagi appears in many Japanese works of fiction. In **Naruto**, for example, Orochimaru uses it in several different fights.
+-   Thuận Thiên, the legendary sword of Vietnamese King, Lê Lợi, would cause him to grow into a giant and possess the strength of a thousand men.
+-   Some more swords from German Saga: Siegfrieds Balmung (or Gram), Dietrich von Berns Eckesachs ("Steel Vengeance"...now that's a cool name), Mimung (forged by Wieland the Smith). The German wiki has a few more.
+-   Beti-Pahuin Mythology features Okeng Be Nyaboro or “Sword of the Knowing”. Also nicknamed Ebabatsila-Tsilébaba or “Jamais Vu” (the opposite of Deja Vu). Only those who crossed the darkness between life and death could wield it.
+    -   Akoma Mba owned a sword that could only harm a person’s heart. Leaving the rest of the victim intact.
+-   In Judaism the character Methuselah (Noah's grandfather) carried a sword aptly named The Sword of Methuselah, which could kill demons and evil spirits.
+-   Attila the Hun seems to have used this as an Invoked Trope by asserting his dominance over the Scythian peoples with the supposed "Sword of Mars"; the Romanisation of this legend suggests that this might be one and the same as (or was identified with) a sacred "Sword of Ares" worshipped by them a few centuries earlier. A "Sword of Attila" is currently residing in the Kunsthistorisches Museum in Vienna, but it's been dated to the 10th century.
+-   Subverted in **Beowulf**. There's a lot of build-up to his use of Hrunting (any sword with a name is important). And then when he uses it against Grendel's mother it fails. He has to use a sword found in the home of Grendel's mother to defeat her. Being forged by giants makes it a cool sword in its own right, but again, Grendel's mother's blood melts the sword.
+    -   When Beowulf uses Hrunting again on the Dragon, it actually breaks.
+-   Celtic Mythology has plenty of awesome blades. The first is Claíomh Solais, the "Sword of Light", which is basically Excalibur on crack. There's also Caladbolg or "Hard Lightning", the sword of Fergus mac Róichl, a sword which left a beautiful rainbow trail behind the blade, and it could kill gods - once, the wielder missed an enemy and the swing **chopped the tops off some adjacent mountains**. Finally but no less awesome is Fragarach, "Answerer", the sword of Manannan mac Lir and Lugh Lamfada, which had a number of awesome properties including the ability to cut through anything, inflict wounds that never heal, control wind, and stop someone from telling lies by holding it against their throat. A worthy mention although it isn't a sword is the Spear of Lugh, a mighty weapon that continually spouts flames and sparks and can pierce just about anything, although it was an Ax-Crazy Empathic Weapon that needed to be stored soaked in a bath of blood or poppy milk (depending on the telling) to keep it under control.
+-   The Saingeom (Four Tigers Sword) in Korean Mythology. Being forged in Tiger day's tiger hour, of Tiger year's Tiger month (plus, a metalsmith can only make one in his **entire lifetime**), it has powerful positive(Yang) force that can **destroy** monsters and evil spirits. In one story, a scholar named Shin Heum(1566 1628) was plagued by evil spirits in his house, and the King presented Saingeom to his son to stop it. While his son was returning from the palace, the saingeom suddenly flew out of its scabbard and struck one of the columns in Shin Heums house, **causing the blood to spurt out of it**. Shin Heum was not bothered by evil spirits since.
+    -   Also doubles as Real Life example as well, since there are some of them(the Joseon Dynasty of Korea made lots of Saingeoms for ritualistic reasons) still existing in Korean National Museums and private collections. And in 2010(year of the Tiger in Chinese Zodiac), Korean metalsmiths succeeded in creating some.
+-   The **Poetic Edda** of Norse Mythology includes a story called **The Waking of Angantyr**. The story revolves around the magic sword Tyrfing ("The Finger of the War God"). Odin's mortal grandson Svafrlami managed to entrap some Dwarves and forced them to forge the sword for him. It gleamed like fire and could cut through metal and stone as if through cloth. It would also never miss a strike and the blade would never blemish. But angry at being forced to create it, the Dwarves cursed it so that whenever it was drawn it **would** kill someone. It was also designed to betray its wielders eventually. However, it was an awesome weapon and Angantyr uses it in a battle between his people, the Goths, and their far more numerous enemies the Huns. The Goths win because Angantyr cuts down much of their army using Tyrfing.
+
+---
+Cool Sword Example in Pinballs
+
+-   The player's sword from **Black Knight**, which lights up as his score advances.
+
+---
+Cool Sword Example in Podcasts
+
+-   The Flaming Raging Poisoning Sword of Doom from The Adventure Zone: Balance is just as rad as it sounds. Which makes it even funnier that Taako never uses it after swindling it from Garfield the Deals Warlock. Then we get to see what it can really do when Magnus gets to use it.
+
+---
+Cool Sword Example in Puppet Shows
+
+-   **Pili Fantasy: War of Dragons**: Lots of them, of the blessed, cursed, and "neutral" varieties. Most of the show centers around getting the Sacred Dragon Bone sword, which has been disassembled into multiple pieces.
+
+---
+Cool Sword Example in Tabletop Games
+
+-   **Dungeons & Dragons** has several, as is to be expected
+    -   Magic swords can have a +1 through +5 bonus to both attack and damage, which can save your skin in a battle.
+    -   The Nine Lives Stealer is pretty cool. It's a +2 sword with the potential to, if the player scores a critical hit (1/20 chance), instantly kill any enemy with less than 100 health. Once its 9 uses are spent, it's still a +2 sword. and if you use the Book of Exalted Deeds, it may be redeemed.
+    -   The most iconic of these are the Vorpal Swords. Roll a critical hit and they'll One-Hit Kill anything that can't survive a decapitation.
+    -   A Holy Avenger sword is a rather normal magic sword in the hands of most people, but in the hands of paladin, it gains enormous bonuses.
+-   **Exalted** lives on cool swords. The most common of the cool swords are made of Jade, and are extremely fast because of it. Orichalcum weapons are weapons of perfection, made out of the same stuff as the Unconquered Sun himself. Moonsilver weapons can change shape and slip past defenses. Starmetal swords are made out of meteorites. Soulsteel weapons are made out of the souls of the dead. All of them are already very strong in stats, the material just adds a bonus.
+-   **Pathfinder** has a number of examples as well.
+    -   Serithtial from the Curse of the Crimson Throne adventure path is by default a bastard sword, though it can reshape itself into a bladed weapon more favored by its user. It was used to defeat the dragon warlord Kazavon, only to be lost in his castle of Scarwall when his slayers were killed by orcs and the castle was enveloped by a curse. The sword is dedicated to fighting servants of the evil god Zon-Kuthon (of whom Kazavon was a champion) and is instrumental in overcoming the adventure path's Big Bad, who is being influenced by Kazavon's spirit. Once the final boss is defeated, the artifacts she was using interact and attempt to resurrect Kazavon himself on the spot (which if it succeeds is pretty much a TPK). Serithtial is the key to preventing this.
+    -   Though not directly involved in the Curse of the Crimson Throne adventure path, the Bound Blade is connected to its events, being one of seven artifacts created from the indestructible remains of the dragon Kazavon. It has the power to bind the souls of anyone it kills, eventually destroying them beyond mortal abilities to resurrect.
+    -   From the Kingmaker adventure path is the sword Briar. Created when the Eldest of the First World stripped the nymph Nyrissa of her capacity to love, it is found late in the adventure path as a +4 bastard sword. Using it to battle creatures of the First World will gradually upgrade it, eventually turning it into a Vorpal weapon capable of decapitating its targets, potentially including the Big Bad, Nyrissa herself.
+    -   From the same adventure path is Ovinrbaane, Enemy of All Enemies. The good news is that it's a very powerful greatsword that can counter magical attacks against its wielder. The bad news is it continually modifies its wielder's memories and physical appearance in an attempt to reshape them into the image of its original owner, the barbarian champion Armag the Twice-Born. It also allows its bearer to command the allegiance of a cadre of regenerating skeleton warriors.
+    -   Lord Marshall Aleseara Cansellarion of the Glorious Revolution, the Hero Antagonist of the Hell's Vengeance adventure path (designed for evil-aligned PCs), wields Heart's Edge, a blade formerly owned by the goddess Iomedae during her time as a mortal. It has all the powers of a Holy Avenger, which is already a very powerful magic item, with a number of additional abilities that make it a very potent weapon against evil. After defeating its wielder and crushing her revolution, players have the option of embarking on a series of difficult quests to corrupt the sword into the very evil Heart's Bane.
+    -   Vesper's Rapier is a weapon once held by the Eldest known as Shyka the Many— sort of a cross between The Fair Folk and a Time Lord. It was given by him to an adventurer named Vesper (who may or may not have been another incarnation of Shyka). Despite its name, it changes its form to one favored by its wielder, so it is not always a rapier. Its user can temporarily drain the sword's power to teleport themself, or to set up a dimensional lock that prevents teleportation.
+    -   The Seven Swords of Sin, known originally as the Alara'hai, the Blades of Conviction, were created by the seven Runelords to be wielded by their chosen champions. Their powers are normally suppressed, only flaring to life if their associated Runelord is active in the world:
+        -   Asheia, Sword of Lust is a flaming longsword that protects its user from enchantment spells, and can charm or dominate those it strikes.
+        -   Baraket, Sword of Pride is a rapier with an invisible blade. It can cast a deadly illusion to scare its target and their allies to death.
+        -   Chellan, Sword of Greed is a scimitar made of gold, and thus so heavy that it requires exceptional strength to wield. It can transform those it strikes into crystalline statues.
+        -   Garvok, Sword of Wrath is a greatsword that can be thrown at enemies and explodes with fire on a hit. Especially potent hits trigger a fireball centered on the sword— which the wielder is not immune to.
+        -   Shin-Tari, Sword of Sloth is a short sword that gains an appropriate bane ability against whatever it strikes, allowing it to deal additional damage on subsequent hits. It can also teleport its victims against their will.
+        -   Tannaris, Sword of Envy is a bastard sword that appears to be made of crystal. It aids the wielder's defenses and can dispel buffs from those it hits.
+        -   Ungarato, Sword of Gluttony drains life from those it hits into the wielder, and animates anything it kills as a juju zombie (powerful zombies that retain their intelligence and abilities) to serve the user.
+-   In **Rocket Age** the Silthuri, the Martian Royal Caste, are the only people allowed to use the Silthanka. Long, thin and very light sabres, these swords outclass every other conventional sword in the setting on speed and quality. For the more traditional Earthling, the 19th century cavalry sabre is also available.
+-   **Thirsty Sword Lesbians** has "sword" in the title, so its swords are gonna be cool. When making characters, players choose their character's sword as one of their Aesthetics. These range from "a sword of teeth" (from The Beast playbook) to "an enemy's sword" (from The Reformed).
+-   In **Traveller**, the Imperial Marines have ceremonial cutlasses. Aslan, interestingly enough never used swords because they thought their claws were satisfactory. They have a great love for finely crafted weapons of all Technology Levels though.
+-   Though **Warhammer 40,000** has a plethora of exceptionally Cool Swords, it should be remembered that the **basic** chainsword is still, well, a sword **and a chainsaw**, thus being the exact blend of utterly cool and horrifyingly gory that defines 40k.
+
+---
+Cool Sword Example in Toys
+
+-   **BIONICLE** has Flaming Swords, swords made from Vorox tail stingers, swords big enough to surf on, and ChainsawRollerblade.
+
+---
+Cool Sword Example in Visual Novels
+
+-   **Fate/stay night**:
+    -   King Arthur (Saber) has two: The Sword of Selection Caliburn and the Sword of Promised Victory Excalibur. Caliburn was the Sword In The Stone that only the true king could draw; while it was relatively powerful, it was ultimately destroyed without much fanfare. Excalibur was the replacement, a 14,000 year-old relic made by fairies from the core of the Earth itself, said to represent all the hopes and dreams of humanity. It is described as an "Anti-Army" weapon and is the key to victory in most major fights. Saber keeps Excalibur cloaked in Invisible Air because she knows it's too recognizable.
+    -   Gilgamesh's Gate of Babylon lets him summon the Super Prototype versions of every weapon ever created, except for a few like Excalibur which were created after his time. Since he once owned literally everything in the world, everything can be drawn from his Gate. His standard tactic is referred to by fans as the "swordspam," throwing a few dozen ludicrously powerful weapons at his opponents.
+        -   His weapons include the "Sword of Rupture, Ea", a weapon that Gilgamesh alone possesses. Ea was what "Split Heaven and Earth", it existed before the world as we know it and is older than the very concept of a weapon called a "sword". When activated as a Noble Phantasm "Enuma Elish", it rips the spacetime apart, dealing incredible damage even at the lowest power and utterly obliterating anything when Gilgamesh is serious, from Servants to Reality Marbles. The only known thing that can completely block Enuma Elish is Saber's sheath - Avalon
+    -   Archer's Unlimited Blade Works lets him copy any weapon he has ever seen (except Ea, which he can neither replicate, nor even analyze), most famously swords. The copies are flawed, but they are still powerful, and he can summon a **lot** of them. This makes him the perfect counter for Gilgamesh, who normally curb-stomps everyone.
+-   **Marco & the Galaxy Dragon** has Gargouille’s sword Coelacanth, a golden, gem-encrusted BFS that can project a Sword Beam powerful enough to slice a starship in half.
+-   **Umineko: When They Cry** gives us the Red/Blue/Gold Key Blades. They aren't much to look at, but are made of truth and theory and are some of the most powerful melee weapons in fiction, according to the Tips section of the novel, with abilities like, but not limited to, preemptively denying any concept of defence, evasion or survival. Despite this, they can clash without the fight ending instantly, though the story handwaves this by mentioning that they've been limited in power for the duration of the story.
+
+---
+Cool Sword Example in Web Animation
+
+-   **Dreamscape**: Vladmare's sword is golden, has a skull-shaped handle, and is **Vladmare himself!**
+    -   Seleenara has a teal one that can open portals.
+-   **DSBT InsaniT**: Cody can create crystal swords.
+-   **Madness Combat** characters use every melee weapon and firearm possible, but Hank's Dragon Sword, a black katana with a dragon-shaped handle with Thai engraved on the blade, is seen as his iconic weapon.
+    -   Dragon Ascendant turned Friendly Enemy Jebus has the Binary Sword, a thin and longer than he is tall two-hander with binary for 316 engraved on it.
+-   From **Mighty Magiswords**, the titular Magiswords themselves. While they function more like wands than traditional swords, they come in an extremely wide variety and have an equally wide amount of uses, and that's not counting the Super Teamwork Combos. Some of them are sentient, like Zombie Pumpkin Magisword, Dolphin Magisword, and Taunting Jester Magisword. Some of them shoot food, such as the Tomato Magisword and Excaliburger Magisword. And others can invoke a temporary transformation, like Muscly Arm Magisword. And the strongest Magiswords of them all, the Legendary Magiswords, can only be used a certain amount of times per day. Averted in the case of Nail Clipper Magisword, which is considered to be the worst Magisword of them all (by the characters and the staff) due to it being little more than an oversized nail clipper.
+-   There's Tucker's energy blade in **Red vs. Blue**. Beyond being an energy blade, it was also a key to unlock a spaceship. Which was stolen and later destroyed. Tucker keeps the blade and uses it from time to time.
+-   **RWBY**: Take your pick between Weiss' Myrtenaster, a Royal Rapier with a revolver-style mechanism in the grip that allows her to imbue her attacks with elemental properties from Dust, or Blake's Gambol Shroud, a folding katana/kusarigama with a machine-pistol in the grip. Then there's also Raven Branwen's Omen, a huge red katana, similar in shape to Gambol Shroud with a sheath to match, and a revolver mechanism similar to Myrtenaster.
+-   **True Tail**: Both Caleb and Viktor have one, Caleb's is the remains of his father's sword, while Viktor has A Rapier
+
+---
+Cool Sword Example in Webcomics
+
+-   The Sora Katana in **Red Steel**.
+-   Lance in **Gold Coin Comics** carries one during most or all situations.
+-   **Aurora (2019)**: The god Vash's sword Kendal was forged by the smith god Tahraim after Vash defeated the storm god Tynan. It was forged from an ingot and a jewel that Vash had used to replace his right hand and eye, respectively, in the battle against Tynan. The jewel at the hilt glows the same color as Vash's eyes.
+-   In **Bird Boy**, Bali finds the sword of the ancient legendary hero.
+-   In **Coga Nito**, Eric's Super Mode wields a Cool Sword he can channel his powers through. It starts life as an entirely normal sword he receives as a birthday present, and transforms with him when he unlocks his Super Mode.
+-   Occam's Razor from the **Dresden Codak** comic ''Advanced Dungeons & Discourse''
+-   Fighter McWarrior's Sword-Chucks, in **8-Bit Theater**. They're so cool, they're illogical.
+-   Edith of **Godslave** obtains a khopesh capable of hurting Blacksmiths and with power to make Instant Expert out of everyone.
+-   Dave Strider from **Homestuck** has the Caledscratch, a broken sword crossed with time-travelling turntables that can reverse itself back to a point in time when it wasn't broken. He also wields the Snoop Dogg Snow Cone Machete and the Royal Deringer (modeled after the sword that removed the One Ring from Sauron's hand in **The Lord of the Rings** movies).
+-   **Latchkey Kingdom** has The Master, a gold-plated sword at Janus's shop that Willa is infatuated with but can't afford. She nearly gets it a couple of times, but it always escapes her grasp.
+-   **The Order of the Stick**: Roy Greenhilt's sword, after whom his family was named, was handed down from his grandfather (a great swordsman). The sword also receives an aura (when it is reforged using starmetal) that makes it especially effective against the undead.
+-   **Pibgorn** I wondered where it had gotten off to.
+    -   This is the sacred scimitar of Satori. . . its magical properties undisputed. . . because it alliterates
+-   **Sluggy Freelance**: Torg's sword Chaz (a.k.a. Unholy Evil Death Bringer) is a quasi-Ancestral Weapon that, when bathed in the blood of the innocent, is able to talk and "kill most things that can be killed." Oh, and it glows red, to boot. Torg is very aware of just how cool that is.
+-   Malice and the Three-Element Sword/Steamblade in **The Water Phoenix King**. Subverted in that Anthem's first sword was an ordinary weapon tossed aside by a deserter and all its power was a literal deus ex machina.
+-   **Steamgear Inc**: Terry's Steamgear is a custom-built katana, that flips out into a propeller at the flip of a switch.
+-   Kit from **The Story of Anima** can be seen wielding an incredibly ornate, angel-winged sword in a piece of bonus art.
+-   **Tales of the Questor**: Wildcard. Produced by Quentyn, Kestrel, and Fen out of a enchanting-practice sword while completely drunk. Its intricacies have baffled analysis, and it can go from invincible to useless between attacks — though it always seems to come through in a crisis, even if not in the manner expected.
+-   **Unsounded**: Captain Toma's first materials sword cannot be cast on using Pymary, and can cut through Pymary attacks.
+-   **Wayward Sons**: Suras ends up with a very special cool sword It has the Star Core set in the hilt, giving it special properties (not revealed to the reader yet), and according to the resident oracle, every timeline in which he **doesn't** have the sword ends up with them losing the upcoming war.
+-   **xkcd** strip #1114 "Metallurgy" pokes fun at some of the flavors this trope comes in.
+
+---
+Cool Sword Example in Web Original
+
+-   The Sword of Saledesh in the **Tales of Ubernorden** story "The Sword of War" possesses unspecified powers that allows the wielder to conquer the world.
+-   Cinder gets a sword the web serial **Ash & Cinders** that's made of ice, enchanted not to melt, and can actually cut through a rock-monster and encase it in ice.
+-   Allie from the **Brave New World Universe** has the power to create and shape ice. She uses this to make an inordinately sharp sword made purely of ice. Literally, a **cool** sword.
+-   **Hundred Companions** features Alister, a **BFS** of a scimitar with a black blade, that is really a demon cursed for crimes hateful even to his fellow Chaotic Evil outsiders.
+-   While **The Impossible Man** feature cool swords, the one that stands out is Kaori's wooden sword Seizon, which means Existence in Japanese, where legend has it that it was whittled by Miyamoto Musashi and has the ability to cut existence itself.
+-   **Man at Arms** are an entire show built around cool swords underwent through Defictionalization
+-   Belramus from **Open Blue**'s Back Story is a holy sword allegedly forged from a tooth of the Iormunean Imperium's goddes. It can only be used by the Templar High Executor, cuts through anything, is virtually indestructible, and when worst comes to worst, can double as a Wave Motion Sword.
+-   Destiny's Wave, the sentient **jian** wielded by Chou Lee, The Handmaid of the Tao, in the **Whateley Universe**.
+
+---
+Cool Sword Example in Western Animation
+
+-   The closest Nogbad ever got to ruling the Northlands in **The Sagas of Noggin the Nog** was when he obtained the Sorcerer's Sword in "Firecake". It was a longsword that gave the wielder control over all living beings in the world, except for the stone giants. It was useless as a melee weapon, as knut was able to shatter it into pieces on a rock like glass, making it more like a magic wand than a sword.
+-   Finn's swords from **Adventure Time** are often cool. For example there's his golden sword (which surprisingly is a good weapon), his twin golden katanas, and his root sword. More notably, in one episode, his golden sword got upgraded to a **fourth dimensional sword**. In another episode, it's revealed that Finn and his adoptive brother Jake have a family sword made out of **demon's blood**.
+    -   After said demon-blood sword is drained and shattered, Finn later acquires a Grass Sword, which stores as a wrap on his forearm when not in use, and is permanently bonded to him…until said arm is **ripped off**, only saved from the elbow-up by the semi-sentient sword sacrificing itself.
+    -   Much later, after Finn's arm grows back, a secret plan is put into motion to revive a cosmic Wish Master, involving a **lot** of Timey-Wimey Ball stuff; Finn actually earns yet **another** new sword from all this, the Finn Sword, made from **an alternate time-duplicate of himself!**
+    -   After the Finn Sword merges with the remnants of the Grass Sword in Finn's arm to become its own entity with an exact copy of the Grass Sword, Finn used a fairly normal rapier, but after that gets destroyed, he got his final onscreen sword. The Night Sword, forged by Peppermint Butler and blessed with Nightosphere magic by the Nightosphere's king, Hunson Abadeer.
+    -   Billy the Hero's sword Nothung. He can even Summon to Hand by calling its name, and even then it's so sharp if he doesn't have his gauntlet on it will damage him.
+-   The Sword of Enlightenment from **Atomic Puppet**, which is able to siphon power and redirect it as beams of energy. However, it is so powerful that an ordinary person would go insane just from holding it for long enough (as Pauline experienced when she became Sword Sister).
+-   **Avatar: The Last Airbender**: Sokka's space sword.
+-   In **Code Lyoko**, XANA-possessed William has a cool **Final Fantasy**\-style Buster Sword.
+-   **Dave the Barbarian** has Deadpan Snarker Empathic Weapon Lula.
+-   The ghostly hero of **Fantomcat** had one named "Touché" that could respond to his beck and call.
+-   Titanslayer from **Final Space**. The Titan Bolo forges it by **collapsing a red dwarf star**.
+-   **Generator Rex**:
+    -   Rex can transform his hand into the BFS (Big Fat Sword) which can turn into a saw!
+    -   Six's twin fold-up katanas that, when put together, create a powerful magnet.
+-   The legendary Willblade from **Huntik: Secrets & Seekers**. It was used by the first Seeker, Lord Casterwill himself, to seal the Spiral Mark that can be used to call the Nullifiers. After it is found, Lok begins using it as his Weapon of Choice in pretty much every episode thereafter. The Betrayer tricks Lok into unsealing the Spiral Mark with it under the pretense of destroying it.
+-   Gaff's Dragon Sword in **Iron Kid**.
+-   In **Kim Possible**, Ron Stoppable once wielded the Lotus Blade, a magic sword protected by the Yamanuchi Ninja Academy. Not only an Absurdly Sharp Blade, the Lotus Blade can also be transformed into various other ancient weapons like staffs and shields.
+-   In **King Arthur & the Knights of Justice**, obviously Arthur had Excalibur, not to be outdone,Lord Viper had an awesome jagged edged sword.
+-   Ace's Guardian Strike Sword in **Loonatics Unleashed**.
+-   **Samurai Jack**:
+    -   Jack has a very cool sword. It was forged by the gods into a holy katana that is one of the very few things that can actually harm Aku.
+    -   The Scotsman has a blade that is just about as cool. His sword of choice is a huge claymore that also has magical properties, like nigh-unbreakability, due to being inscribed with "**MAGIC RUNES!**"
+    -   The Winter segment of the episode "The 4 Seasons Of Death", had a race of orc-like creatures constructing one, forging it from crystals mined deep in a mountain, heating it with a dragon's fire, cooling it within an ancient glacier, imbuing it with the power of lightning, having seven blacksmiths all hammering it at once, and holding an gladiator-style arena battle to decide who should wield it. When the wielder encounters Samurai Jack, he immediately cuts the sword in half with his katana before the guy even has a chance to fight back.
+-   Drew's Fire Sword from **The Secret Saturdays**.
+-   Sliced Ice from **Skysurfer Strike Force**, whose sword has the power to freeze. It's literally a cool sword.
+-   The **South Park** episode "Make Love, Not Warcraft" featured the "Sword of a Thousand Truths" which was later added to the actual game under the name "Slayer of the Lifeless".
+-   Lance's Lance chain-sword and the Titan's sword in **Sym-Bionic Titan**.
+-   In **Teenage Mutant Ninja Turtles (2003)**, the Shredder give Leonardo an ancient sword forged by a man who folded the metal 1,000 times to take out any impurities. Also the Shredder's magic sword.
+-   From **ThunderCats** and **Thunder Cats 2011**:
+    -   Protagonist Lion-O has the Sword of Omens, the Ancestral Weapon of Thundera's kings, that extends from dagger to longsword when Lion-O utters a By the Power of Grayskull!, and hosts an Amulet of Concentrated Awesome in its hilt that can shoot Sword Beams, project a Bat Signal in times of distress, and grant Lion-O visions. Depending on the Writer, it can do just about anything that its wielder can phrase in the form, "Sword of Omens! Give me X beyond X!"
+    -   Mumm-Ra's Sword of Plun-Darr, which is double-bladed and usually on FIRE.
+    -   Several cool swords feature in the **ThunderCats (2011)** episode "The Duelist and the Drifter", most notably the Sword of Hattanzo, the Sinister Scimitar favored by predatory sword collector and Master Swordsman the Duelist.
+-   A lot of Transformers use swords despite possessing lasers. Those that stand out include Star Saber's Saber Blade from **Transformers Victory** and the unrelated blade known as the Star Saber (made of three Mini-cons) from **Transformers: Armada**.
+    -   In **Transformers Armada,** Starscream's wing becomes a sword, and in **Transformers: Animated,** Megatron's rotors become his swords. (His Transformation Sequence doesn't reveal this, but that's how it works on the toy.)
+        -   Vector Prime's sword Rhisling, which he posthumously gives to Optimus Prime, who uses it to slay Galvatron, Wing Saber's namesake weapons, formed from his wing flaps, Snarl's sword that doubles as a rifle, Galvatron's conjured sword, Evac's rotor-sword, and Starscream's Cyber Key-activated swords in **Transformers: Cybertron.**
+        -   Later retconned as Cyber Caliber.
+    -   In **Transformers: Prime** The Star Saber that Optimus Prime obtains in the episode Legacy, it glows and is really damn sharp.
+        -   Megatron's Dark Star Saber is basically the same, only it glows purple, has a jagged edge, and **shatters** the Star Saber.
+        -   Also from **Prime**'s supplementary fiction is the Chaos Edge, one of a handful of weapons made by Solus Prime and wielded by Nexus Prime (both Cybertronian Precursors). Its abilities are never elaborated on, but hinted to be particularly nasty - Nexus actually only used it as a threat with no real intention of using it though.
+
+---
+Cool Sword Example in Real Life
+
+-   Terry Pratchett, in commemoration of his own knighting, acquired the material to forge his very own sword, and out of genuine Thunderbolt Iron no less.
+-   A bunch of real life cool spanish swords.
+-   The Urumi whip swords have to classify.
+-   The Japanese invented an intensive sword-making process that came about in large part because their iron is of terrible quality and needs a great deal of work to make it useful. Due to the influence of Japanese culture in entertainment, Japanese swords have quite a following.
+-   The Germanic and Celtic tribes have, since the Iron Age, had a lengthy and trying process of sword-making that **still** produces some of the best swords today. It's called pattern-welding, and it involves twisting different kinds of steel together in order to ensure the blade has strength **and** flexibility. With a little treatment, the flowing patterns of steel would be visible on the blades. Like a human fingerprint, each blade had a different pattern. Prior to standardised systems of measurement, this style of swordsmithing was very unreliable; it has produced some of the **best** swords known anywhere to history, but it's also produced some of the flimsiest Iron Age swords as well... though to be honest, that could very well be down to the skill of the smith that made them.
+-   The "+ULFBEHR+T" (sometimes "+ULFBEHRT+") Viking swords made in Germany are these in terms of quality. Their fittings are generally plain, barring the fact that the name is inlaid into the fuller with strips of iron (it was said that Ulfbehrt swords were made in a German monastery). These are the finest and most sought-after Viking swords to the point that they're considered the Rolex and Mercedes of the time, due to the fact that they were made from crucible steel, which was considered a super-steel at the time. This is because the process used to make crucible steel is done to ensure that all impurities are burned out of the steel puck. There was such a high demand for the brand name that a lot of smiths decided to try and pass their works off as +ULFBEHR+T or +ULFBEHRT+ swords. Because of this, Viking warriors bought fakes that often wound up being inferior to the genuine quality blades, which can be recognized by misspelled inlays ("+UBRLFH+T" and such) and fancy fittings that the originals don't have.
+-   Kuo Chang-hsi, a Taiwanese swordsmith, uses **human bones** to forge his swords. He also forged the Green Destiny sword for **Crouching Tiger, Hidden Dragon**.
+-   Blade Batons are pretty cool because they conceal the blades and can act as one weapon or open it up and dual wield a pair of somewhat short swords!
+-   Swords made in the Near East of wootz steel were often called Damascus steel blades in the west and had a near-mythic reputation for strength and sharpness. As such, Damascus steel swords were considered very cool.
+-   That Other Wiki has a list of cool swords.
+-   These are cool swords. They are basically a fully-functional, more than a century old version of **Final Fantasy VIII**'s gunblade. They saw limited use due to being incredibly impractical.
+-   The Sword of Mars. Rumored to be made out of meteorite iron and was a grave marker of the previous owner. While it stood in the ground it was struck by lightning. Attila the Hun discovered this sword and used it in his invasion of the Roman Empire.
+-   Military swords in general, as they're **the** symbol of power by virtue of the centuries in which they were the main weapon of war. They're still carried with high uniforms **precisely** because they're cool.
+-   Toledo steel was very well known in the old world as some of the best material for sword-making (one of several theories says that Hispania, Spain's original roman name, meant "island/coast where metal are forged"), and Spanish methods influenced those around them in several occasions. Case in point, the early inhabitants of Hispania created the falcata and the gladius, two swords so devastating that their enemies, the Romans, couldn't help but to be in awe at their prowess. They proceeded to incorporate the latter in their own armies, calling it **gladius Hispaniensis** (they chose it over the falcata because its blade shape, simpler to produce and designed both to cut and stab, adapted better to the Roman style of field warfare). Centuries later, the Spanish would create the espada ropera, which would spread throughout the Western world under the name rapier. The Spanish version would go on to dominate battlefields all over the world for hundreds of years, often in then hands of the fear-inspiring **Tercios**.
+-   Joan of Arc's voices told her where to find a sword, buried behind the altar of the church of Saint Catherine de Feirbois. When her followers found it, it was covered in rust, but it wiped off easily, revealing five crosses (or fluer-de-lis according to some sources), and it turned out to be Charles Martel's sword, who left it as an offering of thanks after the Battle of Tours and also for whoever was chosen by God to save France in the future. Joan later broke it just before the Siege of Paris when she hit a prostitute with the flat side (she had a habit of beating any prostitute she found to drive them out of her camps), which the king saw as a bad omen and suggested to her that perhaps she should have used a stick, though she claimed it was actually a sword taken off a Burgundian soldier.
+-   Guns 2 Swords is a MSCHF project in which customers can send in guns to have them melted down and reforged into decorative swords.
+
+---

@@ -1,0 +1,159 @@
+100% Heroism Rating: 
+**Ky:** You've saved the world.  
+**Sol:** What about it?  
+**Ky:** You've been in the newspaper. Everyone looks up to you as a hero now.  
+**Sol:** Shut it. Are you telling me to act like one now?  
+**Ky:** ...Yes. By order of the new Conclave. It's just a formality, it'll be over quick.  
+**Sol:** What a pain...
+
+RPGs are a fun way to act as The Hero, though at times they can be frustrating because all the good the player does never earns fame and respect, at best netting a "thank you" (if it's even recognized) and possibly a nifty material reward. However, if the game has a Fame or Reputation mechanic along with the Karma Meter, then completing every good-aligned Side Quest will result in the townspeople everywhere throwing rose petals at the Player Characters’ feet while unveiling their new solid mithril statue.
+
+These are some of the effects of having a 100% Heroism Rating: people know your name (and new quests open up because of it), Adam Smith orders every shopkeep to give you a discount, an Infinity +1 Sword or the like, and a fancy title. Even the Trauma Innkeeper will _insist_ on giving you a meal and bed free of charge (after all, you did rescue his daughter from kobolds, stop the extortion racket targeting him, _and_ got him a year's supply of wine), and it's all in addition to the warm glowy feeling inside you'll get.
+
+Compare Only the Pure of Heart. A ruler (not an adventurer) treated this way is a Universally Beloved Leader. See also Video Game Caring Potential.
+
+---
+100% Heroism Rating Example in 
+
+## Examples
+
+
+
+---
+100% Heroism Rating Example in Action-Adventure
+
+-   **inFAMOUS** will have people applaud you, ask you for assistance, take pictures of you, etc. If you're on the good side. Being bad gets you booed, have rocks thrown at you, and, if you're terrible enough, people attacking you constantly.
+    -   Also, if you're good, then in the middle of fights, they might throw rocks at your enemies. It gets really helpful if they manage to stop a rocket-launcher-toting foe from blasting you long enough to blow him away first. Of course, the downside to all of this is that the people of Empire City and New Marais know only one fighting style: Swarming-Leeroy-Jenkins-Fu. They're actually remarkably effective, even against superpowered mooks, but if you're trying to bring out the big guns, quite a few civilians can get accidentally fried. Not good for the Karma Meter. (Fortunately, zapping a civilian isn't that big of a ding to your Karma, since they survive incidental hits and you have to zap them directly again to kill them.)
+
+---
+100% Heroism Rating Example in MMORPGs
+
+-   **City of Heroes** often has random civilians telling stories about your deeds. Note that other players in the region can hear it too.
+    -   In fact, **City of Heroes** uses it in another way as well - instead of receiving money for arresting villains and saving people, heroes receive "influence", a measure of the respect for their heroic deeds which can be exchanged for items.
+    -   So does **Champions Online**, with the exception that the former does it once per completed quest, the latter will have NPCs thanking you for **finishing the tutorial** until the very end of your days. Over. And over. Again.
+        -   This has been somewhat corrected since the original release. Whatever your most recent "notable mission chain" is that you've finished will be what the NPCs thank you for.
+-   In **Star Wars: Galaxies** the people of the Township of Aurilia will mention in spatial chat occasionally that a player character has successfully participated in one of the several heroic encounters that originate from this location, such as defeating the Tusken King or the Nightsister queen Akxva Min.
+-   In **World of Warcraft**, reaching the highest reputation level with certain factions will occasionally result in some NPCs greeting/complimenting you as you walk past. The most commonly seen example is probably the two Kirin Tor mages standing by the doorway of the Dalaran flight point.
+    -   In addition to the reputation mechanic itself, there are several Easter Eggs where NPCs acknowledge particularly important feats if the player character has done them, but has more impersonal dialogue if not. For example, if a player did the quest chain to enter Onyxia's lair way back in original, classic WoW (obsolete since 2008 if not earlier and removed from the game entirely a little after that), a certain lord general greets the player like an old friend when encountered in Northrend. If the player hadn't done that quest, though, they're just greeted like some stranger.
+    -   Another is the Burning Steppes for alliance players. If you haven't completed the Redridge quests, the NPC considers you a stranger. If you have, he'll be amazed that you were alive before correcting himself, remarking that you were always strong even back then. He'll throw in a few other lines usually in the vein of "Bravo Company, together again."
+-   This comes to help you in **Final Fantasy XIV**. When the player is accused of regicide during the mission "Before the Fall", the NPCs steadfastly refuse to believe you would do such a thing and this is before other influential parties tell the citizens that they are not guilty and not to believe any rumors they hear.
+-   The "Fame" mechanic in **Final Fantasy XI** loosely functioned like this. Besides just not doing quests, there's hardly any "infamous" or evil actions to be taken to lower fame, but doing loads of quests in a given jurisdiction will raise your fame. Jurisdictions include the three starter towns, Khazam, Jeuno (which is the fame averaged among the three starter towns), and the **Tenshodo**. Several quests for important (or at least once-important) items, usually spell scrolls like Warp II or Utsusemi: Ichi, required a certain level of fame within the quest giver's organization to be able to start. After all, the high-ranking government official isn't going to trust just any hobo adventurer off the street with sensitive matters, not when they can get a hand that has a dependable reputation to back them up.
+
+---
+100% Heroism Rating Example in Platformer
+
+-   A Non-RPG example exists in the first two **Odd World** games; while the player is only required to rescue 50% of 99 or 300 slaves for the good ending, getting a 100% will net the player a congratulatory screen from the developers, will grant the ability to watch the game's cutscenes freely, level select and will give the additional ability to replay the game with infinite grenades or invincibility.
+
+---
+100% Heroism Rating Example in Roguelike
+
+-   In **Dwarf Fortress**, Dwarves love their history, and if your adventurer has done anything noteworthy within range of a fortress embark, they will canonize the player in artworks. As of 3.18, an adventurer acquires renown for slaying beasts and bandits within a single civilization and will be greeted with respect, even awe if they have high enough reputation to get quests directly from region rulers. As your reputation goes up, you're also capable of recruiting more people to fight with you at once, getting as much as 9 1/2 times as many as a reputation-less adventurer could.
+
+---
+100% Heroism Rating Example in Role-Playing Games
+
+-   **Arcanum: Of Steamworks & Magick Obscura**:
+    -   The PC gets a better reaction from other characters (including shopkeepers who give them discounts) if he or she helped the inhabitants of a given settlement. Additionally, characters sometimes mention specific deeds of the PC and act accordingly. Of course, evil deeds get attention and respect of shady characters (including party members who base their decision to join the PC on their karma meter).
+    -   "Child of a hero" is a possible background, it makes you start with a sword and people take your evil actions very badly.
+-   **Baldur's Gate** and its sequel do this with its Reputation mechanic, which doubles as its Karma Meter. Effects range from half prices in shops at the high end, higher morale in party members of good alignment (making them more resistant to fear effects), and (very rarely) allows you to solve certain situations by talking instead of fighting. On the flip side, playing evil (and keeping in mind that in **Baldur's Gate**, evil equals Stupid Evil) gives you higher shop prices, sics guards and bounty hunters at you inside of towns, and makes certain NPCs call you names.
+-   In **Dragon Age II**, this applies to Hawke after becoming the Champion of Kirkwall. Knight-Commander Meredith will even allow a Mage Hawke to remain free as reward for their services to the city, although it's implied the **real** reason is that she doesn't want to spark a riot by locking them up.
+-   **The Elder Scrolls**
+    -   **Morrowind**:
+        -   After you complete the main quest, many people will stammer and ask you to forgive them because they don't know how to speak to such an important person. Others will thank you for your heroic deeds. (The "stammering" response was supposed to be one of several possible responses to your heroism, but due to a scripting glitch, it is the only one that gets used by most NPCs. There are several Game Mods which fix the glitch so you can get all of the responses.)
+        -   In addition to NPC responses, you can bring up the "Nerevarine" topic in conversations. Doing so will have the NPC thank you as well as increase their disposition by 10 (up to a cap of 70 for this particular dialogue option). This is extremely helpful if you need to raise the disposition of an NPC but have a low Speechcraft skill and/or Personality attribute.
+        -   This is subverted after completing the main quest for the **Tribunal** expansion. You can tell everyone in conversation that you killed Almalexia and found Sotha Sil dead, but only Helseth and Vivec actually seem to believe you. And claiming it to a Dunmer NPC will result in an incredulous response and a disposition drop with that character.
+        -   A subtler example is the Reputation stat (which many quests give a bonus to as a reward) — it is added to the disposition of non-player characters, meaning the more famous you are as a hero, the friendlier other characters will be.
+    -   **Oblivion**:
+        -   You have to settle for the occasional compliment ("You're the one who closed the demon gate! The Hero of Kvatch!"). Although you get these based on your actions regardless of your fame or infamy.
+        -   Oh, and you do get a statue of your character built (it's essentially a copy of your character model at the time the quest was completed but stone textured) which is modeled with the most valuable items you have with you when you do this. There is a very nice and thus valuable dagger you get from the Brotherhood, which will take precedence. It just looks silly - full regalia, big armor, giant shield... but thrusting a 3-inch **dagger** into the sky...
+        -   **Oblivion** tracks fame and infamy separately so you can be greeted heartily when you approach a guard (checking your fame) and then be chastised for being a thief when you talk to him (checking your infamy).
+    -   **Skyrim**:
+        -   The game gives you a mixed result after completing the main quest or rising to the top of any of the guilds. New NPC responses are added to available pool, but old ones are never removed. So, for example, one NPC might thank you for saving the world from Alduin while the one right next to him berates you for releasing the dragon you captured in order to **get to Alduin.** It's no better for the faction quest lines either. One NPC may hail you as Harbinger of the Companions, while another then immediately asks you if, as a rookie member, you have to fetch everyone's mead.
+        -   This too seems to have been fixed as of recent updates, with people commenting only on your current ranking within a guild. Though you can still have one guard praise you for your valor, while the one next to him is calling you a sneaky thief and threatening to chop off your hand.
+        -   You will also get random dialogue based on skill levels, which can make things weird. You may get an NPC threatening you as a sneaky thief due to your stealth and lockpicking skills even if you've never stolen anything or done any Thieves' Guild quests. Or as a mage with a focus in necromancy (which is in the conjuration school), you'll have a random guard asking you to conjure him up a warm bed.
+-   **Fable** is an aversion of the trope. No matter how gloriously good your actions in the story have been, if you've still murdered enough people to push your Karma Meter deep into the red the villagers will have no inhibitions about telling you just how they feel about their "hero".
+    -   Fable is an aversion in another way; you can murder a half-dozen people in broad daylight, then buy off your bad karma with a tofu binge, so you can keep using the Physical Shield spell, which makes you utterly unkillable and helps you gain experience at an astonishing rate.
+-   **Fallout**:
+    -   In **Fallout 2**, if you choose to play after the end of the game and go to New Reno/Vault City, everyone will congratulate you and treat you like a hero.
+    -   **Fallout 3**:
+        -   Having the best karma rating means that you'll occasionally have people run up to you while you're in Megaton and give you supplies. And if you have very evil karma, slavers in Paradise Falls will also occasionally run up and give you supplies.
+        -   Likewise, certain companions will only follow you based on Karma. Not the best example, since the best companion is Good and the two worst are Neutral. However, \*anyone\* can hire Charon or Dogmeat.
+        -   Go to either extreme, and you'll have either ultra-evil mercenaries (if you are good) or vigilante "lawmen" (if you are evil) attack you as random encounters. Also, one perk gives you a substantial bonus to your Speech skill, provided that you maintain a Neutral karma level. To put this in perspective, you can earn enough Karma points to be "Good" or "Evil" before you leave the tutorial level.
+    -   **Fallout: New Vegas** handles it a little differently - the karma meter is the same from **3** but is nearly useless. What really matters is your reputation with each faction. Since you can't lose popularity or infamy, people could end up singing your praises for all the Fetch Questing while grudging you over blowing up their outpost last week. An exception is the dialogue against Legate Lanius, a Courier with sufficiently high karma gets the option to talk him into calling off his bodyguards and attacking you alone.
+-   **Final Fantasy XI** keeps track of your fame levels in each nation. Obtaining a high level of fame will open up new quests and give you a discount at NPC stores in that country.
+-   In **Freelancer**, a faction with which you are Friendly will aid you in fights against factions they are Neutral towards, and won't attack you if you pick a fight with their allies.
+    -   Of course, if you pick **too many** fights with their allies, they will eventually stop being Friendly.
+-   In **The Last Story**, after thirty chapters, the party (who was originally disliked by the populace for being mercenaries) finally becomes the talk of the town because of Zael. At the beginning of the game, if you bumped into people on the street, they would berate you. At this point of the game, the people you bump into start apologizing profusely as Zael is now a Knight hero and they start to suck up to him. Even the random conversations between NPCs are about Zael and his friends.
+-   **Mass Effect** allows you to get a substantial discount on purchases in a shop if your Paragon meter/Charm skill is high enough, while a high Renegade meter/Intimidate skill will allow you to sell your items at a better price. You also get other benefits, like hearing reports of your actions (and how they ended) on the news in the Citadel, and people on Feros and Noveria will thank you if you saved their lives and contained the alien monsters threatening to kill them. Saving Captain Kirrahae's salarian commando team on Virmire also ends with him thanking you and promising he will not forget your bravery and sacrifice for his team. At the end of the game, if you saved the Council, they will also express their gratitude for saving their lives and also praise either your ruthlessness or your compassion and honor.
+    -   Maximum Paragon (or a sufficient enough Renegade) rating allows the end boss to Take a Third Option.
+    -   These carry over into **Mass Effect 2**, which is filled with references to your past deeds, people recognize you all over the place, and you can even parlay your fame and reputation into discounts at some stores by giving them an endorsement.
+        -   Conversely, because of this, there will be some instances where people from the first game will chew you out for what happens in the second game. Fist, who was going to have Tali killed, can be found as a drunk in Omega if you spare him.
+            
+            **Fist:** I'm a good boy now, so **PISS OFF.**
+            
+    -   Also it can turn a bit into Dude, Where's My Respect? when people who do know who you are NEVER SURRENDER. You stop feeling sorry for them after a while and wish they would die faster.
+    -   And nearly all of the choices from **Mass Effect** and **Mass Effect 2** are carried over for **Mass Effect 3**. It even replaces the separate Paragon and Renegade meters with a merged Reputation score, which if you are particularly benevolent can indeed be an entirely blue bar.
+-   Many of the **Might and Magic** games do this, and the people will also refuse to speak to or insult you if you have a bad rap. Conversely, if your reputation is shining and spotless, thieves and lowlifes will snub you and call you a goody-two-shoes.
+    -   In M&MVI, if you want to get Dark Magic Master skill ranking, you have to drive your rep all the way down to "Notorious", easily accomplished by, say, massacring all the peasants in Free Haven. But once you have got your Master ranking, you can cool the heat by dropping a few dozen to a few hundred gold in the local temple's poor-box (if you don't have several hundred thousand by this point, you're mismanaging your money supply) and can very well get all the way back to "Saintly" before the end of the game. And though you can bring the peasants back to life (**Reanimate** works just fine with no apparent after-effects), this in itself does nothing for your reputation nor does leaving out this step matter in the slightest.
+-   Throughout **Persona 5**, a bar gives you the public opinion on the Phantom Thieves at all times and it fluctuates over the course of the story. In the finale, after the final boss reveals he could have destroyed you all without taking a beat and was only feigning taking damage, the inspiration of Mishima brings the approval to 100%. With the current status of the world (brought on by Yaldabaoth himself), the overwhelming support unleashes Joker’s Ultimate Persona Satanael.
+-   **Pokémon X and Y** play this the straightest of all the Pokemon games—after defeating Team Flare and becoming the new champion, the protagonist and the rest of the Five-Man Band receive a parade and the Honor of Kalos.
+-   Happens in the **Quest for Glory** games, especially with each additional sequel, with NPCs addressing you with titles such as "Hero of Shapeir" the more good deeds you've done. Generally, each new installment has the hero winding up in a land where people are initially suspicious or ambivalent, but wind up warming up to you the more you help people out.
+    -   Every game in the series has the locals recognize you for your deeds, but the most obvious is the fourth game since the Mordavians begin the game distrustful and subtly hostile towards you and end up cheering for you as you clean up the valley.
+-   **Sakura Wars (2019)**:
+    -   At the beginning of the story, the Shanghai Combat Revue is highly beloved by the public as evidenced when the bystanders cheer Xiaolong Yang for destroying the demon attacking Central Station.
+    -   The Imperial Combat Revue regains the adoration and respect of their fellow Combat Revues as well as the public over the course of the story, eventually reaching its peak after they win the Combat Revue World Games and thwart Sotetsu Genan's plans for good.
+-   **Tales of Symphonia** has this. If you save a town and then donate money to rebuild it, eventually the townspeople will put up statues of you and your party members. Although...you have to pay for the statues, too.
+-   One of the few benefits of a high Swashbuckler Rating in **Skies of Arcadia** is that NPC shopkeepers- especially on Sailors' Island- will gush over your celebrity status. Still won't give you a discount though. In addition, getting the title Vyse the Legend - which involves getting 100% Completion - unlocks an optional boss fight and a few other perks.
+
+---
+100% Heroism Rating Example in Strategy
+
+-   In **The New Order Last Days Of Europe**, the Free Aviators of northern Siberia are beloved by all Russians for their resistance against the Luftwaffe's bombing campaign. Though the Aviators are themselves socialists, they are respected by almost all the warlord states regardless of ideology — even the Ultranationalist fanatics of Omsk will help them out if one of them crash lands in the state's territory, although in this case, the respect is a one-way street.
+
+---
+100% Heroism Rating Example in Survival Horror
+
+-   A Meta example appears in the **Resident Evil Remake** on Nintendo Game Cube. Beating all modes on all difficulties and unlocking everything earns you a congratulatory letter from the developers which essentially gushes over you, telling you how players like you make all the work they put into the games worthwhile.
+
+---
+100% Heroism Rating Example in Wide Open Sandbox
+
+-   **Grand Theft Auto: San Andreas** has various character ratings (fat, muscle, sex appeal, and respect), which affect how NPCs react in your presence. You can even say something back, determined by hitting Y or N. However, no amount of sex appeal or respect will completely stop people from telling CJ he smells bad.
+-   **Red Dead Redemption** is interesting in that it has both positive and negative consequences for having a high "honor" rating. In law-abiding towns like Armadillo or Blackwater, shops will sell for less and buy for more, lawmen and citizens will overlook most crimes other than murder or bank robbery, jobs pay twice as much, and you have a random chance of encountering a nun who gives you an item that cuts enemy accuracy by 25%. Conversely, Thieves' Landing shops will charge you more and buy for less, you're more likely to get challenged to a duel, and citizens may randomly open fire on you the moment you ride into town.
+    -   In the prequel, **Red Dead Redemption II**, maxing out your Honor carries benefits including major discounts at most merchants (up to a whopping **50%**), access to unique outfits, and a higher Random Drop rate for more valuable items like jewelry when looting the dead bodies of hostile enemies (such as rival gang members).
+-   **Minecraft** has the Hero of the Village status effect. If you help a village survive a raid of Illagers, the residents will give you gifts and trading discounts for a short while.
+
+---
+100% Heroism Rating Example in Other
+
+## Anime
+
+-   **Dragon Ball Z**: As the hero who defeated Cell, Mr. Satan is beloved by the world over from the Cell Saga onwards. Orange Star City was renamed after him, the entire World Martial Arts Tournament centers around him to the point he can skip the elimination round, something no other champion before him could do, and he gets military support by just asking. It really shines during the fight with Kid Buu; the people of Earth ignore Goku and Vegeta's pleas for their energy to fuel the Spirit Bomb and refuse to help them, but they almost immediately change their tune when Mr. Satan steps in and yells at them to cooperate.
+-   **My Hero Academia** features All Might, Japan's highest-ranked superhero and bastion of all things good. He is adored by the public, idolized by prospective heroes, honored by his peers, and respected even by the villains who oppose him as the benchmark of heroism itself. Notably, this is not only when he appears in-costume; when he is discovered to be a badly injured, emaciated wreck of a man after his powers give out, the populace **still** applaud and cheer him, recognizing that it is the soul of the man that is worthy of their respect, not just the body.
+-   In the **Sailor Moon** manga, Sailor Venus has this status thanks to what she did in **Codename: Sailor V**, namely cleaning up all crime in Minato Ward (at one point she started going after panty thieves because she had already taken out everything worse) while also hunting youma, plus presenting herself as the Ideal Hero. This eventually backfired on her, as the effort of maintaining her heroic persona and hide the PTSD she got before meeting the other Sailor Soldiers took a toll on her and made her dependant on the admiration and respect of the others while making her appear **too good** to be a role model, issues that came to the fore in the Dream arc.
+
+## Comic Books
+
+-   **Ultimate Spider-Man**: Initially and per tradition, the Ultimate Marvel version of Peter Parker as Spider-Man is a Hero with Bad Publicity and the public has a very divisive opinion towards him, with J. Jonah Jameson often slandering the former, publishing awful stories about him in the Daily Bugle. This changed after **Ultimatum** where JJJ's wife was killed in the event and he witnessed Spider-Man valiantly risking his life to save people during the big flood. From then on, he decided that he Must Make Amends and retracted himself, treating Spider-Man as an Ideal Hero instead, moreso after learning of Peter's identity, even giving the latter another job and promising to pay for his college tuition. His popularity soared, and when he died and his Secret Identity became public knowledge, he reached 100% adoration rating.
+-   This is more-or-less the default position of Superman in every continuity, to the point that a list of examples would contain almost every comic book in which he is featured. The fact that he is both Trope Namer and Trope Maker for The Cape <sup>note&nbsp;</sup> should probably clue you in. In fact, he has become so synonymous with the very concept of the Big Good Super Hero that he's inspired not only the omnipresent Superman Substitute trope but explicitly subverting his archetype has **also** become one of the most popular superhero tropes in modern fiction.
+
+## Fan Works
+
+-   In the **Kingdom Hearts**/**Game of Thrones** crossover fic **A Song of Ice, Fire and Heart**, Roxas is adored by practically everyone who knows of him due to being a kind and gentle soul who is nonetheless powerful and driven enough to defeat the Heartless, which he does without asking for anything in return. So far, it seems like Joffrey is the only one who doesn't like him (but that's not saying much, he doesn't like anyone).
+-   Tony Stark calls out Ladybug and Cat Noir as possessing this in **What the Cat Dragged In**.
+
+## Film
+
+-   **The Dark Knight Rises**: When Batman is believed to be dead after saving Gotham, he has earned the respect that he deserves, even getting a statue put up in his honor.
+-   **Megamind**: Everyone in Metro City loves or respects the local superhero hero Metro Man aside from Megamind, and even then he opposes him out of rivalry rather than pure malice (which is made quite clear when he believes to have killed him). The guy himself has a demeanor like a popular rock star.
+-   **Wreck-It Ralph**: Felix, from those he rescues in his game (i.e. everyone). This doesn't help Ralph's self-esteem.
+
+## Webcomics
+
+## Western Animation
+
+-   **The Powerpuff Girls** are universally beloved by the citizens of Townsville, with the various criminals and supervillains being the **only** ones who hate them. Even several of their villains **respect** the Girls, with it being considered a rite of passage for kaiju to attack Townsville and survive a bout with them.
+-   Dan of **DanVs** is shocked to find out that this is how everyone from his graduating high school class feels about him. All his attempts to wreak havoc on their lives when they were in school, such as blowing up the valedictorian's science project, filling the football team's uniforms with itching powder, and releasing "toxic fumes" into the building's air vents, were carried out because he felt as though he was being subjected to "cliquish, exclusionary behavior" by people who ridiculed him — as it turns out, they all interpreted everything he did as "shenanigans" that made high school "bearable," recalling it all as being "awesome" and "hilarious". To his surprise and delight, they're all so ecstatic to see him that they cheer en masse, chant his name, and carry him on their shoulders. Chris, who went out of his way to participate in every school activity, is livid that nobody recognizes him or remembers his name and only recall him as being an "angry loner" and Dan's sidekick — he uses the miniature volcano that Dan made earlier to douse everyone in mud, but Dan receives all the praise and credit for what they call his "best prank ever".
+-   **Samurai Jack**: Aku's forces are the **only** ones who hate Jack. Everyone else adores and respects him for the good he's done; Episode XCVII is one big Continuity Cavalcade devoted to how much everyone Jack has ever helped and inspired see him as a beacon of hope in a world dominated by Aku. Even the bounty hunters at Da Samurai's Bad Guy Bar who Jack defeated in the past **respect** Jack. To drive the point home, in the Grand Finale, Aku captures Jack and announces his plan to publicly execute him to make an example of him and crush everyone's hopes. The exact opposite happens; rather than be disheartened, **everyone** Jack has ever helped storms Aku's fortress en masse to rescue him.
+
+---
