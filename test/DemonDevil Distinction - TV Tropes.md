@@ -1,0 +1,66 @@
+Demons on the left (dretches), vs. devils on the right (bearded devils)
+
+Demons, devils, same thing right? Well no, at least not according to these works.
+
+Oftentimes demons and devils are not seen as the same type of creature. They are often related, being evil spirits that do harm and come from Hell or a Hell-like place, but that doesn't mean they are interchangeable. In fact, one of these entities getting compared to the other may even be insulting to them. Insistent Terminology may crop up to highlight that they are different creatures, often coming from either a fiend or a skilled demon hunter to a newcomer unaware that there even _is_ a difference.
+
+It may be an alignment difference, a difference in ecological nature, or origin, but some works draw a distinct line between the two. Common variations are:
+
+-   Alignment: While both are evil, they are different types of evil. Often this manifests as demons being chaotic and most concerned with wreaking havoc, while devils are lawful evil and are more focused on making deals for souls and corruption through manipulation, and while sadistic in their own right, are less about destruction for its own sake. Alternatively, while both are innately bad, demons may have the capacity to change their nature and become, if not good, then at least neutrally inclined or less evil, while devils are evil to the core.
+-   Origin: Demons may be the natural fauna of their infernal realm, sometimes even spawned from the pit itself. Meanwhile, devils come from outside before making a home of Hell, like having been former humans or Fallen Angels or other once-good celestial beings. Or the reverse, with devils being the natives and the demons being the "immigrants." If the name "angel" doesn't fit neatly into the established world's pantheon, then devils will be classified as gods while demons are just a step above regular monsters.
+-   Who is in charge: One group (usually demons) are the "commoners" of the infernal caste system, while the other (usually devils) make up the leaders and aristocracy in this same system.
+-   Rarity: related to the above, perhaps all fiends are demons, but there is only one devil, who serves as king of the other fiends. Often this is where the term "_The_ Devil" starts getting thrown around.
+-   Appearance: As demons are often stated to be lesser than devils, their ability to pass for human isn't as refined as devils'. When it comes to inhuman forms, demons tend to be more openly monstrous — many are Mix-and-Match Critters, Living Shadows or Humanoid Abominations. Devils are usually depicted as either a Big Red Devil, a kaiju-sized monster (dragons are popular) or an Eldritch Abomination whose anatomy defies all logic. The true form of a demon can be scary, but the true form of a devil can utterly break one's mind.
+
+A subtrope of Our Demons Are Different.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime and Manga 
+
+-   _Black Clover_ has both demons and devils. Demons are colossal creatures of primal instinct and immense pools of magic power, born when a person is filled with hatred and negative mana from the Underworld. Devils, on the other hand, are a race of sentient creatures hailing from the Underworld capable of using magic grimoires and speaking with mortals. While devils are vastly smaller than demons, they are arguably more dangerous since they are possessed of intellect. Oh, and they like to torture mortals for fun.
+-   _Yu-Gi-Oh!_: The final arc puts a spin on Ancient Egyptian mythology by stating that supernatural beings are born from the quality of human hearts, with regular people spawning demons and nymphs while those of the most exceptional character can produce gods. Then there's Zorc Necrophades, a god of incredible power that is presumed to have existed before humanity, making him a god among gods.
+
+    Blogs 
+
+-   _Codex Inversus_: The Devils were one of the two original species of divine begins created by the Demiurge and tasked with overseeing creation, alongside the Angels. In the modern day, they rule the Holy Infernal Empire, a large and civilized nation. The Demons are a splinter group who opposed the truce between Hell and Heaven and tried to force the Empire back onto the warpath. They waged numerous civil wars to gain control of the Empire, but in the modern day are reduced to a few remote mountain holdouts. Physically, Devils resemble humans with horns and red skin, while Demons use magic to awaken monstrous latent traits such as wings, tails, tentacles or additional mouths, and are nowadays little more than monstrous savages thanks to centuries of inbreeding and self-induced mutations. Dæmons are a third splinter group that was forced to flee the Empire after a failed coup and rebuilt itself into a smaller kingdom farther out. The modern Dæmon Kingdom is part of a larger confederacy of tiny nations, and its people are known for their piratical traditions, overstated claims to being the true inheritors of the ancient infernal culture, and peculiar asymmetric horns, a recessive trait brought out by their small population size.
+
+    Film — Live-Action 
+
+-   _Godzilla: King of the Monsters (2019)_: Rodan, a bio-magmatic, ancient Terror-dactyl who is prone to violence and destruction, is compared to a demon<sup>note&nbsp;</sup> . Ghidorah, a three-headed, all-murdering hydra\-dragon who fell to Earth from the stars, is specifically compared to the Devil. Ghidorah is the Big Bad who's out to usurp the "God" of the setting (Godzilla), he's more genuinely evil than any other Titan, and he can't be tamed, pacified, or redeemed in any sense; whilst Rodan is ultimately capable of cohabiting the world with other species and implicitly even rejuvenating the Earth, but Ghidorah turns Rodan away from the latter purpose and instead makes him Ghidorah's vanguard who aids his destruction of Godzilla's and humanity's world.
+
+    Literature 
+
+-   In _Johannes Cabal_, it's a political distinction: demons obey the hierarchy of Hell and devils don't. As such, Satan is _The_ Devil because he's at the top and nobody can tell him what to do, whereas Zarenyia the devil is a succubus who struck out on her own. Since Summon Binding invokes the infernal hierarchy, devils can ignore it:
+    
+    **Zarenyia:** If I were a demon, you'd be doing the right thing. They are all mixed up in fealties and duties to one another. Terribly feudal, I know, but it seems to work for them.
+    
+-   _Myth Adventures_: "Demon" is a contraction of "dimension traveler", and refers to any being who travels to other dimensions. Deveels, a true species of beings, are a red-skinned, goat-legged Proud Merchant Race, whose travels mean that they're usually demons as well. Imps come from a dimension adjacent to the deveel home dimension and resemble them, save for their lighter skin and extreme gullibility that hampers their attempts to imitate their mercantile cousins.
+
+    Live-Action TV 
+
+-   _Reaper_: The Devil is the head honcho and his half-human offspring are tasked with collecting any damned souls who escape Hell. Demons are shown to exist both in Hell and on Earth and their relationship with the Devil is strained at best. At one point the Devil demonstrates the wide disparity in power between the two races by annihilating the leader of a demon rebellion without breaking a sweat.
+-   _Supernatural_: Demons are specifically a race of dark spirits that are the result of human souls having their humanity mangled and burned out of them until they're monstrous, twisted mockeries of their former selves. The actual Devil is Lucifer, a fallen archangel who predates the creation of human souls, invented the first ever demons to spite his Father, and who, despite his fallen status, is still physiologically an angel with angelic powers and weaknesses (mostly).
+
+    Tabletop Games 
+
+-   _13th Age_: Demons are creatures of pure chaos that emerge from the Abyss and seek to destroy the entire universe. Devils come from a place called the Pit, embody evil, act through stealth, calculation and guile, and respect power and hierarchy.
+-   _Blades in the Dark_: "Devil" is a generic term for any malicious supernatural entity (and can encompass ghosts, which are simply what's left of a human who didn't get burnt in electroplasm). Any devil is dangerous to living humans, and supernaturally terrifying to someone without the right training. A demon, however, is specifically a significantly more powerful entity of eldritch origins.
+-   _Dungeons & Dragons_ is the Trope Codifier and probably one of the biggest influences on this trope's prevalence in media. Demons and devils are both classified as "fiends" hailing from the Lower Planes, but are otherwise quite different creatures. The Chaotic Evil demons are endlessly spawned from the Infinite Layers of the Abyss, suspected by some dark loremasters to be the Primordial Chaos that predates existence. The Lawful Evil devils descend from Fallen Angels who battled the demons when the multiverse was young and the primary conflict was Order Versus Chaos, but became tainted by what they were fighting and were cast out of the heavens, taking up residence in the Nine Hells of Baator, where they convert damned mortal souls into new devils. The demons are trying to either tear down creation or corrupt it into something like the Abyss, while the devils are trying to "save" the multiverse from their ancient foes by bringing it under the devils' tyrannical rule. The conflict between the two is known as the Blood War, an eternal battle of Evil Versus Evil to see which fiendish faction will prevail and go on to wage war on the Upper Planes and the rest of the cosmos — as such, many parties across the rest of the alignment spectrum have a vested interest in ensuring that the demons and devils remain eternally stalemated, the demons' advantage of numbers checked by the devils' superior discipline and tactics. The differences between the two fiends also extend to their home planes: the Abyss is an endless anarchic battleground between competing demon lords, the strongest of which rule one or more layers, while Baator has a strict hierarchy that blends feudalism with corporate politics as the devils scheme their way up the ladder and seek to supplant their superiors. Oh, and there's a _third_ faction of fiends as well, the Neutral Evil yugoloths, native to the Gray Waste of Hades but currently residing on the Bleak Eternity of Gehenna. These amoral fiendish mercenaries side with whoever pays best at the moment, and thus profit greatly from the Blood War continuing indefinitely.
+-   _Magic: The Gathering_: Demons are large, powerful beings usually aligned with Black mana, the color of selfishness, amorality, and ambition; named demons are usually important movers and shakers in their home planes and wield powerful magic. Devils appear much more rarely and are aligned with Red, the mana of chaos, emotion, and elemental power; they mostly resemble small red-skinned imps, and are chaotically violent and mischievous beings whose potential to do harm is mostly limited by their lesser size and power. The devils of Innistrad are said to be the destructive urges of demons made manifest, and mostly serve their mightier masters.
+-   _Pathfinder_ largely reuses the same distinction as _Dungeons & Dragons_. Devils are Lawful Evil, come from Hell, tend to be more or less humanoid, and live in an extremely rigid mix between a bloated bureaucracy and an Orwellian police state, answering to a complex caste system beneath the Princes of Hell, who in turn answer to the seven Archdevils, who serve Asmodeus, the god of tyranny and contracts and _the_ Devil. Demons are instead Chaotic Evil natives of the Abyss, an endless maze of rifts and abysses surrounding the other Outer Planes, can have almost any shape imaginable, and live in a patchwork of petty domains, realms and empires ruled by demon lords. Hordes of demons are endlessly sieging the gates of Hell, although not usually more or less intensely that they do the other Lawful planes, Axis and Heaven.
+-   _Rifts_: While "Demon" is often used as a blanket term for evil extradimensional beings, true Demons come from Hades, while Deevils come from Dyval. They don't differ a whole lot in outlook or powers besides that, but they don't like each other very much and Deevils tend to become homicidal when confused for Demons.
+
+    Webcomics 
+
+    Western Animation 
+
+-   _The Cuphead Show!_: There's only one entity, the Big Bad of the show, who goes by "the Devil"; most of his various minions are referred to as "demons".
+-   _Disenchantment_: The demons resemble stylized silhouettes, while devils like Asmodel and Satan are Big Red Devils. It's implied that the devils are ascended demons, as Satan happens to be Luci's father.
+-   _The Real Ghostbusters_: "The Devil to Pay" establishes that there are many demons (which may be "minor" or "major") but only one Devil. This is revealed when Winston says that he's sold his soul to the Devil, and Egon corrects him that Dib (who they all sold their souls to) is only a minor demon, not the Devil.
+
+___

@@ -1,0 +1,485 @@
+_"The function of wisdom is to discriminate between good and evil."_
+
+What is morality? Morality is the system of good and evil and all the shades of gray that come in between.
+
+Good always triumphs in the end, right? Well, not always. The Balance Between Good and Evil gives many villains loopholes to slip through and make their grand return. Furthermore, the presence of the Anti-Hero or Worthy Opponent blurs the distinction between good and evil, and in well-done cases, forces us to reexamine our preconceptions of right and wrong.
+
+But what is especially interesting (or rather, _disturbing_) about the media is how it appears to _favor_ evil in its works. Squeaky-clean heroes are either prone to stretches of unendearing, Knight Templar\-style ruthlessness or hopelessly boring, while the villains inevitably have cooler costumes and powers. If they do a Heel–Face Turn, that coolness factor often goes bye-bye thanks to Redemption Demotion – not to mention that once they turn good, they usually don't get to live very long, or if they do, they suffer. No wonder why, for many good-turned-evil characters, Evil Feels Good.
+
+Some authors, it seems, can't stand any more of that preachy anviliciousness and turn the tables on the end-all symbol of goodness, writing Rage Against the Heavens plots in which God Is Evil. Fans aren't immune to the siren song of evil, either; an alarming number of them insist on putting Draco in Leather Pants or Rooting for the Empire.
+
+But it must be remembered that all tropes in this index refer only to good and evil as it appears in artistic media. In Real Life, good and bad choices are _Serious Business._ Please remember that Tropes Are Tools. This is merely a list of how many works in different media have confronted the issue of morality. There is no implication that any of the tropes listed below are either correct or incorrect about how they approach moral philosophy. Even moral philosophers still argue with each other about the correct way to approach moral philosophy!
+
+Note that many of these tropes have all real life examples blocked.
+
+___
+
+## Tropes:
+
+**Categories:**
+
+-   An Aesop
+-   Betrayal Tropes
+-   Blame Tropes
+-   Character Alignment
+-   Crime and Punishment Tropes
+-   Cynicism Tropes
+-   Dignity Tropes
+-   Discord Tropes
+-   A Dishonorable Index
+-   Entitled to This Index
+-   Everyone Has Standards
+-   Evil Tropes
+-   A Forgiving Index
+-   Frenemy Tropes
+-   Friendship Tropes
+-   Good and Evil for Your Convenience
+-   Goodness Tropes
+-   Gratitude Tropes
+-   Hedonism Tropes
+-   Heel/Face Index
+-   Hero Tropes
+-   Human Rights Issues
+-   Humility Tropes
+-   Idealism Tropes
+-   Indebted Index
+-   Index of Apologies
+-   Index of Consequences
+-   Index of Hospitality
+-   Index of Shame
+-   Index with a Heart of Gold
+-   Intolerable Tolerance
+-   The Jerk Index
+-   Karma
+-   Knight in Shining Tropes
+-   Loyalty Tropes
+-   Neutrality Index
+-   The Only Righteous Index of Fanatics!
+-   Peace Tropes
+-   Philosophy Tropes
+-   A Polite Index
+-   Pragmatism Tropes
+-   Prejudice Tropes
+-   Prideful Tropes
+-   Psychology Tropes
+-   Rebuke Tropes
+-   Responsibility Tropes
+-   Revenge Tropes
+-   Selfishness Tropes
+-   Selflessness Tropes
+-   Shades of Conflict
+-   Sour Grapes Tropes
+-   Stock Aesops
+-   Sympathetic Index
+-   These Tropes Should Help
+-   Tropes About Taboos
+-   Tropes of Innocence
+-   Truth and Lies
+-   Values Dissonance
+-   Villains
+-   Violence Tropes
+-   What Measure Is an Index?
+
+-   Above Good and Evil: You aren't really concerned with good or evil.
+-   Alignment-Based Endings: Your moral alignment determines the end of the game.
+-   All Crimes Are Equal: Theft is just as despicable as murder.
+-   Ambiguous Innocence: You're acting questionably because you _probably_ don't know any better.
+-   Ambition Is Evil: The path to success requires you to commit morally reprehensible deeds.
+-   Angel Face, Demon Face: When a sentient creature's appearance is based on the morality of their owner.
+-   Antagonist Abilities: How or where you get your powers determines your morality.
+-   Anti-Hero: You're a hero who doesn't have the moral qualities of a pure hero.
+-   Anti-Villain: You're a villain who doesn't have the traditional qualities of a pure villain.
+-   At Least I Admit It: Admitting that you do wrong makes you better than the other guy.
+-   The Atoner: A character seeking to make up for all of their bad deeds.
+-   Avenging the Villain: Killing the Big Bad gets their loved ones out for your blood.
+-   Bad Guys Do the Dirty Work: Villains do the things that you, the hero, can't bring yourself to do.
+-   Bad Is Good and Good Is Bad: Anything that is good, righteous, and pleasant is repugnant to you, while anything that is evil, disgusting, and unpleasant is delightful.
+-   Balance Between Good and Evil: Good and evil must exist in balance or else trouble abounds.
+-   Because I'm Good At It: You know that your job is unethical, but you continue doing it because you're good at it.
+-   Be All My Sins Remembered: You feel unworthy of praise due to past misdeeds.
+-   Before I Change My Mind: They'll do what you say, but may drop you if you take too long to say it.
+-   Befriending the Enemy: Perhaps the villain wouldn't be so evil if they had a friend.
+-   Being Evil Sucks: Villainy brings misery.
+-   Being Good Sucks: Heroism brings misery.
+-   Being Tortured Makes You Evil: Cold-blooded torture will warp even the purest hero into hellspawn.
+-   Beware the Honest Ones: How can you predict someone who acts against their own self-interests in the name of principles?
+-   Beyond Redemption: A hero believes a villain isn't worth redeeming anymore.
+-   Black-and-Gray Morality: The villains are pure evil, but our heroes aren't exactly saints themselves.
+-   Black-and-White Insanity: Someone has such an extremely binary moral worldview, that anyone who is even slightly opposed to their ideals must be one-dimensionally evil.
+-   Black-and-White Morality: The heroes are good and pure while the villains are evil and corrupt.
+-   Blue-and-Orange Morality: Morality that's bizarre, unconventional and distorted by normal standards.
+-   Both Order and Chaos are Dangerous: Order and chaos can be equally damaging if left unchecked.
+-   Brainwashing for the Greater Good: Brainwashing for a good cause.
+-   Bright Is Not Good: Beautiful, lively colors mean bad news.
+-   Broken Pedestal: The character you looked up to isn't as good as you thought they were.
+-   Buy Them Off: Avoiding owning up to your misdeeds through bribery.
+-   Can't Default to Murder: Avoiding killing again, because you've joined a more moral team than normal.
+-   Can't Kill You, Still Need You: Sparing someone's life because they further your goals.
+-   Caper Rationalization: You have a good reason for committing theft.
+-   Category Traitor: You betray your own people by not agreeing with them on certain topics.
+-   Chaos Is Evil: Chaos is a force for villainy.
+-   A Chat with Satan: You are confronted by a force looking to tempt you into darkness.
+-   Chevalier vs. Rogue: Opposite styles of fighting and thoughts, usually associated with good and evil respectively, but not always.
+-   Childish Villain, Mature Hero
+-   Chronic Hero Syndrome: You can never abandon somebody in need.
+-   Chronic Villainy: You can never be free of being evil.
+-   CIA Evil, FBI Good: The Central Intelligence Agency is villainous; the Federal Bureau of Investigation is heroic.
+-   Civil War vs. Armageddon: Juxtaposition of a mortal conflict where all sides have valid points, against The End of the World as We Know It overshadowing that conflict.
+-   Code of Honour: A voluntary moral code by which you live your life.
+-   Cold Equation: Sacrificing a life to save other lives.
+-   The Commandments: List of rules that must be followed at all costs.
+-   The Commies Made Me Do It: Betraying your allies because your loved ones are under threat.
+-   Complete Monster: You're a scumbag with no redeeming qualities.
+-   The Conscience: The character who acts as your moral guideline.
+-   Cool People Rebel Against Authority: You oppose authority figures in order to show how cool you are.
+-   Conscience Makes You Go Back: You refuse to help someone in need, but realizing it's not the right thing to do, you return to help them.
+-   Cowardly Lion: You're scared to death, but can be counted on to do the right thing.
+-   Cruelty by Feet: Hurting someone with your feet is almost always wrong.
+-   Cruel Mercy: Letting your enemy live with a Fate Worse than Death.
+-   Cruel to Be Kind: It may seem harsh, but it's for your own good.
+-   Cry for the Devil: You can't help but feel bad for the villain once you learn their history.
+-   Culture Clash: Moral differences between cultures cause problems.
+-   Culture Justifies Anything: If your culture is okay with it, then you can get away with it.
+-   Curious Qualms of Conscience: You feel guilt for doing what you felt obligated to do.
+-   Curiosity Causes Conversion: Joining the other side after learning more about them.
+-   Cuteness Equals Forgiveness: Cute and huggable excuses bad behavior.
+-   Dark Is Evil: Darkness is associated with villainy or immorality.
+-   Dark Is Not Evil: The dark is not always dangerous.
+-   Dark Shepherd: You get people to follow the path of righteousness by harshly reminding them of the consequences they face if they don't.
+-   Death Before Dishonor: A character commits suicide rather than do something immoral or against their moral code.
+-   Death by Materialism: Immoral greed costs you your life.
+-   Debate and Switch: Creating a moral dilemma, but never having to face it.
+-   Dehumanization: Stripping someone of their humanity status to justify killing them.
+-   Deliberate Values Dissonance: Outdated morals and values are part of the story because they match the setting.
+-   Designated Evil: What you did is evil because the plot demands that it be.
+-   Diligent Hero, Slothful Villain: A hardworking hero is contrasted with a lazy villain.
+-   Dirty Business: You do something heinous, but you feel remorse for it.
+-   Dirty Coward: You'll leave others to die to save your own butt.
+-   Disappointed by the Motive: You find the villain's reason for villainy to be petty or mundane.
+-   Disproportionate Retribution: Harsh vengeance for petty actions.
+-   Disproportionate Reward: Being rewarded excessively for a minor act of kindness.
+-   Do Wrong, Right: Scolding someone not for doing wrong, but for doing the wrong thing incorrectly.
+-   Due to the Dead: Treating the dead with utmost respect and care.
+-   Earn Your Happy Ending: After enduring hell, everything works out for you in the end.
+-   Easy Road to Hell: Because All Crimes Are Equal, any transgression you commit will damn you to Hell.
+-   Ecocidal Antagonist: Knowingly ruining the environment with pollution and destruction? Oh, you're evil, alright.
+-   Embodiment of Vice: You're a representation of an immoral act.
+-   Embodiment of Virtue: You're a representation of a moral act.
+-   Enemies Equals Greatness: People hating your guts proves you're better than them.
+-   Ethical Slut: You're an upright person who enjoys good, honest sex.
+-   Even Evil Can Be Loved: Villains have people who care about them, making them seem more human.
+-   Even Evil Has Loved Ones: Heroes aren't the only ones who have people they care about.
+-   Even Evil Has Standards: Certain things are so immoral even an immoral person won't do them.
+-   Even Mooks Have Loved Ones: The villain's minions have people they care about, which may affect their loyalty.
+-   Even the Loving Hero Has Hated Ones: If the All-Loving Hero hates someone, you know the hated character is really bad.
+-   Evil Desires Innocence: A villainous character is drawn to an innocent.
+-   Evil Running Good: Heroic groups are being used by a villain.
+-   Evil Versus Evil: Villains who oppose each other, one usually being more amoral than flat out evil.
+-   Exceptionally Tolerant: You or the society in which you live are totally accepting of everyone.
+-   Expendable Alternate Universe: Whatever happens to an alternate version of your reality is of no concern to you.
+-   Failure-to-Save Murder: You are blamed for a death that you allegedly could've prevented.
+-   Faith–Heel Turn: Losing faith in God turns you evil.
+-   False Friend: They claim to be your friend, but they're not.
+-   Family Honor: Preserving your family's reputation is important.
+-   Father, I Don't Want to Fight: Refusing to embrace a warrior culture because it's not in you.
+-   Felony Misdemeanor: That minor infraction you committed was worthy of harsh consequences.
+-   Fighting Back Is Wrong: When fighting back against a bully or delinquent it's considered a bad thing and the person can be punished or reprimanded for it.
+-   Forgiven, but Not Forgotten: Your crimes may have been forgiven, but no one is willing to forget about them.
+-   Forgiveness: Being able to let go of grudges.
+-   For Great Justice: The reason you fight is for justice and righteousness.
+-   For Happiness: You want everyone to be happy.
+-   Freudian Excuse: A traumatic incident led you down the path of evil.
+-   Freudian Excuse Is No Excuse: . . . But that doesn't mean you are forgiven for your evil deeds.
+-   Gentle Touch vs. Firm Hand: Should we guide others by being gentle and kind or harsh and mean?
+-   "Get Out of Jail Free" Card: You cut the villain a break and don't punish them.
+-   Go and Sin No More: Someone offers you forgiveness and insists that you atone for your crimes.
+-   God Is Evil: The traditionally good force is actually malevolent.
+-   Golden Moment: The sweet tender moment in which a lesson is learned.
+-   The Golden Rule: Treating people the way you want to be treated.
+-   Good Feels Good: Being a hero makes you feel great.
+-   Good Is Boring: Heroism is no fun.
+-   Good Is Not Dumb: Kindness does not equal ineffectiveness.
+-   Good Is Not Nice: Being the hero doesn't guarantee that you're the most pleasant fella around.
+-   Good Is Not Soft: Being kindly in nature doesn't prevent you from meting out harsh punishments.
+-   Good Is Old-Fashioned: Cynics see honor codes as outdated.
+-   Good Needs Evil: To an extent, evil brings the best out of good.
+-   Good Old Ways: Adherence to old-timey values and morals.
+-   Good Policing, Evil Policing: Law enforcement officials or agencies are morally contrasted within a story.
+-   Good Running Evil: Heroes take control of evil organizations.
+-   Good Versus Good: There is no evil at all on either side, just heroes who oppose each other.
+-   Good Victims, Bad Victims: There are some victims who aren't worthy of any sympathy.
+-   Good Witch Versus Bad Witch: Good fantasy creatures against evil ones of the same kind.
+-   Gotta Have It, Gonna Steal It: You want something so bad that you're willing to steal it.
+-   Graying Morality: The central conflict becomes less good vs. evil over time.
+-   Greater Need Than Mine: Putting other people's needs before your own.
+-   Grey-and-Gray Insanity: Somebody has an extremely middle-ground moral worldview, positing that everyone's on the same morally dubious level no matter how good-natured or evil their actions are.
+-   Grey-and-Gray Morality: Neither side is particularly good or evil.
+-   Guilt-Free Extermination War: The only way to end a war is by exterminating the other side.
+-   Happiness in Mind Control: You actually enjoy being mind-controlled.
+-   Happiness in Slavery: You actually enjoy being subjugated.
+-   Harmony Versus Discipline: To take control or to accept things as they are.
+-   He Who Fights Monsters: You start to become like the very evil that you fight against over time.
+-   Heaven Versus Hell: Battle in which the forces of Heaven and Hell duke it out.
+-   Helping Would Be Killstealing: Helping someone won't allow them to grow.
+-   Heroes' Frontier Step: You do something that shows off your heroic nature.
+-   Heroic Neutral: You want to be left alone, but you will do the right thing if evil threatens you.
+-   Heroic Vow: You swear to do something because you're the hero.
+-   Hero Insurance: Being the hero gives you free reign to tear up cities without being fined for it.
+-   Honor Among Thieves: Even crooks and rogues have a mutual morality.
+-   Honor Before Reason: Doing what you think is right regardless if it is the smart thing to do.
+-   Honor Is Fair Play: Being honorable means giving your opponents a fair fight.
+-   Honor Thy Parent: Parents are seen as deserving of deferential treatment, and people who don't render this are called out for it.
+-   The Horseshoe Effect: Opposing ideologies that aren't really that different.
+-   Humans Kill Wantonly: Humans kill because they can.
+-   Hypocrite: When a character doesn't practice what they preach.
+-   Idealist vs. Pragmatist: A person with ideals conflicts vs. someone who's willing to do whatever it takes to get results.
+-   I Did What I Had to Do: You justify your morally questionable deed by stating that it needs to be done.
+-   If You Kill Him, You Will Be Just Like Him!: Killing the enemy makes you as bad as they are.
+-   If You Taunt Him, You Will Be Just Like Him: Bullying your enemy back makes you as bad as they are.
+-   I Gave My Word: You made a promise and you vehemently stick to it.
+-   Ignored Epiphany: You had a realization, but you forget about it and continue with your business.
+-   Ignore the Fanservice: Being able to resist the temptress shows self-control.
+-   Incorruptible Pure Pureness: You are incapable of being tainted by evil.
+-   Intolerable Tolerance: Using tolerance as an excuse to act nasty towards others.
+-   The Irredeemable Exception: Most people can be turned to good, but there's always one who won't.
+-   It's All About Me: Only you matter.
+-   It's All My Fault: You feel you are to blame for everything.
+-   It's the Journey That Counts: The effort of reaching your goal is more important that the goal itself.
+-   Japanese Spirit: Power comes from your desire to better yourself.
+-   Jerk Justifications: You are justified in behaving like a jerk.
+-   Judgement of the Dead: The morality of your actions is evaluated by a supernatural being after you die.
+-   Justice Will Prevail: You're committed to bringing justice.
+-   Just Like Us: Turns out your enemy isn't as evil as you were led to believe.
+-   Karma Houdini: You get away scot-free with whatever bad thing you did.
+-   Karma Houdini Warranty: You finally get your comeuppance after having previously gotten away with past misdeeds.
+-   Karma Meter: Your behavior determines if you're a hero or a villain.
+-   Karmic Death: You die as a consequence of your wickedness.
+-   Karmic Jackpot: You do good deeds and get rewarded for them.
+-   Karmic Misfire: You not only get away scot-free with whatever bad thing you did, but an innocent person gets punished in your place.
+-   Karmic Protection: You're safe from any consequences as long as you're not actively malicious.
+-   Karmic Rape: Rape as a punishment for your wickedness.
+-   Karmic STD: Contracting a venereal disease as a punishment for your wickedness, often as a result of a sexual misdeed.
+-   Kick the Dog: You did a gratuitously cruel act.
+-   Knight Templar: You think you're a hero, but the methods you use are extremist and wrong.
+-   Know When to Fold 'Em: You're smart enough to know when you can't win something.
+-   Lack of Empathy: When being uncaring for the feelings of other people leads to bad behavior.
+-   Laser-Guided Karma: You eventually get what's coming to you after all you've done.
+-   Last-Second Chance: You're being offered one last chance to repent your evil ways.
+-   Lesser of Two Evils: Between the two choices you're given, you go with the less heinous one.
+-   A Lighter Shade of Black: Some villains happen to be not as bad as others.
+-   A Lighter Shade of Grey: The Anti-Hero who's more moral than the other.
+-   Light Is Good: Lightness is associated with heroism or being virtuous.
+-   Light Is Not Good: Light does not always equal good.
+-   List of Transgressions: A character gives out a list of crimes someone has committed.
+-   Little Brother Is Watching: Giving up a vice so as to not be a bad influence on your children/younger sibling(s).
+-   Loners Are Freaks: Being a loner for some reason will earn you the reputation of being an amoral deviant.
+-   Machiavelli Was Wrong: Using love and compassion instead of fear to gain respect.
+-   Madonna-Whore Complex: You can either be a sexual being, or a good person worthy of a Happily Ever After, not both.
+-   The Men First: You're concerned about your subordinates' safety.
+-   Metaphorically True: Lies that in essence could be true.
+-   A Million Is a Statistic: The many deaths of nameless masses isn't as heartbreaking as the death of a named fleshed out character.
+-   Mind over Manners: You don't use your mind powers on someone because it's unethical.
+-   Mirror Morality Machine: A machine that can invert your morality.
+-   Misery Builds Character: Undergoing trauma helps strengthen you.
+-   Misplaced Retribution: Punishing someone who isn't even to blame for anything.
+-   Monkey Morality Pose: Covering up your eyes, ears, or mouth to block out evil in the world.
+-   Monster of the Aesop: The Monster of the Week corresponds with the story's intended moral.
+-   Moral Dilemma: Your sense of morality is put to the test.
+-   Moral Disambiguation: A work or series goes from Grey-and-Gray Morality to Black-and-White Morality:
+-   Moral Event Horizon: You've done too much wrong to be forgiven for your sins.
+-   Morality Adjustment: You can't turn good or evil; you just slide up or down on the morality scale.
+-   Morality Ballad: Music that tells a story and preaches a moral.
+-   Morality Chain: This person's existence is your reason for behaving yourself.
+-   Morality Chain Beyond the Grave: You behave yourself because you feel that's what your deceased loved one would want of you.
+-   Morality Chip: Computer program designed to make A.I.s behave themselves.
+-   Morality Dial: Morality being something that can literally be switched on and off.
+-   Morality-Guided Attack: An attack that draws its power from how good or evil the user's opponent is.
+-   Morality Kitchen Sink: In this setting, there are different degrees of righteousness and evil in every character.
+-   The Morality/Mortality Equation: The worse your sense of morality is, the more likely your loved ones will die.
+-   Morality Pet: This person tends to bring out the best in you.
+-   Moral Luck: Your position as a hero or a villain is determined by the kind of situations you get yourself into.
+-   Morally Superior Copy: A clone or duplicate is morally superior to the original.
+-   Moral Myopia: You acting horribly is justified, but your enemies acting horribly back is a crime.
+-   Moral Pragmatist: Switching to the side of good because that helps your cause better.
+-   Moral Sociopathy: Someone might have their own (twisted) moral code, but they lack any actual concern for others' well-being.
+-   The Moral Substitute: Creating your own media because the media out now offends your sense of morality.
+-   More Hero than Thou: Arguing over who gets to sacrifice themselves for the greater good.
+-   Murder by Inaction: Not stepping in to save someone's life is tantamount to murder.
+-   Murder Is the Best Solution: Killing people being the easy way out.
+-   Must Make Amends: A character does a questionable thing and decides to make up for it.
+-   My God, What Have I Done?: When you experience crippling guilt and remorse for doing something bad.
+-   My Greatest Failure: Your moral failure can be a great motivator.
+-   Naughty Is Good: Ill-behaved children make the best heroes.
+-   The Needs of the Many: Some lives have to be sacrificed in order to save other lives.
+-   Neutrality Backlash: Refusing to choose a side bites you in the ass.
+-   Neutral No Longer: You finally choose a side after being neutral for the longest time.
+-   Never Hurt an Innocent: Despite being a villain, you're above harming people not involved in your conflicts.
+-   Never My Fault: You refuse to own up to your mistakes and instead shift blame to someone else.
+-   Never Speak Ill of the Dead: Insulting the dead is morally unacceptable, no matter how bad they were.
+-   Nice Guys Finish Last: Being a kind and amiable fella doesn't win a woman's heart.
+-   Nice to the Waiter: Treating the working class kindly is a sign of virtue.
+-   No Good Deed Goes Unpunished: Doing good deeds backfires on you.
+-   No-Harm Requirement: You can't harm your target.
+-   No Sympathy: You're not showing sympathy towards someone.
+-   Nominal Hero: You're considered a hero not because it's right, but because of personal motivation.
+-   No Place for Me There: You create a utopia in which you yourself can't live in due to your sins.
+-   No Points for Neutrality: Not choosing to be good or evil earns you nothing.
+-   No Sympathy for Grudgeholders: Refusing to forgive your transgressors makes you lower than dirt.
+-   Not Cheating Unless You Get Caught: If you don't get caught, then you didn't commit a crime.
+-   Not Even Human: Your enemies turning out to be non-human makes it easier to kill them.
+-   Not Quite the Right Thing: What you thought was the right thing turns out to be the wrong thing.
+-   "Not So Different" Remark: The similarity between two Foils (typically the protagonist and antagonist) is mentioned In-Universe.
+-   Not So Similar: You and your rival are only similar on a superficial level.
+-   Not-So-Well-Intentioned Extremist: A character who claims their horrid acts are for the greater good but actually has villainous and self-centered motivations.
+-   Obstructive Code of Conduct: Your honor code prevents you from performing an action.
+-   Occupiers Out of Our Country: War started for the purpose of forcing out foreigners.
+-   An Offer You Can't Refuse: An offer where the choices are "Accept or die."
+-   Omnicidal Neutral: Not choosing a side gives you free reign to kill everyone in your path.
+-   The Omniscient: You know all.
+-   Omniscient Hero: You know everything and are the hero.
+-   Omniscient Morality License: Knowing everything that will happen allows you to do what you want with others.
+-   Opinion-Changing Dream: You have a change of heart after having a dream.
+-   Opinion Override: You're offended on behalf of a group of people, despite the fact that they couldn't care less about the thing that should offend them.
+-   Oppose What You Suffered: Having experienced injustice, you fight it.
+-   Order Is Not Good: Order is tyrannical and oppressive.
+-   Order Versus Chaos: Tradition and rules vs. individualism and anarchy.
+-   Ordered to Cheat: You are ordered to win or lose a competition dishonestly.
+-   Outcast Refuge: A (relatively) safe place for outcast/oppressed groups.
+-   Pacifism Breaking Point: Your efforts to compromise with rival/enemy fail and peace is no longer viable.
+-   Passion Is Evil: Villains tend to lack rational thought.
+-   Pay Evil unto Evil: Doing mean things is justified if the victim is a Jerkass.
+-   Peer Pressure Makes You Evil: Going along with the crowd is detestable.
+-   Personal Gain Hurts: Using superpowers for personal gain screws you over.
+-   Personal Horror: The result of a violation of your own sense of morality.
+-   Pillars of Moral Character: The four ways of being an honorable person, as told by the Japanese.
+-   Post-Support Regret: A friend that you stood up for and stood by, despite their bad behavior does something unforgivable in your eyes, making you realize that they are not a good person and you were wrong to believe otherwise.
+-   Pragmatic Hero: Despite being the hero, you're willing to do things that villains normally would do.
+-   Principles Zealot: Nothing is more important to you than sticking to rules.
+-   Privilege Makes You Evil: Being handed everything in life makes you corrupt.
+-   The Promise: You make a promise and you stick to it to the end.
+-   Propping Up Their Patsy: A culprit proclaims the innocence of another suspect to conceal their own culpability or further their own agenda.
+-   Protagonist-Centered Morality: You're the protagonist, therefore anyone not on your side must be your enemy.
+-   Protected by a Child: You can't kill the villain because their child/younger sibling/etc. is protecting them.
+-   Prove I Am Not Bluffing: Doing something heinous to prove that you mean business.
+-   Punished for Sympathy: You are punished or called out for showing pity or kindness to someone who isn't deserving of it.
+-   The Punishment Is the Crime: People punish themselves by committing immoral deeds.
+-   Purgatory and Limbo: You go to a neutral afterlife if you're not good enough for Heaven nor bad enough for Hell.
+-   Pure Is Not Good: Purity is not always synonymous with goodness.
+-   Purity Personified: You have no traces of evil in you.
+-   Questionable Consent: Sex scenes that seem rapey, but it's unclear if it really was.
+-   Rape Is a Special Kind of Evil: Raping someone makes you the ultimate scum.
+-   Rebuilt Pedestal: A Broken Pedestal gets fixed.
+-   The Redeemer: Notable for helping others become better people.
+-   Redeeming Replacement: Taking an identity previously used for evil and using it for good.
+-   Redemption Rejection: Rejecting an opportunity to atone for your crimes.
+-   Redemption Failure: Circumstances force you away from redemption and return to your immoral ways.
+-   Reformed, but Rejected: You have reformed of your immoral ways, but others refuse to let go of what you have done.
+-   Rejected Apology: You reject another person's apology, confirming that you will never forgive them for offending you.
+-   Replacement Pedestal: You find somebody who inhibits the traits of the person you once looked up to and is actually good unlike the former.
+-   Resign in Protest: Some order, development, or decision by a superior goes against your conscience, and you quit the organization in response.
+-   Restored My Faith in Humanity: This person proves to you that humanity isn't all bad.
+-   Revenge: Choosing to pay a person back for committing a wrong against you.
+-   Revenge Is Not Justice: Revenge won't bring any justice, if you hurt them then you'll be just as bad or worse than them.
+-   Rightly Self-Righteous: You are justified in behaving like you're better than everyone else.
+-   Rousseau Was Right: Humans aren't evil until environmental influences push them.
+-   The Sacred Darkness: Darkness is just as important as light.
+-   Sacred Hospitality: Being hospitable to guests is important.
+-   Safe, Sane, and Consensual: BDSM is fine if both participants consent.
+-   Saintly Church: The Church that actually cares about you.
+-   Samaritan Syndrome: You feel it's your duty to save everyone.
+-   Satan Is Good: The traditionally evil force is actually benevolent.
+-   Save the Villain: Saving an evil person's life because it's the right thing to do.
+-   Scare 'Em Straight: Fear as a prime motivator for behaving yourself.
+-   Scoundrel Code: Code by which the unscrupulous live.
+-   Screw the Money, I Have Rules!: No amount of money can bribe you.
+-   Screw the Rules, I'm Beautiful!: Being good-looking lets you get away with crime.
+-   Screw the Rules, I'm Doing What's Right!: Doing what's right even if it gets you in trouble.
+-   Screw the Rules, I'm Famous!: Being able to get away with anything as long as you're popular.
+-   Screw the Rules, I Have Connections!: Having friends or relatives amongst the higher ups protects you from the law.
+-   Screw the Rules, I Have Money!: Being rich lets you get off easy.
+-   Screw the Rules, I Have Supernatural Powers!: Character uses superpowers to get away with breaking laws.
+-   Screw the Rules, I Make Them!: You make the rules and therefore you don't have to actually have to follow them.
+-   Scrubbing Off the Trauma: In reaction to feelings of guilt, disgust, or general trauma, a character vigorously, obsessively and/or compulsively cleans themself.
+-   Secretly Selfish: You have selfish motives behind your acts of altruism.
+-   Self-Disposing Villain: The villain kills themselves, thus sparing you from killing them yourself.
+-   Sensitivity Training: Undergoing being taught how to be more politically correct.
+-   Sexual Karma: Being a good person earns you a hot date, while being evil gets you an Abhorrent Admirer.
+-   Shades of Conflict
+-   Sheep in Sheep's Clothing: Suspected of being not as nice as you seem, but you are as you say you are.
+-   Shoot the Dog: You're forced to do something horrible for the greater good.
+-   Shouldn't You Stop Stealing?: Continuing to engage in a vice, despite no longer having any reason to.
+-   Silly Rabbit, Cynicism Is for Losers!: Cynical attitudes are wrong.
+-   Silly Rabbit, Idealism Is for Kids!: Growing up means having no optimism.
+-   Skewed Priorities: Being more concerned about something mundane than what's at stake.
+-   Slave to PR: Your image greatly affects you.
+-   Slavery Is a Special Kind of Evil: Owning other human beings like livestock is the ultimate evil around.
+-   Sliding Scale of Idealism Versus Cynicism: Optimism vs. Pessimism.
+-   Sliding Scale of Unavoidable vs. Unforgivable: At what point is your actions considered morally wrong?
+-   Smiting Evil Feels Good: Getting off on killing bad guys.
+-   The Sociopath: Someone who is psychologically incapable of feeling any real empathy or compassion for other people will have no moral qualms about hurting them, if doing so can get them whatever they want.
+-   Sparing the Aces: Sparing someone's life because they're exceptionally gifted.
+-   Sparing Them the Dirty Work: Someone kills/harms another to save someone else from having to dirty the deed.
+-   Strike Me Down with All of Your Hatred!: The villain goads you into killing them.
+-   Success as Revenge: Giving up on revenge for your own benefit.
+-   Sudden Principled Stand: You suddenly refuse to take part in a crime, despite having had no objections to previous crimes.
+-   Suicide Is Shameful: Taking your own life is a detestable and cowardly move.
+-   Symbolic Weapon Discarding: Leaving behind, discarding, or destroying a weapon in order to make a statement about your moral position.
+-   Sympathetic Murder Backstory
+-   Sympathetic Slave Owner
+-   Sympathy for the Devil: You, the hero, feel pity for the villain upon learning what drove them to villainy.
+-   Sympathy for the Hero: You, the villain, feel pity for the hero once you learn what they've gone through.
+-   Tautological Templar: You're on the right side and are therefore incapable of doing wrong.
+-   Team Mercy vs. Team Murder: A conflict of interest between two parties with the same goal, but one side is willing to kill to achieve it while the other believes mercy is an option.
+-   Tears of Remorse: Crying because you genuinely feel bad about what you've done.
+-   That's What I Would Do: When the hero and villain aren't so different, they'll know exactly what the other would do in a situation.
+-   These Hands Have Killed: Staring guilt-riddenly at your hands after killing somebody.
+-   They Were Holding You Back: When a villain or an unscrupulous Anti-Hero believes that a Morality Chain is holding your true potential back.
+-   Thicker Than Water: Family always comes first, regardless of circumstances.
+-   This Is Not My Life to Take: Refraining from killing someone because you feel it's not your place to do so.
+-   Thou Shalt Not Kill: Taking someone else's life is horrible.
+-   Thou Shalt Not Kill Muggles: Killing non-superpowered people is a crime.
+-   To Be Lawful or Good: To do the honorable thing or the compassionate thing?
+-   Totalitarian Utilitarian: Wanting to improve people's lives through any means necessary.
+-   Toxic Friend Influence: Your friends can make you become less moral.
+-   Treachery Is a Special Kind of Evil: Betraying someone makes you a true scum.
+-   A True Hero: A person or group proves themselves more worthy of the title of "hero" than others.
+-   Turn the Other Cheek: Responding to cruelty with kindness.
+-   The Unapologetic: You feel no remorse and refuse to apologize for your crimes.
+-   Unicorns Are Sacred: Unicorns are Purity Personified, so killing one crosses you over the Moral Event Horizon.
+-   Unscrupulous Hero: A hero who is repugnant in morals, but is considered good because the people they fight are worse than them.
+-   Values Dissonance: What's okay in one culture is immoral in another.
+-   Values Resonance: Some values and morals age better than others.
+-   Video Game Cruelty Punishment: Even though the game encourages immoral behavior, actively engaging in it will get in you in trouble.
+-   The Villain Must Be Punished: The villain must pay for their crimes; merely foiling their plans isn't enough.
+-   Villainous Badland, Heroic Arcadia: Villains live in a terrible environment, while the good guys live in a more idyllic setting.
+-   Villainous Ethics Decay: Older villains used to have standards; the new ones don't.
+-   Villain Takes an Interest: You want to take the hero under your wing because you and them are a lot alike.
+-   Villainous BSoD: You suddenly feel guilty about your villainy.
+-   Violence Really Is the Answer: The only way to win is through violence and killing.
+-   Virtue/Vice Codification: List of what's good and bad.
+-   War Crime Subverts Heroism: The heroes commit a war crime to show how wars are not black and white.
+-   Warts and All: The legendary hero you idolized turns out to be more horribly flawed than you thought.
+-   Was It Really Worth It?: You wonder whether everything you went through to achieve your goal was really worth it.
+-   Was Too Hard on Him: You feel guilt for punishing a loved one harshly.
+-   Well-Intentioned Extremist: You believe that your goal justifies your immoral actions.
+-   What If God Was One of Us?: When God lives amongst us humans.
+-   What Is Evil?: Good and evil are meaningless to you.
+-   What Is One Man's Life In Comparison?: You are asked to give up your life for the sake of other lives.
+-   What Measure Is a Mook?: Not caring at all about having to slaughter your way through nameless grunts.
+-   What the Hell, Hero?: You, the hero, did something bad and your allies call you out on it.
+-   What You Are in the Dark: How you are in private is different from how you are in public.
+-   White-and-Grey Morality: The heroes are pure good, but their opponents aren't actually evil.
+-   Wicked Wastefulness: Wastefulness is considered a sign of bad character while frugalness is a sign of good character.
+-   Wife-Basher Basher: Villains hurting women is your Berserk Button.
+-   Won't Do Your Dirty Work: Someone refuses to do morally questionable task that they were ordered to carry out.
+-   Would Be Rude to Say "Genocide": You want to off a group of people, but you don't want it to be considered genocide.
+-   Would Harm a Senior: Your opponent being an elder shouldn't matter when it comes to fighting.
+-   Would Hit a Girl: Your opponent's gender shouldn't matter when it comes to fighting.
+-   Would Hurt a Child: Your opponent being a child shouldn't matter when it comes to fighting.
+-   Would Not Shoot a Civilian: Killing innocent bystanders is a detestable action.
+-   Would Not Shoot a Good Guy: If they're not evil, then you can't hurt them.
+-   Wouldn't Hit a Girl: Hitting a woman is just not in you.
+-   Wouldn't Hurt a Child: Harming a child is just not in you.
+-   Wrongful Accusation Insurance: You get away with crimes you actually did commit as opposed to the one you're accused of having committed.
+
+___

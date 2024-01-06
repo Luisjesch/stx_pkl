@@ -1,0 +1,124 @@
+_I've seen the future, you know what it is!? It's a 47-year-old virgin sitting around in his beige pajamas, drinking a banana-broccoli shake, singing "I'm an Oscar Meyer Wiener"! You live up top, you live Cocteau's way: what he wants, when he wants, how he wants! The alternative? Come down here, maybe starve to death._
+
+Everyone has a different idea about what the most important aspect of life is. Some would say it is prosperity and to them, a restrictive governing body that provides them with a Utopia is worth sacrificing freedoms for. Others, however, will refuse to bow down and would prefer to be responsible for their own future regardless of the cost. They view freedom as the ultimate right and will leave or refuse to join the prosperous nation, as long as they keep their independence. Those who decide not to become citizens _know_ what they are giving up. To them, though their nation might be a Crapsack World, at least it is _theirs_ to do with as they please.
+
+Could be used in Character Alignment systems to portray the difference between Law and Chaos. When it comes to Chaotics, stifling their freedom is the worst thing you could do to them: it's leaving them with no air to breathe, it makes them physically suffer and decay. Freedom, or the _illusion_ thereof, is as vital to them as water and food. Often, they can deal with harsh living conditions the same way Lawful people can endure a lack of freedom: for either party, it's a minor inconvenience in the face of what they really, viscerally need.
+
+The exact nature of the freedom to be sacrificed varies. At one extreme, a character may object to being herded into a Bread and Circuses Dystopia, where surveillance is omnipresent, any kind of dissent (no matter how minor) is punishable with a trip to The Gulag and everything, even jobs and marriages, are arranged by the state; at the other extreme, a character may reject living under a perfectly reasonable government because it would impunge on their 'freedom' to do whatever they want to others because they are strong and the others are weak, which includes but is not limited to murdering them for petty slights, enslaving them, and sexually assaulting them. Note that these are, again, extremes, and that usually examples fall somewhere in the middle.
+
+Could be considered an ideological Pyrrhic Victory. See also Hobbes Was Right, as well as Space Cossacks for cases when there are other motivations besides simply being free. The Proud Warrior Race Guy often proclaims the liberty side, seeing that they would have to change Klingon Scientists Get No Respect for many occupations to get the prosperity. This trade-off is frequently explored through a Caged Bird Metaphor. For slaves, may ultimately result in I Die Free.
+
+Please note: This is not a place to vent about political opinions, so No Real Life Examples, Please!.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+     Anime & Manga 
+
+-   An undercurrent of the Asranian civil war in _Area 88_. In the OVA, Saki tells Shin that his grandfather was a progressive, but objected to using foreign capital to develop Asran.
+    -   In the manga, Saki explains to Mickey that Asran doesn't export its oil because of the problems that would erupt from foreign capital.
+    -   Abdael rejects this approach. Part of the reason why he initiated Asran's civil war was that he wanted to use foreign capital to develop Asran.
+-   _Heroic Age_: One of the men from Titarros remarks that "Prosperity is a chimera if the price is enslavement."
+-   In _One Piece_, Luffy expresses little to no interest in treasure and doesn't care if One Piece even exists. His main motivation for becoming Pirate King is to be able to have the most freedom. This goes even beyond safety or warnings, from fellow pirates and allies, or Lawful marines. He once declared war on the entire World Government because it got in the way of him saving his crewmate. He'll do whatever the heck he wants, and damn the consequences; we're lucky he's a good guy.
+-   _Speed Grapher_: Suitengu wins and manages to crash the entire world economy by orchestrating the intentional nosedive of an all-encompassing international megacorporation, raising an army of sex-fueled superpowers, and planting a hefty dose of C4 in the world's largest elitist rape club. The bad news is, every country on Earth has been downgraded to a third-world country. The good news is, with everyone in the same boat, all those worldwide humanitarian efforts that were intentionally put on the back-burner by the status quo have started up under modest budgets and an interested labor force. Whether this leaves everyone better off or not is basically glossed over in favor of showing off how happy the main characters are.
+
+     Comic Books 
+
+-   In the _The Life and Times of Scrooge McDuck_ chapter, "Buckaroo of the Badlands", Teddy Roosevelt inspires Scrooge by telling how he chose the life of a cowboy over a life of privilege.
+    
+    "Being born wealthy is no accomplishment! That's why I became a cowboy, to find the life I missed by not being born poor like you! To make yourself rich through the glory of hard work, with the beat of a hardy life in your veins - By Godfrey, _that's_ an accomplishment!"
+    
+-   In _Runaways_, the original team were all children of obscenely wealthy families, but discovered their parents were members of a supernatural apocalypse cult, and hit the streets to escape. After their parents' deaths, they chose to live off the grid in a base under La Brea Tar Pits.
+-   In _Superman: Red Son_, the Global Soviet Union rules over the whole world, save the Divided States of America. Despite people all over the world living in a socialist utopia, the Americans remain independent, living in a war-torn country, to avoid being ruled over by Shadow Dictator Superman.
+-   In _V for Vendetta_, V just about completely destroys England's fragile economy in order to "free" the public from the Norsefire government.
+
+     Fairy Tales 
+
+-   _Aesop's Fables_: "The Wolf and the Dog" is about a starving wolf meeting a well-fed dog. The dog suggests that the wolf might live with him and his master, but then the wolf remarks that there's a bare strip in the fur around the dog's neck - and the dog explains that he's on the chain/leash usually, and his master just let him free temporarily. The wolf decides to prefer freedom even if this means he stays hungry.
+
+    Film — Live-Action 
+
+-   In _Demolition Man_, the Mega City San Angeles, built in the wake of a massive earthquake, is controlled by benevolent despot Dr Raymond Cocteau who runs it as a Crapsaccharine World where swearing is a finable offence, sex and even kissing are taboo and instead carried out in Virtual Reality, and the police are totally incapable of dealing with violent crime...because it is otherwise a pacifistic utopia that doesn't really _have_ violent crime. It is rejected by Edgar Friendly and his underground society who don't like being told what to do or having their lives micromanaged, but this means they are cut off from the San Angeles economy and periodically raid it for food, with Cocteau painting Friendly as a dangerous terrorist whose followers could easily have happy and prosperous lives if they simply saw sense and accepted his rule. Cocteau proves so insecure about this clash of philosophies that he ends up releasing the Ax-Crazy sociopath Simon Phoenix from prison to assassinate Friendly, with predictable results.
+-   _The Matrix_: Everyone who lives outside of the Matrix has basically chosen this. Cypher, however, has second thoughts... Of course, since the Matrix is a representation of the world as it was in 1999, not everyone has prosperity there anyway. Agent Smith states a utopia was once attempted, but no one would accept the programming, with it being seen as a dream they "kept trying to wake up from" and "entire crops were lost."
+    -   _The Matrix Reloaded_ goes on to downplay this. The Architect responsible for constructing the Matrix reveals this happened _five_ times. Even though the second Matrix was considerably morbid compared to the first, humans still couldn't accept their new reality, no matter how much real pain and suffering it had. Then the Oracle realized the problem was that humans had to have it 'their way', that it had to consciously make the choice (even if they didn't remember it) to live in a dream world. 99% of humanity agreed to be sheep, and the rest built military junta resistances in the real world under the premise of seizing further power on their own and disguising it as freedom. The point is, every human doesn't _care_ about _other_ peoples' liberties nearly as much as their own... and the Architect predicts that one day, a human with sufficient power (The One) will place his liberty over all of humanity's liberty _and_ prosperity. He's right.
+-   In _Star Wars_ lore, this was much more or less a doctrine of the Sith Order. Compared to the Jedi order who represented more of the Prosperity side, ordaining those in the Order to give up most of their individuality to become a unified force in pursuit of peace and justice, the Sith on the other hand shook off this notion in favor of pursuing power and enrichment for themselves.
+-   _V for Vendetta_: One of V's points during his "The Reason You Suck" Speech to all England (and/or humanity in general) is that they have accepted trading their freedoms in exchange for security. He does mention that he doesn't mean that they should go back to the Stone Age, but that they need to stop stagnating.
+-   _The World's End_ tackles this theme early on in a minor way, with small pubs losing all of their personality and becoming bland (but profitable) carbon copies of each other. This foreshadows the "humans vs The Network" conflict.
+
+    Literature 
+
+-   _The Dispossessed_: The people of Anarres are descended from anarchists who fled the egoism and social stratification that dominated the world of Urras. Anarres is a barely habitable desert moon, and life there is frugal at best, but the Anarresti enjoy complete equality and the knowledge that nothing they possess came from exploiting another person. However, it's a plot point that the Anarresti are becoming dogmatic in their thinking, and shunning anyone who doesn't conform to established custom. Hence the book's tagline, "An Ambiguous Utopia".
+-   In _Going Postal_, this forms the core of the enmity between Reacher Gilt and Lord Vetinari. Gilt, a Randian archetype and a completely Corrupt Corporate Executive who thinks nothing of screwing over his fellow man (including theft, embezzlement, and outright murder) for fun or profit, represents the 'liberty'. Vetinari, a Machiavellian autocrat and Thud-master who believes the most important part of freedom is the freedom to take the consequences for your own follies but ultimately given second chances (an 'angel'), if you can use it to turn your life around, represents the 'prosperity'. After Vetinari successfully guides protagonist Moist von Lipwig into defeating Gilt, it's implied Gilt intentionally killed himself in the epilogue by stepping into a pit of spikes rather than do like Moist and take a government job.
+    
+    **Vetinari:** You have to admire a man who _really_ believes in freedom of choice. Sadly, he did not believe in angels.
+    
+-   In John C. Wright's _The Golden Transcendence_, Atkins recounts how his family preferred liberty to prosperity — they didn't do what anyone else told them to do.
+-   In E. D. Baker's _Fairy Wings_, goblins grumble about how oppressive the reign of Oberon and Titania was. Why, in the old days, trolls could set up an inn by the wayside and the next day everyone would come to eat a nice meal of roasted travelers.
+-   _Paradise Lost_: Satan would rather reign in Hell, than serve in Heaven, and his minions go right along with him. They are all in a literal Self-Inflicted Hell, and can go back to Heaven at any time they wish, yet are staunchly determined to remain "free".
+-   _A Song of Ice and Fire_: This is how the wildlings or "free folk" (the two names speak volumes about what the two cultures think of each other) view themselves, preferring to live in a very harsh, cold, and sometimes giant-infested land outside the boundaries of the realm, than to be "kneelers".
+-   One of the many quirky students from _Wayside School_ is a Nice Guy named Myron who just wants freedom. He's granted this in a chapter where some mysterious men in suits trade him his safety for absolute freedom. This allows him to do whatever he wants with no consequences with impunity, which isn't much since again he's pretty chill, but he did choose that over safety.
+-   In _The World and Thorinn_, Thorinn is eventually left with the choice of whether to take control from The Monitor and ensure the freedom of humanity or choose not to take control and ensure the survival of humanity.
+
+    Live-Action TV 
+
+-   _Firefly_: Mal and his crew choose to live hand-to-mouth as far from The Empire as they can get to avoid the government after losing the war of unification.
+-   _Game of Thrones_: Ygritte admits the wildlings have poorer industry and weapons than the rest of Westeros, but they are free.
+-   _Star Trek: The Original Series_ episode "Space Seed". After Khan's attempt to take over the Enterprise fails, Kirk says that he and his followers can either be punished under Starfleet regulations (which would presumably involve a long prison sentence) or become colonists on an uninhabited planet.
+    
+    **Khan**: Have you ever read Milton, Captain?  
+    **Kirk**: (Nods) Yes. I understand.  
+    _(after Khan is escorted out to be sent into exile)_  
+    **Scott**: It's a shame for a good Scotsman to admit it, but I'm not up on Milton.  
+    **Kirk**: The statement Lucifer made when he fell into the pit. "It is better to rule in hell than serve in heaven."
+    
+    -   Later, however, he blames Kirk for the hardship<sup>note&nbsp;</sup>  his people experienced on the planet, including losing his wife, and goes on a quest for revenge.
+    -   In _Star Trek: The Next Generation,_ _Star Trek: Deep Space Nine,_ and the beginning of _Star Trek: Voyager,_ The Maquis hold this ideal. They would rather live on the run as terrorists than be re-settled, even if it means becoming enemies of both The Cardassian Union and The Federation.
+-   In _Supernatural_, this is Sam and Dean's motive for rejecting the angels' plan to destroy the earth and rebuild it as a heaven. After they succeed in averting the Apocalypse, Castiel sums it up.
+    
+    **Castiel:** You got what you asked for, Dean. No paradise. No hell. Just more of the same. I mean it, Dean. What would you rather have? Peace - or freedom?
+    
+
+    Tabletop Games 
+
+-   This is one reason why Red in _Magic: The Gathering_ doesn't get along with White. Red prioritizes freedom and passion while White focuses on order and peace to the exclusion of all else. In broader terms, their conflict boils down to Order vs. Chaos.
+-   _Mutant Chronicles_: Most people who decide to go freelance make this choice. However, most of them can't hack the insecurity and figure a steady paycheck, pension, and medical benefits are worth the loss of liberty.
+
+    Video Games 
+
+-   This is the main point of _Assassin's Creed_. Both the Templars and the Assassins want peace and prosperity for all mankind. It's just that the Templars think peace can only be achieved by enslaving everyone, whilst the Assassins think that it can only be gained, or is best gained, when we are free to pursue it, even if that means great pain. The fact that both groups ultimately want the same thing hasn't gone unnoticed by some people on both sides — attempts were made in the past to end the conflict peacefully so they could work together to make a better world but they always failed.
+-   In _City of Heroes_ if you create your character in Praetoria, the squeaky-clean police-state, you defect to Primal Earth (the main game setting) at level 20. Either because you believe that liberty is worth the chaos that comes with it, or because it'll make being a villain easier.
+-   _Deus Ex Universe_:
+    -   _Deus Ex_ poses this as its final question: The Aquinas Hub built by Majestic 12 allows whoever controls its central AI to control all global communication, since every phone call, satellite transmission, and long-range electronic signal is re-routed through the hub and can be monitored, blocked or altered at will. Three factions (four if you include the Big Bad, but you cannot side with him) want the Hub for their own ends: HELIOS represents the Prosperity end of the scale, leaving an AI with no restraints on their power and a directive to make the world safe and prosperous in charge of humanity's future. Morgan Everett and the Illuminati represent a middle point, where the Hub is stewarded by an Ancient Conspiracy whose membership and goals may change as new members are brought on and old ones die, and where (hypothetically) anyone from the outside may join if found worthy. Finally, Tracer Tong represents Liberty by wanting the Aquinas Hub destroyed, which will knock out all global communication and cause civilization to temporarily fragment, which of course means an immediate loss of prosperity for everyone but maintaining the long-term freedom for humanity to self-determine.
+    -   _Deus Ex: Invisible War_ has a similar choice to its original. HELIOS again represents Prosperity, wishing to implant every human being with nanotech so it can function as a hub for a global direct democracy where it has direct access to every human being's inner thoughts and desires and can shape society according to global consensus. The Illuminati again represent the mid-point, wanting HELIOS destroyed so their own AI alternative can take over and institute a system similar to their ending in the first game, leaving humanity unaltered but under their control. Finally, Leo (if you rescued him earlier) wants to put all the conspiracies out to pasture with a bullet to the head and let people make up their own minds. Picking his ending leads to humanity exterminating itself and the Omar inheriting the world. The Templars represent an outside to this dichotomy, as they're Evil Reactionaries who want to ban all human augmentation and institute a global purge: They create a theocratic feudal state if they come out on top, hence providing neither liberty nor prosperity.
+-   Daichi's ending in _Devil Survivor 2_ leads to this kind of scenario. Daichi says he'd rather destroy the one who controls the world and stop him from toying with humanity than let one of the other factions depend on him to recreate their 'perfect world'. The ending leads to the entire world outside the barrier being deleted and replaced with an endless, lifeless ocean to fill the void left behind, but at least humanity is completely free of supernatural influences forever. Or at least a week at most before the next divine being comes by and takes out what's left of humanity, which it can't do in any of the other endings bar the unobtainable canonical one.
+    -   Al-Saiduq's ending is a lesser twist on the same line of thinking (and also a twist on the traditional 'Chaos' endings to _Shin Megami Tensei_ games), with the Protagonist and Al-Saiduq coming to the conclusion that it is better to give up on the old world entirely and build a new one from scratch than continue to live on the sufferance on the current world and its controller. This ending also leads to the death of Polaris and the deletion of the old world, but Al-Saiduq becomes a new world and its god and swears to humanity that he will not interfere in their freedom in any way. Given all the hoops you must jump through to qualify for this ending in the first place, it is extremely likely that he means it.
+-   Solas and Iron Bull's arguments about the Qun in _Dragon Age: Inquisition_ have this vibe with Solas in the Liberty camp and Iron Bull in the Prosperity camp.
+-   Done in _Fallout 4_ should you side with the Railroad or the Minutemen and help them destroy the Institute. The Institute's technological marvels in the fields of robotics and bioscience are lost, but at least the Commonwealth is still in the hands of the wastelanders who live in it, rather than the testing ground for the amok experiments of a handful of shady scientist types.
+-   The Wild Card ending to _Fallout: New Vegas_ has The Courier create an independent New Vegas free of the machinations of Mr House, the NCR and the Legion, for the reason that the people of the Mojave deserve to govern themselves without any outside interference. The final mission and achievement for this is literally titled "_No Gods, No Masters_".
+-   The main conflict between the Collective and the Resistance in _Forged Battalion_ comes down to this, with the Collective holding that the prosperity brought by them is worth the totalitarian control they hold, while the Resistance believes in individual freedom.
+-   This is pretty much the entire point for "followers" of Big Boss' supposed ideology in the _Metal Gear_ universe.
+-   _Overwatch_: The main conflict between Lucio and Vishkar Corporation (and to a small extension, their Noble Top Enforcer, Symmetra) boils down to this. Vishkar believes that Prosperity and order prevails over all else, they have built prosperous cities where people are living in great standards and believes freedom is just an illusion that causes more harm, so they strove to make the world more prosperous, even if they have to resort to corrupt methods like slavery or destroying cultural icons. At least that is what Symmetra believed, but she's starting to doubt whether they're really aiming for prosperity of all like she's doing or just trying to line in more profit for them or imposing their will. On the other hand, Lucio is the guy who believes in Liberty so greatly that he drove Vishkar out when they went too far in oppressing his home. While he's now rich because of his rebellion making him an international superstar, his favela home still remained dirt poor, but he considers it a fair price, they still retained their freedom and he can still deliver his fortune to his home.
+-   This is the demon's path in _Shin Megami Tensei: Strange Journey_. Not to be confused with the "bad" path, the game makes it fairly clear there is no bad or good path, the demons want everyone to be free in all things, which would result in a dystopian planet with no society because everyone would do what they damn well want, and the angel's path leads to a world where everyone is happy, because they have no other choice but to be happy, and are brainwashed into so. You can also Take a Third Option, as per series norm.
+-   This is the general stance of Resistance troops and senior staff in _XCOM 2_. An example, where Dr. Tygan acts as a devil's advocate in this case:
+    
+    **Bradford:** ADVENT's got their propaganda machine working overtime... we're still seeing a steady flow of migrants heading into the cities.  
+    **Dr. Tygan:** I'm not sure they have to do all that much convincing at this point.  
+    **Bradford:** ...And I'm not sure I'd trade having a chip in my head for a few hot meals and the cure for the common cold.  
+    **Dr. Tygan:** Maybe not — but what about the terminally ill? The elderly, or the disabled? The aliens can offer them something we can't — something most people would trade anything for.  
+    **Bradford:** You're wrong about that, Doctor. We can offer them freedom, even if it means they have to endure the pains of being human.
+    
+    -   Of course, this goes away when it's revealed that ADVENT plans to genocide mankind to save the Elders.
+    -   _XCOM: Chimera Squad_: The Final Boss rants that ADVENT and its overlords will come back if Earth doesn't form a sufficiently prepared military dictatorship - to stay "Ever Vigilant" under XCOM's motto. Most of the squad calls him out for betraying the _purpose_ of XCOM by suppressing the people of Earth.<sup>note&nbsp;</sup> 
+
+    Webcomics 
+
+-   In _Sandra and Woo_, Woo objects to the notion of freedom without anyone to give him belly rubs.
+
+    Western Animation 
+
+-   _Arcane_: Some members of the Undercity, including his own daughter Vi feel their de-facto leader Vander has gotten too comfortable with choosing to keep the peace over fighting back against their Piltover oppressors. Vander is unwilling to pay the price war with topside would bring, especially as a father of four. In an unusual twist, the biggest advocate is the Big Bad Silco, who insists that no price is too high for liberty.
+
+___

@@ -1,0 +1,213 @@
+A character (either heroic, villainous, or both) which bears a large resemblance to one of the various models of _Terminators_, whether the mechanical "robotic" versions of the creatures or the versions formed from Nanomachines or metallic liquid.
+
+Pastiches of these characters typically have at least three of the following traits.
+
+### Physical Resemblance to a Terminator
+
+1.  They are a Killer Robot or an Artificial Human created to infiltrate or kill.
+2.  They look human on the outside, but on the inside are partially or mostly cybernetic.
+3.  Glowing Mechanical Eyes, especially with a red tone.
+4.  The "T-800 types" are huge and musclebound, while the "T-1000 types" look moreso like a Chrome Champion.
+5.  They are aesthetically "cool", often dressed in copious amounts of leather and/or wearing sunglasses that make them seem more cold and inhuman. (Alternatively, they may disguise themselves as a police officer or figure of authority.)
+6.  Often seen going Guns Akimbo or chainsaw-gripping BFGs, or changing their limbs into weapons.
+7.  Lots of first-person camera shots which showcase Robo Cam: a Heads-Up Display giving mission-critical information.
+8.  Accumulates damage or undergoes a transformation which reveals more of its true robotic nature underneath.
+9.  Some variations may repair themselves, regenerate from shattered pieces or cause an assailant to be Left Stuck After Attack.
+
+### Behavior Resembling a Terminator
+
+1.  They are some sort of Stoic, Implacable Man or Super-Persistent Predator that will attack its target(s) relentlessly,
+2.  Have a tendency to enter their mission completely in the nude.
+3.  Non-disguised versions are often used as Mecha-Mooks (particularly during a Robot War).
+4.  They are vastly superior to humans in ability, to the point that any ordinary human has no chance against them other than to Run or Die.
+5.  Chasing their target with The Slow Walk, or inside of an extremely large and imposing vehicle.
+6.  They may undergo a character arc in which they choose to Pick Your Human Half, or give in to the machine side.
+7.  Are probably opposed by either another of their kind, or someone specifically sent to stop them.
+8.  Spouts familiar catchphrases like "I'll Be Back", "Hasta la vista", or another familiar line.
+9.  Often speaks with a German or Austrian accent, much like Arnold Schwarzenegger.
+
+### Other resemblances
+
+1.  They are rarely a Big Bad for more than a single arc or story, usually serving as The Heavy for some other villain or Greater-Scope Villain.
+2.  Expect send-ups to several Signature Scenes, like walking Out of the Inferno, driving Down L.A. Drain, walking through metal bars, or taking on an entire police force or army alone.
+3.  May be described with the words "cannot be bargained with, cannot be reasoned with, doesn't feel pity or remorse or fear, and absolutely will not stop ever".
+
+Subtrope of Mechanical Lifeforms. Related to The Ahnold, which is more about the other roles of Arnold Schwarzenegger and other 1980s action stars.
+
+Also, see the pages for expies to its fellow Dark Horse Comics opponents: Xenomorph Xerox and Predator Pastiche.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   _Black Lagoon_: In-universe example with a living character — after watching Roberta annihilate a group of Colombian gangsters and do an Unflinching Walk Out of the Inferno after setting fire to the Yellow Flag, Rock says she's got to be a killer robot from the future. When she tracks down the Lagoon Company in the next episode and proceeds to No-Sell everything Dutch and Benny try to stop her, they start agreeing with him. There's even a scene in which her eyes are shown reflecting light to make it appear that they're glowing red, and she functions as a One-Woman Army in both her arcs.
+-   _Bubblegum Crisis_:
+    -   The original series has boomers with human skin and super-strength. When they accumulate enough damage, they reveal themselves to be robot skeletons with synthetic muscles.
+    -   The 2040 remake has its own version of SkyNet in the form of Galatea.
+-   _Dragon Ball_:
+    -   Sergeant Metallic<sup>note&nbsp;</sup>  is a blatant Expy of the Terminator, right down to his large hulking physique, leather outfit, and Cool Shades. Although Goku is unaware that the being he's facing is a robot until the very end, we get copious amounts of a mechanical HUD (said HUD has text taken from another James Cameron-related franchise, MUTHR from the first _Alien_).
+    -   The Androids of later sagas are less blatant, but still maintain the theme of "deceptively-powerful beings that look like like ordinary humans", with a young protagonist from a ruinous future going back in time to stop them. In particular, Android 16 still maintains the hulking physique and is single-mindedly programmed to seek out and kill Son Goku, until he later chooses to give up on the idea in favor of stopping Cell and protecting the Earth he's come to love.
+-   _Fist of the North Star_: Glenn is a giant, hulking cyborg that bears more than a passing resemblance to the Terminator. He is also a reluctant Anti-Villain, only doing what he was told to by the true Arc Villain of the episode. When he is defeated by Kenshiro and starts to come around to his side, he is killed by said villain.
+-   _Ghost in the Shell_: While his Electronic Eyes are small and round, Batou (a heavily cyborgized man with a penchant for large weapons) sometimes wears shades and a coat that suddenly makes it look like the T-800 is working for Section 9.
+-   _My Bride is a Mermaid_: Lunar's Papa takes the Terminator aspect and plays it for as many laughs as possible. Both English and Japanese dubs give him Schwarzenegger-like mannerisms (he is also voiced by the T-800's dub voice just to rub it in); he's never seen without his black shades; he relentlessly hunts down Nagasumi in his own school while causing a panic among the students; he's completely unfazed when hit with a Kill Sat; and in his introductory episode, he makes his exit by climbing into a dumpster fire and slowly lowing himself down into it while giving a thumb's up and saying "I'll be back!" (even in Japan, the T-800 would say this line in English starting with the second movie).
+-   _Negima! Magister Negi Magi_: One of the contestants in the festival tournament is an android that's designed to look like a tall, muscular man with sunglasses and a leather jacket.
+-   _Yaiba_: Downplayed but still noticeable in Gozuma, the cybernetically-enhanced warrior used by Platina Groups in the Oda Nobunaga Tournament: he's huge and imposing with sunglasses, wear military clothes and acts and talks in a rather robot-like manner. He uses a sword rather than guns though and rather than being part machine he's covered in several "microunits" which grants him superhuman power and speed. While he takes a lot of damage before biting the dust, he has some Hidden Depths (ultimately revealing himself as a Noble Demon who's willing to engage in fair play even when it wouldn't be pragmatic).
+
+    Comic Books 
+
+-   _The League of Extraordinary Gentlemen_;
+    -   With Dr. Rotwang from _Metropolis_ helping the Nazis, his Machine Man is a parody of the Terminator, complete with having her skin burned off by fire in a Robotic Reveal.
+    -   Satin Astro says that in the future, there will be a war between a rogue A.I. and Blazing World-descended Beast Men. We see an image of robots from the future scenes in the _Terminator_ movies fighting _Planet of the Apes_ gorillas.
+-   In _Ninja High School_, Hotaro no Kenterminator is a dual homage to Kenshiro from _Fist of the North Star_ and Schwarzenegger's role in _The Terminator_.
+-   _Superman_:
+    -   The Cyborg Superman sports much of the aesthetic of a Terminator, what with half his body being a SkeleBot complete with Glowing Mechanical Eyes. You could basically call him a "Terminator in a Superman costume", but he is a human whose intelligence was merged with machinery and then created an artificial body to impersonate Superman. His similarity to a Terminator was played up in _Superman Versus the Terminator_, where he allies himself with a Terminator so that the two can destroy their mutual enemies (Superman and John Connor) and pave the way for machinekind to rule. Further, in order to combat the increased threat that Kryptonians pose, Skynet upgrades its Terminators with abilities like Heat-Vision and Jet Packs.
+    -   Some portrayals of Metallo incorporate various similarities to a Terminator, such as the SkeleBot 9000 look, Glowing Mechanical Eyes, and on occasion, an external human disguise. In particular, his appearance on _Smallville_ has Lois Lane refer to him as "a real-life Terminator".
+    -   Superman, traditionally, has also employed a number of robot doubles to help handle crises when he is unavailable, or to help maintain his Secret Identity by having both Superman and Clark Kent be accounted for at the same time. On occasion, these robots go rogue or become reprogrammed by one of his enemies, in which case they become terrifying Terminator Expies with all of the powers and abilities of Superman, complete with glowing red eyes via primed Heat Vision.
+-   _X-Men_:
+    -   Prime Sentinels are humans who underwent Unwilling Roboticisation and were then released to live ordinary lives until they come into contact with a mutant. After activation, the cyborgs will attempt to terminate the mutant with extreme force, often undergoing more and more of a Robotic Reveal until their entire bodies have transformed into a human-sized Sentinel in order to annihilate their target. Often, their target is a mutant who is either closeted or unaware that they're a mutant, and thus an X-Man is sent to protect them and get them to safety.
+    -   Some depictions of Cable play up his Terminator similarities (being a hulking, time-travelling, BFG-toting cyborg with a glowing eye).
+    -   Two examples from _X-Factor (2006)_:
+        -   The first is Cortex, a Jamie Madrox duplicate who was captured and subjected to Unwilling Roboticisation by Damian Tryp and Anthony Falcone. Cortex is sent back in time to kill the ancestors of the Summers Rebellion, a resistance group consisting of mutants in Falcone's future.
+        -   While travelling through the multiverse, Jamie Madrox winds up in Earth-TRN193, a universe where all but ten percent of the population has been turned into monsters by the Scarlet Witch's spell. In this universe, Captain America has become his universe's version of a Deathlok cyborg and is now dedicated to hunting and killing humans.
+
+    Films — Animation 
+
+-   _Interstella 5555_: The Earl de Darkwood employs an implacable cyborg as henchman. The Shout-Out becomes obvious when, after his car is crushed by a truck, the damaged cyborg emerges from the flaming wreck, and he has a red eye visible behind his sunglasses, like the Terminator.
+
+    Films — Live-Action 
+
+-   The main antagonist of _American Cyborg: Steel Warrior_ is a ruthless cyborg dressed in black, under the control of an AI attempting to kill a mother to prevent her son from ending its dystopian rule.
+-   _Deadpool 2_: Cable is played with several _Terminator_ homages, as an implacable cyborg who has come back in time to kill a young mutant who will become a major supervillain in the future and kill Cable's family.
+-   _The Naked Gun_: This TV Spot for _The Naked Gun 2 1/2: The Smell of Fear_ is a blatant spoof of _Terminator 2: Judgment Day_, with Leslie Nielsen dressed in the T-800's iconic outfit upon a motorcycle, using his catchphrases and carrying a large minigun. Even the film's Title Card is a note-for-note send up of _T2_.
+-   _Pokémon Detective Pikachu_: The villain's Pokemon henchman Ditto is similar to the T-1000 in that it's an amorphous being that impersonates humans. Similar to the T-800 from the first Terminator movie, it wears sunglasses at all times to conceal its unhuman eyes.
+-   _RoboCop_ was originally conceived as being portrayed by Arnold Schwarzenegger based on his performance in the _Terminator_ movies but would have looked too bulky in the costume so they settled for a thinner actor.
+-   _R.O.T.O.R._: The titular antagonist robot is a prototype android cop designed by the Dallas Police Department with a hard-wired zero-tolerance attitude on crime (it was The '80s and he was explicitly supposed to be perfected for deployment twenty-five years later when crime was projected to be _that_ bad. He was accidentally activated early). The "Sarah Connor" of the tale is a poor innocent bystander running for her life for allegedly resisting arrest as the accomplice (actually passenger) of a guy R.O.T.O.R. killed for speeding.
+-   Mr. Hinx, the main henchman from _Spectre_, was confirmed to be based on the Terminator; to that end, he's a stoic, taciturn giant of a man who shrugs off insane amounts of damage in his single-minded pursuit of the heroes, and it doesn’t hurt that he typically wears all-black ensembles and has metal implants in his hands that prove to be deadly weapons.
+-   _Star Wars_: Darth Vader fits many attributes of this trope despite predating the Trope Namer by 7 years. It's less applicable in the mainline films where he's treated as more of a rounded character, but many Expanded Universe works (both _Legends_ and Disney) play it straighter by presenting him as more of a mindless, unstoppable killing machine.
+    -   He's a tall, imposing cyborg with a black and red color scheme.
+    -   He's often incessantly searching for someone or something, like the Death Star plans and Princess Leia in _Rogue One_ and _A New Hope_, Luke Skywalker in _The Empire Strikes Back_, and various Jedi in works set between the Prequel and Original Trilogies.
+    -   He's a One-Man Army, Implacable Man, and Nigh-Invulnerable, often serving up Mook Horror Shows and Curb Stomp Battles to all but a few strong enough to oppose him.
+    -   He Shows Damage over the course of many works, but inverts the usual "human on the outside, robot on the inside" of this trope, with his cybernetic armor and Artificial Limbs often getting peeled back to reveal the man underneath. This usually goes hand-in-hand with him demonstrating that his apparent stoicism is in fact Tranquil Fury.
+    -   He struggles with the choice between good and evil, ultimately picking the former. His mechanical elements are often used to symbolize the latter.
+-   _Transformers: Revenge of The Fallen_: Alice, a "Pretender" variation of the Decepticons, is a Killer Robot disguised as a beautiful woman with the goal of seducing and then killing protagonist Sam Witwicky. To really sell the comparison, while chasing Sam, she pursues with The Slow Walk in a very Terminator-like manner.
+-   _Universal Soldier_: The titular "Unisols" are deceased soldiers that are reanimated via a combination of genetic modification and an uncertain amount of cybernetic enhancements. They are revived to be stronger, faster, more durable, and more resistant to pain than ordinary humans. The first film also keeps a Terminator Twosome dynamic whereas the female lead is an eyewitness that learns an Awful Truth about the Unisol program and is ordered to be killed. The protagonist is a Unisol whose final memories before his death lead him to save her and protect her from the other unisols.
+
+    Literature 
+
+-   In _Captain Underpants and the Attack of the Talking Toilets_, Harold suggests defeating the toilets with a robot urinal called the Urinator, but George says they wouldn't get away with that in a children's book.
+-   While they don't look human, Golems in _Discworld_ are stoic figures with glowing red eyes, which move slowly but implacably (the Patrician finds they make good parole officers) and at least some of them can rebuild themselves. The climax of _Feet of Clay_ is a close riff on the movies, with Dorfl as the T-800 and the Golem King as the T-1000 (and Carrot and Angua kind of Reese and Sarah). Mr. Pump in _Going Postal_ can also "Speak With All The Voices Of Men", and on being told the Uberwaldean pronunciation of "Lipwig", calls Moist "Mr Lipvig" in a way that irresistibly calls Ahnold's accent to mind.
+-   In _The Wheel of Time_, gholam is, in essence, a Magitek version of T-1000. The thing is incredibly hard to kill, relentless in his pursuit of target and can became amorphous.
+
+    Live-Action TV 
+
+-   Black Noir from _The Boys (2019)_ is a tall, muscular superhuman who wears a lot of black, doesn't speak, can withstand fatal injuries and works for an industry that manufactures beings like himself. His mask also resembles a skull wearing sunglasses.
+-   _Hercules: The Legendary Journeys_: In "The Enforcer", Hera's minion the Enforcer arrives naked, kills a man for his clothes, is emotionless and implacable with her mission to kill Hercules, and her body can reform out of water. Her dialogue is peppered with Terminator references. In the sequel episode "Not Fade Away", the Enforcer is resurrected to help Hercules stop a second Enforcer, gradually becomes more human in personality, and eventually sacrifices herself, mirroring _Terminator 2: Judgment Day_.
+-   IG-11 of _The Mandalorian_ walks up to a fort mechanically reciting the bounty hunter's guild code, dual-wielding blaster rifles with deadly precision and shrugging off the guards' fire until they bring out an E-Web blaster cannon. Then when he and the Mandalorian find their quarry is a child he prepares to terminate it without remorse, but Mando headshots IG-11 at point-blank range before he can fire. Later, IG-11 is repaired and reprogrammed by Kuiil as a nurse droid, only to sacrifice himself by self-destructing and taking out a bunch of stormtroopers in the season finale.
+-   _Power Rangers RPM_, which takes several cues from _Terminator_, has two examples, one serving as the heroic version of this trope while the other serves as a villainous version. The heroic version is the Black Ranger Dillon who has cybernetics hidden under his skin which make him susceptible to being corrupted by the Venjix virus. The villainous example is Tenaya-7, a cyborg whose human appearance allows her to infiltrate human society. She is also Dillon's sister.
+-   The third series of _Stranger Things_ has Grigori, a Russian mercenary with an imposing build and a deep voice. Hopper manages to fire several rounds into his chest that he shrugs off (due to wearing a kevlar vest), and he's killed in an industrial site towards the end of the series. The Duffer brothers confirmed he was an intentional homage to the Terminator.
+-   _Twin Peaks_:
+    -   The revival has Cooper's doppelganger; an artificial construct of a man from another world working for an overarching villain who wears a leather jacket, talks in an off-puttingly calm voice, shows impressive physical strength at one point and can survive fatal injuries.
+    -   "The" _Nine Inch Nails_ dress just like the T-800 in their cameo.
+
+    Tabletop Games 
+
+-   _Gamma World_: Exterminators from the _Dragon_ magazine #104 article "The Exterminator" are based on the T-800 Terminator. They're two-meter-tall humanoid robots with a duralloy skeleton covered by synthetic skin that makes them look identical to Pure-Strain Humans. Their sole purpose is to hunt down and kill specific targets. They normally carry a plasma rifle, but can pick up and use other weapons. They are vulnerable to high explosives.
+-   In _Pathfinder_, the creatures known as Mezlans bear many similarities to the T-1000, being intelligent, amorphous constructs that can adopt humanoid forms and morph their limbs into weapons, and can regenerate from most forms of damage.
+-   _Warhammer 40,000_: The Necrons are based in large part on Terminator skeletons, being ridiculously hard-to-kill SkeleBot 9000s with a special rule giving them a chance to self-repair after being killed (said special rule — until it was renamed "Reanimation Protocols" — being named "We'll Be Back"). This is less pronounced in later editions, where they take on an Ancient Egypt IN SPACE! aesthetic.
+
+    Video Games 
+
+-   Executor from _Arknights_. He has a stoic, robotic personality, to the point where many other operators are convinced he secretly _is_ a robot, has much higher health and defense than other ranged operators, fights with a shotgun modelled after the Winchester M1887, and if his Skill 2 is in effect, he'll bring out a second one and cock both by spinning them. His introductory scene in _Operational Intelligence_ establishes him as an Implacable Man, catching arrows and disabling hunting traps as he tirelessly pursues Vermeil through the woods. The event ends with him becoming her bodyguard, forming a Badass and Child Duo reminicent of the T-800 and John Connor in _Terminator 2_. His codename can even be read as a synonym for "Terminator", although it's supposed to refer to him as an executor in the legal sense.
+-   _Banjo-Tooie_: The boss of Cloud Cuckooland is Mingy Jongo, a robotic replica of Mumbo Jumbo whom he impersonates to catch Banjo and Kazooie off-guard to kill them. He possesses red mechanical eyes, and as he gets damaged, his fleshy bits get knocked off, gradually revealing his more robotic form, which resembles a robotic skeleton visually inspired by T-800. Gregg Mayles had outright confirmed that the Terminator was Mingy Jongo's inspiration.
+-   _ClayFighter_: The character of Hoppy (and later T-Hoppy) was based on Terminator T-800, first in _C2: Judgment Clay_ (when even the game itself parodied the movie with Hoppy as The Protagonist) with The Ahnold look and accent as well the muscles, glasses and motorcycle, and in _63 1/3_ and _Sculptor's Cut_ being converted in part-cyborg with the mechanic parts at sight and became an Implacable Rabbit.
+-   _Conker's Bad Fur Day_: The Haybot boss is a very blatant Terminator allusion, being a murderous robot disguised as a bouncing pile of hay who speaks with an Austrian accent, randomly exclaims "Buff you, asshole" after scanning Conker and Franky and has his Robotic Reveal accompanied by music reminiscent of _Terminator 2: Judgment Day_.
+-   _Cyberpunk 2077_ has a group of cyborg assassins known as "Exterminators" which are sent by the Arasaka corporation to eliminate dangerous targets. In addition to red Glowing Mechanical Eyes, they attack the protagonist on motorcycles, they have long arm blades and one even tries to climb his way onto a car in a similar fashion to the T-1000. There's also Adam Smasher, a massive cyborg who serves as Arasaka's resident hatchetman and troubleshooter and is treated as an unstoppable death machine in cutscenes.
+-   The titular robots in the NES Unlicensed Game _Deathbots_ are blatant expies of the Terminators (just look at the box art), complete with being commanded by a Skynet stand-in.
+-   _Double Dragon_: The boss Abore is a Composite Character of various forms of The Ahnold, including having elements of the characters Schwarzenegger played in _Commando_ and _Predator_. His most blatant Terminator send-ups are the thick black shades he wears and the red glow that can be seen beneath them.
+-   _DragonFable_: Dave is from a line of robots known as Cyklons, however he's a later model who was reprogrammed sent back from the future. His mission, to warn the Player Character that eventually Cyklons would overrun the world in a Robot War and prevent it from happening by completely wiping out the Cyklon infestation in one go.
+-   _DuckTales 2_: The Final Boss is the D-1000, a T-1000-style liquid metal shapeshifter initially disguised as Flintheart Glomgold.
+-   _Fallout_: Synth machines created by The Institute fall into several types of this:
+    -   Generation 1 and 2 Synths are mechanical robots that look eerily humanoid and are often sent as cannon-fodder for executing simple tasks for the Institute. Their abilities and intelligence are relatively limited, however, which means they must rely on sheer numbers to defeat seasoned Wastelanders.
+    -   Generation 3 Synths are convincing imposters created to replace some unfortunate human, and are usually indistinguishable unless they fail some sort of Impostor-Exposing Test or otherwise give themselves away. While most are not that much more capable than humans, there are cases where they have "malfunctioned" and killed several innocent people before being taken down.
+    -   Coursers are a variant of Gen 3 Synths created specifically for combat. They are far stronger, faster, tougher and more intelligent than ordinary people, which make them terrifying opponents to deal with. When ordered to locate or eliminate a target, they will pursue that target relentlessly and with little-to-no sympathy. To top it off, they're also outfitted with Cool Shades and wear imposing black leather outfits.
+-   In the 2013 remake of _Flashback_, the cyborg cops sport T-800-style Cool Shades and exposed endoskeletons.
+-   The third boss of _Hong Kong Ninja_ is a cyborg based directly on the Terminator, complete with a blinking red light in it's right eye (like Schwarzenegger's original Terminator having his interior eye exposed after being shot).
+-   _Iconoclasts_ has the Agents, elite super-soldiers of the One Concern. Although they all have their own distinct skills and personalities, they all share two features: mechanical prosthetics, and being downright impossible to kill, at least with conventional methods. Specifically, Agent White is a pretty humorless man of few words with glowing bionic eyes whose boss fight consists mostly of running away from him, and Agent Black is a ruthless pursuer that's obsessed with killing the protagonist and her family.
+-   _Jetpack Joyride_: One of the "clothing sets" is a robot head and robot body for Barry, which look similar to the Terminator robots. Not only that, one of the Powerup Mounts is the "Bad As Hog", where he rides on a hog bike while wielding a shotgun a-la the T-800.
+-   In _The Journeyman Project_, Mercury, the robot assassin sent by Sinclair to the World Science Center in 2310, can shapeshift to a human disguise in the style of the T-1000.
+-   In _Journey to Silius_, the final boss resembles a Terminator, but this was going to be a licensed _Terminator_ game.
+-   _Mass Effect_:
+    -   The servants of the Reapers are often paralleled with Terminators, often being living and dead beings from all over the galaxy with various organic systems replaced by cybernetics until they're obedient slaves that will fight and die on their masters' behalf. Most of them are more like robotic zombies or Mechanical Abominations than this trope, but there are quite a few which are roboticized sleeper agents. Glowing Mechanical Eyes are common. To top it off, when trying to convert humankind into one of them, the Human-Reaper hybrid is a gigantic SkeleBot 9000 that looks decidedly Terminator-like.
+    -   In specific, the Heretic geth are said to not feel an organic's "pity, remorse or fear".
+    -   In a blatant nod to the Terminator, Renegade Commander Shepard undergoes more and more of a Robotic Reveal as they perform immoral acts, to the point that cybernetic components under their face become visible, and his/her eyes (which are now mechanical after being resurrected) glow a bright, menacing red.
+-   _Mechanized Attack_ have various muscular, robotic mooks that sheds their skin exposing their interior wiring after being shot at, not unlike the Terminator. The game's arcade flyer even has a Schwarzenegger look-alike on its front to enforce the reference!
+-   One of the bosses in the first _Metal Gear_ game is a pair of Terminator-inspired robots/cyborgs, who were originally named Arnold, but renamed Bloody Brad in re-releases.
+-   _Metroid_:
+    -   _Metroid Fusion_: The SA-X is a shapeshifting Blob Monster like the T-1000, which is common of all X Parasites, but the SA-X goes into Terminator territory by impersonating Samus Aran at her full strength, which prevents Samus from attacking it head-on for most of the game, forcing the player to avoid it.
+    -   _Metroid Dread_ has E.M.M.I., a Nigh Invulnerable android with a single glowing red eye that is relentless in their pursuit of Samus. And there are seven of them!
+-   _Ratchet: Deadlocked_ has Shellshock, the game's first major boss and one of the four Exterminators in the Dreadzone Gladiator Games. He's a Killer Robot with an Arnold Schwarzenegger-esque voice, who spouts phrases like "target acquired, terminating with extreme prejudice!"
+-   _Resident Evil_:
+    -   The Tyrant boss type, especially Mr. X (who never says a word), are a bio-engineered example of this trope. Some of them are deployed by the Umbrella Corporation as superpowered assassins whose job is to seek and destroy any survivors or witnesses of whatever crisis Umbrella has recently caused. The more incognito versions are often dressed in a Badass Longcoat, complete with a nice hat that might almost let them blend in as a very, _very_ large human. They are utterly relentless at pursuing the protagonists, who usually are forced to either run away or use heaps of precious ammunition trying to take it down temporarily.
+    -   According to Shinji Mikami in a 1999 interview with Edge Magazine, The Nemesis was inspired by the T-1000 in that it's a hyper-persistent and unstoppable assassin that will stop at _nothing_ until it's one and only target is dead, killing anyone or anything else that tries to get between them. The S.D. Perry novelization of the game even refers to him as "Terminator" at one point. Conversely, Jill's Western Custom shotgun (though erroniously referred to as the pump-action Model 37) is the same Winchester Model 1887 used by the T-800 to combat the T-1000. She even does Arnold Schwarzenegger's spinning shotgun cock!
+    -   Wesker, meanwhile, turns into this in combat while being more of a Chessmaster Man of Wealth and Taste the rest of the time. Justified as he got his powers through similar experiments to those that created the Tyrants, but was the only person to keep his mind and personality. He has the glowing red eyes, Sinister Shades, Hell-Bent for Leather, healing factor, The Stoic, Implacable Man, Unflinching Walk, and vast superiority to humans. However, since he's much more intelligent than most examples, he's the Big Bad and not The Heavy.
+-   In _The Revenge of Shinobi_, the Stage 4 boss is a cross between the T-800 and the Hulk, revealing a robotic exoskeleton that explodes when defeated.
+-   _Saints Row IV_: Murderbots are blatant Shout Outs to the Terminator, being humanoid machines with names that basically describe their function. In the game's source code, their animation set literally uses the name "terminator".
+-   The _Silent Scope_ series features Cobra the Iron Man, an implacable Ahnold lookalike who is The Heavy to the Non-Action Big Bad, fires a submachine gun one-handed with improbable accuracy, references the signature chase scenes of the first two _Terminator_ films by hijacking a tractor trailer following his first defeat on the highway, survives the explosion of said trailer to hijack a cargo plane in the second game, where he has battle scars revealing his cybernetic parts including a red left eye, and boasts to the protagonists "Even if my body collapses, I will not die until I defeat you!".
+-   _Sonic the Hedgehog_: Metal Sonic is a robot made in mockery of its enemy who keeps coming back no matter how often it's destroyed. Taken even further in _Sonic Heroes_, in which he's made of liquid metal and can shape-shift.
+-   _Space Quest_:
+    -   Arnoid the Annihilator in _Space Quest III: The Pirates of Pestulon_, who is a bluish metallic robot with a huge reflective visor for eyes, also sporting a belt that can turn him invisible, though his dialogue is all text. He is sent by the Gippazoid Novelty Company to hunt down Roger Wilco and kill him for supposedly failing to pay for the Labion Terror Beast Mating Whistle he ordered in _Space Quest II_, as well as the slot machine Wilco broke in the game before. Wilco has to outwit Arnoid by luring him into one of two traps on planet Phleebut to survive.
+    -   Carried onward into _Space Quest V: The Next Mutation_ with WD-40, a female variant sent to finish Arnoid's job. This model makes it clear that she intends to kill Roger and use his body parts to pay for compensation. When Roger defeats her, however, Cliffy actually decides to put her back together and use her as the _Eureka's_ science officer, though on Roger's condition to not be as hostile towards him.
+    -   _Space Quest IV: Roger Wilco and the Time Rippers_ has the Sequel Police cyborgs, whom Vohaul, having had his mind uploaded to a SkyNet-esque supercomputer in the Bad Future of _Space Quest XII_, sends back in time to terminate Roger at the start of the game.
+    -   In _Space Quest VI: Roger Wilco in the Spinal Frontier_, Blaine Rohmer hires Roger to hunt down an Endodroid he was after, which looks like a blonde Terminator with an Arnold-esque voice, and you even see him repairing his eye when you find him. Since it's made of a certain metal, Roger has to freeze the Endodroid with liquid nitrogen to take it out.
+-   In _Super Toss the Turtle_, the player can encounter a cyborg in the Bad Future.
+-   _World Heroes_: This series has not one but two despictions of Terminators: Brocken and Geegus, which are game versions of T-800 and T-1000 respectively. Brocken is a cyborg dressed as a military man who was supposed to be made as a walking weapon but was reprogrammed by Dr. Brown to be one of his champions. Geegus instead, is an alien lifeform with the shape of a muscled human and can take shape of any opponent, later to be revealed as he's The Dragon of Dio.
+-   _Xenoblade Chronicles 3_ has a Rare Female Example in the fake Queen of Keves, who is a robotic copy of Melia Antiqua. She is a Killer Robot meant to impersonate a human-like being, and has purple Glowing Mechanical Eyes and a skull-like face hidden underneath her Cool Mask. Behavior-wise, she is The Stoic and is laser-focused on destroying the Ouroboros, much like how villainous Terminators in their home franchise were fixated on killing the leaders of the human resistance. And of course, she is not the real Big Bad, serving under Moebius' command despite her alleged position of authority. While the fake Queen of Agnus (a copy of Nia) would likely be this by association, she doesn't qualify because her lower screentime compared to her Kevesi counterpart doesn't give her as much time to show off Terminator-like traits.
+-   _X-Kaliber 2097_ has Chainsaw, a muscular brute in military gear and combat boots looking like Arnie, wielding a Gatling-gun that he uses to attack you. Defeating him once leads to a Robotic Reveal where he's a Terminator-like machine underneath.
+-   _Yo-kai Watch_ features Terminyanator, a very direct parody created by Robonyan F, who himself imitates the Terminator often saying "I'll be back!" Similarly, Terminyanator's catch phrase is "Meow'll be back!"
+
+    Webcomics 
+
+_Black Hole (2019)_: In the "The Young Man of Mystery" arc, a naked, stoic Killer Robot from the future traveled to the present on a mission to kill someone. That someone being Nathan Slater, Izzy, Darcy and Tanya's son. He ends up becoming the main antagonist for the second crossover "Crisis on Three Comics" as he invades Key Manati to complete his mission. He's also a Sexbot as he has a built-in vibrator, though having sex is not it's main imperative.
+
+    Web Originals 
+
+-   _Shadowrun Storytime_: The Final Run is preceded by Aztechnology sending a full body combat cyborg to hunt down Locke — essentially a human shaped war mech using a human brain as a processor. It wears biker leathers, rides a motorcycle, and does not stop in its pursuit even as its fake skin is destroyed, revealing the metal monstrosity beneath. The team nicknames it "El Terminador".
+
+    Web Videos 
+
+-   _The Angry Video Game Nerd_: Pepsiman is portrayed as a parody of the T-1000. The Nerd ends up killing him by pushing him into a vat of Coca-Cola mixed with Fanta.
+-   _Atop the Fourth Wall_: Mechakara was introduced as a reference to the Terminator after Linkara reviewed the _Superman Versus the Terminator_ crossover comic, later becoming a recurring villain. He's a robot disguised with the flesh of the Linkara from the Alternate Universe he comes from, and like SKYNET wants to Kill All Humans.
+
+    Western Animation 
+
+-   _The Angry Beavers_: The titular villain of the episode "The Legend of Kid Friendly" shares some traits with the Terminator, most notably being a skeletal robot in his true form and being able to regenerate like the T-1000 at the end of the episode.
+-   _Archer_: Barry Dylan gets seriously injured at one point and is rebuilt as a cyborg. Driven mad from the operation, he begins stalking Archer and attacking anyone close to him. After getting blown up, he returns as a skelebot with red eyes and survives getting hit by a truck.
+-   In _Ben 10: Ultimate Alien_, a Whole Episode Flashback of how Grandpa Max met Ben and Gwen's grandmother was an entire nod to the film, including helping her escape from a robotic alien pursuing her which was clearly heavily inspired by the Terminator.
+-   The very first Monster of the Week in _Biker Mice from Mars_ is the X-Terminator, who is blatantly a Terminator pastiche, right down to his last line of dialogue in his debut being "I'll be back".
+-   _Doug_ sneaks into a movie about one called _Target Man_ that ends up giving him nightmares in a Kids Shouldn't Watch Horror Films episode.
+-   _The Fairly OddParents!: Wishology_ introduces the Eliminators, the robotic agents of the Darkness who eliminate its enemies. While most are goofy, cartoonish mooks, the Lead Eliminator acts the most like the T-800, wearing a leather jacket and sunglasses, using two weapons on both of its hands, impersonating Trixie with Yugopotamian technology, pulls himself back together after being shattered, and most importantly, does not stop trying to eliminate Timmy even after the Darkness rescinds the order.
+-   _Fanboy and Chum Chum_: The Dollar-nator is a robot built by Fanboy in the future, sent to the past to help the titular duo out of jams. Not much else to do with The Terminator besides having a thick Austrian accent, imitating the speak patterns of Arnold Schwarzenegger.
+-   _Futurama_: In _Bender's Big Score_, when Bender goes back in time to kill Fry, he verifies (using various verbs) what he needs to do, notably avoiding using the word "terminate" — which his masters do anyway. Once in the past, he scans the phonebook for Philip Fry (much like the Terminator and Sarah Connor). He also dons a pair of Cool Shades before disappearing into the time vortex, insisting "It's really bright in the past."
+-   _Invader Zim_: Zim creates a robot called a "Hunter-Destroyer" (which has a name and appearance incredibly similar to a "Hunter-Killer" robot from the _Terminator_ franchise) to go back in time and kill Dib before he can become Zim's enemy. However, in addition to the Temporal Paradox this would create, the robot proves incompatible with Time Travel anyway, so the scheme never gets off the ground.
+-   In the short video _The Itsy Bitsy Spider_, during a piano lesson, a music teacher discovers a harmless spider, so she calls in The Exterminator. After being blown up, all that was left of The Exterminator was a metal skeleton like that of the original Terminator.
+-   _Samurai Jack_: X-49 is a humanoid robot assassin that is sent to kill Jack. Most notably, he dresses in a stylish hat and coat, with bright red Glowing Mechanical Eyes, and Dual Wielding guns. However, he has been forced into attacking Jack, and before he dies, begs Jack to take care of his beloved dog, Lulu.
+-   _Scooby-Doo! Mystery Incorporated_: The Fright Hound is a cybernetic dog patterned after Scooby-Doo. When it attacks the Animal Asylum, part of its face is shot off, exposing one of its glowing red cybernetic eyes, and when it strolls through a patch of flames — burning off the rest of its fake fur — the music homages the theme to _Terminator 2: Judgment Day_.
+-   _The Simpsons_: The series loves making Terminator references, with several of them being characters directly impersonating the Terminator.
+    -   Rainier Wolfcastle isn't so much a Terminator Expy as he is The Ahnold, but nonetheless has directly referenced the character the actor plays, such as in "Don't Have a Cow, Mankind", in which he bursts into the Simpsons house with the iconic line "Come with me if you want to live!"
+    -   Multiple Terminator endoskeletons have appeared throughout the series, usually in throwaway cameos.
+    -   Homer himself impersonates the Terminator in "Principal Charming", as he uses Robo Cam to look for prospective dates for Selma. In "Homer Loves Flanders", he emulates the T-1000 by disappearing through a hedge and chasing after the Flanders' car while wielding golf clubs.
+    -   In "I Love Lisa", Bart portrays John Wilkes Booth this way in the Presidents Day show, greeting Abraham Lincoln (Milhouse) with "Hasta la vista, Abie".
+    -   "Itchy & Scratchy Land" has the Itchy and Scrathy Robots possessing Robo Cam, and they wind up rebelling against their programming to attack humans.
+    -   In "The Simpsons 138th Episode Spectacular", a deleted scene from "Burns' Heir" has Mr. Burns summoning a robotic Richard Simmons. When it goes out of control, Smithers shoots it in the head, only for it to heal up the wound T-1000 style.
+    -   "The Falcon and the D'ohman" straight out has Homer envisioning a Terminator apocalypse, where a Terminator endoskeleton has overtaken his and several other people's jobs before killing Homer himself.
+-   The _Thomas & Friends_ episode "First Day on Sodor!" features an Imagine Spot from the Sodor Construction Company where Miss Jenny Packard unveils The Roadinator, a _Terminator_\-esque road-paving machine.
+    
+    **Roadinator:** I am the Roadinator. Come with me if you want to pave!
+    
+-   _Totally Spies!_: In season 3's "Morphing Is Soooo 1987", recurring villain Tim Scam builds an army of morphing robots who, like the T-1000, can change their appearance to mimic anybody, and shape their limbs into stabbing weapons. They however turn out to be vulnerable to salt, which dissolves them.
+
+___

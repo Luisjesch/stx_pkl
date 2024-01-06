@@ -1,0 +1,154 @@
+Tropes that deal with gods and/or goddesses.
+
+Compare with Angelic Tropes and Tropes of the Divine.
+
+___
+
+## Tropes
+
+-   Above the Gods: A setting that features entities even more powerful than its gods.
+-   Abstract Apotheosis: When a character becomes an abstract concept or an idea.
+-   The Almighty Dollar: God(s) of wealth, money, trade, prosperity/abundance, or fortune/luck.
+-   Almighty Idiot: A being of great power who lacks intelligence and self-awareness.
+-   Amnesiac God: A deity with Laser-Guided Amnesia at the beginning of a story.
+-   Anthropomorphic Personification: A deity who represents an abstract concept related to human society or the natural world.
+-   The Anti-God: Another, often opposing deity who's on par with the one true God.
+-   Appease the Volcano God: Being sacrificed to a volcano god.
+-   Bargain with Heaven: Making deals with gods or goddesses.
+-   Being God Is Hard: When it sucks to be a deity.
+-   Celestial Bureaucracy: A bureaucracy who determine where people are supposed to go after they die.
+-   Cernunnos: A horned deity usually associated with hunting, animals, and nature.
+-   Cosmic Egg: The universe starting from an egg or something similar.
+-   Crystal Dragon Jesus: A fantasy religion with similarities to Christianity.
+-   Death Is a Loser: When The Grim Reaper or another deity of death is unintimidating or a Butt-Monkey.
+-   Death of the Old Gods: When the gods that once ruled the world are dying or fading away.
+-   Deity of Human Origin: A human or human-level being who becomes a god.
+-   Deity of Mortal Creation: A god is created by humans, or their equivalent.
+-   Demiurge Archetype: A false God-figure who impersonates the true God.
+-   Destroyer Deity: A deity associated with destruction.
+-   Deus Est Machina: An A.I. that's practically a god and thus benevolent.
+-   Disabled Deity: A deity or other divine being who has a disability.
+-   Divided Deity: A deity who becomes split into two or more distinct and lesser deities.
+-   Divine Conflict: Deities fighting each other.
+-   Divine Date: A mortal romancing a deity.
+-   Divine Delegation: A pantheon consisting of a Top God and several lesser gods serving them.
+-   Divine Incest: Incest amongst the gods in mythology.
+-   Divine–Infernal Family: God and Satan or The Anti-God are considered relatives.
+-   Divine Intervention: When God (or a divine equivalent in the story) takes an active role in a non-divine character's conflict.
+-   Divine Misfile: When the celestial bureaucracy screws up the paperwork.
+-   Divine Parentage: When one or both of a person's parents happens to be a deity.
+-   Divine Punishment: When a god punishes someone (justified or not) for perceived transgressions.
+-   Divine Race Lift: A deity or other mythological figure has an appearance that differs from their usual depiction.
+-   Divine Ranks: A pecking order among deities.
+-   Don't Fear the Reaper: A friendly personification of death.
+-   Double Standard: Rape, Divine on Mortal: Getting raped by a deity isn't considered as bad as getting raped by another mortal.
+-   Dragons Are Divine: Dragons depicted as holy or sacred.
+-   Earth Mother: A hearty, smiling lady who is invariably portrayed as heavily pregnant and holding a brimming cornucopia, or nursing a baby, while children play at her feet.
+-   Eldritch Abomination: An ancient otherwordly being of unfathomable power.
+-   Emissary from the Divine: An old fashioned prophet from God, or a mortal or angel chosen for a certain role by the divine.
+-   Energy Beings: Gods and goddesses are sometimes portrayed as this.
+-   Ethnic God: The god of a specific tribe, nation, species or similar group.
+-   Everybody Hates Hades: No one likes the god of death.
+-   Everybody Loves Zeus: The god of light and the heavens is portrayed as good and pure even if they weren't in the original mythology.
+-   Evil Stole My Faith: It's established that a villain used to be religious, but lost their faith because of a serious misfortune they suffered.
+-   Fantasy Counterpart Myth: A fictional myth, or mythical being, clearly modeled after one from Real Life.
+-   Fantasy Counterpart Religion: A fictional religion which is explicitly based on or very similar to a real one.
+-   Fantasy Pantheon: When writers invent fictional deities to populate their world.
+-   Fertility God: A god responsible for creating and nurturing life.
+-   Fighting Your God: When a person or a group decide to engage in conflict with their own figure of worship or divinity.
+-   Fire Stolen from the Gods: A myth that argues that knowledge now held by mortals was taken from the gods by force or trickery.
+-   Food God: God of whatever food is the basis for a culture's survival.
+-   Forged by the Gods: A weapon is special because the gods made it.
+-   God: Singular almighty being who's often the creator of the universe along with all that's in it and the focus of many religions.
+-   A God Am I: A person believes themselves to be a god.
+-   A God I Am Not: A person has amazing godlike powers but does not believe this makes them special or above others.
+-   A God Is You: The main character of the game is a god.
+-   God Couple: When two deities become a couple.
+-   God-Eating: Gods eating each other or being eaten by a non-deity.
+-   God-Emperor: A ruler depicted as a deity.
+-   God Guise: Someone pretends to be a god.
+-   God in Human Form: When a deity takes on a human form.
+-   God Is Dead: When the creator of the universe is revealed to be dead.
+-   God Is Displeased: When deities withdraw their protection over a slight.
+-   God Is Evil: God is not benevolent in the least.
+-   God Is Flawed: God isn't perfect and has the same faults as humans do.
+-   God Is Good: When God, or the setting's equivalent, is portrayed positively.
+-   God Is Inept: Cases in which the Lord Almighty is not suited for his job.
+-   God Is Neutral: When God is neither benevolent nor malevolent.
+-   God Job: A job that requires one to be a deity.
+-   God of Chaos: A god who represents chaos and disorder.
+-   God of Darkness: A deity who reigns over shadows, darkness, and the night.
+-   God of Evil: A god who represents all that is evil.
+-   God of Fire: A god who commands fire and/or volcanoes.
+-   God of Good: A god who represents all that is good.
+-   God of Knowledge: A god who represents knowledge, learning, or wisdom.
+-   God of Light: A god who represents the sun, the stars, light, day or dawn.
+-   God of Order: A god who represents order and law.
+-   God of the Dead: A deity who either oversees the process of death or judges the souls of the dead.
+-   God of the Moon: A god who represents or moves the moon.
+-   God of Thunder: A deity who embodies electricity and/or storms.
+-   Godhood Seeker: Someone wants to be a god.
+-   Godly Sidestep: When deities refuse to answer humanity's biggest questions.
+-   God's Hands Are Tied: There are reasons why God can't just fix everything on a whim.
+-   The Gods Must Be Lazy: Gods who are either incapable or unwilling to resolve conflicts.
+-   Gods Need Prayer Badly: Gods will cease to exist if people stop believing in them.
+-   God Was My Copilot: A deity in disguise.
+-   Gold and White Are Divine: Gods or goddesses with gold and white color schemes to emphasize their divinity.
+-   Götterdämmerung: A sudden, large-scale event that causes the gods to die or be sealed away forever.
+-   Grandpa God: God's usual depiction as a bearded, elderly man.
+-   The Grim Reaper: The Anthropomorphic Personification of death.
+-   Have You Seen My God?: When God is currently unavailable. He may be coming back, He may not.
+-   Healer God: Deities of healing and/or medicine.
+-   Heaven Above: Heaven, where the afterlife and the gods are, represented as being literally in the sky over our heads.
+-   Henotheistic Society: When it's the societal norm for groups or individuals to favor the worship of one god of a Fantasy Pantheon over the others.
+-   High-Tech Heaven: When deities or angels make use of modern or even sci-fi level technology.
+-   Home of the Gods: The place where deities reside.
+-   Hot God: Beautiful deities.
+-   Incredibly Inconvenient Deity: When deities hassle their helpers.
+-   Inhumanly Beautiful Race: Deities often possess beauty far beyond normal human standards.
+-   Jerkass Gods: Gods who tend to screw over mortals.
+-   Judgement of Paris: A depiction of Paris deciding which goddess (Aphrodite, Hera, or Athena) should receive the Apple of Discord.
+-   Kill the God: Killing deities.
+-   King of All Cosmos: When God is portrayed as eccentric.
+-   Lady Luck: A deity associated with luck and fortune.
+-   Little Miss Almighty: When God is depicted as a female child/teen.
+-   Lord of the Ocean: A mercurial ocean deity, usually based on Poseidon.
+-   Loser Deity: Deities who are shunned or treated as a joke by their fellow deities.
+-   Love Goddess: A deity, often female, of love.
+-   Mad God: A deity who is insane.
+-   The Maker: The creator(s) of a/the world/universe/multiverse/species/etc.
+-   Many-Faced Divinity: Multiple masks or faces as divine symbolism.
+-   The Modern Gods: A god that embodies modern concepts.
+-   Modernized God: When a god adapts their role to the modern day.
+-   Not Quite the Almighty: Even God has limits to His power.
+-   Odd Job Gods: An excessively specialized deity.
+-   Offerings to the Gods: Making physical offerings to deities.
+-   The Old Gods: Entities that are above and/or came before the gods.
+-   Olympus Mons: A powerful creature you can capture and make fight for you and which also happens to be a divine being.
+-   Omniscient Morality License: A deity who can do _anything_ to the hero and still be considered one of the good guys because they know it will turn out okay.
+-   Our Gods Are Different: Common attributes and features of gods in fiction.
+-   Our Titans Are Different: The different traits and varying depictions of the Titans in fiction.
+-   Pals with Jesus: A character, or characters, who has a direct line to deities.
+-   Pantheon Sitcom: Deities in a sitcom setting.
+-   Patron God: When a god or goddess regularly rewards devotion and piety toward them.
+-   Physical God: A corporeal entity with god-like abilities.
+-   Pieces of God: God got broken into many pieces; this is the result of what happened.
+-   Power of the God Hand: When a person, item, or skill is named "god hand," which makes them seem powerful.
+-   Powers That Be: Almighty, powerful, and invisible forces.
+-   Precursors: Deities whose culture came before that of humans.
+-   Psychopomp: Deities or spirits of death.
+-   Reasoning with God: When a mortal convinces higher powers to help, or at least not to harm.
+-   Relieving the Reaper: When someone temporarily takes over Death's job.
+-   Semi-Divine: A part normal, part supernatural being. Or in between them, in general.
+-   Shinigami: The Japanese version of The Grim Reaper.
+-   Stock Gods: Certain god archetypes.
+-   Superhero Gods: A mythological deity depicted as a superhero.
+-   There Is a God!: A character is happy about something they wanted to happen and considers their good fortune proof that God must exist.
+-   Titanomachy, Round Two: Someone's trying to free the Titans of Greek Mythology to take out the Gods.
+-   Top God: A deity above the rest by their authority or very nature.
+-   Trickster God: Gods of trickery and deceit.
+-   War God: A deity associated with warfare.
+-   What If God Was One of Us?: When God is a human living among humans.
+-   Worshipped for Great Deeds: Someone who is not a god is nevertheless worshipped because of something they did.
+
+___

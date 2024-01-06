@@ -1,0 +1,468 @@
+_"A woman's duty is not to control or take charge."  
+"Women's nature is passive."_
+
+line This is an Omnipresent Trope. It can be assumed to exist in every medium unless otherwise stated. In most forms of human society, the assumption is that women are the more delicate of the sexes or are more suited for nurturing and/or looking pretty than the more active roles undertaken by men. Women tend to be physically smaller than men and possess less musculature, and these things, amongst others, have created the assumption that women are less "hardy" than men.
+
+The Stereotype takes two forms:
+
+-   Unilateral: Women are inherently delicate, incompetent, unstable, dependent, vulnerable, ineffectual, unreliable, lovely, precious, or sensitive.
+-   Bilateral: Women are more delicate _than men._ In this form, even if women have toughness, competence, strength, or stability, it's less than what their male peers are capable of.
+
+Nearly every medium plays around with this in some way. There are some tropes (for example, Stay in the Kitchen) which stereotype it whereas other tropes (such as Action Girl) outright subvert, defy, or avert it intentionally. From there, the combinations tend to get tricky. Some tropes treat it ironically (Waif-Fu) whereas others reinforce it by having the more masculine of two female characters be the disposable one. Under this belief, it's also commonly assumed that beauty is a woman's "hat", thus what women naturally lack in power or capability they make up for in appearance.
+
+In modern culture it is nigh-impossible to not have some sort of variation of this trope. Only in some hypothetical, gender-neutral civilization would that be possible, and that does not describe the world as it exists today. Even if unintended by the author, the audience will take whatever tropes are used and add meaning to them. A girl who puts up a fight alongside her male colleagues will still be considered an "aversion" of this trope whereas a girl who is meek and prefers to sit down and talk will be a straight example.
+
+Lastly, note that the word we chose to define this trope is "delicate". That word is not just about the woman's physical or emotional toughness. Delicate also means "precious, careful, deliberate, thorough", which are also qualities women are stereotyped with such as with Women Are Wiser and Men Use Violence, Women Use Communication. Delicate is the word which best sums up everything this trope is about. Please keep that in mind when adding/editing the subtropes. We intentionally chose a polysemic word for this trope because Tropes Are Flexible, and like all stereotypes, this one is an Evolving Trope and changes a LOT as people attempt to use it or downplay it.
+
+A Sister Trope to Men Are Tough.
+
+No Examples, Please. This page should be used as nothing except a listing of tropes which play with this in some way.
+
+___
+
+    open/close all folders 
+
+    Played Straight 
+
+-   All Abusers Are Male: Women are incapable of 'real' violence; if there is a domestic dispute, the man must be the aggressor.
+-   All Lesbians Want Kids: Even the burliest of lesbians can't ignore her nurturing instincts.
+-   All Periods Are PMS: Women are controlled by their biological cycles, turning even the most even-keeled into raving maniacs once a month.
+-   All Women Are Prudes: Because women are delicate, they must constantly defend their virginity and/or sexuality like a precious gem.
+-   All Women Hate Each Other: Female relationships, no matter how friendly they seem on the surface, never last due to women's self-serving and competitive nature.
+-   Alpha Bitch: A female character, often the leader of a Girl Posse, who preys upon other girls and shy/"weak" boys. She and her followers always swoon over the Jerk Jock or Hunk or pretend to, so that they can use him for their own ends.
+-   Baby Factory: A woman is tied to her biology, and some force conspires to use her for that purpose.
+-   Backstabbing the Alpha Bitch: The Girl Posse is made up of unstable, cannibalistic she-devils who can't wait to turn on their leader and possibly usurp her position.
+-   Bathe Her and Bring Her to Me: A villain orders his minions to clean and pretty up a female prisoner, usually to make her more appealing before he attempts to seduce or sexually assault her.
+-   Bathing Beauty: A gorgeous woman, usually naked, cleaning herself for fanservice. Tends to associate women as being obsessed with cleaning themselves, or alternatively, just used as an excuse to get them naked and wet.
+-   Beast and Beauty: Pairing a savage, beastly male with a beautiful and feminine female so that each will make the other look rougher and more delicate, respectively.
+-   Beautiful All Along: An Aesop which teaches guys not to overlook girls who don't conform to standard beauty... because ugly girls can become conventionally hot if they try. Learning to see an unconventionally-attractive woman as beautiful, however, isn't an option.
+-   Beautiful Slave Girl: A lovely woman attracts The Hero's (and the audience's) sympathy because her enslavement makes her more vulnerable.
+-   Beauty Contest: A competition to determine who will be crowned the most beautiful female in the setting. Due to how badly the women in the setting want the title, it will become all-out war. A Straw Feminist will usually complain (but be ignored and a Transgender person or a Wholesome Crossdresser will typically win either to teach An Aesop or for laughs).
+-   Beauty Equals Goodness: If she looks good on the outside, she _must_ be good on the inside, too! And if she's _not_ conventionally attractive, she must be a bad person, or must have done something wrong. (Perhaps she is being punished by The Powers That Be.)
+-   Beauty Is Best: Even if she displays other virtues, her looks are still considered the most important thing about her.
+-   Beauty Is Never Tarnished: No woman ever gets seriously injured, or even dirty, except in such a way to make her _more_ attractive to the viewing audience (i.e. Clothing Damage that bares the midriff = good; nasty gash across the face = bad).
+-   Bed Full of Women: A stock visual to demonstrate a character's manliness, virile nature, and sexual aptitude by having a number of women in his bed, with the implication that he managed to have sex with (and often satisfy) all of them. These women are just set dressing and will have no further role in the story.
+-   Behind Every Great Man: A positive archetype — the noble and selfless woman who assists a powerful man and takes none of the credit.
+-   Beta Bitch: The second in command for the Alpha Bitch, who either worships the ground she walks on or does her dirty work. She may backstab her leader, either because she wants her spot or she is won over to the good side (usually by The Hero).
+-   Bitch Alert: A shot or blocking which serves to let the audience know that a spiteful or conniving female character has come into the story.
+-   Black Jezebel Stereotype: Black women that are stereotyped as having an inherent animalistic lust and moral indecency, often with exaggerated body types emphasizing sexual characteristics.
+-   Black Magician Girl: For the girls who like to destroy she has a better grasp of the intricacies of Functional Magic then heaving a heavy metal weapon. This trope also helps her fit the Squishy Wizard archetype. The Lady of Black Magic is similar.
+-   Body Sushi: Her body is being used as a serving platter for food, as a means of entertainment and Fanservice.
+-   Bouquet Toss: Since weddings are treated as the pinnacle of a woman's existence, _every_ currently single woman will literally fight to catch the bouquet and be the one who's next in line. The one who _does_ gets ribbed about being next, or how she's getting to be an Old Maid, or she may start to think about her biological clock, even if it never bothered her before.
+-   Boyfriend-Blocking Dad: What loving father wouldn't do everything in his power to protect his fragile daughter from potential love interests?
+-   Brainless Beauty: She's valued for her looks, and _only_ her looks, and doesn't have (or hasn't had the opportunity to develop) any other skills or talents.
+-   Bratty Teenage Daughter: A stereotypical teenage girl who is overly emotional, dramatic, entitled, shallow, self-centered, and materialistic, not to mention completely boy-crazy, putting her obsession with male attention over her friends and even her family, and thus needs her sexuality and whereabouts policed by her father(or other male family members in proximity) due to being too gullible and stupid to possibly make her own decisions.
+-   Bridezilla: Because weddings are often seen as the most important event in a woman's life, brides tend to want things to go _absolutely perfectly_, to the point that a typically cool or docile woman becomes ferocious and scary.
+-   Broken Bird: Life has been hard enough to shatter this delicate girl.
+-   Bunker Woman: A man kidnaps a woman and locks her into an underground bunker or dungeon. In many cases, she has to survive or escape by her own wits.
+-   But I Would Really Enjoy It: She mustn't, but damn if it wouldn't feel GREAT!
+-   Career Versus Family: She can be a mom, or she can work outside the home, but not both.
+-   Career Versus Man: She has to choose whether she wants a long-term boyfriend or husband, or a career; she can't have both.
+-   Casting Couch: If she wants the part or position, she'll have to submit sexually to whoever makes the decisions. Or, the assumption that a woman in a position of power has used her sexuality to get that power, whether she _actually_ has done so or not.
+-   Cherry Blossom Girl: A girl whose looks, behavior, or name invoke the image of a beautiful and gentle cherry blossom.
+-   Chickification: When the Action Girl is defanged to become today's Damsel in Distress.
+-   Clean, Pretty Childbirth: When a woman gives birth, it's never messy or gross.
+-   College Widow: An outdated trope where colleges are dominated by horny young men, and thus any woman that appears (as a member of staff or the spouse of staff) is bound to attract their attention.
+-   Contractual Purity: She's no longer worthy of respect if she expresses her sexuality, drinks, or smokes, or makes a mistake.
+-   Compete for the Maiden's Hand: Two or more suitors engage in some sort of contest to win a noble, royal or otherwise important woman as their prize.
+-   Cosmetic Catastrophe: Sub-Trope of Men Are Strong, Women Are Pretty. For men, a Rite of Passage involves something violent or tough to become a "real man". For women, the path to womanhood involves learning how to wear cosmetics and wear cumbersome feminine clothing and accessories.
+-   Coy, Girlish Flirt Pose: A very delicate and demure pose to invoke feelings of gentleness in a romantic target.
+-   Creepy Housekeeper: A stock female character who is relegated to housekeeping tasks for a wealthy or powerful master, and comes across as creepy due to how seriously she takes the task. Her male counterpart, the Crusty Caretaker, usually does more than just housework and is more abrasive or crotchety than unhinged or creepy.
+-   Cruel Cheerleader: A corollary to Beauty Is Bad and the Alpha Bitch, this character is an attractive (sometimes wealthy) girl who is a member of the cheerleading group—typically considered the apex of the "cool club" of a school. However, she is usually superficial, mean, or downright evil.
+-   Damsel in Distress: Women are too delicate to fight for themselves; they must be protected and rescued.
+-   Dating What Daddy Hates: Casting daughters as either naive enough to date a person their father knows is rotten or spiteful enough to date them as part of their Daddy Issues.
+-   A Day in Her Apron: Women are natural nurturers and therefore better suited to take care of the house and kids than men will ever be...and better suited for that than any job outside the home.
+-   Death by Disfigurement: A woman's beauty is more important than her life.
+-   Declaration of Protection: A delicate woman inspires a man to pledge his protection.
+-   Defeat by Modesty: A method of defeating a (usually female) opponent is by somehow taking off their clothes. Tends to overlap with All Women Are Prudes, since the very thought of being exposed instantly makes the female character too self-conscious to fight.
+-   Defiled Forever: A _very_ repugnant trope commonly believed about a woman's sexuality. Namely, no man will want a woman after her virginity has been spoiled or she has been "violated". Even rape victims have been known to believe this about themselves, which leads to horrible consequences both in Real Life and fiction.
+-   Deliver Us from Evil: Motherhood draws out a woman's inner gentleness and nurturing.
+-   Dojikko: A Japanese variant of the Cute Clumsy Girl that plays far more on the cuteness and delicateness. Can be male or female, but male versions tend to be effeminate also.
+-   Dragons Prefer Princesses: Big powerful creatures, like dragons, always seem to kidnap princesses, usually to give a hero a prize worthy of risking his neck for. More updated versions of the trope try to turn the cliche on its ear by making the dragon come to love (sometimes even romantically) the woman itself, or she'll somehow gain command or control over a dragon to juxtaposition the frail woman and fearsome beast.
+-   Drama Queen: A character (usually female, hence the name) gets overly emotional or excited about every little thing that doesn't go their way and behaves in a manner that demands sympathy or attention.
+-   Droit du Seigneur: A more powerful nobleman humiliates a weaker man by deflowering his new wife.
+-   Drop Dead Gorgeous: A dead, sexy woman signifies drama or intrigue.
+-   The Dulcinea Effect: The hero leaps to the defense of a woman, even if he barely knows her, because of this trope. She might be able to talk her way out but not punch her way out.
+-   Earth Mother: She creates, protects and nurtures all life on the planet. Her more dangerous counterpart is Mother Nature (below).
+-   Eek, a Mouse!!: Women being portrayed as frightened of a tiny mouse, often to the point of being frozen in fear of them.
+-   Elite Man–Courtesan Romance: A wealthy or powerful man romances a sex-worker, typically because he can afford her or she desires a better life which he can provide.
+-   Emotionless Girl: Serves the double purpose of letting you know something's wrong with her and making her seem more vulnerable as a result of her "condition".
+-   Empty Nest: If a woman's _entire_ sense of identity and purpose is defined by her status and role as "mother," she loses that purpose and identity when the kids grow up and leave home.
+-   Engagement Challenge: A set of rules, tests or tasks that one must meet in order to prove worthy of a spouse as their prize. The prize is usually a woman, and the challenge is either imposed by her parents, gender customs or some other group other than the woman herself. Part of the drama involved is that her feelings are irrelevant—she will be forced to both reject a suitor she loves if they fail, and to accept one she hates if they succeed. Can be gender-inverted, but not commonly.
+-   English Rose: She's posh and proper, and maintains her feminine delicacy with novelesque. She drinks tea from china that's as delicate and refined as she is.
+-   Every Proper Lady Should Curtsy: With all the implied formal dresses and big, heavy skirts to make this possible.
+-   Fag Hag: She's there as a Shipper on Deck to her gay guy friends, and can't get a boyfriend herself because she isn't considered attractive enough.
+-   Fainting: Played for Drama for girls; Played for Laughs for guys.
+-   Farmer's Daughter: She's an innocent wildflower who can't seem to resist the exotic city men who wander onto Daddy's farm. Possibly uneducated, and always emphasizes the Madonna-Whore Complex (she's either a naive virgin the city man seduces or a jezebel man-trap). Beware of the Shotgun Wedding
+-   Faux Action Girl: She's hyped up as an Action Girl, but she doesn't pull her weight as equally as the male characters because of her delicateness.
+-   Favors for the Sexy: Guys swarm over her, trying to show her how "nice" they are, without any regard for her feelings, by doing mundane things for her that she _could_ probably do herself, or trying to win her over with expensive gifts or compliments.
+-   Female Angel, Male Demon: Angels are beautiful, kind, and merciful and thus are women. Demons are hideous, cruel, and aggressive and thus are men.
+-   Females Are More Innocent: Every woman is more sensitive, wise, and pure than a man. If one or more of those qualities is missing, a man is probably to blame.
+-   Female Feline, Male Mutt: The graceful, crafty cat will usually be female and the brutish, simple dog will usually be male.
+-   Female Misogynist: She believes that guys have it right and most girls are inferior (in extreme cases, even herself).
+-   Feminine Women Can Cook: A delicate woman can cook because she's careful, thoughtful, notices subtle details in taste, etc. Tomboys don't have this ability because they're more masculine.
+-   Fetishized Abuser: The man is cold or cruel toward his more delicate lover, but the relationship is meant to arouse the audience.
+-   Final Girl: Enforced in Hollywood because a lone female will seem more vulnerable than a lone male.
+-   Foolish Husband, Responsible Wife: The wife in a married couple keeps her husband in line.
+-   Foot Popping: When a woman receives a kiss, her leg bends and foot sticks up to demonstrate how swept up by her emotions she is. If the pose is reversed, it's usually Played for Laughs.
+-   Gender Nonconforming Equals Gay: _Because_ women are delicate, a woman who is in some way "indelicate" (gender nonconforming) will be gay or queer.
+-   The General's Daughter: She's typically seduced by the Military Maverick and daddy will fiercely protect his little girl.
+-   Girls Love Stuffed Animals: Due to "maternal instinct", all girls love cuddly things.
+-   Girliness Upgrade: She's gone from Tomboy to more feminine after Character Development.
+-   Girls Behind Bars: The innate delicacy of women make women's prisons a cozy, comfy and safe place where nothing bad ever happens.
+-   Girl-Show Ghetto: Media aimed at a primarily female audience lacks any sort of quality or substance.
+-   Girls Stare at Scenery, Boys Stare at Girls: A visual shot that is often shorthand for A Man Is Always Eager and All Women Are Prudes. She has her mind on other things, but he has his mind on _her_.
+-   Give Geeks a Chance: A plot in which a geeky, unmanly guy has trouble gaining female companionship. Until he finds the one girl who is different, or otherwise proves that he is manly or successful enough to "deserve" a girl. Rarely gender-inverted.
+-   Give the Baby a Father: A woman is urged to remarry so that her child (usually a son) will grow up with a father, either because fatherless children are perceived as "broken" or because she needs someone to take care of them.
+-   Go-Go Enslavement: A woman is forced into a sexy, skimpy, or otherwise humiliatingly erotic outfit after being captured or enslaved by a villainous force.
+-   Gold Digger: A character (usually a woman) who doesn't provide for themselves, instead of finding a boyfriend or husband to take care of them, and giving away their body to be provided with a quality life. Often overlaps with Trophy Wife and Ugly Guy, Hot Wife.
+-   Good Girls Avoid Abortion: Girls who have abortions are portrayed as bad, emotionally damaged, or sexual deviants who want to "avoid" consequences. Also, she will typically be portrayed as a victim to archaic and unsafe abortion methods which put her life in danger. Even if a story does involve a woman deciding to abort, it's with great emotional indecision and torment. Just casually deciding to terminate a pregnancy without drama is out of the question.
+-   Good Princess, Evil Queen: The younger woman in the weaker political position is purer and more moral, while the older woman in the more powerful position is unstable or evil.
+-   Gossipy Hens: Women can't resist gossiping with each other. Usually, because they're portrayed as shallow and fickle, backstabbing and untrustworthy, or both.
+-   Granny Classic: If young women are delicate, elderly women are even more so.
+-   Granola Girl: A very extreme liberal, progressive Wide-Eyed Idealist who wants to champion virtually every social cause there is with a friendly can-do attitude...and absolutely _no_ substance to her beliefs or follow-through on her goals. So she comes across as overly shallow and naive.
+-   Harp of Femininity
+-   Haunted Heroine: Congratulations; you're a girl in a ghost story. Now watch as you slowly lose any and all sense of reason. After all, you're far too delicate and sensitive for such spooky happenings.
+-   Heir Club for Men: Because Lineage Comes from the Father, a girl can't inherit property or status, even if she is far more competent than any brothers she may have.
+-   Heroic Build: In American comic books (and some other forms of media), the omnipresent body type is that of a hulking Adonis for males and a slender, curvaceous figure for women.
+-   Hero's Muse: The Hero is on a harsh journey, but he has a special woman to keep him motivated.
+-   High-Heel–Face Turn: Females Are More Innocent and, thus, will always turn to good when presented with the opportunity.
+-   High Heel Hurt: High heels, a very common form of footwear for women, are very painful or uncomfortable to wear, which often hinders her from action.
+-   Homosocial Heterosexuality: Women are passive things for men to fight, barter, or haggle over.
+-   Honorable Marriage Proposal: A man marries a woman who is pregnant just to protect her reputation.
+-   Honor-Related Abuse: If a woman doesn't live up to her family's expectations, or even falls victim to malicious rumors, she is to be harmed, ostracized, or killed.
+-   Housewife: The role that most women were expected to play until about the mid-point of the 20th Century. Now considered a Discredited Trope.
+-   Huge Guy, Tiny Girl: A big and tough man is contrasted with a small and more delicate woman.
+-   Hypnotize the Captive: Rather than kidnapping and imprisoning the Damsel in Distress by force, the villain instead hypnotizes or brainwashes her so that she doesn't resist.
+-   Hysterical Woman: A woman descends into helpless hysterics, usually during situations where men would or do keep their cool or act more pragmatically.
+-   I Banged Your Mom: Mothers are not supposed to be sexual, so to suggest that they are, especially to her son, is seen as the greatest of insults.
+-   I Broke a Nail: When played straight, it's used to show that woman is more concerned with her delicate appearance than the more important task at hand. When used ironically, it's used to show that even an Action Girl cares about her appearance.
+-   Ice Queen: A woman who is hard, cold, and indifferent to the male hero _must_ be afraid of getting hurt or hiding a wounded inner self.
+-   If You Ever Do Anything to Hurt Her...: The men in her life want to make sure she's well taken care of, and because they're not delicate like she is, they guarantee it with threats of bodily violence.
+-   I Have You Now, My Pretty: The villain sexually molests his female captives. Since he is male, this shows what a bastard he is. Gender-inverted scenes, with a villainess molesting the male hero, are far less likely to be evidence that she is evil (and far more likely be fetish).
+-   I Have Your Wife: The villain kidnaps the hero's wife (or daughter) far more often than he kidnaps the heroine's husband.
+-   Imperiled in Pregnancy: If women are delicate, _pregnant_ women are even more so.
+-   The Ingenue: Young women with a "proper" upbringing are so innocent that they are easy prey for men with bad intentions.
+-   Innocent Flower Girl: She's pure and kind, associated with the gentle flower.
+-   Innocent Soprano: The genial, innocent, romantic heroine always sings with a high, pure voice.
+-   Intimacy Via Horror: Because she's so sensitive, a girl who's on a date will cower before danger even when it's fictional, while her boyfriend will try to comfort her.
+-   Lady and Knight: It is a knight's duty to protect and serve the delicate lady.
+-   Lady Drunk: A woman who spends most of her time drunk out of her mind. Either because she can't cope with whatever is wrong with her life or because she started as a Hard-Drinking Party Girl and is too far gone to know how to do anything else.
+-   Lady-In-Waiting: The personal attendant and servant of a queen or other woman of high stature. Almost always a woman because it's assumed a man in that position couldn't be trusted to keep his hands to himself. (If the person in that position _is_ male, he will almost invariably be a eunuch.)
+-   Lady of Adventure: Even a woman who likes to be in the thick of danger won't resort to physical exertion or force.
+-   Lady of Black Magic: A more elegant, graceful, and often wise type of combatant, which is why the role is typically female. Also often overlaps with Guys Smash, Girls Shoot.
+-   Leg Cling: A Stock Pose in which a powerful man stands in a dominant fashion while a woman (usually under-dressed) clings to his leg in a submissive, helpless fashion.
+-   Lesbian Vampire: A sexy, seductive female vampire preys on women. It often serves as an allegory of lesbianism: that women who desire other women are predatory (similar to how men are stereotyped) and will turn a woman into something "wicked" that no longer has a "natural" desire for men. Or, might just be used to invoke Girl on Girl Is Hot.
+-   Let Her Grow Up, Dear: A father exerts some sort of control over his daughter's life because he doesn't want to trust her to make her own decisions. Often, the mother calls him out on this.
+-   Lie Back and Think of England: Sex is a "chore" she must do in order to a) make babies and/or b) keep her husband satisfied (and thus, theoretically, with no reason to leave her or cheat on her.) In other settings, where non-procreative and/or non-marital sex is permissible, a woman _not_ enjoying sex is usually a sign that she has a Dark and Troubled Past involving rape, or that there's something "wrong" with her.
+-   Light Feminine and Dark Feminine: Most often, it's the more delicate, light colors which are associated with "good" women.
+-   Little Dead Riding Hood: Fragile little girl + red = dead little girl.
+-   Lonely Doll Girl: A lonely girl whose only companion is her dolls.
+-   Long Hair Is Feminine: A woman with long, well-cared-for hair must have lived a sheltered life and/or must have the free time needed to manage her delicate tresses. Active men, on the other hand, can't be bothered with such things.
+-   Loser Gets the Girl: Two men fight over a woman, but unexpectedly, the one that wins isn't the one that gets her. The trope still treats the woman as a "prize", with the subversion being that the dominant one isn't the one awarded.
+-   Loved I Not Honor More: An aversion of the Wet Blanket Wife trope, where a hero has to go do something awesome or dangerous, and she has to Stay in the Kitchen. They accept, however, that the awesome and dangerous things he does are exactly what makes him the good man that she loves.
+-   Love Goddess: Almost every pantheon, real and fictional, has at least one goddess dedicated to love, sex, matrimony, fertility, and/or commitment.
+-   Love Makes You Uncreative: A talented, successful or popular artist/creator falls in love and loses the edge that made them creative. As noted by the trope description, the character is usually a "she". See also the Yoko Oh No, when said Love Interest is blamed for the artist's fall from grace.
+-   Madonna-Whore Complex: She can be sexy, or she can be Happily Ever After material, never both.
+-   Mad Scientist's Beautiful Daughter: She's ripe for a High-Heel–Face Turn after she meets our strong, heroic protagonist.
+-   Maid and Maiden: A very archaic trope where a beautiful (and important) young woman is accompanied somewhere by an older woman. This is a carryover from the times when girls were discouraged from going anywhere by themselves to preserve virginity and purity.
+-   Maiden Aunt: A specific version of Old Maid; she's successful but has no children of her own, so she dotes on her sibling's children.
+-   The Maiden Name Debate: In a patriarchal or patrilineal society, women are expected to take the last name of their husband, but this causes a lot of debate if she's got more power, status, or individuality.
+-   Makeup Is Evil: Using makeup to enhance one's natural beauty is "cheating" and makes someone (usually women) untrustworthy. Especially common for The Vamp or the Femme Fatale, and is a Super-Trope to Excessive Evil Eyeshadow.
+-   Make Way for the Princess: When the Alpha Bitch and her Girl Posse come on the scene, everyone in the school gets out of their way. Most often used as a way to affect the Male Gaze on the extremely hot girls.
+-   Mandatory Motherhood: Whether she wants to or not, her destiny is to be a mother.
+-   Marital Rape License: A trope of outdated morality, where a husband has a legal right and/or expectation to have sex with an unwilling wife, even if it means violently forcing her to. Sometimes gender-inverted, but that version is not as common.
+-   Mars and Venus Gender Contrast: Women are fundamental _very_ different from men, _almost_ to the point of being a whole other species.
+-   Mars Needs Women: Aliens are coming to earth to steal human females. Often used, whether intentionally or inadvertently, as a fantastic analog for lecherous foreigners.
+-   Masculine Lines, Feminine Curves: Curves are visibly softer and more delicate than lines, which makes them perfect for drawing women while straight lines are perfect for drawing men.
+-   Men Act, Women Are: Male characters get everything done, or do the hard work. The female characters are simply there to look good or to invoke audience sympathy.
+-   Men Are Better Than Women: Men are more all-around capable, reliable, or flat out superior, than women.
+-   Men Are Uncultured: Because women are delicate, they can appreciate fine cultures like opera and classical painting. Men, because they are brutes, cannot.
+-   Men Are Generic, Women Are Special: A male character is considered "normal" by default. A female character, by virtue of simply _being_ female, is treated as special under the circumstances or is characterized with stereotypically womanly traits.
+-   Men Are Strong, Women Are Pretty: The primary virtue of a man is to be strong, capable, tough and daring. The primary virtue for a woman is to look pretty.
+-   Men Are the Expendable Gender: One of the more Unfortunate Implications of this super trope.
+-   Men Buy from Mars, Women Buy from Venus: Advertising tries to make men's products tough or cool, while women's products are sensitive, gentle or make housework easier.
+-   Men Get Old, Women Get Replaced: Female characters either stay forever young and/or beautiful, or they're removed from an active role in the story. Male characters stay involved even after they've grown old.
+-   Men Like Dogs, Women Like Cats: Men prefer dogs because they're traditionally used for work and are rough-and-tumble pets. Women, however, prefer "softer" and less hands-on pets like cats.
+-   Men Use Violence, Women Use Communication: Because men are strong, violence is their main method of problem-solving. Because women are delicate, they talk things out to find a solution that pleases everyone or manipulate others into getting what they want.
+-   Messy Male, Fancy Female: Men (or male characters) are portrayed as unkempt or dirty to showcase their ruggedness or lack of domestication. Female characters are portrayed as clean and well-kept to showcase their beauty or lack of ruggedness.
+-   Misogyny Song: A song either about how women are objectified, disposable, crazy, or all of the above.
+-   Missing White Woman Syndrome: Only a missing case about a woman who is white, wealthy, conventionally-attractive, young, and(of course) chaste or virginal is newsworthy. If she doesn't fit one or more of those categories, her disappearance might never be mentioned, or might even be portrayed as a "good" thing.
+-   Monster Brother, Cutie Sister: In a couple of siblings, the woman is usually the cute little sister who has a big brother _very_ overprotective over her.
+-   Monster Misogyny: A plot about a monster, creature, or other wicked entity that stalks, harms, or kills women.
+-   Motherhood Is Superior: Her strength lies in her nurturing abilities...and she's praised for being a mother before she gets accolades for any of her other achievements or accomplishments if she gets any at all.
+-   Mother Nature, Father Science: Nature is about emotions, intuition, warmth, birth, and nurture. Science is about logic, death, cold fact, and radical progress.
+-   MRSDegree: For men, college is about becoming qualified to work and start a career. For women, college is about finding a husband—probably one of those men.
+-   Ms. Red Ink: She doesn't understand the value of money, or know how to use a credit card responsibly.
+-   My Biological Clock Is Ticking: When a woman gets to be of a certain age, getting married and/or having babies right away becomes of utmost concern to her.
+-   My Girl Is Not a Slut: When a woman's value or appeal is inversely proportional to how often she has had sex.
+-   My Grandma Can Do Better Than You: Used as an insult to state that an elderly grandmother can do better than the younger, fitter, or tougher (and usually male) character. Sometimes "little sister" is used instead, to have the age on the opposite extreme while keeping the gender.
+-   Mysterious Waif: A fragile woman who hides a secret and typically seeks a liberator.
+-   Mystical Pregnancy: A trope which skips any number of biological steps to conceive or maintain a pregnancy. Too often, the steps skipped are either ones a woman should have some control or agency over, such as when, how and with whom she conceives, or ones which make the pregnancy more "pretty" than a real one would be.
+-   Mystical Waif: A fragile young woman infused with magical power.
+-   Naïve Everygirl: She's innocent and clueless. Just like our target demographic.
+-   Nature Adores a Virgin: Virgins are more valuable.
+-   Nerd Nanny: A pretty and socially-adjusted girl with no interest in geeky or sciencey stuff hangs out a lot with a large clique of guys who are _far_ into that stuff.
+-   Neutral Female: The Damsel in Distress makes no effort to help when The Hero arrives to rescue her.
+-   No Guy Wants an Amazon: If you're stronger than your man, you're seen as too emasculating for him, and he'll leave you for a more delicate and pretty girl, whom he can protect.
+-   No Guy Wants to Be Chased: Women are expected to act demure and defensive about sex and relationships; men don't like it when they're the aggressors.
+-   No Pregger Sex: The idea that sex during a woman's pregnancy is undesirable or dangerous exists for a large number of (usually) false reasons, typically revolving around the woman's (or baby's) physical fragility, a woman supposedly lacking interest, "unsexy" bodily reactions from the woman such as vomiting or other issues, or the plain old-fashioned idea that sex is strictly for procreation and thus pointless if there's already a bun in the oven.
+-   Not Like Other Girls: A female character is _praised_, either by the narrative or by a character, typically a male one, for her lack of feminine qualities, suggesting that, due to being more masculine .,she surpassed the perceived inherent "inferiority" of her gender by making herself an "exception" who can stand with the dudes.
+-   Not Wanting Kids Is Weird: A woman who isn't eager to become a mother is seen as abnormal because it implies a lack of nurturing maternal instinct.
+-   No Woman's Land: Places outside of the woman's home or native environment are treated as harsh, abusive, misogynistic or deadly places for a woman. The women that live in such places are thus typically victims awaiting rescue.
+-   Office Lady: Often the Token Girl at the office, she's in a low-level position (such as a secretary or receptionist), with little or no room for advancement, and will undoubtedly leave when she gets married or gets pregnant.
+-   Old Maid: An older woman who failed to get a husband in her prime and thus is deserving of scorn and ridicule.
+-   Only One Female Mold: Male characters are created with a multitude of different sizes, shapes, characterization, and expressions. Female characters, on the other hand, only have one because women are supposed to be pretty or cute at all costs, which limits them to very narrow portrayals.
+-   The Ophelia: This poor girl has seen so much that she's lost her sanity (but not her beauty).
+-   Pale Females, Dark Males: When you also need contrasting hues to emphasize the delicate point.
+-   Plastic Bitch: Mean girls use cosmetic surgery to look beautiful.
+-   Phoneaholic Teenager: A teenage girl, who "talks too much," only using the phone for social calls involving vapid gossip with equally vapid friends, rather than doing anything "productive," or "valuable" with her time.
+-   Pom-Pom Girl: A girl on the sidelines of the action, but still rallies everyone with her adorable pom-poms.
+-   Pregnant Hostage: A delicate woman in an even more delicate condition is placed in immediate danger.
+-   Pretty Freeloader: A character, usually female, who does absolutely nothing to provide for herself but uses her good looks and sex appeal to coax someone else (usually a guy) to let her mooch off of them. Similar to the Gold Digger, with the exception that the Pretty Freeloader doesn't need to sleep with anyone.
+-   The Prima Donna: A bossy, self-important and conceited starlet of show business. She uses her fame and/or beauty to get everyone to bend to her whims, and is typically portrayed as immature and self-destructive.
+-   Princess Classic: Characterized by her beauty, extravagance, poise, and non-aggressive demeanor, she is the archetypical princess, since Victorian times.
+-   Princess Phase: The period in a young girl's life where she wants to be a beautiful and graceful princess, complete with pretty clothes and a handsome knight or prince to come to rescue her.
+-   Prone to Tears: Characters who cry easily are most often female because they are sensitive both by way of "easy to hurt" and in the sense of "sensing the grief of others."
+-   Proper Lady: Violence? Force? Harsh words? How unladylike.
+-   Property of Love: If she is treated as property by her lover.
+-   Quitting to Get Married: In order to get married, or to be considered marriageable, she must give up her career.
+-   Rape and Revenge: If a woman is raped or sexually assaulted, a man in her life should avenge her, whether she wants revenge or not.
+-   Rape and Switch: A lesbian can be "fixed" (read: turned heterosexual) through rape by a man...or a heterosexual woman can be turned into a lesbian through rape by a woman.
+-   Rape Portrayed as Redemption: A hostile, irrational, or troublesome woman changes her outlook after being raped. This trope is problematic for a _multitude_ of reasons, not the least of which is reinforcing the idea that all a woman needs to be "tamed" is a man sexually forced upon her.
+-   Real Women Don't Wear Dresses: Feminine traits are eschewed due to being weak and worthless, primarily because of their association with women, who are weak and worthless. Thus, if a woman wants to be strong, ambitious, confident, or get shit done, she must compete on men's terms and become as masculine as possible.
+-   Rebellious Princess: She _wants_ the hero to have his Standard Hero Reward and/or smite evil with him etc. Daddy is not enthused.
+-   Rejection Affection: A guy meets a girl and tries to woo her, but she rejects him—so he tries again, and again, and _again_. Each rejection only emboldens his desire for her. She's become a prize to be won, and her resistance is simply an obstacle.
+-   Remarried to the Mistress: A husband with an extramarital lover simply replaces his dead wife with the other woman. Beyond sometimes treating women as interchangeable, this sort of practice is often more acceptable than the inverse, since women often aren't allowed to remarry, fewer have a choice of whom to marry, and woman taking lovers is usually seen as the greatest of insults.
+-   Retail Therapy: Shopping is something that'll cheer a woman up. If this applies to a man, he's effeminate or equally shallow.
+-   Save the Princess: The oldest one in the book. Knights go off on adventures to save a royal lady.
+-   Screaming Woman: A woman's loud, shriek of horror or surprise that is meant to indicate that something has gone terribly wrong for her.
+-   Sensible Heroes, Skimpy Villains: A heroic woman dresses conservatively to show her modesty, virtue, and other "wholesome" delicateness. A villainous woman, by contrast, is more likely to show off her body to seduce others and bend them to feminine wiles.
+-   Shameful Strip: A woman is forced out of her clothing. Sometimes she's forced to endure the torture of taking them off herself while people (or her tormentor) is watching. Other times, she's forcefully or violently stripped.
+-   Shotgun Wedding: She is forced by custom (or literally forced) to get married to a man she's had sex with, or else she'll be considered Defiled Forever and treated accordingly.
+-   Sinister Sorority Sisters: Women are naturally cliquey and bitchy, therefore any group dedicated to women (especially young women) will be a nightmare.
+-   Sleeping Their Way to the Top: There's no way a woman could get into a position of power on her own merits; she got there by doing sexual favors for the "right" people.
+-   Slut-Shaming: A woman who had sex should feel bad about it.
+-   Soapbox Sadie: A (usually) female character who is sensitive to a huge number of plights in the world. The character can either imply that women are more empathetic to such problems, or that they are too "wholesome" for their own good. Or both.
+-   Someone to Remember Him By: Sister Trope to Men Are the Expendable Gender. Even though the love of her life is gone, he is still "with" her in the person of their child (who is usually male).
+-   Southern Belle: Large frilly dresses, perfect nails, curls, and perfect social graces make the archetypical woman of the American South. In antiquated tradition, this only applied to _white_ women; Black women were deemed too inferior.
+-   Standard Female Grab Area: Any woman, no matter how badass, can be rendered helpless if the villain grabs her upper arm.
+-   Standard Hero Reward: She's a reward for his heroism, and his heroism entitles him to a happy ending with her, which she is only too happy to give him.
+-   Stay in the Kitchen: When a character or the narrative insists that women should only do womanly things.
+-   Suicide by Pills: Women are overrepresented in the depictions of this trope likely because it is less gory than other forms of Choosing Death and because it preserves the beauty of the victim, making this both Women Are Delicate and Delicate Is Beautiful.
+-   Taking the Veil: A female character becomes a nun for reasons that may include one of the following: she's trying to escape an Arranged Marriage she doesn't want or an abusive marriage already in effect, her family considers her to be "troublesome" and wants to have her Locked Away in a Monastery, she is considered Defiled Forever, she's retiring at the end of her life, or she actually _does_ feel called to be a "Bride of Christ." She will either be strictly contemplative, or relegated to a traditionally "feminine" career path such as teaching or nursing, and takes a vow of chastity.
+-   Talented Princess, Regular Guy: The female character has both high status and highly developed skills while the guy is just there.
+-   Tampon Run: Another one of those strange little quirks of femininity; her body always seems to betray her at the least convenient moment.
+-   Team Mom: The teammate who looks after the physical and emotional well-being of the others is usually female. (The one who does most of the strategic planning or fighting is usually male).
+-   Teens Love Shopping: The stereotype that teens (almost always teenage girls) care only about buying the latest fashion-and-beauty-related "must haves" at the mall.
+-   Territorial Smurfette: The sole woman will _always_ feel insecure and threatened when another woman is in her territory.
+-   Textile Work Is Feminine: Delicate or time-consuming tasks are for women, not men.
+-   There Are No Girls on the Internet: The internet has often been seen as a place where nerds come to congregate, and many said nerds do not know many (or ANY) Real Life women who are interested in the things they like. Thus, for a long time, it has been assumed that any girl on the internet was either a man in disguise or a precious, rare gem that needed to be treasured (and flirted with) fiercely.
+-   The Three Faces of Eve: Females from three categories together: wife material, seductress material, and child material. All three are feminine and delicate.
+-   Third-Person Seductress: An end result of Men Are Generic, Women Are Special, Most Gamers Are Male, and Men Are Strong, Women Are Pretty, this trope has a developer create an attractive female Player Avatar so that the "default" male audience will have something pretty to look at while they play their game.
+-   Touch of the Monster: A stock plot or invoked image that intentionally implies that a monster is doing, or has done, rape or some other disturbing act, with a helpless woman.
+-   Traumatic Haircut: Since Long Hair Is Feminine, to lose it symbolizes a loss of identity, and to have it _forcibly_ taken from her is as serious as raping her.
+-   Trophy Wife: She's just an ornament, meant to serve as a symbol of her wealthy husband's success.
+-   Ugly Guy, Hot Wife: One side of this trope reinforces the "Women are Pretty" cliché by having an attractive woman contrast with her ugly husband. Another side of this trope implies that a rich, powerful or successful man can have any kind of woman he wants.
+-   Unable to Support a Wife: A man has trouble or is criticized because he doesn't earn enough of a living to take care of his wife and their family. The wife doesn't work and is either a Housewife, a drain on their finances, or both.
+-   Understanding Boyfriend: A female character is freaking out or is very insecure about a perceived flaw that she has. However, once her Love Interest is made aware of it, he doesn't care and his acceptance is enough to put her at peace.
+-   Unnecessary Makeover: Not-so-conventionally-attractive girl goes offscreen and comes back conventionally gorgeous. She can't just stay the way she is, because not being conventionally-pretty is not acceptable.
+-   Unstable Powered Woman: A woman comes into power but can't control it, leading to devastating consequences.
+-   Vain Sorceress: The first (and often primary) application of a witch or sorceress' magical abilities is to enhance her beauty or make it last forever.
+-   Valley Girl: A very shallow, self-absorbed girl who speaks in "vocal fry" or hip slang and is generally seen as annoying by the cast, or is intended to be seen that way by the audience.
+-   Vanity Is Feminine: Physical beauty is delicate, so women care about it more than men. A man who cares about his appearance is acting more like a woman.
+-   Victorian Novel Disease: Even though she's dying, she's still graceful and beautiful, and no aspect of the Delicate and Sickly girl's disease is undignified or "icky."
+-   Virgin Power: Losing her virginity means losing her powers or inherent "specialness."
+-   Wacky Cravings: If a woman is "expecting," don't expect her to be able to control the irrational desires of her pregnant body.
+-   Wait for Your Date: Women spend much time fussing over their hair/makeup/clothing, etc., just to "fit in" or impress men.
+-   Wakeup Makeup: A woman will _always_ roll out of bed looking and feeling her absolute best, with little or no effort.
+-   Wanted a Son Instead: A parent wanted their child to be a boy; a holdover from the Heir Club for Men.
+-   Water Is Womanly: Women are tied to water because of its association with beauty, healing, and fluidity.
+-   Wet Blanket Wife: The Hero has awesome, or dangerous, things to do. His Love Interest, however, pleads or nags him not to do it, for reasons that may be valid, but not conducive to the plot.
+-   White-Dwarf Starlet: An older woman of show business who is way past the prime of her career, but can't accept being replaced by younger and prettier girls. Or, in a more sympathetic portrayal, she is a victim of the sexist showbiz machine; since she is no longer pretty or pure enough, she is quickly replaced. Her behavior is typically demonstrated to be self-destructive or outwardly hostile.
+-   White Magician Girl: For the girls who like to heal, they have Healing Hands in addition to a healing personality.
+-   Wife Husbandry: A much older man is involved in the raising/development of a young girl he plans to eventually take as a wife. It is widely ridiculed in most 21st century societies because of the inherent power imbalance. Naturally, this would be the case with either gender but has been more commonly done with girls, often to ensure her chastity and virginity and because of their perceived "delicate" nature.
+-   Win Her a Prize: A boy tries to win his date a prize to impress her with his charity, cleverness or ability.
+-   Womanliness as Pathos: Women inherently cause drama or intense feelings.
+-   Woman Scorned: A woman makes life hell for a man who has hurt her delicate heart. Often, we're not intended to sympathize with the man, but are supposed to see him as scum who deserves what he gets no matter how severe.
+-   Woman Were-Woes: Female shapeshifters have difficulties male ones don't.
+-   The Women Are Safe with Us: The armies which work for the villains are depicted as misogynists or abusers who hurt or rape women while the armies that work for the heroes are depicted as merciful, gentle and chivalrous.
+-   Women Are Wiser: Women always the more sensible gender because they are less clumsy and more sensitive.
+-   Women Drivers: A popular stereotype that a multi-ton machine that can travel anywhere doesn't mix with "irrational" members of their fairer sex.
+-   World's Most Beautiful Woman: "Beauty" is stereotyped as being a woman's "hat", the way power is stereotyped as a man's "hat". Thus, the thing this woman is noted and recognized for, that sets her apart, is her physical beauty.
+-   Wouldn't Hit a Girl: Since woman are delicate, it is wrong to hit them. If a hero firmly believes this, he will be in trouble if his assailant is female.
+-   Yamato Nadeshiko: She moves very slightly and deliberately, is soft-spoken, and remains at home while her husband (usually a merchant or samurai) takes care of the everyday busywork. She is the archetypical woman of Japanese culture.
+-   Yoko Oh No: The wife of a musician/artist that is blamed for destroying their career; specifically, she is considered a corrosive, distracting, or destructive force to them.
+-   Your Mom: For boys, mothers are supposed to be the universally-beloved and adored parent. So insulting her (especially sexually), is a cutting insult.
+
+    Aversions, Inversions, and Subversions 
+
+Categories:
+
+-   Tomboy  
+    When "delicacy" isn't practical. Traditionally, any girl who likes any sort of job or activity attributed to men is considered a tomboy.
+
+-   Action Girl: She isn't delicate at all, and can kick as much ass (or more) as some men.
+-   Action Girlfriend: The girlfriend is the more combatant person in the couple. Considered an aversion of this trope which juxtaposes traditional gender roles.
+-   Amazon Brigade: When you have an entire _squad_ of nothing but Action Girls.
+-   Amazon Chaser: When the guy is turned on by her fighting prowess, i.e. lack of delicateness.
+-   Amazonian Beauty: When the guy is turned on by her muscular build, i.e. lack of delicateness.
+-   Bald Head of Toughness: Baldness or a shaved head is used to indicate that this female character _isn't_ delicate, because Long Hair Is Feminine.
+-   Battle Couple: When she's just as tough as her fight happy boyfriend.
+-   Bodyguard Babes: When a group of women protects the person in charge.
+-   Brawn Hilda: She's definitely female, but anything but "delicate", and is seen as unattractive because of that.
+-   Butch Lesbian: A tomboyish homosexual woman who eschews many delicate characteristics; often considered the "man" in a lesbian relationship with a more feminine partner.
+-   Delicate and Sickly: This trope is taken further; already delicate girl is made even more delicate with an illness.
+-   Effortless Amazonian Lift: A woman lifts someone or something equal or greater to her body weight to show just how abnormally strong she is.
+-   Female Fighter, Male Handler: An Action Girl who has a guy who handles/supports her instead otherwise.
+-   Feminist Fantasy: A story which is about a woman, or women in general, who are major characters making things happen of their own agency and volition and saving the day under their own power (likely literal "superpower").
+-   Gender-Equal Ensemble: There is an equal number of guys and gals on the cast of the work, avoiding making any one of them a "token" of their gender.
+-   Gender Is No Object: A true aversion of this trope but even with that, any gender role variations will appear somewhere else on this list.
+-   Giant Woman: The woman is colossal and therefore powerful, without losing her beauty or femininity.
+-   Go-Getter Girl: She wants to achieve something and she will do it herself, no matter how hard it may be.
+-   Good Bad Girl: She does things that typically only "bad" women do, but still stays morally good.
+-   Hackette: STEM fields, or simply technological savvy, are assumed to be a "male" thing, so a female character being revealed as a hacker comes as a surprise. See also Wrench Wench.
+-   Hairy Girl: Body hair is not "delicate," and it may be associated with being nonconformist and/or non-passive, so it's considered unattractive.
+-   Heroic Seductress: Subverts the usual perceptions of a woman being chaste, and unchaste women being immoral. She is both a good person _and_ a sexual being.
+-   High-Heel Power: A subversion of High Heel Hurt, where a woman is able to be strong or capable in spite of, or _because of_, her high-heeled footwear.
+-   Hot Guy, Ugly Wife: Considered a rare and ironic inversion to the Ugly Guy, Hot Wife trope.
+-   Improbably Female Cast: For some reason, there are next to no men in this setting. Women do everything, plain and simple.
+-   Jeanne d'Archétype: A charismatic woman leads armies into battle.
+-   The Lad-ette: This type of woman enjoys many of the same boorish, vulgar, and physical activities as men.
+-   Lady in a Power Suit: A woman in a position of power as indicated by a tailored suit.
+-   Lesbian Jock: Since men love sports, the woman is thus as man-like as could be.
+-   Masculine Girl, Feminine Boy: Her boyfriend or male companion is the delicate one.
+-   Mistress and Servant Boy: The older, more worldly woman is superior towards her younger, male assistant.
+-   More Deadly Than the Male: Because we automatically assume this trope, situations where it's the opposite (such as in other species, both real and fictional) are quaint and fascinating.
+-   My Girl Is a Slut: When the guy is turned on by her promiscuity, i.e. lack of delicateness.
+-   One of the Boys: There's no distinction between her and her male friends.
+-   Outdoorsy Gal: She'll be outside getting dirty before the boys.
+-   Passionate Sports Girl: A girl who is passionate about sporty, physical activities which are usually only of interest to boys.
+-   Plucky Girl: No one would fault her if she became broken, but she refuses to let that happen.
+-   Purely Aesthetic Gender: Used in games where gender is a Palette Swap. The character is statistically the same regardless of gender.
+-   Showing Up Chauvinists: A woman surprises others by performing well in a field normally dominated by men.
+-   Statuesque Stunner: When the guy is turned on by her tall height, i.e. lack of delicateness.
+-   Strong Girl, Smart Guy: The female partner within a duo is more physically powerful than the male, who instead uses more intellect and tact.
+-   The Suffragette: She's empowered, she wants equality and fights for her right to be heard and have a say in political things. Manifested in women's right to vote.
+-   Tiny Guy, Huge Girl: She's bigger than her man.
+-   Tomboy Princess: A monarch's daughter that does not partake in feminine activities or interests. Instead, she's more likely to partake in princely activities.
+-   Tomboyish Voice: A woman with a deeper, more "manly" voice, to indicate that she's a tomboy.
+-   Villainous Princess: She may be a princess, but she is not the kind damsel who gets kidnapped; in fact, she is more likely to be the kidnapper and partake in other evil actions.
+-   Warrior Princess: She's royalty and one of her duties is fighting for her country.
+-   Weakness Turns Her On: Being stronger than her man is her fetish.
+-   World of Action Girls: The Action Girls outnumber the Action Guys.
+-   Wrench Wench: Mechanics is sometimes a dirty, heavy business but she can hang with the best of them.
+-   Xenafication: The practice of making a more delicate woman into an Adaptational Badass just to avert this trope.
+
+    Zigzagged 
+
+Categories:
+
+-   Dainty Combat  
+    Literally side-stepping the issue of how a more delicate character can fight, there are Deadly Dodging or maybe pressure point techniques.
+-   Mysterious Woman  
+    In many works, the mystery woman is a deliberate allegory to the supposed "incomprehensibility" or strangeness of women. Not every use of the trope applies this, but the association is very common.
+
+-   Action Mom: She does both the nurturing job of a mother and the awesomeness of an Action Girl.
+-   Affirmative Action Girl: A woman is added to a male-dominated cast, in order to create more diversity or equality.
+-   All Gays are Promiscuous: The lesbian side of this stereotype assumes that women are stepping into "men's" roles by desiring sex with women and since "marriage" is considered exclusive to straight couples, that means they have free reign to be as "promiscuous" as they dare.
+-   All Women Are Lustful: The far opposite stereotype to All Women Are Prudes, with women portrayed as incapable of controlling their basic urges once they get started, while men can keep cool and collected heads. Related to Hysterical Woman.
+-   Apocalypse Maiden: She has the power to destroy the world, and more often than not, it's up to a male protagonist to prevent that from happening.
+-   Apron Matron: She's in charge of the little ones and the house they live in but she uses more vinegar than honey (and sometimes flat out violence) to take care of them.
+-   The Baroness: Typically the militant female The Dragon of the Big Bad. Variations can fit anywhere between sexy and feminine or butch and unattractive.
+-   Beauty Is Bad: Another trope that can be male, but is usually Always Female. She's conventionally attractive, but not on the side of good.
+-   Best Her to Bed Her: She's an Action Girl, but she will only be courted by a man who can conquer her.
+-   Black Boss Lady: White men are usually the ones in power; thus, if a _black woman_ is in charge, she's bound to be tough as nails to have earned the position.
+-   Braids of Action: Long Hair Is Feminine, so to look like she's really ready for combat (while still staying feminine), she ties her hair in a long and sensible braid.
+-   Breach of Promise of Marriage: If her fiancé breaks up with her, she isn't liable...but he must pay for damages associated with leaving her Defiled Forever and stigmatized. The modern descendant of this trope would be the woman keeping the engagement ring (if she wishes) if her fiancé was the one who dumped her, or if he cheated on her or something like that.
+-   Catholic School Girls Rule: Just because she _looks_ like an innocent, devout, virginal, young schoolgirl doesn't mean she actually _is_ any or all of those things.
+-   Caught Coming Home Late: A husband sneaks home after doing some sort of activity his wife disapproves of and thinks he's gotten away with it until he hits the light switch and she's standing in wait. Simultaneously reinforces that husbands are untrustworthy/immature liars and cheats and that wives are nagging shrews.
+-   Chastity Dagger: A woman with a hidden dagger under her garments to defend herself from Attempted Rape.
+-   Cool Old Lady: Just because she's getting older doesn't mean she's slowing down!
+-   Crazy Cat Lady: She's psychotic and compulsively hoards animals, but she most likely became that way because she couldn't find a partner or tried to "do it all" when she couldn't.
+-   Cute Clumsy Girl: She's considered to be "atypical" of most girls because she's more accident-prone, which in turn makes her seem MORE delicate. <sup>note&nbsp;</sup> 
+-   Damsel out of Distress: Yeah, she's delicate enough to get in trouble, but she's also badass enough to get herself out.
+-   Death by Childbirth: She sacrifices her life to bring her child(ren) into the world. If she dies in this fashion, she may be praised for strength...after being praised for fulfilling her "natural" role as a mother, of course.
+-   Decoy Damsel: When the Damsel in Distress is truly a trap, i.e. exploiting delicateness.
+-   Dominatrix: A woman who dominates men for erotic satisfaction.
+-   Double Standard: Abuse, Female on Male: Because men have been portrayed as the stronger, more dominant sex, this trope is usually Played for Laughs because the role-reversal is ironic.
+-   Double Standard: Rape, Female on Female: Because women are perceived as "weaker," the idea of a woman raping another woman, or leaving her victim traumatized and/or Defiled Forever by the encounter is considered absurd.
+-   Double Standard Rape: Female on Male: Same as Double Standard: Abuse, Female on Male except regarding rape.
+-   Dynamic Akimbo: A pose originally used strictly for male heroes or leaders. When female characters do it, they are usually given large (often exposed) breasts, thin waist, and much wider hips, or sometimes turned away from the camera to get a Boobs-and-Butt Pose.
+-   The Fake Cutie: Pretending to be The Cutie by banking on this trope.
+-   Female Groin Invincibility: Women take no damage from groin attacks; usually used as an "empowering" moment for a female character versus her male counterparts.
+-   Femme Fatale: Letting her into your heart is extremely risky.
+-   Femme Fatale Spy: The beautiful seductress who is a spy under the enemy's very noses.
+-   Fetishized Abuser: The female in the relationship is the abuser, and thus, not at all delicate. Even something passive-aggressive is still hurtful.
+-   Girl's Night Out Episode: The female cast of a team is given the spotlight on an otherwise male-oriented show, often to invoke Girl Power and reverse genre conventions where the girls have to rescue the guys.
+-   Girls With Mustaches: Instead of a smooth, clean-shaven face, she has groomed and styled facial hair like that which you'd find on a man.
+-   Girly Bruiser: A sweet, feminine little badass ball of destruction.
+-   Girly Girl with a Tomboy Streak: A girly girl with some tomboyish traits.
+-   Glacier Waif: She can do impossible amounts of damage for a girl her size.
+-   Good Bad Girl: Good girls don't do the things she does, but she's the exception to the rule.
+-   Guys Smash, Girls Shoot: Women in combat attack from range, for a variety of reasons. Men use melee or direct physical attack.
+-   Grande Dame: A fussy, bossy woman of stately social status. Her pompousness is usually superficial and she will either fall apart easily when challenged or slide off the slippery slope and become bitter and spiteful.
+-   Hairy Girl: She's hairy, which makes her unusual for women who are usually smoother and softer.
+-   Her Heart Will Go On: Her Love Interest (usually male) is killed off, and she uses her grief to move on with her life. Contrast the Disposable Woman, who is usually killed off to start an adventure, while this trope usually happens at the end.
+-   Higher Education Is for Women: In the same vein as Women Are Wiser, this trope is an attempt to reverse the perception that women didn't go to college, but now it's a stereotype in its own right.
+-   Honey Trap: Using this trope to obtain blackmail.
+-   Huge Schoolgirl: A girl is unusually huge for her gender, and thus is self-conscious about her size.
+-   Iron Lady: The woman in charge and she's as delicate as iron.
+-   Is This What Anger Feels Like?: The Pollyanna has just felt anger for the first time.
+-   Kick Chick: She lacks the upper body strength of men. Thus, she relies on her long legs to do the fighting for her.
+-   Kicking Ass in All Her Finery: An Action Girl in a Pimped-Out Dress.
+-   Lady Land: This trope, as well as Matriarchy, could fall anywhere on the scale, depending on the writer's own discretions. There is no way to write such a place without producing some sort of accidental theme or Aesop about gender in general.
+-   Lady of War: An Action Girl with the flourish and poise of a Proper Lady.
+-   Lipstick-and-Load Montage: Before she goes out and does something badass, she gets dressed and made up for the occasion in an epic fashion
+-   Literal Maneater: A cannibalistic or monstrous female character who lures unsuspecting men to her so that they'll become her dinner.
+-   Little Girls Kick Shins: She's small and cute, but she knows where it hurts. Her targets are usually male, and this is usually Played for Laughs due to irony.
+-   Little Miss Almighty: She's cute, she's adorable, she's tiny and she's God.
+-   Little Miss Badass: She's cute, she's adorable, she's tiny, and she'll kick your ass.
+-   Little Miss Con Artist: She's cute and adorable, and will play you for a sucker.
+-   Little Old Lady Investigates: Old women are naturally nosy, thus they make for excellent detectives and are easily underestimated.
+-   Little Red Fighting Hood: The Little Red Riding Hood has a bloody hood because she just killed something.
+-   Madwoman in the Attic: A trope started in the Victorian era as a way of subverting Females Are More Innocent, and creating a female villain whom the audience would truly find horrible or repulsive. They're usually physicaly repulsive and completely Ax-Crazy to make sure _no one_ can sexualize or sympathize with them. The trope has since expanded to include Gender Inverted examples.
+-   Magical Girl: This genre of Japanese animation zigzags on the type of heroine which fits the style. Traditionally, Magical Girl heroines wielded femininity as the source of their power. In the 70s, Tomboy heroines began making an appearance specifically to avert this trope. The Magical Girl Warrior subgenre was then created for a more combat-oriented version of this genre.
+-   Magical Girlfriend: She's more powerful physically than her boyfriend.
+-   Magic Is Feminine: Women are more intune with magic and mysticism than the men.
+-   Male Might, Female Finesse: Guys are more likely to be huge and muscle-bound for straight-forward smashing while girls are more likely to be quicker on their feet and utilizing skill in their fighting. This contrast underscores how delicate the latter are; less able to endure a hit but less likely to _be_ hit and also the thoughtfulness and care in their actions.
+-   Mama Bear: She may be a very delicate and sensitive at heart, but God help you if you mess with her kids.
+-   Manic Pixie Dream Girl: Her sassy and lively nature is her best asset to nurture and inspire her brooding and lonely boyfriend.
+-   Maternally Challenged: Subverts the idea that a woman is naturally maternalistic and nurturing. She has no idea what to do to raise a child. This may be treated as a "problem" to overcome so the character's arc can be complete.
+-   Monster Is a Mommy: When you find out badass, terrifying monsters are mostly badass and terrifying because you messed with the aforementioned kids.
+-   Mother Nature: Can be ferocious and deadly, but at the same time, takes care of her "children" (namely all living things).
+-   Muscle Angst: Women are not "supposed" to be muscular, so being an outlier tends to result in a lot of teasing and angsting.
+-   Never Mess with Granny: The tender, elderly old lady will beat you to a pulp.
+-   Nothing Nice About Sugar and Spice: She's cute, girly...and deadly.
+-   Power Hair: Yes, she's in a position of power, but in order to be taken seriously in a world where feminine traits are not valued, she needs to cut her hair short like a man's.
+-   Pregnancy Makes You Crazy: Pregnancy hormones turn an otherwise pleasant woman into something you wouldn't touch with a ten-foot pole.
+-   Pregnant Badass: Pregnant women are even more delicate than normal, which makes a woman who can be badass in that condition extremely exceptional.
+-   Pretty Princess Powerhouse: The princess looks and acts delicate but is as tough as, or tougher than, her guards.
+-   Psycho Lesbian: An antiquated (but still persistent) attitude that any woman who doesn't like men has something wrong with her.
+-   Puddle-Covering Chivalry: Removing the coat and covering a puddle for a lady to cross.
+-   Quickly-Demoted Woman: Getting our strong, successful woman out of the way so we can make way for the male lead by making them trade roles.
+-   Rookie Male, Experienced Female: A male character (typically an Everyman Audience Surrogate) is new to the setting of the story opposite of his veteran female companion. Commonly, this leads her to become a Quickly-Demoted Woman.
+-   Sassy Black Woman: A result of both racial stereotypes and aggressive feminism. More often than not, she is juxtaposed with women of other races and cultures to show how much more assertive, confident, and "real" she is.
+-   Seemingly-Wholesome '50s Girl: The woman is not delicate at all despite all appearances.
+-   Sexist Used Car Salesman: Either played straight to demonstrate how clueless women are about anything outside of their "scope" or used to demonstrate the exact opposite.
+-   She-Fu: The more slender and delicate woman can perform more acrobatic maneuvers. Necessary, because she usually can't take a punch.
+-   She Is the King: A female monarch or head of state takes a masculine title such as "Emperor" so that she is seen as an equal to her male predecessors or contemporaries.
+-   Short Tank: Her attempt at being feminine is genuinely cute.
+-   Silk Hiding Steel: The woman _unofficially_ in charge by using subtlety and indirect influence. She's likely also a Proper Lady.
+-   Silver Vixen: Aging is not considered by most people to be attractive, so she breaks the norm by being sexual and having sex appeal well into her old age.
+-   Spirited Young Lady: She averts or subverts the qualities of a Proper Lady, _just_ a little bit. She still retains many of the traits of femininity, but with some sort of passion, ambition, or interest that is considered atypical.
+-   Struggling Single Mother: She's maternal but hard-working.
+-   Sweet Polly Oliver: A female character pretends to be male in order to break gender barriers in some way.
+-   Tomboy and Girly Girl: Two women that contrast each other by one of them being girly and the other being boyish.
+-   Tomboy with a Girly Streak: An easy way to make the tough tomboy show a softer, more feminine and/or more delicate side, i.e. Hidden Depths.
+-   Two Girls to a Team: A counter-trope to The Smurfette Principle, where instead of there only being a single female member of a team, there are two, but no more than that lest the show be mistaken for being "too girly".
+-   Uncanny Valley Girl: A female character that seems innocent, beautiful or friendly on the outside, but something about them is either off-putting or hints at the danger that lies beneath.
+-   The Unfair Sex: Women are held to a different standard than men for arbitrary things. Most often, this trope is the reason why, even if it's inconsequential.
+-   Unkempt Beauty: Related trope to Makeup Is Evil, Beauty Is Bad, and Vanity Is Feminine, a woman that foregoes wearing any makeup, beauty products, or elaborate hairstyles. Often, she is regarded as more "genuine", less "deceptive", or more practical than other women. But, since women are expected to be pretty, she still manages to please onlookers.
+-   Vasquez Always Dies: The less delicate/more tough a woman is, the more likely she is to die/be killed by someone. The converse is also true.
+-   The Vamp: The stereotype of a woman is that her beauty/sexiness is just as potent a weapon as a man's physical or political power. The Vamp is the ultimate realization of that, using her weapons to do evil with great effect.
+-   Wounded Gazelle Gambit: In this trope, a woman uses her delicacy (whether real or feigned) to fool others.
+-   Wounded Gazelle Warcry: A woman uses her delicacy (whether real or feigned) to inspire others to fight harder.
+-   Yaoi Fangirl: She is turned on by yaoi, though the implication is often that she can't get a _real_ boyfriend to satisfy her, for whatever reason(s).
+
+___

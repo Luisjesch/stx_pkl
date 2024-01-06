@@ -1,0 +1,181 @@
+_"For each of man's evils a special demon exists..."_
+
+In some works of fiction, virtue is a central theme. Virtues usually constitute parts in a system, where the individual virtues are regarded as aspects of goodness, and no virtue alone is enough to form a good character. While they complement each other, they may also come into conflict with each other, leading to moral conundrums.
+
+In some fictional works dealing with virtue, either as a central theme or just in passing, the author chooses a particular villainous character to overtly symbolize a particular classical vice. This is usually done by shoehorning the character's personality to fit the vice in question.
+
+Sometimes this trope is applied to entities other than characters in works of fiction, such as organizations or even inanimate objects. In the latter case the representation has nothing to do with the personality of the assignee, for obvious reasons, but is rather more arbitrarily symbolic. For this reason this is not a strict subtrope of Allegorical Character.
+
+Note that this trope deals with _moral_ vices, not habitual vices or literal vices, although a moral vice may certainly also be habitual.
+
+In the specific case of _literal_ personification of a moral ideal in the form of a character, we are speaking about an Anthropomorphic Personification.
+
+Subtrope of Made of Evil, and the direct opposite of Embodiment of Virtue. One notable difference between this trope and Embodiment of Virtue is that in the case of characters, the people involved usually are aware of their virtues, and strive to actively cultivate them. Characters that personify vices are usually either unaware of them or somehow unable to overcome them. For example, characters that actively strive to be honorable and courageous are extremely commonplace in fiction, but how many characters have you encountered that strive to be as greedy as possible, for the sake of greed in and of itself? Vice is nearly always motivated by something other than the desire to be vicious, unlike virtue. In the (at least in real life) rare cases where this is not the case, we are dealing with a villain who does evil simply For the Evulz. Compare the Seven Deadly Sins.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   In _Black Clover_, the Dark Triad each represent the malevolent personality traits of the dark triad of psychology from which they're named after:
+    -   Dante is Narcissism. His volume profile states that one of his favorite things is himself. He thinks that he's entitled to women who interest him and has great confidence in his power, considering himself undefeatable thanks to his Body Magic.
+    -   Zenon is Machiavellianism. He's very stoic, rarely speaking, and incredibly merciless, killing countless Golden Dawn members when he attacks their headquarters. Zenon is also brutally efficient, trying to kill anyone who may pose a future threat as quickly as possible.
+    -   Vanica is Psychopathy. She has no qualms letting her loyal Dark Disciples die, and her love for fighting has her order her underlings to slaughter Heart Kingdom citizens to motivate her opponent, and be childishly gleeful when fighting someone strong.
+-   In _Fullmetal Alchemist_, there are seven Homunculi named after the Seven Deadly Sins of Pride, Wrath, Sloth, Lust, Envy, Greed, and Gluttony. They are the embodiments of Father's sins. In the 2003 anime, which came out before the end of the manga and was given a different plot, the lineup is shifted a little, and instead of being tied to the Big Bad, their names come from the sin that motivated their creation.
+-   In _Karakuridouji Ultimo_, there are fifty Douji representing positive traits. Ultimo and the Six Perfects of Buddhism are the strongest of them, fighting against the Douji based on negative traits (including the Seven Deadly Sins).
+-   _Maria no Danzai_: Nozomu Okaya and his group of friends are a gang of sadistic bullies who ruined the lives of their classrooms without remorse. Every one of them embodies one or two sins.
+    -   Okaya embodies Pride and is torturing Kiritaka simply because he defies him.
+    -   Tsubasa Kowase embodies Envy and fear by being a Sycophantic Servant who brutalizes those who are weaker than him. He also embodies Greed since he is fond of blackmailing people for money.
+    -   Kumiru Shikimi embodies Lust, both my being a Honey Trap for emotionally vulnerable men and for pining over Okaya. She is also a Consummate Liar who frames those she doesn't like to isolate them socially.
+    -   Tsuyoshi Kinugawa embodies Wrath by having a Hair-Trigger Temper and an Unstoppable Rage when beating up Kiritaka.
+    -   Mutta Ajiki embodies Gluttony and Sloth by being a Fat Bastard mainly eating junk food who mostly enjoys watching Kiritaka being bullied on the sidelines.
+-   In _Panty & Stocking with Garterbelt_, the fallen angels Panty and Stocking represent the sins of Lust and Gluttony, respectively.
+-   The Shōnen manga series _Reborn! (2004)_ has the seven sins represented by the seven top members of an elite assassination squad, the Varia. The seven protagonists set to battle against them in a fight for the right to inherit a powerful mafia family embody the Seven Heavenly Virtues (but not as obviously as the antagonists). The Varia take their names directly from the Seven Deadly Sins:
+    -   Greed: Mammon (obsessed with money)
+    -   Envy: Leviathan (wishes to be the only one to please his boss; is envious of Tsuna and his group from taking his "rightful" position as Thunder Guardian)
+    -   Gluttony/Gula: Gola Mosca (consumes the Dying Will Flames of Vongola IX for power; bonus points for "mosca" meaning "fly", as Beelzebub is also known as "Lord of the Flies")
+    -   Lust/Luxuria: Lussuria (admires the bodies of other men)
+    -   Pride/Superbia: Superbia Squalo (a loudmouth very proud of his rank as #1 swordsman in the world)
+    -   Sloth/Acedia: Belphegor (a natural-born killer who is lazy and doesn't take his job very seriously)
+    -   Wrath: Xanxus + Flame of Wrath (a generally unpleasant person who calls those he considers beneath him scum. He possesses the Flames of Wrath, originally owned by Vongola II, the most powerful Dying Will Flames in existence).
+-   In Buddhism, the Eight Precepts are set of strict moral guidelines to be followed by the most serious of adherents. In _My Hero Academia_, the Shie Hassaikai has an elite fighting force known as the Eight Bullets. Each member violates a Buddhist Precept through their Quirk or their personality:
+    -   Rappa is a corruption of the first precept, "I undertake the precept to refrain from destroying living creatures"— He has a bloodthirsty nature and an intense excitement for fights.
+    -   Setsuno is a corruption of the second precept, "I undertake the precept to refrain from taking that which is not given"— his Quirk allows him to steal anything as long as it's small enough.
+    -   Rikiya is a corruption of the third precept, "I undertake the precept to refrain from sexual activity"— his Quirk works by stealing other's essence through physical contact to make himself bigger. Not to mention, he fights against an all-female team when he appears.
+    -   Nemoto is a corruption of the fourth precept, "I undertake to abstain from false speech"— his Quirk forces everyone around him to tell the truth, making him the only person able to lie.
+    -   Deidoro is a corruption of the fifth precept, "I undertake the precept to refrain from intoxicating drinks and drugs which lead to carelessness"— his Quirk causes others to enter a state similar to intoxication, and he's The Alcoholic as well.
+    -   Tabe is a corruption of the sixth precept, "I undertake the precept to refrain from eating at the forbidden time"— his Quirk allows him to eat and digest anything he wishes.
+    -   Hojo is a corruption of the seventh precept, "I undertake the precept to refrain from dancing, singing, music, going to see entertainments, wearing garlands, using perfumes, and beautifying the body with cosmetics."— his Quirk generates gemstones, which are often seen as valuable and pretty, that decorate his body.
+    -   Tengai is a corruption of the eighth precept, "I undertake the precept to refrain from lying on a high or luxurious sleeping place"— his Quirk makes him able to hide in a "high and luxurious place"- that is, his Barriers. Additionally, translating the components of his name gets "The Canopy Wall", and a canopy is, again, a "high and luxurious place".
+
+    Art 
+
+-   _The Sin_: As the name implies, the figure is meant to act as an embodiment of sin as a concept. While it is meant to represent sin in general, emphasis can be placed on Lust since the lightning draws attention to Eve's breasts and navel.
+-   _The Seven Deadly Sins (Dix)_: It's an allegorical portrait of the Seven Cardinal Sins as monstrous-looking humanoids.
+    -   Greed is an old woman, bent over in the lower-lefthand corner, clutching her cane in one hand and a back of coins in the other.
+    -   Envy is the toddler wearing a mask with a toothbrush mustache riding on Greed's back.
+    -   Sloth is dressed in a head-to-toe skeleton costume carrying a Sinister Scythe.
+    -   Lust is a woman in an orange dress that exposes one of her breasts and has makeup smeared all over her face as if she just had intercourse.
+    -   Wrath is the furry-horned demon to the left of Sloth.
+    -   Pride is the giant-headed figure right behind Sloth, its giant nose turned up and its mouth looking like a sphincter.
+    -   Gluttony is the figure in the upper-righthand corner, wearing a cooking pot on its head.
+
+    Comic Books 
+
+-   In The DCU, the Seven Deadly Sins, or rather their Anthropomorphic Personifications, are imprisoned inside the Rock of Eternity by the wizard Shazam! (Same guy who empowered Captain Marvel of I Am Not Shazam fame), though their influence is still passively felt throughout creation.
+    -   Until recently "Injustice" took the place of "Lust", presumably due to the Comic Book Age Ghetto.
+        -   Lust first appeared in 2002, as the Sins were released as part of an attack on the JLA & the JSA. The Sins ended up possessing various members of both groups.
+    -   Until the late '80s, they were often called "The Seven Deadly Enemies of Man" in order to avoid overt religious references (another age ghetto no-no.)
+-   The 2009 _Batman_ annuals feature a group of seven villains who call themselves La Saligia (an acronym of the Latin names of the sins), and seek to awaken the Eighth Sin of faith. Any connection to the Seven Deadly Enemies of Man is unknown. This group became villains of Azrael, who appears as the protagonist in each of their stories.
+-   A French graphic novel, _Seven Monks_, told the story of seven Irish monks, each embodying one of the deadly sins, receiving punishment for their sins by being sent to convert a village of pagan vikings. Incredibly, by applying their sinful behaviors in creative ways (the avaricious monk uses the lure of profitable trading with Byzantium, the envious monk convinces the chieftain's second-in-command to take over upon his death, the lustful monk seduces every woman in the village, and so on) and with some incredible coincidences, they succeed in their mission without changing their ways in the slightest.
+    -   Brother Conan (guess what he represents) makes himself useful in other ways: a seven-foot-tall shaved man running around Dual Wielding axes bellowing "GOD IS LOVE!!!" to save the village from attack. Even the local berserker thinks Conan more dangerous than him.
+-   Yet another example from DC: in _Titans Together_, six sons of Trigon sired from human mothers at around the same time as Raven have emotion-manipulating powers based on the sins. They try to awaken Raven's evil side and get her to join up. In an open defiance of convention, the one female in the group _isn't_ lust; Raven instead filled the "pride" slot. Stuck on evil mode, Raven later tried to transfer her brother's abilities to the Titans.
+    -   Donna Troy got stuck with Lust, rather than the more obvious choice of Starfire. This was a reference to the fact that Donna has gone through multiple relationships and been the object of desire of many men, even moreso than Starfire.
+    -   Cyborg was Wrath, which seemed to be a Stealth Pun on the "Angry Black Man" Stereotype trope.
+    -   Red Arrow got Gluttony, and while he became fat as a result, this was a possible reference to his former heroin addiction, thrill seeking, and womanizing tendencies, fitting in with Gluttony's nature of excessive consumption.
+-   The variant covers of the first issue of _DV8_ depicted the team as the Seven Deadly Sins. Threshold, a Psychopathic Manchild whose boss Ivana controlled him with sex, was Lust. Bliss, a spoiled rich girl, was Greed. Powerhaus, who feeds off ambient emotions to get stronger, was Gluttony. Evo, a monster man with an attitude problem, was Wrath. Frostbite, a pessimist who doesn't care about anything, was Sloth. Copycat, the girl with multiple personalities whose only friend is herself, was Pride, and Sublime, a supermodel type who longed for the attention of Gen¹³ member Grunge, was Envy.
+-   In the Green Lantern lore, colors represent emotional qualities/states: red represents wrath, orange is avarice, yellow is fear, green is willpower, blue is hope, indigo is compassion, and violet is love.
+-   _The Incredible Hulk_:
+    -   The Hulk himself is wrath, of course, but there are more subtle examples in his various personalities - Banner classically dealing with issues of self-loathing and fatalism, for instance.
+        -   Peter David characterized the savage Green Hulk like a child prone to tantrums. Grey Hulk on the other hand would be the embodiment of pubescent desires. As Joe Fixit he worked as mafia muscle and led a hedonist lifestyle in Las Vegas: snappy dresses, fine meals, parties and booze, sleeping with beautiful women...
+    -   Many of his classic foes have also been examples of the trope; for instance the Abomination is typically portrayed as an embodiment of hubris.
+
+    Fan Works 
+
+    Films — Live-Action 
+
+-   _Se7en_ centered around a Serial Killer committing his murders based on these sins. The victims therefore become allegorically associated with the respective sins they were murdered for.
+-   _Repo! The Genetic Opera_ features the Largo family: Rotti Largo, the powerful businessman and his three children: Amber Sweet the surgery addicted, drug-addict wannabe singer, Luigi the raging, mass murdering sociopath and Pavi the effeminate, face-stealing Casanova. While all four are vain and greedy, Rotti in particular represents Envy and Greed, Amber is Sloth and Gluttony, while Luigi is Wrath (as the producer Darren Lynn Bousman has stated) and Pavi is Pride and Lust.
+-   In the 1967 Deal with the Devil film _Bedazzled (1967)_, the protagonist Stanley Moon meets incarnations of the seven deadly sins. Anger is a hostile bouncer who wears a T-shirt that says "Make War, Not Love", Sloth is always sleeping, Gluttony is fat, Avarice complains about how much money's being spent on a date, Envy accuses the other sins of getting special treatment, Vanity has an upward-bending arm with an inward-facing mirror attached to it _protruding from his midsection_, and Lust is, well, Raquel Welch.
+-   In _Art of the Dead_, the 'Animals' series by Mad Artist Dorian Wilde is a set of seven paintings: each one portraying one of the Seven Deadly Sins. Anyone who spends time in the presence of one of the painting will slowly be corrupted by it. If they spend enough time in its presence, they will be transformed into an embodiment of that sin.
+
+    Literature 
+
+-   Older Than Print: In Dante's _The Divine Comedy_ , the Mount of Purgatory (described in the _Purgatorio_, the second part of the _Comedy_, where sinners who repented before death are purged of their sins) is arranged around the Seven Deadly Sins, from most-serious to least-serious (in Dante's evaluation):
+    -   The Proud, on the First (lowest) Terrace, walk carrying heavy stones on their backs, so that they cannot stand straight or look down on anyone else.
+    -   The Envious, on the Second Terrace of Purgatory have their eyes sewn shut. In life they envied what they saw; to purge their sin, they see nothing.
+    -   The Wrathful are on the Third Terrace, where they walk constantly, blinded by acrid smoke, just as they were blinded by wrath in life.
+    -   The Slothful are on the Fourth Terrace, being purged of their sin by constant running.
+    -   The Avaricious are on the Fifth Terrace, lying face down on the ground. This is generally considered a breaking point: the previous four sins were all about perverted or deficient love and are considered more severe, while this sin and the two that follow are all about excessive love for material things and are more excusable (although Dante thought it was a stupid sin to be guilty of).
+    -   The Gluttonous are on the Sixth Terrace and their penance is to pass through groves of fruit and by waterfalls of pure water without eating or drinking.
+    -   The Lustful are on the Seventh and last Terrace of the Mount of Purgatory, where their sin is purged from them in a wall of fire. They run through this in two directions: those who lusted after the opposite sex in one direction, those who lusted after the same sex in the other. (Yes. What?)
+-   Scrooge in _A Christmas Carol_ is an obvious personification of greed.
+-   In _Keys to the Kingdom_, the seven Trustees, Mister Monday, Grim Tuesday, Drowned Wednesday, Sir Thursday, Lady Friday, Superior Saturday, and Lord Sunday, are representations of Sloth, Greed, Gluttony, Wrath, Lust, Envy, and Pride respectively (along with another obvious theme).
+
+    Live-Action TV 
+
+-   _Kamen Rider_:
+    -   _Kamen Rider Double_ uses the sin motif for each member of its villainous mafia family. The head of the family is Greed, with two daughters: the one who just wants to be normal is Envy, the one who wants to be her father's successor is Lust. His wife seeking vengeance after he burned her face is Wrath, the mad doctor in his employ is Gluttony, and his superpowered cat is Sloth. The Starter Villain, a young Noble Demon freshly admitted to the family and in _way_ over his head, is Pride, making this a rare case where Pride is the weakest sin.
+    -   _Kamen Rider OOO_ reframes all of the other sins through the lens of Greed, which defines the show's motif as a whole. Uva represents Wrath, reframed as greed for vengeance against slights real or imagined. Gamel represents Sloth, reframed as greed for his own immediate happiness with no thought to larger goals. Mezool represents Lust, reframed as greed for affection. Kazari represents Gluttony, reframed as a greed for power that extends to cannibalizing his fellow homunculi so he can gain their power for his own. The rebellious Ankh represents Pride early in the show when he desires to regain his lost body so he can stand above the others again, transitioning to Envy when he realizes the thing he wants more than anything else is to be human. Dr. Maki represents Despair, the desire for nothing to exist including himself.
+
+    Music 
+
+-   In the video for Poets of the Fall's Obsession Song "Carnival of Rust," Mr. _Greed_ is the Carnival's brightly colored, nattily-dressed, creepily grinning barker, who happily takes the money of the gas-masked woman and gives her a prize for winning his game. He's also a dead-ringer for "Rust's" _singer,_ the bedraggled, monochrome Love Hungry Sad Clown Zoltar, implying that the latter has some issues he needs to work through about his idea of love.
+
+    Theatre 
+
+-   _La Nona_: It is implied that la Nona is actually misery in human form, representing the hard times Argentinian families experienced during The '70s, with misery spreading through everyone, just like la Nona indirectly causing the deaths of all of her relatives, who either work themselves to the bone or just succumb into mental illness. She is then given shelter by a blissfully unaware family at the end of the play, so the cycle resets.
+
+    Video Games 
+
+-   _FlawedCrystals_: The boss rematches and the Superboss in the final dungeon are creations of The Room who embody the various things Steven believes is wrong with each of the Crystal Gems and also his own guilt:
+    -   The Drowned represents Steven's belief that Lapis is **pathetic** because she won't simply "get over" her depression and trauma and chooses to be miserable.
+    -   The Derelict represents Steven's belief that Peridot is **insensitive** due to her behavior when she was stuck on Earth with the Crystal Gems and her bombastic personality.
+    -   The Shattered represents Steven's belief that Bismuth is **hateful** due to their first meeting ending with Bismuth trying to kill him in a fit of rage due to him rejecting the Breaking Point.
+    -   The Bound represents Steven's belief that Garnet is **dependant** due to Ruby and Sapphire spending most of their time fused as Garnet and his envy of their "perfect" relationship.
+    -   The Wretched represents Steven's belief that Amethyst is **insecure** due to her reckless behavior and her immaturity and how she doesn't deal too well with stressful situations.
+    -   The Lost represents Steven's belief that Pearl is **obsessive** due to her relationship with his mother Rose Quartz and how she's had trouble moving on from her, believing that Pearl should "get over" it already.
+    -   The Perfect Crystal represents Steven's **guilt** of being unable to reason with the Great Diamond Authority before their shattering, his fear and expectations of them and their power and having to deal with their actions such as the Corrupted Gems and the Cluster Gems.
+-   In _Overlord_, the fallen heroes who serve as the bosses are each themed for a sin, having fallen into decadence after their grand victory. For the first five bosses there is also a moral choice themed around the sin.
+    -   Melvin Underbelly (Gluttony): A small halfling whose appetite ran out of control when fame went to his head. His subjects raid human villages to gather the massive amounts of food needed to feed the now morbidly-obese Melvin. Hidden in his lair is a massive store of food. You can return it to the starving villagers or use it to feed your minions.
+    -   Oberon Greenhaze (Sloth): An elf who fell into an endless sleep, depriving his people of the hero they needed when dwarfs razed the kingdom. Then, just to top things off, Oberon's nightmares started manifesting while he turned into a giant tree-weed slowly consuming his forest home. Deep in the forest is the last untainted grove, filled with enemies and loot. You can fight each enemy to retrieve the treasure or take the easy way and burn it down.
+    -   Sir William the Black (Lust): Abandoned his fiancée and knightly ways to house a succubus queen, founding a cult dedicated to carnal pleasure (sheep in the brothel anyone?) and letting the succubus transform the hapless citizens of his city into a zombie horde. Locked away in the castle is your second choice of mistress, the very sensual Velvet. You can choose to remain faithful to Rose or claim Velvet as your own.
+    -   Goldo Golderson (Greed): A gold-hungry dwarf who razed the elven kingdom to steal their treasures and used the survivors of the elven race to mine gold in his own kingdom. Deep in Goldo's collapsing castle are two treasures: A mountain of gold and the last elven women. You can save the elves or the gold before time runs out.
+    -   Jewel, the Thieving Hero (Envy): Kleptomanic thief, constantly steals things other people want. It doesn't matter what it is or if she can use it; if somebody wants it, it has value and she'll take it. On her defeat you recover the stolen statue. You can return it to the elves or claim it as part of your fortunes.
+    -   Kahn the Warrior (Wrath): A massive warrior easily overwhelmed with rage for even the most minor issues. Only Jewel could calm him, and after you kill her, well... Meanwhile, your "loyal" subjects in Spree betray you to save their own hides from Kahn's fury, you can decide if you want to let this go or give in to your anger towards them and butcher them all.
+    -   The Wizard (Pride): A man who dedicated his life to defeating the previous Overlord only to be possessed by his foe's spirit. He was responsible for the downfall of the other heroes and attempts to usurp (well, reclaim) the player's position as overlord. Sure in his ability to reclaim his position, he was defeated by the very pawn he had empowered to achieve his ends. This last one seems a less obvious aesop as the others, until the final battle where he gloats how he personally corrupted each of the original heroes one by one throughout the entire fight; pride comes before the fall.
+-   _Dead Rising 3_ features seven Optional Boss fights with seven psychopathic individuals. Each of these individuals represents one of the seven deadly sins; six of the seven (or all of them, depending on the player's actions) also receive a nasty Karmic Death.
+    -   Albert Contielllo, a highly unethical surgeon who takes special pleasure in hacking people open and represents Greed. Contiello is obsessed with making money, and, rather than help other survivors, instead harvests their organs to sell on the black market. After Nick defeats Albert, he injects the doctor with the syringe he uses to knock out his victims, making him hallucinate and eviscerate his own body.
+    -   Darlene Fleischermacher, an enormously obese and disgusting woman who represents Gluttony. Darlene spends her days in an all-you-can-eat buffet, stuffing her face and hoarding every scrap of food that she can. Upon her defeat, she tries to ram Nick with her mobile scooter, only to knock herself onto the ground; unable to stand, she chokes to death on her own vomit.
+    -   Dylan Fuentes, a sex-crazed man who kidnaps survivors to force them into sexual acts and represents Lust. His hideout is a sex shop, where he tries to tempt Nick into both having his way with imprisoned survivors and engaging in some "fun" with Dylan himself. After being defeated, he collapses on the floor as a huge spurt of oil comes from his phallic-shaped "Lust Cannon".
+    -   Jherii Gallo, a musclebound female bodybuilder who represents Pride. She takes over a local gym and spends her time posing in the mirror and preparing for a nonexistent bodybuilding competition. Nick makes the mistake of calling her a man, which leads to a battle. When Nick defeats Jherii, she tries to calm herself down by reciting a mantra, only to inadvertently crush her own skull with a set of large bodybuilding trophies.
+    -   Kenny Dermot, a chubby nerd who desperately wants to be a hero and represents Envy. He cowers in a construction site, fearful for his safety, before Nick arrives, and he even looks up to Nick for his bravery. However, Kenny eventually decides to stage heroic stunts to build his own self-confidence, and when Nick interferes, the two battle. It is possible to save Kenny after the battle, upon which he'll perform a Heel–Face Turn; if the player chooses to let him die instead, Kenny is eaten by the zombies he claimed he could fight.
+    -   Theodore Lagerfeld Jr., a fat slob who spends all of his time hiding in his father's mansion playing video games and represents Sloth. Theodore has a key that can unlock an armory full of helpful weapons, but is too lazy to give that key to Nick; when Nick tells him off, he sends out remote-control helicopters to kill the "intruder." When Nick finally reaches Theodore's central room, the spoiled man dies of a heart attack before Nick can even start fighting him.
+    -   Harry "Zhi" Wong, a monk-like East Asian man who spends his days in a Zen Garden meditating and represents Wrath. Harry's apparent placidity is a front—he brutally murders anyone who disturbs his meditation and has a Hair-Trigger Temper. When Nick defeats him in battle, Harry rattles off a long list of all his misfortunes before chopping off his own head.
+-   The Big Bad of _Sam and Max Save the World: Bright Side of the Moon_ temporarily incapacitates Max by splitting off his three most sinful parts (his violent hand, gluttonous stomach, and slothful tail), which each take the form of a colored Max double that exaggerates their main trait (Wrathful Max wants to shoot everything, Gluttonous Max wants to eat everything, Slothful Max just lies there and gives depressing monologues). Max himself ends up a disconcertingly blissful goody-goody.
+-   Just like the Companions of the Avatar in _Ultima IV_ embodied the Eight Virtues, the Shadowlords in _Ultima V_ embody the opposite of the Three Principles upon which the Virtues are based (Love, Truth, Courage)—namely, Hatred, Falsehood, and Cowardice. Similarly, the Banes of Chaos in _Ultima VII Part II_ are the physical embodiments of the the Ophidians' Anti-Forces: Wantonness, Anarchy, and Insanity.
+-   Each of the Palace rulers in _Persona 5_ represent the seven deadly sins, with the addition of Vanity, a variation of Pride. However, once the treasure of the Palace is stolen and the place collapses, they will see the wrong of their ways and often confess their crimes.
+    -   Suguru Kamoshida represents Lust. A former gold medal Olympic athlete who fell to the position of a gym teacher, he physically and sexually abuses his students and uses his reputation to get away with it. His Palace is the school, which turns into a castle where he rules as king and everyone else is either a minion or slave.
+    -   Ichiryuusai Madarame represents Vanity. A famous artist, his success owes to the fact that he plagiarizes the work of his pupils, even going as far as altering the original in order to create situations in which dealers and critics will value it more. His Palace is imposed over the dingy shack he keeps his students in, which turns into a lavish art museum where his pupils become mere paintings that he can show off and milk for fame and fortune.
+    -   Junya Kaneshiro represents Gluttony. A notorious (and obese) mafia boss, he blackmails and extorts high school students in order to fuel his lavish lifestyle. His Palace is imposed over Shibuya, where his hideout becomes a bank and everyone else is an ATM that he can freely drain money out of.
+    -   Futaba Sakura represents either Wrath or Sloth, depending on translation. A girl who was made a scapegoat for her mother's death so that evil men could steal her research, she's constantly plagued by hallucinations, self-loathing and guilt over her death to the point of potential suicide. Her palace is an Egyptian tomb, representing her fears that she'll die all alone, isolated from everyone else.
+    -   Kunikazu Okumura represents Greed. A corrupt CEO, he overworks his employees and forces his daughter into an Arranged Marriage with an abusive spouse in order to prop up his own ambitions. His Palace turns his corporate office into a space station, representing his ambitions and his willingness to distance himself from the consequences of his own actions.
+    -   Sae Niijima represents Envy. A prosecutor struggling to care for herself and her sister after her father died in the line of duty, the experience, plus the pressure of a male-dominated profession, has jaded her belief in justice to the point where she's willing to do anything to get promotions and pursue a guilty verdict. Her Palace turns the courthouse into a casino, representing how she views court cases as a gamble that she has to win at any cost.
+    -   Masayoshi Shido represents Pride. An evil politician, he believes that God has entitled him to rule over the masses, and that gives him the right to trample over any innocents who get in his way. His Palace turns the Diet Building into a ship sailing over a sunken Tokyo, representing his belief that the country is failing, and that only he and his chosen few will be able to stand atop it all.
+    -   The Very Definitely Final Dungeon is a representation of Sloth created by The collective Bystander Syndrome of nearly every citizen in Tokyo. The depths of Mementos manifest as a prison where a massive number of shadows are willingly locked up for the sake of societal harmony and "freedom" from The Evils of Free Will. Yaldabaoth, a personification of the desire for order and control, serves as the warden.
+-   Several of the Morgana from _Victory Belles_ are named and themed after vices:
+    -   Avarice loves to strip ships of all of their valuables before sinking them.
+    -   Cowardice is a Dirty Coward who constantly squeals in terror and will always retreat after only a few rounds of battle unless you've managed to trap her in a corner. She even carries around a literal white flag and looks vaguely like a chicken.
+    -   Vanity is a beauty-obsessed narcissist who carries a hairbrush into battle and falls into a rage at the slightest blemish to her appearance.
+    -   Sloth is so lazy that she can barely stay awake even during battle, with her rigging being more or less a literal bed.
+    -   Sin represents the seductiveness of pure personal pleasure, and as such she dresses and poses accordingly while having some _very_ suggestive voice lines. Her portrait has her seductively sucking on a lollipop while surrounded by playing cards representing gambling (an activity often historically associated with prostitution).
+
+    Webcomics 
+
+-   _Sins_ has personifications of the seven deadly sins as its main characters. Most embody their sin to some extent, but since they're the protagonists, they're treated pretty sympathetically.
+-   Spirit summons in _Widdershins_ are based on emotions rather than morals, but summons keyed to the Seven Deadly Sins are noted as being especially powerful: a Hunger spirit merely chews its way through a bakery, while Gluttony turns an entire hotel into an eldritch Genius Loci. One of the villains is a spirit of Lust who escaped its summoner in a physical form and gathered a Quirky Miniboss Squad of mortals exemplifying the other sins.
+-   _InvertedFate_ pits Chara and Frisk against several, who serve as minibosses of the Rift. Each one has control over their own sub area and are manifestations of Asriel's traits. Rift 2 has them fight against the Effigy of Ego, an embodiment of Asriel's self-aggrandizing god complex and entitlement to Chara's friendship. Rift 3 has them fight (and later flee) the Pawn of Possessiveness, an embodiment of Asriel's selfishness and co-dependency on Chara.
+-   _Kill Six Billion Demons_ has the seven Demiurges, each a God-Emperor over 111,111 universes and associated with a thematic sin. Wrath is the Omnicidal Maniac Jagganoth; Sloth is the crippled prophet Jadis; Pride is The Ace and self-declared hero Solomon David; Envy is the unhinged Worm that Walks Gog-Agog; Gluttony is the world-pillaging and Human Resources\-guzzling Mottom; Greed is the gold-hoarding Great Dragon Mammon; and Lust is the Deal with the Devil\-shilling, Ambition-inflaming Incubus.
+
+     Web Animation 
+
+-   _Helluva Boss_: Hell in Helluva Boss (and Hazbin Hotel) is ruled by the Ars Goetia, which in turn are ruled by the demon lords of the Seven Deadly Sins, each representing and ruling the ring of the vice they embody. So far we have been introduced to four: Lucifer (Pride), Asmodeus (Lust), Mammon (Greed), and Beelzebub (Gluttony).
+
+    Western Animation 
+
+-   _My Little Pony: Friendship is Magic_: Happens to the mane ponies in the Season 2 opener "The Return of Harmony" when Discord corrupts them. Applejack becomes a dishonest liar, Pinkie becomes an angry and cynical mare who hates everything, Rarity becomes greedy, Fluttershy becomes snarky and cruel, Rainbow becomes a disloyal traitor who betrays her own friends, and Twilight briefly becomes an isolated antisocial like she was at the start of the show.
+
+___

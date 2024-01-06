@@ -1,0 +1,209 @@
+The Cop Show is an idealised representation of police work, justified by the Rule of Cool. Morality is very black and white, being a cop is far more dangerous in this genre than it really is, shoot-outs and standoffs are common, as are car chases and Serial Killers. The protagonist is often a Cowboy Cop who often get their man (even if not the first time). Of course, they don't forget the niggling details of the job, either.
+
+Specific variants: Buddy Cop Show.
+
+The more realistic representation of police work in fiction is a Police Procedural.
+
+See also and compare with: Criminal Procedural, Forensic Drama, Law Procedural.
+
+___
+
+## Examples of Cop Shows
+
+-   _9-1-1_
+-   _Active Raid_
+-   _Adam-12_
+-   _Almost Paradise_
+-   _Angie Tribeca_
+-   _Annika (2021)_
+-   _APB_
+-   _Arne Dahl_
+-   _Ashes to Ashes (2008)_
+-   _Alarm für Cobra 11_
+-   _Alert: Missing Persons Unit_
+-   _Alien Nation_
+-   _Almost Human_
+-   _Ang Probinsyano (2015)_
+-   _Aquarius_
+-   _B: The Beginning_
+-   _Baby Mentalist_
+-   _Baghdad Central_
+-   _Battle Creek_
+-   _BG: Personal Bodyguard_ (Partially present because of the presence of the TMPD's SP)
+-   _Black Cat Detective_
+-   _Bloodlands (2021)_
+-   _Blue Bloods_
+-   _Blue Heelers_
+-   _Blue Lights_
+-   _Blue SWAT_
+-   _Bluey (1976)_
+-   _Boomtown (2002)_
+-   _Bookhunter_
+-   _Bosch_
+    -   _Bosch: Legacy_
+-   _Brave Police J-Decker_
+-   _Brooklyn South_
+-   _Burke's Law_
+-   _Burn Up!_
+-   _Cagney & Lacey_
+-   _The Case Files of Yakushiji Ryoko_
+-   _Chicago P.D._
+-   _CHiPs_
+-   _Continuum_, partially
+-   _Counterpart (2018)_
+-   _Copper_
+-   _Cop Craft_
+-   _Cops: L.A.C._
+-   _Cracked (2013)_
+-   _Criminal Minds_
+    -   _Criminal Minds: Suspect Behavior_
+    -   _Criminal Minds: Beyond Borders_
+    -   _Criminal Minds: Evolution_
+-   _Crisis (2017)_ (Somewhat)
+-   The two _CSI_ spinoffs below combine this with Forensic Drama (but not the original, since its characters are not detectives):
+    -   _CSI: NY_
+    -   _CSI: Miami_
+-   _Dark Blue_
+-   _Dead Lucky_
+-   _Deputy_
+-   _Death Note_; partially
+-   _Dennou Keisatsu Cybercop_
+-   _Detroit 1-8-7_
+-   _The District_
+-   _Dog_
+-   _Double Decker_
+-   _DIRay_
+-   _D.☆P._ (Partially from the military police perspective)
+-   _Due South_
+-   _Dragnet_
+-   _Dublin Murders_
+-   Disney also made a send-up of this with _Fillmore!_, which follows the adventures of a middle-school safety patrol.
+-   _The Fall (2013)_
+-   _Flashpoint_
+-   _Flikken Maastricht_
+-   _Future Cop_
+-   _G-Men '75_
+-   _Gang Related_
+-   _Ghost in the Shell: Arise_
+-   _Ghost in the Shell: Stand Alone Complex_, to an extent.
+    -   _Ghost in the Shell: Stand Alone Complex - Solid State Society_
+    -   _Ghost in the Shell: SAC\_2045_
+-   _Golden Boy_
+-   _Graceland_
+-   _Grimm_
+-   _Hawaii Five-O_
+    -   _Hawaii Five-0_
+-   _Hero Mask_
+-   _Highway Patrol_
+-   _Hill Street Blues_
+-   _Hometown (2021)_
+-   _Hudson and Rex_
+-   _Hunter_ (1984-2003)
+    -   1984 Series
+    -   _Everyone Walks in L.A._
+    -   _Return to Justice_
+    -   _Back in Force_
+    -   2003 Revival
+-   _Identity_
+-   _The Indian Detective_
+-   _Kamen Rider Drive_
+-   _Kaitou Sentai Lupinranger VS Keisatsu Sentai Patranger_, specifically the Patranger half.
+-   _Keishichou Nasi Goreng-ka_
+-   _Kidou Keiji Jiban_
+-   _Kidnapped_
+-   _Killer and Healer_
+-   _LA Heat_
+-   _Lethal Weapon (2016)_
+-   _Life on Mars (2006)_
+-   _Life on Mars (2008)_
+-   _Low Winter Sun_
+-   _Magnum, P.I. (2018)_
+-   _Mann & Machine_
+-   _Memphis Beat_
+-   _Miami Guns_
+-   _The Millionaire Detective - Balance: UNLIMITED_
+-   _Mindhunter_
+-   _Mob City_
+-   _Mobile Police Patlabor_
+    -   _Mobile Police Patlabor: The Early Days_
+    -   _Patlabor: The TV Series_
+-   _The Mod Squad_
+-   _Moonlight Mask_
+-   _Nash Bridges_
+-   _NCIS_
+    -   _NCIS: Hawaiʻi_
+    -   _NCIS: Los Angeles_
+    -   _NCIS: New Orleans_
+    -   _NCIS: Sydney_
+-   _19-2_
+-   _NUMB3RS_
+-   _NYC 22_
+-   _NYPD Blue_
+-   _OCTB_
+-   _Onihei Hankachou_ (Law enforcement franchise set in Edo Japan)
+-   _Pacific Blue_
+-   _Paradise PD_
+-   _Patlabor_
+    -   _Patlabor: The Movie_
+    -   _Patlabor 2: The Movie_
+    -   _WXIII: Patlabor The Movie 3_
+    -   _The Next Generation -Patlabor-_
+-   _Police Squad!_
+-   _Police Story (1973)_
+    -   _Police Woman_
+-   _Power Rangers S.P.D._
+-   _Psycho-Pass_
+    -   _Psycho-Pass: Sinners of the System_
+    -   _Psycho-Pass 3: First Inspector_
+    -   _Psycho-Pass: Mandatory Happiness_
+    -   _Psycho-Pass Providence_
+-   _Rejseholdet_
+-   _Republic of Doyle_
+-   _Rizzoli & Isles_
+-   _Robot Detective_
+-   _Rookie Blue_
+-   _Rush (2008)_
+-   _Rush Hour_
+-   _Safe House_
+-   _Saving Grace_
+-   _The Sentinel_
+-   _Shades of Blue_
+-   _The Shield_
+-   _Special 7: Special Crime Investigation Unit_
+-   _Starsky & Hutch_
+-   _Stalker (2014)_
+-   _Stan Lee's Lucky Man_
+-   _The Streets of San Francisco_
+-   _Seibu Keisatsu_
+-   _Sledge Hammer!_
+-   _SP: Security Police_ Franchise
+    -   _SP: Security Police_ - A Japanese police show which centered on the Metropolitan Police's Security Police Division
+    -   _SP: Security Police_ - The Show's film adaptation series.
+    -   _SP: Security Police_ - The Manga.
+-   _Stumptown (2019)_ (Partially)
+-   _S.W.A.T. (1975)_
+-   _S.W.A.T. (2017)_
+-   _The Sweeney_
+-   _Tiger Cubs_
+-   _Taiyo Ni Hoero_
+-   _Tokkei Winspector_
+-   _Tokusou Exceedraft_
+-   _Tokusou Robo Janperson_
+-   _Tokusou Saizensen_
+-   _Tokusou Sentai Dekaranger_
+-   _Tokkyuu Shirei Solbrain_
+-   _T.J. Hooker_
+-   _Training Day_
+-   _Trigger Point_
+-   _Turks_
+-   _Turner & Hooch (2021)_
+-   _Unforgotten_
+-   _The Untouchables_
+-   _The Unusuals_
+-   _Van der Valk_
+-   _Vegas (2012)_
+-   _Walker, Texas Ranger_
+-   _Will Trent_
+-   _You're Under Arrest!_
+
+___

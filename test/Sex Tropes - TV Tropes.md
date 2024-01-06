@@ -1,0 +1,460 @@
+_Everything is about sex, except sex, which is about power._
+
+Tropes related to sex — or rather, why anyone was _ever_ born. (Alternatively, given the complex minefield they describe, "How was anyone _ever_ born?")
+
+Note that these tropes have all real life examples blocked, per the Content Policy<sup>note&nbsp;</sup> .
+
+For tropes with names that sound sexual but the tropes in themselves aren't, see It's Not Porn, It's an Index.
+
+___
+
+## Tropes:
+
+**Related indexes:**
+
+-   Attraction Tropes
+-   BDSM Tropes
+-   Fanservice
+    -   Nudity Tropes
+    -   Rule of Sexy
+-   Flirting and Courtship
+-   Gender and Sexuality Tropes
+    -   Queer as Tropes
+-   Incest Is Relative
+-   Infidelity Index
+-   Innuendo Tropes
+-   Interracial and Interspecies Love Index
+-   Kissing Tropes
+-   Love Tropes
+-   Phallic Index
+-   The Oldest Profession
+-   Post-Sex
+    -   Pregnancy Tropes
+        -   Birth Tropes
+-   Sex Is Evil
+-   Sexual Deviance Is Evil
+-   Sexual Harassment and Rape Tropes
+    -   Tropes About Perverts
+-   This Index Touches Itself
+-   Virginity Tropes
+
+-   Above the Influence: A character refuses to have sex with someone they're attracted to if the person is under some sort of influence.
+-   Accidental Adultery: Someone cheats on someone by accident.
+-   Accidental Declaration of Love: Someone confesses their attachment by accident.
+-   Accidental Pervert: Someone accidentally comes off looking perverted.
+-   Accidental Pornomancer: Somebody has sex a lot, in questionable ways, by accident somehow.
+-   Adaptational Sexuality: Changing a character's sexual orientation in the adaptation of a work.
+-   Aggressive Submissive: A mouthy or aggressive character becomes submissive if they're having sex.
+-   All Gays are Promiscuous: All gay men must have lots of sex.
+-   All Men Are Perverts: All the male characters are perverts.
+-   All Women Are Lustful: The Distaff Counterpart to All Men Are Perverts: all the _female_ characters are perverts.
+-   All Women Are Prudes: None of the women like sex.
+-   Am I Just a Toy to You?: One character flirts with another, who does like the flirter but worries that they view them as just a Girl of the Week (or Boy of the Week as the case may be).
+-   Anatomically Impossible Sex: Two characters have sex even if they physically couldn't or in a position that's impossible.
+-   Animals Lack Attributes: Animals have no visible genitalia.
+-   Anorgasmia: Someone cannot have orgasms.
+-   Auto Erotica: Sex taking place in a car.
+-   Awful British Sex Comedy: A comical, sex-focused movie that viewers find So Bad, It's Good.
+-   Awkwardly Gay Dream: A straight character unexpectedly having a dream that involves gay sex, much to their awkward discomfort.
+-   Bawdy Song: A song with dirty lyrics.
+-   Bed Full of Women: A lot of women are seen in a man's bed and he's implied, but never stated or shown, to have sex with them all.
+-   Bedmate Reveal: A guy (or girl) wakes up after a wild night they may not remember and finds there's someone in bed _with them_. Often leads to Did They or Didn't They?
+-   Bedroom Adultery Scene: Someone walks in on their spouse in the act of cheating on them in the bedroom.
+-   Bed Trick: Someone has sex with someone by pretending to be their partner (or at least someone the other person is attracted to).
+-   Bestiality Is Depraved: Bestiality (sex with animals).
+-   Better than Sex: Someone prefers a certain thing over sex.
+-   Black Jezebel Stereotype: The stereotype that Black women are more sexual than other races.
+-   Bloodstained Defloration: A virgin woman's first time having sex results in mild vaginal bleeding.
+-   The Body Parts That Must Not Be Named: When the parts _used_ for sex are considered so dirty that even the _words_ for them are treated as inherently not safe for work.
+-   Boldly Coming: Sex with aliens.
+-   Bondage Is Bad: People who like BDSM are evil.
+-   Bow Chicka Wow Wow: Beatboxing pornography music.
+-   Brains and Bondage: An intellectual who enjoys BDSM.
+-   Breaking In Old Habits: A character receives new hands and it's implied that they'll masturbate with them.
+-   Breeding Cult: An attempt to breed a Chosen One.
+-   Breeding Sim: A video game focused on breeding creatures.
+-   Breeding Slave: Slaves that are used for breeding.
+-   Brother–Sister Incest: Romantic or sexual attraction between siblings.
+-   But I Would Really Enjoy It: Someone is sexually attracted to somebody they feel they can't or shouldn't have sex with.
+-   But Liquor Is Quicker: Drunken sex.
+-   But Not Too Bi: Someone is bisexual but only ever seen intimate with people of one gender.
+-   But Not Too Gay: Gay couples aren't seen doing romantic or sexual things as much as straight ones.
+-   Calling Your Orgasms: During sex, someone outright says they're having an orgasm.
+-   Can't Have Sex, Ever: A couple can't or are not allowed to have sex.
+-   Cargo Envy: A woman holding an object and a man is attracted to her and wishes he were in the object's place.
+-   Casting Couch: Someone has sex with a producer in order to be cast.
+-   Casual Kink: Either a person's kinky personality is treated as normal and unimportant, or someone casually says something that implies they have a fetish.
+-   Catholic School Girls Rule: Promiscuous Catholic school girls.
+-   Caught with Your Pants Down: Someone pulls their pants down to masturbate and is caught with them down.
+-   Chastity Couple: A couple willingly abstains from sex and are perfectly content with never having intercourse.
+-   Chocolate of Romance: Chocolate is seen as romantic or sexy.
+-   Chosen Conception Partner: Someone wants a child and chooses someone to be the other parent.
+-   Coitus Uninterruptus: Two characters are having sex and someone comes in, but one of them talks to the interrupter while still in the nude and in the same position.
+-   Combat Sadomasochist: Someone enjoys (usually, but not always, in a sexual way) their own and others' pain.
+-   Come Back to Bed, Honey: Two characters have sex. One leaves but the other wants to keep doing it.
+-   Comforting the Widow: Someone comforts a new widow after the death of their spouse, and it leads to sex.
+-   Comic Sutra: Someone does something with a weird name while having sex, but we never find out what it involves.
+-   Coming and Going: Sex and death are associated with each other.
+-   Common Hollywood Sex Traits: Sex works in an unrealistic way in movies.
+-   Conceive and Kill: A female character becomes pregnant, then kills the father.
+-   Confession Triggers Consummation: The first confession of love between two characters immediately leads to sex.
+-   Consuming Passion: Cannibalism with sexy undertones.
+-   Consummation Counterfeit: In an Arranged Marriage, someone fakes a bloodstain on a bedsheet to imply that the bride was a virgin prior to the marriage.
+-   Contraception Deception: Somebody lies about protection when having sex.
+-   Conveniently Common Kink: Two characters (who are usually partners) share a rare fetish.
+-   Covert Pervert: Someone has pervy thoughts but no pervy actions.
+-   Corrupting Pornography: Pornography has a detrimental effect on people and/or sex, whether they're the participants or the viewers.
+-   Crashing Through the Harem: A character ends up running hurriedly through a group of (usually undressed) women.
+-   Crazy in the Head, Crazy in the Bed: Being crazy or unhinged means being a great and passionate lover.
+-   Creature-Breeding Mechanic: In a game, the player breeds creatures until they have a necessary creature.
+-   Crotch-Grab Sex Check: Grabbing someone's crotch to find out what sex they are.
+-   Crying After Sex: After two people have sex, one or both of them cries.
+-   Cuckold: A man whose love interest sleeps with someone else (and it's not a polyamory).
+-   Darwinist Desire: Someone will only have sex with a person with the "right" DNA.
+-   Death and the Maiden: A Grim Reaper is seen with a woman who might be a girlfriend.
+-   Defeat by Modesty: Defeating a character by damaging or stealing their clothes in a way that exposes (or threatens to expose) their privates or underwear.
+-   Desk Sweep of Passion: A character swipes everything off of a desk to make room for love-making.
+-   Destructo-Nookie: Two characters have sex, and due to supernatural strength, furniture is broken.
+-   Deus Sex Machina: A fictional thing that needs sex to work.
+-   Did the Earth Move for You, Too?: When somebody says this phrase while someone kisses or has sex with someone else during a disaster.
+-   Did They or Didn't They?: Two characters went offscreen and they could have had sex but they might not have.
+-   Did You Just Have Sex?: Someone who doesn't normally have sex is acting differently and another character finds out it was because they got laid.
+-   Did You Just Romance Cthulhu?: Romancing an Eldritch Abomination or an alien.
+-   "Dinner, Bath, or Sex" Offer: A woman offers her husband for a dinner, bath, or herself.
+-   Dirty Mind-Reading: Someone reads another person's mind, who's thinking dirty thoughts.
+-   Dominatrix: A woman who is dominant in regards to BDSM.
+-   Don't Come A-Knockin': Implying Auto Erotica by showing a car swerving about.
+-   Double Entendre: A phrase with two valid meanings, one of them possibly sexual.
+-   Downfall by Sex: The greatest failure for a character (or cause of downfall) is because they had sex with someone and are suffering the consequences.
+-   Do You Want to Copulate?: Someone without inhibitions greets someone else by asking them if they want to have sex.
+-   Dress Hits Floor: A woman is required to take off her clothes and she's wearing a dress and we see it hit the floor. Not necessarily sexual, but often is.
+-   Elevator Going Down: Sex in an elevator.
+-   Entitled to Have You: Somebody feels that a person worthy of their respect should have sex with them.
+-   Ephebophile: A person who is sexually interested in underage teenagers.
+-   Erotic Asphyxiation: Choking yourself or someone else to turn you on.
+-   Erotic Dream: Dreaming about sexuality.
+-   Erotic Eating: Someone is turned on by the way someone else eats.
+-   Eternal Sexual Freedom: Characters do something sexual that was not allowed in the time period they're set in, and it's not mentioned not to be allowed.
+-   Ethical Slut: A character who's moral and lusty.
+-   Euphemistic Names: When a person's name sounds like a Sexual Euphemism. It usually indicates that they are up for a roll in the hey.
+-   Europeans Are Kinky: Lusty European character.
+-   Everybody Has Lots of Sex: A work of fiction where all or most of the characters have a lot of sex.
+-   Exotic Equipment: Aliens with weird-looking privates.
+-   Extreme Libido: Someone is obsessed with sex.
+-   Extreme Omnisexual: Character will have sex with _anyone and anything_, no limits.
+-   Face Full of Alien Wing-Wong: An alien that breeds with another species.
+-   Fake Orgasm: A character simulates a sexual climax (or confesses this fact) to show that a sexual encounter/relationship is unsatisfying.
+-   Fantastic Arousal: A humanoid alien-type creature gets sexually aroused if someone touches a place that's neither human anatomy nor their privates.
+-   Fashion-Based Relationship Cue: What you wear indicates whether or not you're in a relationship, and can also signal who/what you're into sexually.
+-   Feng Schwing: A place decorated to sexually arouse people.
+-   Fetish: Someone is sexually attracted to something considered unusual.
+-   Fetishes Are Weird: A character's fetish is portrayed as weird or creepy.
+-   Fetish-Fuel Future: An author writes a future or alternate universe where their fetish is normal.
+-   Fetishized Abuser: Abuse is portrayed as sexy.
+-   Fetish Retardant: A sex scene, or something that would normally be sexy, turns wrong.
+-   Flexibility Equals Sex Ability: Characters with flexible bodies are implied to have great sexual prowess.
+-   Flirting Under Fire: Characters flirt or do other romantic/sexual things during an action scene.
+-   Flowers of Romance: Flowers are romantic.
+-   Foe Cooties: Refusing to date someone because they slept with your enemy.
+-   Footsie Under the Table: When a character (usually female) slides their potential partner's leg under the table to try to seduce them.
+-   Forced Orgasm: A person is brought to climax against their will, be it deliberately or accidentally.
+-   Free-Love Future: In the future, everyone can do what they want with regards to sex.
+-   Freud Was Right: The idea that everyone thinks about sex a lot.
+-   Friends with Benefits: Having sex with your platonic friend.
+-   Gay Cruising: Men seeking out anonymous casual sex with other men, oftentimes in public.
+-   Gay Euphemism: Avoiding usage of words directly related to homosexuality.
+-   Gay Option: Someone has an option to be gay in a video game.
+-   Genius Breeding Act: Trying to breed a genius.
+-   Gentile Jew-Chaser: Someone is sexually attracted to Jews because they find Jews inherently attractive.
+-   Get a Room!: Someone tells two flirting characters to get a room.
+-   Girl on Girl Is Hot: A straight man is turned on by two lesbians having sex, kissing, or doing other romantic/sexual things.
+-   Glad-to-Be-Alive Sex: Someone has sex because they are glad to be alive after experiencing something that could have killed them.
+-   Good Adultery, Bad Adultery: Sometimes, adulterers are seen as good, other times, they're bad.
+-   Got Over Rape Instantly: A character, who just experienced sexual assault, instantly displays romantic or sexual interest as soon as the assault ends and the trauma is never addressed or brought up again.
+-   Go Seduce My Archnemesis: Exploiting your nemesis by having sex or flirting with them.
+-   G-Rated Sex: Two people or animals do something that's not sex but works like sex.
+-   The Grunting Orgasm: Men grunt and sigh when they have orgasms.
+-   Guy on Guy Is Hot: A straight woman is turned on by gay men kissing/having sex/etc.
+-   Happy-Ending Massage: Someone tries to get sex at a massage parlor.
+-   Have I Mentioned I Am Sexually Active Today?: Someone goes on and on about a prolific but nonexistent sex life.
+-   Head-Tiltingly Kinky: One or more characters react to an unseen, weird sexual activity.
+-   Hemo Erotic: A fetish for biting and drinking blood.
+-   Heroic Seductress: A perverse heroine.
+-   Home Porn Movie: Two characters film or photograph themselves naked and/or having sex.
+-   Homosexual Reproduction: People of the same sex have a biological child.
+-   Hookers and Blow: Someone who is decadent has lots of sex and/or does drugs.
+-   Horny Bard: The bard in a TTRPG party is a horndog.
+-   Horny Sailors: Everyone at sea is lustful, all the time.
+-   Hot Coffee Minigame: Interactive sex scenes in video games.
+-   Hot Skitty-on-Wailord Action: Two creatures of different species have sex in a way that's unclear how they did it.
+-   Hotter and Sexier: An installment in a franchise is much more sexually charged than usual.
+-   I Call Him "Mister Happy": A character names their genitalia.
+-   Idealized Sex: Fictional sex works out better than real sex.
+-   IKEA Erotica: Sex is described in a boring way.
+-   I Kiss Your Foot: Kissing someone's foot, which may not be sexual, but often is.
+-   Ignore the Fanservice: Someone flirts with another person, but that person just ignores the flirter.
+-   I'll Be in My Bunk: Someone sees something sexy and leaves, presumably to masturbate.
+-   I'm a Man; I Can't Help It: Men can't control their sexual arousal.
+-   The Immodest Orgasm: A woman makes a really loud noise when she has an orgasm.
+-   Inappropriately Close Comrades: Two people want to date, but it's against the rules.
+-   Inconvenient Attraction: People who hate being sexually attracted or in love.
+-   Innocent Innuendo: A scene was meant to be an innuendo, but there's nothing sexual actually going on.
+-   Insatiable Newlyweds: A couple has a lot of sex following their marriage.
+-   Instant Seduction: Someone can seduce people very quickly.
+-   Instant Turn-Off: Someone loses their arousal very quickly for X reason.
+-   Intercourse with You: Song lyrics sounding sexual, usually intentionally.
+-   The Internet Is for Porn: There's lots of pornography on The Internet.
+-   Interplay of Sex and Violence: Violence and sex happening around the same time as each other, or even using violence as foreplay.
+-   Interrupted Intimacy: Two characters having sex are interrupted.
+-   Interspecies Romance: Someone falls in love with a different species.
+-   Intimate Artistry: Someone does art of another person and it's seen as intimate.
+-   Intimate Healing: A character engages in a healing act that looks, and can be, intensely intimate. This can include actual sexual intercourse.
+-   Intimate Psychotherapy: Sex cures psychological problems.
+-   Intimate Telecommunications: Phone sex.
+-   Introduction by Hookup: Someone has sex or romance with a stranger and then meets said stranger.
+-   It's Not Porn, It's Art: Some art looks pornographic but is not seen as porn.
+-   Jailbait Taboo: Relationships between teenagers and adults being taboo.
+-   The Jailbait Wait: An adult waits for the day a minor will become old enough to have sex.
+-   Jizzed in My Pants: A man ejaculates during the day while not having sex.
+-   Just Like Making Love: Someone compares another activity to sex.
+-   Karmic STD: Someone gets a sexually transmitted disease for their bad behavior.
+-   Kinky Cuffs: A fetish for handcuffs.
+-   Kinky Role-Playing: Characters act out scenarios as part as foreplay.
+-   Kinky Spanking: A fetish for spanking.
+-   Kissing Cousins: Romantic and/or sexual relationships between cousins.
+-   Kiss Me, I'm Virtual: Romance or sex with a virtual person.
+-   Kiss of the Vampire: Vampires try to romance their bite victims to make the bite better for them.
+-   Language of Love: Two characters (normally of different genders) pair up, despite a Language Barrier.
+-   Lascivious Beauty Mark: A facial beauty mark is used to characterize someone as being flirtatious, seductive, generally sexually forward, and/or highly sexually attractive In-Universe.
+-   Law of Inverse Fertility: A character is more likely to get pregnant if she's not trying to conceive and less likely if she is.
+-   Lemon Stu: A very lusty male Fan Fic character.
+-   Lets Wait Awhile: A character who doesn't have sex just for the sake of sex.
+-   Level-Up at Intimacy 5: A video game character gets stronger or more powered from intimacy.
+-   Lewd Lust, Chaste Sex: Romantic, but non-sexual, scenes are described in a lewder way than actual sex.
+-   Lie Back and Think of England: Women have sex because they have to, and they don't like it.
+-   Living Aphrodisiac: A sci-fi character who is the antagonist because she (or he sometimes) makes everyone else really want to sleep with them.
+-   The Loins Sleep Tonight: A non-impotent character has trouble having an orgasm during sex.
+-   Lousy Lovers Are Losers: Being bad in bed is portrayed as a major character flaw.
+-   Lover's Ledge: Someone has sex and then escapes through the window.
+-   A Love to Dismember: A character seems to be in love with a severed body part.
+-   Lust: A deep desire for something abstract.
+-   Lust Makes You Dumb: A character does stupid things to satisfy their sexual desires.
+-   Lustful Melt: A character melts due to having a crush.
+-   Lust Object: A character who is lusted over by another.
+-   Lysistrata Gambit: A spouse threatens to disallow sex as a punishment.
+-   Madonna-Whore Complex: Women are either "proper ladies" or "dirty whores".
+-   Making Love in All the Wrong Places: Sex in a place that's not a bed, couch, or chair.
+-   Male-to-Female Universal Adaptor: Aliens with human genitals.
+-   Mal Mariée: A young woman unhappily married to a jealous, often impotent older man falls in love (and cheats on him) with a young lover.
+-   A Man Is Always Eager: Men always want sex.
+-   Man of Steel, Woman of Kleenex: A godlike character has sex with a normal person.
+-   Mantis Mating Meal: Female praying mantises eating their mates after sex.
+-   Marshmallow Hell: A woman/adolescent girl tightly hugs a young boy, and as she does so, she also sandwiches his head in between her boobs.
+-   Mars Needs Women: Male aliens wanting to do it with human women.
+-   Masturbation Means Sexual Frustration: Masturbation is used to denote a character is sexually frustrated, perverted, or repressed.
+-   Mate or Die: A character needs to procreate/have sex, or they will die.
+-   Mating Dance: Two characters dance in a way that seems like they're having or thinking of sex.
+-   Mating Season Mayhem: An animal or animal-like character becomes extremely sexual during a certain type of year.
+-   Mental Affair: Psychic sex.
+-   Mile-High Club: Sex on a plane.
+-   Mills and Boon Prose: A sex scene is described with crazy metaphors for the physical stuff and Purple Prose for the emotions.
+-   Miss Conception: A character who has received inaccurate information regarding where babies come from.
+-   The Modest Orgasm: A woman orgasms quietly.
+-   More Experienced Chases the Innocent: A more sexually and/or romantically experienced person pursues someone who has very little to no romantic or sexual experience.
+-   Mrs. Robinson: A woman much older than her love interest.
+-   Must Not Die a Virgin: Someone has sex for the first time as they think they're going to die.
+-   My Girl Is Not a Slut: Sexually promiscuous women are seen as dirty, but sexually promiscuous men are seen as cool.
+-   My Girl Is a Slut: A woman is promiscuous and that's seen as a good thing.
+-   My Sensors Indicate You Want to Tap That: Someone detects sexual attraction via Super-Senses.
+-   Nature Abhors a Virgin: Anyone who dislikes being a virgin will end up having sex.
+-   Nature Adores a Virgin: People would rather have sex with a virgin.
+-   Naughty by Night: A character who is tidy, polite, and doesn't think dirty thoughts during the day, but is outright lewd at night.
+-   Naughty Under the Table: A character's thigh or privates get grabbed under a table by someone else at the table.
+-   Need a Hand, or a Handjob?: A character needs help and thinks a prostitute is trying to help them.
+-   Nerds Are Pervs: Nerdy characters depicted as sex-obsessed, often with deviant preferences and lecherous instincts.
+-   Nerds Are Virgins: No nerds have had sex.
+-   Next Thing They Knew: Two characters flirt and the next thing you know, they're making whoopie.
+-   Nipple and Dimed: Most of a woman's breast can be seen, but her nipples are seen as very inappropriate.
+-   No Biological Sex: A character doesn't have a biological sex.
+-   Nocturnal Emission: A man has a wet dream (ejaculates in his sleep).
+-   No Heterosexual Sex Allowed: To solve an overpopulation problem, a government forbids heterosexual sex.
+-   No Pregger Sex: Pregnant women don't have sex.
+-   No Sex Allowed: In a work set in the future, sex is not allowed.
+-   Not Right in the Bed: Someone acts lustier 'cause they're possessed.
+-   Not Under the Parents' Roof: Parents do not want their kids to have sex at home.
+-   Obligatory Bondage Song: A song about BDSM.
+-   Old People are Nonsexual: The belief that old people don't or shouldn't have sex.
+-   Omegaverse: A setting where humans have a secondary sex (alpha, beta or omega).
+-   One-Night-Stand Pregnancy: Casual sex leads to pregnancy.
+-   One Thing Led to Another: Someone doesn't go into the details of how dating led to sex.
+-   Only You Can Repopulate My Race: A woman among the last of her species wants to do it with a man so they can repopulate the species.
+-   Optional Sexual Encounter: The option of sex in video games.
+-   Orgasmatron: A device that sexually arouses people.
+-   Orgasmically Delicious: Someone has an orgasm when they eat.
+-   Orgasmic Combat: People fighting sounds like sex.
+-   Out with a Bang (literal): Someone dies during sex.
+-   Overcome with Desire: Two characters in love are so sexually attracted that they have sex on the spot.
+-   Paralyzing Fear of Sexuality: A character desires romance and/or sex, but is too afraid of sexuality.
+-   Parental Incest: Someone has sex with their parent.
+-   Parental Sexuality Squick: Someone is disgusted at the idea of their parents having sex.
+-   Parents Walk In at the Worst Time: A young adult or teen living with their parents has someone over to visit and a parent enters when the two are either having sex or making out, the parent _thought_ they were, or they just appear to be kissing or having sex.
+-   A Party, Also Known as an Orgy: All wild parties that are not meant to be orgies lead to sex.
+-   Pelvic Thrust: A character thrusts their pelvis out.
+-   Pervert Alliance: A group of perverts come together with a common goal.
+-   Pink Is Erotic: Pink is associated with eroticism, sexual experiences and perverted or sensual characters.
+-   Pity Sex: Someone sleeps with a person they feel sorry for.
+-   Pizza Boy Special Delivery: Promiscuous people who make house calls.
+-   Plot-Inciting Infidelity: A story that starts with the protagonist catching a cheating partner.
+-   Post-Coital Collapse: Characters collapse into bed to imply they were having sex.
+-   The Pornomancer: Sexual things just _happen_ to this character with no explanation.
+-   Power Dynamics Kink: Power, subjugation, punishments, etc. as a sexual "turn-on."
+-   Powerful People Are Subs: People in positions of power are sexually submissive.
+-   Power is Sexy: Someone is sexually attracted to people in power.
+-   The Power of Lust: Sex or sexuality empowers or inspires someone to succeed.
+-   Power Perversion Potential: Someone uses superpowers to do perverted things.
+-   Powerful People Are Subs: People who have high-power jobs tend to be submissive in bed, especially if BDSM is involved.
+-   Pragmatic Pansexuality: A character sleeping with anyone regardless of their actual sexuality to achieve their goals.
+-   Pre-Climax Climax: Sex happens before the climax of the story.
+-   Primal Scene: A child walks in on two adults (usually their parents) having sex.
+-   Professional Sex Ed: A parent hires a prostitute to give a demonstration on how sex works to their child.
+-   Professionals Do It on Desks: Two professionals make love on a desk.
+-   Promiscuity After Rape: A promiscuous character is revealed to have Rape As Back Story.
+-   Psychosexual Horror: A subgenre that explores psychosexual development as a subject matter, including themes of sexual development and sexual activities.
+-   Queer People Are Funny: Homosexuality as a source of humor.
+-   Quest for Sex: A whole story focused on a man trying to get laid.
+-   Questionable Consent: It's not clear if a sex act was consensual.
+-   Rape and Switch: A man is implied to be gay because he was raped, rather than just being plain gay.
+-   Ready for Lovemaking: A character presents themselves in a way that shows they're ready for sex.
+-   Really Gets Around: Someone who has sex with a lot of people.
+-   Redemption Equals Sex: A good guy redeems a bad guy (usually the good one is female and the bad one is male but sometimes not) and then sleeps with them.
+-   Red Light District: An area with a lot of strip joints and similar places.
+-   Rescue Sex: Someone has sex with their rescuer.
+-   Retargeted Lust: Someone is sexually attracted to one person but deals with it by having sex with another person.
+-   Right Through His Pants: Two characters have sex even though one or both of them is wearing clothes.
+-   Right Through the Wall: People live in an apartment and their neighbours are having loud sex.
+-   Robosexual: A robot has sexual or romantic relations with a human.
+-   Robosexuals Are Creeps: A person having sexual or romantic relations with robots is portrayed as creepy.
+-   Roll in the Hay: Sex in a pile of hay.
+-   Romance and Sexuality Separation
+-   Royal Harem: Royals have a harem.
+-   Safe, Sane, and Consensual
+-   Safe Word: A code word for "no" that partners should say during sex to signal that they're not comfortable with progressing any further.
+-   Screw Yourself: A person has sex with a copy of themselves.
+-   Seduction as One-Upmanship: A character seduces their rival's significant other to put one over on them.
+-   Seduction Lyric: A speech intended to get someone into bed, in the form of a song or poem.
+-   Seduction-Proof Marriage: Someone becomes immune to seduction due to their marriage.
+-   Self-Abuse: Masturbation is bad for you.
+-   Serial Homewrecker: Person with an attraction to people who are already spoken for.
+-   Sex as Rite-of-Passage: A man is embarrassed to be a virgin.
+-   Sex at Work: Characters have sex at a place where they're employed.
+-   Sexbot: A robot designed for sex.
+-   Sex Comedy: A wacky work with lots of sex in it.
+-   Sex by Proxy: Two characters have sex, and a third is having it with them psychically or something.
+-   Sex Equals Love: Characters who are in a sexual relationship but not in love will fall in love eventually.
+-   Sex–Face Turn: A villain turns good because they had sex.
+-   Sex for Product: An ad which says that you'll get laid if you buy it.
+-   Sex for Services: Trading sexual favors for non-sexual favors.
+-   Sex for Solace: A character has sex to cope with a bad experience.
+-   Sex God: A character who's really skillful at sex.
+-   Sexiled: Somebody is not allowed to enter a room because people are doing it in there.
+-   Sex in a Shared Room: At least two people have sex in a room while another person/viewer is there — willingly or unwillingly.
+-   Sex Is Cool: Sex is portrayed as cool.
+-   Sex Is Evil: Sex is seen as immoral.
+-   Sex Is Evil, and I Am Horny: A character who thinks sex is a sin but has a sexuality.
+-   Sex Is Good: Sex is seen as morally good.
+-   Sex Is Interesting: Sex is portrayed as fascinating.
+-   Sex Is Liberation: Sex is seen as liberating.
+-   Sex Is Violence: Fighting is seen as sexual.
+-   Sexless Marriage: A married couple who don't have sex (which is usually seen as a bad thing).
+-   Sex Magic: Using sex to do magic.
+-   Sex Miseducation Class: Bad/incompetent sex education.
+-   Sex Montage: A montage of couples having sex.
+-   Sexophone: Saxophone music means that someone finds a character hot.
+-   Sexposition: Combining exposition with sex scenes.
+-   Sex Signals Death: Foreshadowing that two characters have sex and one or both of them will die.
+-   Sex Slave: A character who is a slave for sexual purposes.
+-   Sex Starts, Story Stops: A random sex scene that appears out of nowhere and does nothing for the plot.
+-   Sex Tourism: Someone visits somewhere to have sex.
+-   Sextra Credit: A student and a teacher do it to up the student's grades.
+-   Sexual Deviance Is Evil: Nonstandard or taboo sexual behavior is associated with evil.
+-   Sexual Euphemism: Calling sexual intercourse by another name.
+-   Sexual Extortion: Disallowing something from another person until they consent to sex.
+-   Sexual Karma: Good people will be rewarded with sex and bad people will be punished with rape.
+-   Sexually Transmitted Superpowers: Intimate contact with a superpowered being causes the Super-Empowering of a prior Muggle.
+-   Sex with the Ex: Two people who are no longer a couple but still have sex.
+-   Sexiness Score: When characters give an objective rating to other characters according to appearance or prowess in bed.
+-   Sexy Cat Person: Characters who are anthropomorphic cats, cat/human hybrids, or simply have a cat theme, will often be very sexy.
+-   Sexy Coat Flashing: Someone flirts by revealing that they're wearing nothing (or, if she's a woman, sometimes a bra) underneath their coat.
+-   Sexy Discretion Shot: Two characters have sex, but you don't see it happen.
+-   Sexy Figure Gesture: One character describes the sexiness of another by using their hands.
+-   Sexy Flaw: Flaws and imperfections (physical deformities, speech impediments, etc.) as a sexual fetish.
+-   Sexy Shirt Switch: A woman wearing a man's shirt or dress shirt is an easy way to indicate that they had sex the night before.
+-   Shag Wagon: A custom van whose owner uses it to pick up women and have sex with them in the back.
+-   Shower of Love: Having sex and/or kissing in the shower.
+-   Single Mom Stripper: A single mother who earns money by working as a stripper or similar.
+-   Skinship Grope
+-   Sleeping Their Way to the Top: Rising to the top using sex.
+-   Sleeping with the Boss: Having sex with someone in authority over you.
+-   Sleeping with the Boss's Wife: Having sex with the lover of someone in authority over you.
+-   Sleeps with Everyone but You: The protagonist is sexually attracted to someone who is promiscuous but won't sleep with them.
+-   Slut-Shaming: Thinking that sexually promiscuous women are evil.
+-   Smells Sexy: Being sexually attracted to someone based on their smell.
+-   Smoking Hot Sex: After sex, one or both partners smoke.
+-   Son of a Whore: A character whose mother is a prostitute or stripper.
+-   Sour Prudes: Someone is prudish and looks down on people who like sex.
+-   Speed Sex: Characters have sex ridiculously fast.
+-   Sperm as People: Anthropomorphic sperm.
+-   Stalker with a Test Tube: Someone stalks someone because they want to have sex with the other person and produce a genetically perfect baby.
+-   STD Immunity: No matter how unsafe the sex people have is, they will never get an STD.
+-   Strangely Arousing: Something that both sexually arouses and confuses a person.
+-   Student/Teacher Romance: Students having sexual relations with their teachers.
+-   Stupid Sexy Friend: Being sexually attracted to a friend and not wanting to be.
+-   Success Through Sex Accusation: A character's success is attributed to sexual favors rather than merit.
+-   Succubi and Incubi: Demons that have traditionally been portrayed as having sex with their victims.
+-   Succubus in Love: Having sex with a succubus may lead to romance.
+-   Suggestive Collision: Accidentally stumbling into a suggestive position with someone.
+-   Super Sex Organs
+-   Teamwork Seduction: Two or more characters seduce someone together.
+-   The Talk: Trying to explain sex to a child.
+-   The Tease: Someone likes to tease someone sexually.
+-   Technical Virgin: Someone has had sex, sort of, but has never had the kind of sex where two people's genitals touch each other.
+-   Thanks for the Mammary: When a character (accidentally or purposefully) grabs the breasts of a female character.
+-   Their First Time: A couple decides to have sex for the first time.
+-   Think Unsexy Thoughts: A man tries to think nonsexual thoughts to avoid having an erection.
+-   Three-Way Sex: Three people having sex together.
+-   A Threesome Is Hot: A Double Standard where, in three-way polyamory, it's cool to have two women and one man, but disgusting to have two men and one woman.
+-   Too Kinky to Torture: Not necessarily sexual. This is enjoying torture.
+-   Totally 18: A definitely not underage character.
+-   Trans Chaser: A cis character has a fetish for transgender or gender-nonconforming people.
+-   Trans Equals Hypersexual: Transgender or gender-nonconforming characters are depicted as having an Extreme Libido, no sexual boundaries, bizarre kinks, or otherwise over-the-top sexual proclivities.
+-   Transformation Exhilaration: A transforming character finds the experience enjoyable - even sexually pleasurable.
+-   Trojan Gauntlet: A character gets all embarrassed about having to buy condoms.
+-   Tropes About Perverts: An index of, well, tropes about perverts.
+-   True Love Is a Kink: When "flirt with monogamy" is an euphemism.
+-   Twincest: Twins that do it with each other.
+-   Twin Threesome Fantasy: Someone imagines having sex with their crush and a copy of their crush at the same time.
+-   Two-Person Pool Party: Sex in a pool.
+-   Unfocused During Intimacy: One or both sexual partners aren't really "in the moment."
+-   Unfortunate Character Design: A character is unintentionally designed in a way that they look risque.
+-   Unexpected Virgin: Someone who's revealed as a virgin and it comes as a surprise.
+-   Vagina Dentata: Lady-parts with teeth.
+-   Vampires Are Sex Gods: Lusty vampires.
+-   Vampire's Harem: A vampire is accompanied by consorts that he had turned and he is after more.
+-   Victory Sex: Characters celebrate their victory with sex.
+-   Villainous Incest: Villains who do incest.
+-   Virgin Sacrifice: A Human Sacrifice needs to be a virgin.
+-   Virgin-Shaming: Virginity is seen as bad.
+-   Virgin Tension: A woman losing her virginity is seen as tragic.
+-   Virginity Flag: There's a way to tell (besides asking them) whether or not someone has had sex.
+-   Visual Innuendo: An image that's innocent but can be seen as looking dirty.
+-   Vow of Celibacy: People are not allowed to get married and/or have sex due to an oath they took.
+-   Walk of Shame: Everyone knows what you did, just keep on walking.
+-   Wall Bang Her: Having sex against the wall.
+-   Yiff: Porn of Funny Animal's.
+-   You Need to Get Laid: Someone strongly suggests that someone else go have sex.
+-   You Sexy Beast: Someone has sex with/a crush on/a romantic relationship with a dangerous monster.
+-   Zero-G Spot: Sex in space.
+
+___
+
+___

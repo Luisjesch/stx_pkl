@@ -1,0 +1,303 @@
+_"Am I supposed to change? Are you supposed to change?  
+Who should be hurt? Who should be blamed?  
+You need a resolution, I need a resolution,  
+We need a resolution, We have so much confusion."_
+
+— **Aaliyah**, _We Need A Resolution_
+
+Methods of giving closure to an episode of a show, a Story Arc, or an entire series.
+
+Ending tropes have major **unmarked and unconcealed** spoilers in the examples sections. There is really no way to avoid this because of the very nature of an ending trope; the mere knowledge that the trope applies to a given work is usually a spoiler in itself. Read at your own risk.
+
+Contrast Beginning Tropes.
+
+___
+
+## Tropes:
+
+-   100% Completion: When collecting everything there is to collect in a video game and achieving all the game's side quests and objectives is the only way to see the canon ending.
+-   Accidental Downer Ending: A work ends on a down note with hints and promises that it will be continued, but it does not.
+-   Adaptational Alternate Ending: An adaptation changes how the story ends.
+-   Album Closure: The final song on an album wraps up its tone/themes.
+-   Alignment-Based Endings: The video game's ending depends on your moral alignment.
+-   All Is Well That Ends Well: A character goes through a lot of hardship and strife, but once they get their happy ending they appear completely unaffected by this.
+-   All Just a Dream: It turns out the whole story was just a dream the protagonist was having.
+-   All Just a Prank: A major plot ends up to be a practical joke.
+-   All There in the Stinger: When The Stinger provides information that is necessary to understanding the overall plot.
+-   Ambiguous Clone Ending: It's left ambiguous whether a person is the real deal or a copied replacement.
+-   Ambiguous Ending: The ending is left open to the viewer's interpretation.
+-   And the Adventure Continues: The story ends with the heroes preparing for another adventure.
+-   And Your Reward Is Infancy: The story ends with the main character becoming a baby.
+-   Anti-Climax: Suspense is killed when it would normally be at its highest.
+-   Apocalypse Wow: The apocalypse is absolutely nightmarish, but _man_ if it isn't cool!
+-   Astral Finale: The last episode takes place in space.
+-   Audience-Alienating Ending: Audiences dislike the ending of a work they otherwise enjoy.
+-   Awesome Moment of Crowning: Story ends with character being crowned ruler of the land they just saved.
+-   Babies Ever After: The story ends with the heroes having children.
+-   Back for the Finale: A character who hasn't been seen in a while returns at the end of the series.
+-   The Bad Guy Wins: The villain succeeds in their plan and gets what they want.
+-   Becoming the Genie: Someone gets turned into a wish-granting entity.
+-   Belated Happy Ending: A story with an Ambiguous Ending is given a happy ending in the sequel.
+-   Big Finale Crowd Song: A musical ends with a large Crowd Song to tie things up.
+-   Big Rock Ending: The Grand Finale of a song is spent with the musicians hammering away on their instruments.
+-   Bittersweet Ending: The story's ending is both happy and sad.
+-   Bittersweet 17: A 17-year-old who is in their coming-of-age.
+-   Bluffing the Murderer: Somebody is _pretty sure_ who dunnit, but doesn't know for sure so tries to trick the suspect into confessing.
+-   Bolivian Army Cliffhanger: A show's season ends on a cliffhanger where it's hard to tell who survived and who didn't.
+-   Bolivian Army Ending: The work ends with the characters surrounded by people who intend to kill them with no clarification that they'll survive the battle.
+-   Bonus Material: Extra goods that is added to, but separate from, a particular work.
+-   Bookends: The story ends the same way it begins.
+-   Boring Return Journey: The trip back home pales in comparison to the adventure it took to get to the destination.
+-   Brick Joke: A joke that was set up and forgotten about finally gets a punchline.
+-   But Now I Must Go: A work or installment of a work ends with a character who helped having to leave for no other reason than "it's the way things need to go".
+-   Call to Agriculture: A badass/heroic character retires as a farmer.
+-   Can't Stop The Signal: The discoverers of a hidden secret attempt to ensure it's spread far and wide.
+-   Cataclysm Climax: The land, usually discovered during the story, is destroyed at the end of it.
+-   Champions on the Inside: The characters lose the championship, but still feel like winners on the inside.
+-   Chased Off into the Sunset: The story ends with a character being chased by another character towards the sunset.
+-   Cliffhanger: Ending an episode/chapter/season/etc with one or more characters in danger (the ambiguity is that it's unknown at the time how/if they'll get out of danger).
+-   Cliffhanger Copout: A series has one episode end on a clear cliffhanger and never explains the outcome of that cliffhanger.
+-   Climbing Climax: The climatic showdown takes place atop a very tall structure.
+-   Cosmic Deadline: The rate the plot resolves itself starts going into overdrive near the end of the story due to development problems.
+-   Conclusion in Another Medium: A series that was Cut Short is given a proper conclusion outside of its original media.
+-   Crossover Finale: Characters from a Spin-Off and/or other parts of a Shared Universe return for a work's grand finale.
+-   Cruel Twist Ending: A twist ending that serves no purpose other than to be _exclusively cruel_.
+-   Curtain Call: The whole cast comes out at the end of the show.
+-   Cut Short: A series ends without a proper conclusion to the story.
+-   Darkened Building Shootout: A classic denouement — the hero and villain have a shootout in a darkened building, with a suitably suspenseful final shot.
+-   Dance Party Ending: The story ends with everyone dancing.
+-   Dancing Mook Credits: The end credits of a video game show animations of the game's enemies.
+-   Danger with a Deadline: The heroes must avoid or outlast a dangerous enemy or situation for a certain period of time.
+-   Dawn of an Era: The story ends with the start of a new era.
+-   The Day of Reckoning: The story is supposed to end when the Evil Overlord wins.
+-   Deadly Distant Finale: The story ends with a flash forward to a character's later years where they die.
+-   Defeat Means Menial Labor: Where the villain, upon defeat, is reduced to performing menial labor.
+-   Dénouement: The story ends with loose ends being tied up after The Climax.
+-   Dénouement Episode: The final episode is an epilogue to the Grand Finale.
+-   Destroy the Evidence: Someone who seems not to be directly involved in a crime destroys or hides some evidence relating to it.
+-   Deus ex Machina: A plot device that gets the heroes out of danger.
+-   Diabolus ex Machina: A plot device that gets the heroes into danger.
+-   Distant Finale: The story ends after a Time Skip with the characters much older.
+-   The Dog Bites Back: A tormented person gets back at those abusing them in the end.
+-   Do Not Spoil This Ending: Producers asking audiences not to spoil the Twist Ending to a movie.
+-   Don't Celebrate Just Yet: The heroes defeat a villain but realize they still have to take care of something else that's occurring.
+-   Doomed Moral Victor: The Hero Dies after making his Last Stand.
+-   Doomed Protagonist
+-   Door-Closes Ending: The door closes right before the show ends.
+-   Downer Ending: The story ends on a tragic note.
+-   Drama Bomb Finale: An otherwise comedic story trying its hand at a dramatic moment near the show's last episode or two, totally out of left field.
+-   Dump Them All: The lead chooses not to be with any of their prospective Love Interests.
+-   Earn Your Bad Ending: A video game where it's more difficult to get the bad ending than the good ending.
+-   Earn Your Happy Ending: The character doesn't get their happy ending until after enduring a lot of suffering.
+-   The End: The story ends with a title card reading "The End".
+-   End-Game Results Screen: A special screen at game's end that judges your overall performance.
+-   "End Is Nigh" Ending: An apocalyptic event is taking place at the very end of the world, but we don't get to see because before the events happen, we're shown the credits.
+-   Ending by Ascending: A story ends with a character going up a staircase, ladder, etc.
+-   The Ending Changes Everything: A twist ending that changes the very nature of the story.
+-   Ending Fatigue: When a work drags on after it should have just ended.
+-   Ending Memorial Service: The story ends with a funeral.
+-   Ending Theme: A certain tune that plays at the end of all or most episodes.
+-   End of an Age: The story is set during the end of a particular era in the story's setting, such as the end of the medieval era or the end of the American West.
+-   End-of-Episode Silliness: An episode ends with a humorous scene or random bit of dialogue.
+-   End-of-Series Awareness: The ending of the series has the characters acknowledge in-universe that their show is over.
+-   The End of the Beginning: The end of the story is the beginning of a new era.
+-   "End of the World" Special: A character is given the power to recreate the whole world.
+-   The End... Or Is It?: An ending that casts doubt on the heroes' victory (thus creating a Sequel Hook).
+-   Epilogue Letter: A series ends with the narration of a letter.
+-   Esoteric Happy Ending: The ending is supposed to be happy, but the audience disagrees.
+-   "Everybody Helps Out" Denouement: The story ends with all the characters coming together to help people out.
+-   Every Episode Ending: A recurring element that concludes each episode/entry of a series.
+-   Everybody Did It: The mystery ends with every suspect guilty.
+-   "Everybody Dies" Ending: The story ends with everyone killed.
+-   "Everybody Laughs" Ending: The story ends with everyone laughing.
+-   Everybody Lives: The story ends with no one dying.
+-   "Everyone Comes Back" Fantasy Party Ending: A fantasy sequence where everyone who previously appeared comes back for a party.
+-   Everyone Join the Party: Random people join the hero or the villain for the final battle.
+-   Everybody's Dead, Dave: An entire group dies except one survivor.
+-   Everything Explodes Ending: An explosion is used as the final punchline.
+-   Exit, Pursued by a Bear: The story ends with the villain being chased by a creature that intends to harm them.
+-   Faction-Specific Endings: Each major faction in the game gets an ending where it wins.
+-   Failure Gambit: Failing intentionally as part of a grander scheme.
+-   Fake-Out Fade-Out: The show fades out as if it were about to end, but then jumps back in to continue the story.
+-   Fake-Out Twist: There are two ending plot reveals, the second of which changes the meaning of the first.
+-   Fantasy Keepsake: Someone wakes up, thinking the whole adventure was All Just a Dream, only to find an item proving the adventure was real.
+-   Fast-Forward to Reunion: The main plot resolves with characters going separate ways, the ending skips to future to when they eventually reunite.
+-   The Fellowship Has Ended: The work ends with the main group of protagonists going their separate ways.
+-   Final Boss: The video game ends with a final boss fight that the player must win to finish the game. In many cases, the final boss is the main antagonist of the game and defeating them triggers the ending cutscene.
+-   Final Exam Finale: The finale tries to incorporate all the events that occurred before it.
+-   Finale Production Upgrade: When media, at the end of its run, goes all-out on the production value and effort for costumes, characters, guest stars, sets, technology, and depth of a story, or in the additional case of reality TV, real-life competition.
+-   Final Girl: A female character who survives the events of the story after everyone else dies.
+-   Finale Season: When the final season is essentially a long multi-part Grand Finale to the series.
+-   Finale Movie: A work that isn't a film series receives a conclusion in the form of a feature-length film.
+-   First Time in the Sun: A character who has lived in seclusion their whole life experiences sunlight the outdoors for the first time.
+-   Fission Mailed: A video game pretends that it's Game Over when it really isn't.
+-   Fly-at-the-Camera Ending: The movie ends with a character or object flying straight at the camera.
+-   Focus Group Ending: A movie's ending is changed at the last minute after a negative response from the test audience.
+-   Food End: Work ends by showing characters eating.
+-   Foregone Conclusion: The audience already knows how the story will end, even if it's the first time they've seen it and no one's spoiled it for them.
+-   Freeze-Frame Ending: The ending has the scene freeze with the characters shown ceasing to move.
+-   Friendly Scheming: The protagonist finds out that everything that's been happening was all part of an elaborate scheme set up by their friends.
+-   From Zero to Hero: The protagonist starts as a nobody, but raises their station through their accomplishments.
+-   Fully Absorbed Finale: A show that didn't get its own Grand Finale has the loose ends tied up in a spinoff or a show taking place in the same continuity.
+-   Gainax Ending: The ending is bizarre and weird.
+-   Gecko Ending: An ending of an adaptation that cleans up all the loose ends of the unfinished original.
+-   Ghost Reunion Ending: Dead characters come back in the ending as ghosts.
+-   Golden Ending: The best outcome among Multiple Endings.
+-   Go-to-Sleep Ending: The story ends with one or more characters asleep.
+-   The Good Guys Always Win: The heroes always succeed in defeating the bad guys.
+-   Graduate from the Story: The main cast of a school-centered story graduate at the ending.
+-   Graduation for Everyone: The whole cast of a show graduate school whether they were a good student or not.
+-   Grand Finale: The final episode or installment of the series, specifically one that brings the series' story to a proper conclusion.
+-   Group Picture Ending: The story closes on a still picture of the main cast.
+-   Happily Ever After: The story ends, the main couple get together, everyone is happy.
+-   Happily Ever Before: An adaptation of a story with a Downer Ending ends on a happy note by ending the story before things get tragic.
+-   Happy Ending: The story ends with nothing bad happening.
+-   Happy Ending Override: A sequel undoes a character's happy ending.
+-   Hat-and-Coat Shot: The smooth closing shot of a movie.
+-   Here We Go Again!: The story ends with the conflict repeating or the characters going through a conflict similar to what they've already been through.
+-   The Hero Dies: The protagonist dies at the end of the story.
+-   His Story Repeats Itself: To resolve or come to closure with something that happened in their backstory, a character experiences an event very similar to what happened before.
+-   Home Sweet Home: A character settles down at home after a long adventure.
+-   Hope Springs Eternal: Even if the villain has the upper hand, there's still hope.
+-   Hope Sprouts Eternal: A small sprout growing from the ground gives up that things will eventually be better.
+-   Hospital Epilogue: The story ends with a character waking up in a hospital bed.
+-   How Did We Get Back Home?: Transporting the main characters back to their home without giving an explanation.
+-   Humiliation Conga: The ending has the villain get his comeuppance by being subjected to a string of embarrassing misfortunes.
+-   I Choose to Stay: A character has the chance to go home, but decides to stay where they are now instead.
+-   I Should Write a Book About This: A story ends with the hero deciding to write a book about their adventures, with the implication that is the story you just heard.
+-   Inferred Holocaust: The work glosses over the fact that certain actions and events in the story have most likely resulted in countless deaths.
+-   Iris Out: The episode ends with the screen closing in on a character or object.
+-   Interrupted by the End: The characters are about to do something, but are interrupted by the end of the episode, often in the form of a "The End" card.
+-   Joke Ending: An ending in a game with Multiple Endings that is deliberately sillier and more nonsensical to a substantially large degree than the other endings.
+-   Killer Finale: The final installment kills off at least one main character.
+-   "Last Day of School" Plot: The characters celebrate their last day of the school year.
+-   Last Episode, New Character: The series has a new character introduced in the last episode or installment.
+-   Last Episode Theme Reprise: The show's theme song plays towards the end of the last episode.
+-   Last-Second Ending Choice: The ending is determined entirely by a single choice near the end of the game.
+-   Last-Second Joke Problem: A new problem suddenly appears at the end of a story just to be funny.
+-   Last Stand: Someone kills as many enemies as they can before they die.
+-   Last Villain Stand: The villain makes a final attempt to beat the heroes.
+-   Leaving You to Find Myself: A character is changing intellectually and dumps their partner to live a new life.
+-   Left Hanging: A series ends with some serious plot threads left unresolved.
+-   Let Off by the Detective: The detective figures out who committed a crime, but lets them off because they sympathize with their motive.
+-   Let the Past Burn: The story ends with a fire destroying the house, along with all it represents.
+-   The Magic Comes Back: In a setting where magic has vanished, the magic ends up returning.
+-   The Magic Goes Away: A story with magic in the setting ends with all the magic disappearing.
+-   Maybe Ever After: The story ends by leaving it ambiguous whether the love interests will actually be a couple in the end.
+-   May It Never Happen Again: The story ends with one or more characters ensuring the events won't repeat.
+-   Medals for Everyone: The story ends with the character being awarded for their heroic actions.
+-   Merged Reality: Saving the day by merging an alternate universe with the normal one.
+-   Modular Epilogue: Not a continuous ending cutscene, but a sequence of short scenes that show the consequences of your choices.
+-   Moving-Away Ending: The story ends with the characters moving to another area.
+-   Must Let Them Get Away: The Hero sees the bad guy escaping, but can't go after him.
+-   Nested Story Reveal: Supposedly real events turn out to be a fictional story within a larger story.
+-   Network Finale: When a network decides to go out with a bang just before its Network Death.
+-   No Ending: The story ends with no resolution.
+-   No MacGuffin, No Winner: The story ends with no one getting the MacGuffin.
+-   No Romantic Resolution: A romance arc ends without anyone getting together.
+-   Non-Standard Game Over: Losing the game at a certain point or in a certain way triggers an exclusive cutscene.
+-   Not Quite Back to Normal: A transformed character retains some residual effects even after reverting back to normal.
+-   Now Do It Again, Backwards: Fixing the problem by doing the same thing in reverse.
+-   Now What?: The premise is resolved without a satisfying conclusion.
+-   Off-into-the-Distance Ending: The story ends with The Protagonist traveling into the distance.
+-   Offering a Hand: Before any kind of gesture can be accepted or rejected, someone must first extend a hand.
+-   Official Kiss: Two characters kiss, signaling a Relationship Upgrade.
+-   Offscreen Inertia: As long as a character is offscreen, it's assumed that they continue doing whatever it was we last saw them doing.
+-   Oh, Cisco!: The characters deliver one last joke before the end of the show.
+-   Omega Ending: The player must find all other endings to view this one.
+-   One Last Field Trip: Characters go on one last outing together. Not necessarily in the last episode, but usually marking an ending of some sort.
+-   On the Next: Every episode ends with a sneak peek at the next episode.
+-   Only the Leads Get a Happy Ending: The main characters get a happy ending, but the side characters aren't so lucky.
+-   Or Was It a Dream?: It appears that the protagonist only dreamed it, but then it's hinted that what they dreamed had actually happened.
+-   "Pan Up to the Sky" Ending: The movie ends with the camera panning up to the sky.
+-   Passing the Torch: The story ends with the hero choosing someone to continue their legacy.
+-   Philosophical Choice Endings: The ending choice lets the player take a stand on a philosophical or ethical issue.
+-   Photo Memento: Group of (heroic) characters celebrate the end/importance of an event by posing together for a photograph as a piece of history.
+-   Playable Epilogue: The player is given a degree of control over the ending "cutscene".
+-   Post-Climax Confrontation: At the very least one of the protagonists faces down one final enemy before the story is truly resolved.
+-   Post-Final Boss: An easy boss fought after the final boss to wrap up the game's story.
+-   Post-Final Level: An extremely short level that houses the Final Boss and comes after the actual final level.
+-   The Prom Plot: Occasionally, the high school dance party is used to commence a story, especially when a large portion of the plot surrounds said event.
+-   Put on a Prison Bus: Someone's arrest marks their final appearance in the story. Typically happens near the end of the story.
+-   Pyrrhic Victory: While the characters have won, their victory comes at a price that renders their victory worthless in the end.
+-   Race Against the Clock: The heroes have to do something to stop the countdown, or else the consequences will be catastrophic.
+-   Railroad to Horizon: A railroad disappearing into the distance is used as a metaphor for the journey ahead.
+-   "Ray of Hope" Ending: An ending that would normally be a Downer Ending, but shows that there's still hope left for the heroes.
+-   Refusing Paradise: A dead character chooses resurrection over going to a peaceful afterlife.
+-   Reset Button Ending: It looks like the main conflict has been solved, but at the end, something happens that resets the status quo and makes it so it hasn't.
+-   The Resolution Will Not Be Identified: An episode of a series that is meant to be the Series Finale, but not advertised as such.
+-   Revised Ending: The ending is changed for the final product.
+-   Riding into the Sunset: Character goes off into the distance while the sun is setting.
+-   Rocks Fall, Everyone Dies: The game master of an RPG gets fed up and kills everyone in the game.
+-   Role-Playing Endgame: When a Tabletop RPG includes explicit rules for retiring player characters or even for ending the entire campaign.
+-   Romantic Fake–Real Turn: A fake romance becomes real.
+-   The Ruins I Caused: After a big, property-damage-causing event, the main characters are seen on a cliff or plateau overlooking the ruins that resulted.
+-   Running Gagged: A recurring gag is used one last time before being retired for good.
+-   Save the Day, Turn Away: Someone saves the day but has to dump their love interest.
+-   "Save the World" Climax: A plot that initially wasn't about saving the world is so by the end.
+-   Saving the World With Art: A character uses a form of art in order to solve a problem or save the world.
+-   Scary Surprise Party: Something nasty happens to a character (kidnapped, in danger) but it turns out to be a surprise party.
+-   Sealed with a Kiss: The Official Couple gets The Big Damn Kiss near or at the end of the story.
+-   Season Finale: The final episode of the show's season.
+-   Second Chapter Cliffhanger: The second installment of a trilogy ends on a cliffhanger with several Plot Threads still unresolved.
+-   Secret Expanded Epilogue: In a video game, an extended version of the ending only unlocked by achieving certain conditions.
+-   Sequel Hook: The ending teases toward a sequel coming up.
+-   "Shaggy Dog" Story: A story's buildup has no payoff.
+-   Shave And A Haircut: A common musical sting with a five-and-two beat pattern.
+-   Shock-and-Switch Ending: It looks like it's headed for a Sudden Downer Ending, but nope! Everything is fine!
+-   Shoot the Shaggy Dog: The story ends with the protagonist dying and rubs salt in the wound by revealing their efforts to be pointless.
+-   Shut Up, Hannibal!: The hero gives a defiant response to the villain mocking their idealism.
+-   Signing-Off Catchphrase: A line of dialog that serves as an Every Episode Ending, usually a way of saying goodbye to the audience.
+-   Snicket Warning Label: A warning to stop viewing a work of fiction while it still looks like a happy ending.
+-   So Once Again, the Day Is Saved: A narration placed at the end of every episode to remind the viewers what they just watched.
+-   So What Do We Do Now?: A character has just finished an exciting adventure, but finds their now normal life boring.
+-   Solemn Ending Theme: An Ending Theme that sounds wistful.
+-   Someone to Remember Him By: A woman turns out to be pregnant with the child of her recently deceased lover.
+-   Something We Forgot: The characters go about their business before we're shown or they remember a matter they neglected to take care of.
+-   Standard Hero Reward: After saving the day, The Hero is rewarded with marriage to a princess.
+-   The Stinger: A scene that plays after the credits.
+-   Stock Series Finales: Common plots often used in final episodes of shows.
+-   Stock Sitcom Grand Finale: Common plots for ending a situation comedy series.
+-   Storming the Castle: Assaulting the Big Bad's home base.
+-   The Story That Never Was: The solution to the story's conflict is to completely undo the events via Cosmic Retcon.
+-   Stranger in a Familiar Land: The hero returns home, but their home has changed so much that it's no longer the same place it was when they originally left.
+-   "Stop the Hero" Twist: Not necessarily limited to the ending itself, but the outcome of this twist greatly affects it.
+-   Sudden Downer Ending: The story abruptly ends on a bleak note.
+-   Sudden Musical Ending: The work or episode ends with a song despite it not being a musical.
+-   Surprise Party: A surprise party is held to celebrate an occasion.
+-   Surprisingly Happy Ending: You have braced for a Bittersweet Ending, but things turned out a lot better than you expected.
+-   Take Care of the Kids: Someone is dying and asks another person to take care of a person (usually a kid as kids are more likely to need care).
+-   Take My Hand!: One character is about to fall off a cliff and another tries to catch their hand.
+-   Taken During the Ending: A character/object is taken away at the end of the story for a purpose, leaving it ambiguous on what's going to happen next.
+-   That's All, Folks!: A character lets the viewer know that it's the end.
+-   To Be Continued... Right Now: Continuing the story immediately after a fake-out of claiming the story will be continued in the next installment.
+-   Torch the Franchise and Run: The creator(s) deliberately make it so that the work ends in a way that it's impossible to continue the story any further.
+-   Trash the Set: The show ends with a regular location in the series being destroyed.
+-   Trauma Button Ending: A character has a reaction to a trigger that has to do with events that they just went through.
+-   Trippy Finale Syndrome: The finale takes place in some trippy and abstract realm.
+-   Tropical Epilogue: The final shot of the show is the characters on a tropical vacation.
+-   Two Dun It: A reveal where two people are responsible for a crime.
+-   Unending End Card: The game ends on an inescapable congratulatory screen.
+-   Velvet Revolution: A peaceful and non-violent revolution.
+-   Victory Sex: Characters celebrate their victory with sex.
+-   The Villain Must Be Punished: The villain must pay for their crimes; merely foiling their plans isn't enough.
+-   Was It Really Worth It?: A character finally succeeds in their goal, but doesn't enjoy their victory because they're ashamed of what they had to do to make it possible.
+-   We Are Not Going Through That Again: Characters have just finished an adventure, and refuse to go on another adventure.
+-   Wealthy Ever After: The story ends with a character becoming wealthy.
+-   Wedding Bells... for Someone Else: Two people look like they are about to be married, only for it to turn out they're guests at someone else's wedding.
+-   Wedding Finale: Someone gets married at the end of the story.
+-   Weddings for Everyone: Multiple couples get married at the end of the story.
+-   What Cliff Hanger?: A cliffhanger which merely promises that _some_ shocking plot twist will be revealed later, instead of just revealing it right now, is usually not that exciting.
+-   "What Now?" Ending: A Cliffhanger that allows time to pass within the show between episodes.
+-   "Where Are They Now?" Epilogue: The ending shows what became of the characters after the events of the story.
+-   Where It All Began: The hero's journey ends the same location where it began.
+-   "Will Return" Caption: The ending has a caption promising that the main character will return.
+-   Win-Win Ending: Everyone gets a happy ending.
+-   A Winner Is You: The video game ends with nothing more than a message congratulating the player for completing the game.
+-   World-Healing Wave: A wave envelopes the world to heal it from all the damage and corruption.
+-   Wrap It Up: A short-notice Finale for a soon to be cancelled work.
+-   Wrap-Up Song: A song that ends every episode.
+-   "YEAH!" Shot: The final shot of a work freezes on a character jumping in the air with their hands up.
+-   Your Princess Is in Another Castle!: An ending that isn't really the end.
+
+___

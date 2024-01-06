@@ -1,0 +1,165 @@
+_Sometimes I lie awake at night and I ask, "Why me?", then a voice answers "Nothing personal, your name just happened to come up."_
+
+Some guys have all of the luck, while some have no luck at all. Why are they doomed to fail? We'll probably never know, but we love watching them stumble through life.
+
+Contrast Master of the Index, for characters who excel in at least one craft.
+
+___
+
+## Tropes about characters that explicitly are defined as losers:
+
+-   Basement-Dweller: Many people consider a grown man still living with his parents to be the epitome of a complete loser.
+-   Beady-Eyed Loser
+-   Beleaguered Assistant
+-   Beleaguered Boss
+-   Born Unlucky: This character has suffered misfortune after misfortune for their entire life.
+-   Broken Win/Loss Streak: The hero finally has their moment to shine.
+-   Bully Magnet: This character is target number one for just about every bully in school.
+-   Butt-Monkey: A character whose purpose is to provide comedy by constantly suffering misfortunes.
+-   Casanova Wannabe: A character who wants to have a lot of sex, but fails to charm every woman he comes across.
+-   The Chew Toy
+-   The Chosen Zero
+-   Classical Anti-Hero
+-   Cosmic Plaything
+-   Death Is a Loser: The Grim Reaper is portrayed as a pathetic and pitiful being.
+-   Designated Monkey: A character the creator dislikes is subjected to misfortune that the audience finds excessive or too severe.
+-   Deus Angst Machina
+-   The Devil Is a Loser: Satan is depicted as a loser.
+-   Doom Magnet
+-   Dreaded Kids' Party Entertainer Job: People who work as entertainers for kids' parties are treated like crap.
+-   Dream Sue
+-   Dublin Skanger
+-   Emasculated Cuckold: A man is seen as a wimp because his wife cheats on him.
+-   Extreme Doormat
+-   Expectation Lowerer
+-   Failure Hero: A hero who seldom, if ever, succeeds in saving the day.
+-   First Friend
+-   The Friend Nobody Likes: A member of a group who is openly disliked by the rest of the group.
+-   Future Loser: A person is shown to become utterly pathetic in the future.
+-   Graceful Loser: A person who takes the loss with dignity rather than throwing tirades.
+-   High Hopes, Zero Talent
+-   High-School Rejects: Not _everyone_ made it big after graduating.
+-   Hikikomori
+-   Ineffectual Sympathetic Villain
+-   Inept Mage: A magic user who is very poor at casting effective spells.
+-   Iron Butt-Monkey: A character who constantly suffers misfortunes, but manages to go through it all unscathed.
+-   Jaded Washout
+-   Karmic Butt-Monkey: A Butt-Monkey who is a jerkass and therefore deserves every bad thing they experience.
+-   Little Jimmy
+-   Loser Deity
+-   Loser Friend Puzzles Outsiders: A cool and successful character has a friend so lame that others are confused as to why the cool guy even bothers hanging with this dweeb.
+-   Loser Protagonist
+-   Loser Son of Loser Dad: A person is considered a loser just because their father was a pathetic person.
+-   Loser Team Mascot: School team mascots are seen as losers or otherwise portrayed in a negative light.
+-   Lower-Class Lout
+-   Master of None
+-   Memetic Loser: A character is portrayed online as a complete wimp because of one humiliating defeat.
+-   Neet: **N**ot **E**mployed, in **E**ducation or under **T**raining.
+-   No-Respect Guy: A character who doesn't get any of the respect they deserve no matter what they do.
+-   Passing Judgment: Character does something embarrassing in public and gets stared at by appalled passengers of a vehicle.
+-   Polka Dork
+-   The Poorly Chosen One
+-   Poor Man's Substitute (when used In-Universe)
+-   The Slacker: The character is a loser because of their own apathy.
+-   Sore Loser: The character doesn't take losing well and angrily complains about their loss by throwing tantrums.
+-   Stereotypical Nerd
+-   Straw Loser: A loser that only exists to make someone else look cooler.
+-   Super Loser: Has cool superpowers, but still a loser personality.
+-   This Loser Is You: An unsuccessful character is intended to represent the audience.
+-   Unconvincingly Unpopular Character
+-   Unlikely Hero
+-   Unlucky Everydude
+-   Unwanted Spouse
+-   Walking Disaster Area
+-   The Woobie: The character is so unsuccessful and unfortunate that the audience can't help but feel sorry for the character.
+
+## Tropes that are very closely related to losers and/or show up in almost every loser story:
+
+-   Achievement Mockery
+-   All of the Other Reindeer: The loser is considered an outcast and everyone looks down on them for being different.
+-   Apathetic Clerk: These characters will usually be portrayed as stereotypical losers.
+-   Atrocious Alias: You know this character is pathetic when they can't even give themselves a halfway decent code name.
+-   Brown Bag Mask: A character deciding to wear a paper bag over their head is often done to indicate how ashamed they are of themselves.
+-   Cannot Talk to Women
+-   Circle of Shame
+-   Cool Kid-and-Loser Friendship
+-   Critical Failure
+-   Disaster Dominoes
+-   Disproportionate Celebration: Can apply when the character making a big deal out of a minor achievement is used to demonstrate how pathetic they are.
+-   D.I.Y. Disaster
+-   Dodgeball Is Hell
+-   Domestic Appliance Disaster
+-   Dunce Cap: A child in school gets punished for misbehavior and/or getting an answer wrong by having to sit in the corner while wearing a pointy cap.
+-   Eating Lunch Alone: You know this person is a social outcast when no one ever sits near them during lunchtime.
+-   Eject the Loser
+-   Embarrassed by a Child
+-   Embarrassing Nickname
+-   Epic Fail: Someone manages to fail at something in a way that just isn't possible, which is often done to underscore what a loser they are.
+-   Even the Dog Is Ashamed: The character has screwed up so badly that even their loyal animal companion is ashamed to be associated with them.
+-   F--: A character has done so poorly in school that they somehow receive a grade that goes even lower than what the education system would allow in real life.
+-   Failure Is the Only Option: This character will never succeed in their goals no matter what they do.
+-   Failure Montage
+-   Failures on Ice
+-   Fake Muscles
+-   Flexing Those Non-Biceps
+-   The Freelance Shame Squad: A bunch of characters who show up solely to point and laugh at someone's misfortune.
+-   Friendless Background
+-   From Bad to Worse
+-   Future Me Scares Me
+-   Geek Physiques
+-   Give Geeks a Chance: The nerd ends up getting a love interest.
+-   Gym Class Hell
+-   Hard Work Hardly Works
+-   Humiliation Conga: A character ends up going through a long string of humiliating misfortunes.
+-   I Can't Believe a Guy Like You Would Notice Me
+-   If I Were a Rich Man
+-   I Just Want to Be Badass
+-   I Just Want to Be Special
+-   I Just Want to Have Friends
+-   Internalized Categorism
+-   Kafka Comedy: A form of Black Comedy where the dark humor revolves around misery and misfortune.
+-   Losing Horns
+-   Lousy Lovers Are Losers: Being bad in bed is portrayed as a major character flaw.
+-   Misery Lit
+-   Misery Poker: A character complains about how rough they have it and the person they're talking to argues that their problems are even worse.
+-   Misfortune Cookie: A character gets a fortune from their fortune cookie promising them that misfortune and disaster will come their way.
+-   Muscle Angst (type A)
+-   My Car Hates Me: A character's car never starts when they need it to.
+-   Nerds Are Virgins: Geeky characters tend to be portrayed as having never had sex in addition to it being unlikely that they ever will have sex.
+-   No Social Skills: The loser doesn't know how to properly communicate and interact with others.
+-   Not on the List
+-   Once Done, Never Forgotten: There are few ways to indicate that a character has rotten luck and little hope of turning their life around that are as effective as establishing that the character did something embarrassing or stupid that everyone else constantly reminds them about.
+-   Pathetically Weak: The character is incredibly feeble and weak compared to other characters to a downright ridiculous degree, such as not even being able to lift a stuffed animal without straining themselves.
+-   Perpetual Poverty
+-   Picked Last: Being the last person picked to join a team is a very good indicator that a person isn't very popular.
+-   Pity Sex: Having sex with someone solely out of pity towards how rough they have it.
+-   Plague of Good Fortune: A character suddenly has things go well for them in spite of not wanting good fortune.
+-   Plethora of Mistakes: An attempted plan ends up failing miserably because of a ton of stuff going wrong.
+-   Poke the Poodle: The bad guy boasts about doing an "evil deed" that's really nothing more than a harmless prank.
+-   Poor Man's Porn: This loser is desperate enough to placate their sexual urges that they're willing to wack off to any non-pornographic material that happens to contain remotely suggestive content.
+-   Power Fantasy: The loser fantasizes on what they'd do if they had the power to stand up to those picking on them.
+-   Revenge of the Nerd
+-   The Schlub Pub Seduction Deduction
+-   Soul-Sucking Retail Job
+-   Stuffed into a Locker
+-   Stuffed into a Trashcan: Someone has the misfortune of being shoved into a garbage can.
+-   Suckiness Is Painful
+-   Swirlie
+-   Teasing the Substitute Teacher
+-   Teeny Weenie: A character gets humiliated because he has a small penis.
+-   Throw the Dog a Bone: The unlucky character finally gets a chance at happiness.
+-   Trauma Conga Line
+-   Treated Worse than the Pet: Someone's status in their family is so low that even animals are treated better or valued more than they are.
+-   Triangles Are the Worst Instrument: If a character on a school band or orchestra plays a triangle, you know they are a loser.
+-   Vaudeville Hook: A character performing onstage has a hook appear to drag them away when their performance sucks.
+-   Vengeful Vending Machine: Someone has the misfortune of having to deal with an uncooperative vending machine.
+-   Viewers Are Morons (when used In-Universe)
+-   Wannabe Line
+-   What the Fu Are You Doing?
+-   Wimp Fight: Two combatants fight each other in an ineffectual way.
+-   The World Mocks Your Loss
+-   Yank the Dog's Chain: Right when it looks like the unfortunate character will have things go right for them for once, their chance is ruined at the last minute.
+-   You Are What You Hate
+-   Zonk
+
+___

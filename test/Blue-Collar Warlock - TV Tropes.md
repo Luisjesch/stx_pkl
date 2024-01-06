@@ -1,0 +1,124 @@
+Is that supposed to be a gunwoman who's also a goth gi—Ah, thar she blows indeed.
+
+_"I have an idea that most of the mystics in comics are generally older people, very austere, very proper, very middle class in a lot of ways. They are not at all functional on the street. It struck me that it might be interesting for once to do an almost blue collar warlock. Somebody who was streetwise, working class, and from a different background than the standard run of comic book mystics. Constantine started to grow out of that."_
+
+Whenever we think of wizards, sorcerers, or mages, the first thing that pops in our minds are old wise men, long staffs, magical wands, pointy hats, and long beards. The blue collar warlock is a different kind of magic-user. He lives in no medieval fantasy setting, but instead lives in something more contemporary. They are sorcerers who modernized and you may cross paths with one on the streets. They might live among us and use magical artifacts that look like mundane items. Unlike contemporary warriors, they fight with the use of old-fashioned magic and the occult. Streetwise in the face of danger, some may be good, while others are sinister. Sometimes they are Occult Detectives or Stage Magicians. See also Trenchcoat Brigade. Compare Magical Homeless Person; contrast Gentleman Wizard.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   Kairi from _Fate/Apocrypha_ is a burly, cigarette-smoking, shotgun-wielding, leather-clad necromancer who looks like he'd be more at home in a biker gang than fighting in a Holy Grail War.
+    -   And Waver is basically this trope but upwardly-mobile. According to _Fate/Grand Order_, he has a noticeably working-class accent. In _Lord El-Melloi II Case Files_, he's apparently flat broke, lives in a cheap, cramped apartment in a crumbling old building, and still cherishes the shoes he bought with his first paycheck eight years ago. But he got adopted by a noble family that needed an adult heir quickly, so now he's called Lord El-Melloi II and goes around wearing cravats.
+-   _The Garden of Sinners_: Touko Aozaki is a supernatural detective masquerading as an architect and toy designer, dresses up in modern work clothes and a trenchcoat, smokes cigarettes, and always flat broke that she accepts odd jobs that would pay for her charge's paycheck and/or her spending habits. Yet she is known to be one of the most powerful magi in the Nasuverse.
+-   The eponymous _Hell Teacher Nube_, teacher first and onmyouji second. He's a teacher that uses supernatural powers to beat down on monsters.
+-   The main characters of _Modern Magic Made Simple_. One spell is "call a cell phone that's turned off".
+
+-   _Slayers_
+    -   Lina Inverse was born to small shop owners and is constantly traveling. The jobs she picks up in the anime and movies tend to be blue collar; kill that monster, guard this person, find a treasure or two, etc.
+    -   Luna Inverse is the Knight of Cephied, the local God of Good and she works as a waitress because she likes it.
+
+    Comic Books 
+
+-   In _Black Magick_, Rowan Black—practising Wiccan and heir to powerful magical bloodline— is a police detective who rides a motorcycle. Her best friend Alex, who is also a witch, is a kindergarten teacher.
+-   The young Timothy Hunter from _The Books of Magic_, who grew up poor in a rundown house where his unemployed, one-armed father spent all day slumped in front of the television watching old movies.
+
+-   _Gravel_: William Gravel grew up on a council estate and coming up in the SAS before channeling his talents into magic. His solo series starts with him coming into open conflict with the other sanctioned magicians of Britain, all of whom are upper class toffs who look down on him as a yobo with conjuring tricks. It ends badly for them.
+-   John Constantine, _Hellblazer_, is the Trope Codifier, as Alan Moore is the Trope Namer. He fits every description above because Alan Moore made the trope. He protects his beloved London (and later the DC Universe) from hellspawns and magical whatnot.
+    -   His groups the Trenchcoat Brigade and Justice League Dark are examples too.
+-   Madame Xanadu, also a professional fortune teller who operates out of a shopfront in Greenwich Village taking walk-in clients.
+
+    Films — Live-Action 
+
+-   _Night Watch_: Light Mages masquerade as electrical technicians, wear coveralls and drive utility trucks, and their front organization is called "\[CityLight\]" (a regular Russian name for an urban power management agency). Dark Mages, by contrast, are a weird amalgamation of decadent pop-performers, blingy thugs and Nazi cosplayers. This was nowhere as pronounced in the books, but it was still a modernised setting where both Light and Dark Ones would try to pass as regular people.
+
+    Literature 
+
+-   _White Trash Warlock_, as the title suggests. Adam is a witch who lives well below the poverty line in a trailer park with his great aunt. He's so poor that a big concern with his hunt to find evil artifacts isn't the confrontation he'll have with the warlock who made them, but the gas money it's costing him to go out and retrieve them.
+-   _Alex Verus_. In sharp contrast to the rich and powerful members of the Light Council that often employ him, Alex is a small business-owner who lives above his magic shop in Camden. For good measure, as a Probability Mage, he often finds himself getting bullied and belittled by practitioners of the much more obviously powerful schools of magic.
+-   Mr. Tarzack Mazzeeck in Zilpha Keatley Snyder's 1966 novel _Black and Blue Magic_ is this. He's also an absent-minded, harrassed, klutzy Traveling Salesman for the A.A. Comus Company, selling magick tools and supplies.
+-   _Dragons And Dwarves: Dragons of the Cuyahoga_ has the criminal mage Bone Daddy, covered in tattoos and making a dodgy living selling illegal things. He's actually an undercover cop, but still counts.
+-   _The Dresden Files_: Harry Dresden alternates between working as an Occult Detective and as a run-of-the-mill Muggle private investigator, and like all fictional private investigators he's frequently broke. His Wizard Workshop is a noticeably low-budget version of the traditional kind, as it consists of the repurposed sub-basement of his basement apartment and is filled with Tupperware boxes and assorted jars holding his magic ingredients. This is admittedly partly his own fault for refusing to accept a _very_ generous retainer from "Gentleman" Johnny Marcone, because he's too stubbornly law-abiding to work for the Mob, and because he sinks most of his disposable income into new magical gizmos.
+    -   This is later subverted when we discover more about the setting. Harry could be much wealthier if he chose a more traditional Wizarding lifestyle — he's a member of the White Council, the upper tier of human magic users, and he's one of the strongest of the lot (though for most of the series, by his own admittance he's "a powerhouse slob" and not very good at the subtle stuff), and, as he's noted, some wizards have made obscene amounts of money with their gifts. If nothing else, they live for around four hundred years, and compound interest is their friend. He's also not short of potential resources. His mentor and grandfather is one of the strongest wizards in the world, the Blackstaff (the Council's assassin), and a member of the Senior Council. His literal Faerie Godmother is one of the handmaidens to Queen Mab herself and as powerful as that implies in a setting where Asskicking Leads to Leadership.
+    -   This is also increasingly more averted as the series has progressed and Dresden has accumulated more wealth and power. In the early books, Dresden was frequently living paycheck-to-paycheck and his inability to find regular work was a common issue. In _Dead Beat_, however, he lands a second job as a Warden of the White Council, the pay of which, while not especially impressive on its own (wizards being wizards, it hasn't had a cost of living increase since the 50s — though it's implied that those in charge have found loopholes), is enough to mostly end his financial difficulties when combined with his detective work. In _Turn Coat_, he more or less accidentally acquires an entire island — although given that it has a powerful Genius Loci that's deeply hostile to everyone except him, because it' the warden of a supernatural super-max, this is a mixed blessing. In _Skin Game_, he actually makes it out of the heist with a bag of diamonds worth several million dollars, although subsequent novels show he's yet to make any major adjustments to his lifestyle beyond securing his daughter's place at an expensive private school. And at the end of _Battle Ground_, he manages to con Marcone out of a literal _castle_, with the intention of living there once he can get the place fixed up a bit.
+-   _Good Omens_: Aziraphale the angel zig-zags this a little bit; he has middle-class English mannerisms (even though he's as old as the universe), but he owns a small bookshop that almost never sells anything, and it mostly just functions as a public excuse to keep all of his vast book collection close at hand. However, he does have some immensely valuable volumes that he could sell if he needed to.
+-   The wizards in _Harry Potter_ often fall somewhere between Wizard Classic and Gentleman Wizard, but since the series portrays the wizarding community in the United Kingdom throughout The '90s, some of them inevitably fall under this:
+    -   Mundungus Fletcher is a negative example. A man of questionable repute, and the wizard equivalent of a mundane Con Man, who often deals in contraband and stolen goods. Rounding up the portrayal, he has a sleazy disposition, uses fairly modern slang, he is a smoker, and he is heavily implied to be a heavy drinker, as well.
+    -   The Weasleys, although as removed from normal urban muggle life as can be, have shades of this as well. They are a numerous, lower class family with shades of Impoverished Patrician (they're a prominent Pureblood family with what even extremists admit are impeccable blood credentials, but they revel in their egalitarian 'blood-traitor' reputation) whose struggles are not unlike those of poor Muggle families. Also, the father works regulating the use of Muggle artifacts, and as such they all are more familiar with normal Muggle life than most wizards (which is not much, but still).
+-   _Journey to Chaos_
+    -   All of the Dragon's Lair mages are mercenaries so their jobs tend to be skilled labor. This is especially the case with novice mages who are still learning their craft. Their gig is compared to a part-time job like bagging groceries.
+    -   The field agents for the International Community Dedicated to Magic Mutation do a lot of traveling in order to gather research materials and test equipment. Kallen, for instance, basically lives in a flying trailer.
+-   Many of the occult practitioners in China Miéville's _Kraken_ are working-class. The novel even features an attempt to unionise familiars.
+-   Many of the magicians in the _Lord Darcy_ stories are skilled tradesmen.
+-   Quite a few major characters in _Magic, Inc._ are this, providing services ranging from mass-produced construction goods to fortune-telling.
+-   _Matthew Swift_:
+    -   Quite apart from being essentially homeless and clad mainly in thrift-store clothing as of the first book, he's actually a practioner of urban magic, drawing upon the energy of the city around him to cast spells.
+    -   In fact, many of the wizards, warlocks and sorcerers encountered throughout the series count - hero or villain - though some are a bit closer to the street than others.
+-   Monster Dionysus in _Monster_. Down on his luck, trapped in a dead-end job as a magical pest control operative, and stuck with a girlfriend from hell; the only advantages he has on his side are a very spotty degree in rune-based magic, a sidekick in the form of an interdimensional entity inhabiting a body made of shapeshifting origami (currently wanted by Immigration), and a supernatural condition that provides him with a different superpower a day - which usually turns out to be something only vaguely useful. Very, very blue-collar.
+-   _The Mortal Instruments_: This is apparently not unusual for warlocks in general. They typically cast spells for a living.
+    -   Magnus Bane lives in a warehouse loft, throws wild house parties, generally behaves like a New York hipster and otherwise seems entrenched in modern urban culture despite his great age. Also does spellcasting for a fee as his primary source of income.
+    -   Catarina Loss is shown to work in a hospital as a nurse.
+-   Blake Thorburn, the protagonist of _Pact_, is a formerly homeless Handyman whose main associates are a group of Starving Artists who have helped one another out, living in Toronto. Blake is so poor that he can't even afford a cell phone, and his sole nonessential purchase was a motorcycle, for transportation purposes. He's also the heir to an ancient legacy of diabolists, which gets him a lot of enemies-all of whom are middle-class or more, as magic in _Pact_ tends to be passed down through family lines.
+-   Peter Grant, from _Rivers of London._ On top of being a working-class guy (and, by his own admission, a bit of a nerd), he started out as a police officer before getting promoted to a detective constable and apprentice wizard. For good measure, his boss and mentor is a very old-fashioned Gentleman Wizard.
+-   Wizards in _Shaman of the Undead_ may have fancy councils and academies, but they use modern-day appliances and the police work of WON is just like normal police work, only with Demonic Possessions instead of regular criminals.
+-   Skulduggery Pleasant has a few, notably Ghastly Bespoke, who works as a tailor - if a relatively high-end one. Skulduggery, meanwhile, is a Gentleman Wizard who wears impeccably tailored suits and drives a magnificent vintage Bentley (also a skeleton).
+-   Stephen King's Randall Flagg from _The Stand_ and _The Dark Tower_, especially in the former. He's a magic user whose preferred physical appearance is that of a denim-clad drifter from the second half of the 20th century, even in the Dark Tower universe where he's capable of assuming much more high fantasy-esque personas like the wizard advisor from _The Eyes of The Dragon_.
+-   _Sunshine_ features a surprise stealth example of this trope, when it's heavily implied that the main character's boyfriend Mel is (or was) one of these. He currently works a day job as a cook in a neighborhood cafe/bakery, and it's unclear how retired from action he actually is.
+-   _Urban Dragon_: Matheson is a mortician by day and a necromancer by night.
+-   In _Wizard of the Pigeons_, Wizard lives on the fringes of society amongst the street people, and was soldier (implicitly serving in Vietnam) before becoming a wizard.
+
+    Live-Action TV 
+
+-   Several characters from _Buffy the Vampire Slayer_. Giles, for instance, is a school librarian and the local supernatural expert. Later seasons revealed that this is an Exploited Trope; Giles is only pretending to be a school librarian as part of his Watcher duties, and when the Watcher's Council makes an appearance, it's clear that he's more like the 'proper, austere, middle class or higher' lineage. He fit the trope more in the past, when he was a rebel who dabbled in fatally dangerous magic just for the fun of it with his friends (many of whom died because of it). In the _Angel_ spin-off, Wesley moves to this trope in appearance and methodology as he Took a Level in Badass; when he was an Upper-Class Twit in _Buffy_ and at the start of the series he was presented as cowardly and inept.
+-   In the seventies, Harlan Ellison wrote a pitch pilot for a series called _The Dark Forces_ featuring Crusading Lawyer Lee Kraiter learning the ways of sorcerery (Ellison admitted to owing a debt to Doctor Strange).
+
+-   Grandpa in _The Munsters_ is a skilled magician and comes from a middle class household. Of course, he's also a vampire, a Mad Scientist and other horror tropes, but is shown in many episodes making different kinds of spells and sorcery the success of which will depend on the comedy needs of the episode.
+
+-   _The Twilight Zone (1959)_: In the episode "Still Valley", a confederate soldier encounters a cankerous old man who calls himself a witch-man, who gives the soldier a book of black magic.
+
+    Tabletop Games 
+
+-   _Arkham Horror_: Agnes Baker is the Reincarnation of a great Hyperborean witch. These days, she's a waitress in 1920s New England, having regained some of her Past-Life Memories and magical powers just in time to help save the world from the Ancient One.
+-   It's perfectly easy to make an entire campaign out of such characters in _Champions_, but as far as pre-made characters go, Robert Caliburn, the Magnum Mage of Vibora Bay, is probably the clearest example.
+-   While _The Dresden Files_ makes no inherent assumption either way, it treats Resources as a skill like any other. It therefore competes with _other_ skills, both mundane and magical, for slots in the game's column scheme, making it just that bit more likely that this sort of wizard will be more competent at magic (or something else non-money-related of more mundane utility) than a wealthy Gentleman Wizard who would have had to "pay" for their high rank in Resources by lowering some other skill accordingly.
+-   In _Geist: The Sin-Eaters_, your character is a Blue Collar Necromancer. Emphasis on _blue collar_: you have to experience non-old-age death before you can become a Sin-Eater, and non-old-age deaths are more common amongst the blue collars.
+-   In both _Mage: The Ascension_ and _Mage: The Awakening_, your player character is assumed to be one. Your mage tower is a penthouse and your magic library is a Magical Computer.
+    -   _Ascension_ also has a couple of books focused on the "street-level mage" experience, _Destiny's Price_ and _The Orphans Survival Guide_. The introductory cabal in the 20th anniversary edition quickstart, the Bridge Trolls, are a group of street-dwelling mages.
+    -   _Awakening_ has a few Legacies with emphasis on the "blue collar" bit, such as the Uncrowned Kings (alchemists, both internal and external, who arise from crafters and workers) and the Tamers of Stone (architects and construction workers who use the understanding of their creations to develop an understanding over all space).
+    -   The _Ascension_ group that epitomised "blue collar" were the Craftmasons, the founders of the Order of Reason, who valued hard work above all else. Unfortunately, they got wiped out by their own creation in the 17th century.
+        -   The advantages related to wealth in _Ascension_ are also of limited value to most mages due to the necessities of the strongly enforced masquerade and the mechanics of magical combat. The most powerful ability for keeping one's magical dealings secret (and protecting against sympathetic magic such as scrying and ranged strikes) is directly incompatible with essentially every wealth or status-related advantage, since it causes mortal record-keeping (including bank account numbers, deeds, and credit cards) to fail. So almost all players tend to be this by default unless they go to the other extreme and use overwhelming fame as a shield.
+-   In _Shadowrun_, magic has existed on Earth for roughly 40 years by the first edition (70 as of sixth edition), and magic does not follow bloodlines. In other words, most mages are just regular people born with supernatural powers and tend to live lifestyles appropriate for their demand on the market. Mages with the punching power of your average Shadowrunner Player Character are one-in-a-million talents (literally) and are ruthlessly headhunted by the setting's governments and MegaCorps, but even then we're talking "skilled surgeon or engineer in a small but vital field" rather than outright aristocracy. Since being a skilled mage (requiring high Magic and Attributes/Skills) and having lots of money (high Resources) tends to collide in the Priority System, player character mages tend to down-prioritize the latter at character creation.
+-   Many rogue psykers from _Warhammer 40,000_ tend to be of this stamp, as psychic powers tend to manifest in all kinds of people, irrespective of social class. Given that being a non-sanctioned psyker is a capital crime in the Imperium - and one pursued with extreme prejudice - most of the ones who aren't rounded up by the Inquisition and put on the black ships tend to be part of a criminal underclass. Actual battlefield psykers in the main tabletop game tend not to be this though - they're either military professionals or classic fantasy mystic types.
+
+    Video Games 
+
+-   Jericho Squad members from _Clive Barker's Jericho_ are just as high-class as the members of any similar, non-magical military squad would be.
+-   Patrick Galloway from _Clive Barker's Undying_ is of the "paranormal investigator" variety, as well as a World War I veteran that doesn't believe in magic.
+-   _Cultist Simulator_ has the player in the Exile DLC. They are an interesting example, in that they are very rich in a mundane way. But in the occult world they are, at best, a former minion of the occult mafia. Very much working class small fry.
+
+-   Ness and Paula from _EarthBound (1994)_ are _powerhouses_ of spellcasters capable of using PSI powerful enough to defeat world-ending threats, and both come from the suburbs of Eagleland. Poo is a little more of an actually contemporary spellcaster, coming from a far-off land of monks, and of course Jeff just packs his pockets with rockets, bombs, and bullets.
+
+-   Despite its focus on worldwide travel to often-remote areas, _The Secret World_ has quite a few urban-oriented mages rounding out the NPC cast.
+    -   Alex McCabe is a fairly obvious John Constantine Expy - a grungy, drunken, chain-smoking cynical battlemage right at home on the streets, duking it out with monsters. Quite apart from being the most overtly magical of all the Tokyo Response Team, his cinematic takes place in the most obviously urban setting, featuring him loafing around at a particularly grotty-looking pub and lighting his cigarettes with magic before getting into a fight with a demon in the bathroom.
+    -   Callie James is a fourteen-year-old homeless girl sleeping rough in Eldwyck Park, having been forced to run away from home after her unstable powers ended up causing a great deal of property damage. For good measure, she often spends her days serving as the "squire" to John Galahad, a homeless drunk who seems to be under the impression that he's actually an Arthurian knight stranded in the modern era - and maybe he is.
+    -   Wu Liang-Zhi, one of the agents in the _Legends_ reboot, spends her time at work in various traditional Chinese medicine shops and using her powers to benefit the local community - that is when she's not being hired to use her powers in combat and espionage.
+
+-   Akira from _Live A Live_ has powerful psychic powers which are likely derived from magic, as it's a world where magic and demons most certainly do exist, but he lives in a contemporary 20 Minutes into the Future version of Japan. Everyone around him is either a robot or fights with technology, and his party members consist of a turtle-themed robot and a biker who just kicks the shit out of foes with his fists.
+
+    Webcomics 
+
+-   The cast of _Morph E_ all fit, having recently stepped into the world of magic from their mundane ordinary lives.
+-   _Penny Arcade_: Tycho Brahe occasionally dabbles in the occult to solve mundane problems.
+    -   When the Penny Arcade duo realizes their house is infested with a Deep Crow, naturally they call an Orkin pest controller, who successfully tames it and rides it to parts unknown.
+-   _Trailer Park Warlock_ is exactly what it says on the tin, a redneck who does sorcery to pay his lot fees.
+-   Many of the wizards seen in _Widdershins_ fit, particularly Jack O'Malley (despite not being a trained wizard, he can see more of the unseen world than any wizard). If Sidney Malik could hold down a job, he'd be a perfect fit for the trope. Ben Thackerey is well educated, but does purely ordinary magic (mainly cleaning up buildups of spirits).
+
+    Western Animation 
+
+-   _American Dragon: Jake Long_: Fu Dog works in a video repair shop as a day job and helps Jake with magic spells after hours or when necessary.
+
+___

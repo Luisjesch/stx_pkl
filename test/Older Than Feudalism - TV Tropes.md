@@ -1,0 +1,876 @@
+**The Oldest Ones in the Book**  
+Older Than the NES | Before 1985  
+Older Than Cable TV | 1939 — 1980  
+Older Than Television | 1890 — 1939  
+Older Than Radio | 1698 — 1890  
+Older Than Steam | 1439 — 1698  
+Older Than Print | 476 — 1439  
+**Older Than Feudalism** | ~800 BC — 476 AD  
+Older Than Dirt | Before ~800 BC
+
+All of The Oldest Ones in the Book first recorded after the invention of the Greek alphabet (c. 800 BC) and before the fall of Western Roman Empire in the 5th century (c. 476 AD), a period usually called Classical antiquity. Works from this period include:
+
+-   All ancient Greek and Roman myths, literature, and theatre.<sup>note&nbsp;</sup> 
+-   The Bible<sup>note&nbsp;</sup> 
+-   Most of ancient South Asian literature and Hindu Mythology, including:
+    -   The Hindu _Upanishads_, _Ramayana_, _Mahabharata_, and _Bhagavad Gita_ (whereas the Sanskrit _Vedas_ are Older Than Dirt).
+    -   The _Panchatantra_ fables
+    -   The plays of Kālidāsa
+    -   The Buddhist epic _Buddhacharita_
+    -   The _Twenty-Five Tales of the Vetala_
+-   Most surviving<sup>note&nbsp;</sup>  examples of ancient Chinese literature, philosophy, and history date to this period:
+    -   The _Analects_ of Confucius
+    -   The _Daodejing_ by Laozi and other foundational texts of Taoism.
+    -   _The Art of War_, probably by Sūn Zǐ (also spelled Sun Tzu).
+    -   The _Records of the Grand Historian_, or _Shiji_ by Sima Qian. This is the classic text on Chinese history up until the reign of Emperor Wu of Han in the 2nd century BCE. It is also (apart from a penchant for exaggeration) surprisingly accurate, all things considered: among other things, its list of Shang emperors and their relationship to each other very nearly matches the one modern archaeologists have reconstructed from the available primary sources (the oracle bones that date from the Shang period), even though Sima lived and wrote nearly a thousand years after the fall of the Shang.
+    -   The _Records of the Three Kingdoms_ by Chen Shou (which documents the fall of the Han Dynasty and the Three Kingdoms period, written shortly after the unification of China by the Jin Dynasty in 280; it is the historical basis for the _Romance of the Three Kingdoms_, which does _not_ fall into this, being a novel written in the 14th century.)
+    -   _The Thirty-Six Stratagems_, usually attributed to Sūn Zǐ or Zhuge Liang, although only firmly recorded in the Book of Qi, written after 502 CE (slightly after the end of this period); that being said, the events used as examples almost universally date from the Warring States period (c. 475 BCE-221 BCE), the Chu-Han Contention (206 BCE-202 BCE) or the Three Kingdoms era (220 CE-280 CE).
+    -   Though this trope is also problematic if taking China into consideration. Chinese Feudalism actually started between 800 BC to 770 BC, and ended around 221 BC. So could this be a case where Feudalism is a trope Older Than Feudalism?
+-   The Zoroastrian holy book, _Avesta_<sup>note&nbsp;</sup> .
+-   The Manichean holy book, _Shabuhragan_.
+-   The works of the Christian Church Fathers, like St. Augustine's _Confessions_.
+
+**Note:** Tropes originating in other mythologies/religions are not indexed here, as we have no idea whether those stories even existed by the 5th century AD, or what forms they took, centuries before they were first written down. Even Norse and Celtic mythology are only Older Than Print; although they're derived at least in part from earlier (unwritten) stories, the details are fundamentally un-dateable. Early folklorists often started with the assumption that folktales and myths never changed; more research has shown that people can and do modify all sorts of tales for many purposes.
+
+## Tropes that date back to this time period:
+
+    open/close all folders 
+
+    A-C 
+
+-   Abdicate the Throne: A famous, albeit curious, example appears in _The Odyssey_. Odysseus, son of Laertes, is the legitimate King of Ithaca. His father Laertes is however still alive in the last chapter. He had retired to his farm, but seems virile enough to take arms. Most scholars agree that Laertes had abdicated the throne in favor of his son, but nowhere does the text explain why.
+-   Abduction Is Love: The abduction of Persephone by Hades in Greek Mythology. This married couple of deities is typically depicted as relatively happy, and stable, with few fights and very few stories of infidelity.
+-   Absence Makes the Heart Go Yonder: In Classical Mythology Agamemnon and Clytemnestra didn't wait during The Trojan War, nor remain faithful. Clytemnestra had a good reason, though.
+-   Abusive Parents: Common in Classical Mythology.:
+    -   Ouranos and Cronos both imprisoned all their children at birth.
+    -   Hephaestos in _The Iliad_ tells how his father Zeus threw him off a mountain.
+    -   Acrisios imprisoned his daughter Danae, then threw her into the sea when she got pregnant anyway.
+-   Achilles' Heel: The Big Bad Duryodhana in the Mahabharata, and Talos in Greek Mythology. Suprisingly not Achilles, the Trope Namer (in _The Iliad_ , anyway).
+-   Achilles in His Tent: Homer's _The Iliad_; Trope Namer.
+-   Acquitted Too Late: In Sophocles' _Antigone_, Creon realizes Antigone is innocent after she's already committed suicide.
+-   Actually, I Am Him: In the _The Odyssey_, Odysseus returns to Ithaca disguised as a beggar. His first contact with Penelope, has him delivering (false) news concerning her missing husband.
+-   Adam and Eve Plot:
+    -   The Book of Genesis casts the Sons of Noah (Ham, Japheth, and Shem) and their unnamed wives in this role. The Adam and Eve story from the same book is not however a particularly good example. Neither of the two was a survivor from a previous group, nor did they struggle against extinction.
+    -   Deucalion and Pyrrha from Classical Mythology.
+-   Adipose Rex: King Eglon from The Bible (Judges 3).
+-   An Aesop: Ancient Greek folktales, notably Aesop's Fables, have these.
+-   Age Without Youth: Tithonos of Greek Mythology ages forever without dying, after a botched wish. The Cumaean Sibyl is cursed with the same after spurning Apollo.
+-   A.I. Is a Crapshoot: Genesis 3 and the fall of Adam and Eve.
+-   Akashic Records: A repository of ultimate knowledge on another plane of existence. In other words, The Internet! The name comes from Sanskrit, and the concept originates in the Samkhya philosophies, which were first recorded around 200 AD.
+-   The Alcatraz:
+    -   Tartarus in Greek Mythology is the prison-ward of The Underworld where the Titans, some monsters, and a few particularly malevolent mortals were kept forever (and generally tortured). _Nobody_ ever escaped, even if they were still technically alive.
+    -   The Minoan Labyrinth was "solved" only by cheating with a piece of string.
+-   Alcohol Hic: Afflicts Aristophanes in Plato's _Symposium_.
+-   All Amazons Want Hercules: The Trope Namer happens in a Greek myth. Also occurs in the Mahabharata with Hidimba falling for Bhima.
+-   All for Nothing: A story's buildup gets its payoff. A later event renders it meaningless. It happens to Saul, David, and Solomon in _The Bible_.
+-   All Girls Want Bad Boys: _The Odyssey_ contains a well known Greek story: Aphrodite, though married to the smith-god Hephaestus, much prefers the bloody war-god Ares and has a long affair.
+-   All Just a Dream: Zhuangzi.
+-   All of the Other Reindeer: Hephaestus was either born crippled and abandoned at birth, or born ugly and crippled when his father threw him off of Olympus. In _The Iliad_ the other gods mock him for his lameness. A Homeric Hymn has Hera describe her son with disgust. He still manufactures most of their great weapons.
+-   All Planets Are Earthlike: Showed up in the first space travel story ever, _True History_ by 2nd century author Lucian Of Samosata. (This is excusable because the telescope wouldn't be invented until the Renaissance.) Not only is the moon Earthlike, but so is _the Sun_.
+-   Allowed Internal War: In The Book of Esther, the king's Evil Chancellor Haman decrees that the Jews must be slaughtered, and makes this official with the king's own seal. The king is in love with Esther, but can't contradict an order bearing his seal, so instead he allows Esther to warn her people and arm themselves.
+-   Almighty Janitor: The _Mahabharata_ (4th century BCE) has Vishnu's human avatar, Krishna, becoming the humble charioteer of the epic's hero Prince Arjuna. Among other things, he teaches Arjuna all about Hindu philosophy and convinces him to rejoin the fight after a Heroic BSoD (in a pep talk that forms the bulk of the spiritual text the _Bhagavad Gita_).
+-   Almost Dead Guy: A Greek legend, based _looooosely_ on the historical Marathon run.
+-   Alternative Character Interpretation: The Gospel Of Judas does this with Judas, compared to a lot of other Christian texts. Classical Mythology is full of this, since nearly every story has at least a couple versions all by different authors with their own versions of each god and hero.
+-   Alternate History: Book IX of Livy's _History Of Rome_ ponders what would have happened if Alexander the Great had led his armies west — towards the young Roman Republic — instead of east. He thinks Rome would have won.<sup>note&nbsp;</sup> 
+-   Amoral Attorney:
+    -   Mentioned in _The Bible_.
+    -   Several Greek societies basically believed in this, and therefore forbade anyone from arguing another person's case in court. (The Athenians were the most famous for this, but the Spartans and various other Greek peoples had the same rule.)
+    -   The Romans, on the other hand, _reveled_ in this trope, especially in the republican period: After the gladiatorial games and chariot races, trials were Rome's favorite spectator sport, and it was understood that the trials were heavily politicized and the lawyers would resort to any kind of Unconventional Courtroom Tactics to win (up to and including inciting the audience against their opposing counsel and opposing party). (This didn't keep the Romans from insisting on the fairness of their legal system—Roman justice in the republican era was very community-focused, so the opinion of the people was _very_ important in deciding cases.<sup>note&nbsp;</sup> ) Many Roman politicians made their names as litigators, Cicero (who basically invented the Simple Country Lawyer trope) being the most famous. Nearly all of them took their cases on the basis of ability to pay or political expediency—Cicero was seen as weird because he only ever took politically-advantageous cases, not well-paying ones.
+-   Amusingly Awful Aim: According to Diogenes Laertius' _Lives and Opinions of Eminent Philosophers_, Diogenes of Sinope once, when watching the practicing of a lousy archer, sat down right next to the archer's target "so he would not get hit".
+-   Anachronic Order: The Bible is written this way. One of the major principles of Judaism is _Ein Mukdam Umeuchar Batorah_, which means don't assume things happen in the order they're written.
+-   Anachronism Stew: The most famous Greek myths of Theseus jump from bronze age Crete to Classical, democratic Athens, and depict other Greek cities as early Archaic monarchies.
+-   Ancestral Weapon: Greek hero Theseus received his father's sword from his mother.
+-   Ancient Grome: The Romans themselves would place plays in Athens or other Greek cities, to avoid slandering the state, but leave everything else Roman-like.
+-   Ancient Persia:
+    -   _The Histories_: A detailed account on the rise of the Achaemenid Empire and the Greco-Persian Wars, it's still one of the most important sources on it.
+    -   _The Bible_:
+        -   _Book of Daniel_: Set in Babylon during the Captivity, King Belshazzar summons Daniel, a Jewish sage, to interpret some writing that mysteriously appeared on a wall. Daniel reads it warns of the coming of the Persians and that very night Belshazzar is slain and the kingdom is taken by one Darius the Mede. The rest of the book occurs under Persian rule.
+        -   _Book of Esther_: Hebrew woman Esther is chosen by King Ahasueres (i.e. Xerxes) to become queen of Persia and thwarts a genocide of her people planned by viceroy Haman after Esther's cousin Mordecai refuses to bow down to him.
+        -   _The Four Gospels_: the wise men who visit the infant Jesus in the Gospel of Matthew are described as being 'from the East' and specifically referred to as Magi, suggesting that they are Persian astrologers. Other apochryphal materials develop this idea further, and even in orthodox Catholicism, one of the wise men, Melchior, is specifically mentioned as being from Persia.
+    -   The Mysteries of Mithra was a religion that was popular in Ancient Rome from the 1st through 4th century CE purported to be a continuation of the oriental cult of Mithra in Persia, although scholars now believe the differences between the two are too big and the cult was actually based on Roman _perceptions_ of Zoroastrianism cult.
+    -   _The Persians_ (or _Persae_) is an Ancient Greek tragedy that takes place in Susa, one of the capitals of the Persian Empire, during Xerxes' invasion of Greece, where the Queen Mother Atossa awaits news about the war and then summons his dead husband's (Darius) ghost, who condemns the hubris behind his son's decision of invading.
+    -   Pseudo-Zoroaster and Ostanes, in Greece and then Rome, thought to be the father of magic and the one who introduced it to the Greek world, respectively. These were pen-names used by pseudonymous authors that mostly treated topics related to magic, alchemy, necromancy, divination, etc. Pseudo-Hystaspes was another such name in Greco-Roman literature, the patron of Zoroaster being turned into an apocalyptic prophet and ancient sage of sorts.
+-   And I Must Scream: Tityos and Prometheus suffer horrible torture in Greek Mythology. Tityos suffers _forever_; Prometheus is bound forever or for several centuries, Depending on the Writer.
+-   And Now You Must Marry Me: A Real Life custom found in many cultures around the world — anthropologists call it "marriage by abduction" or "bridal theft". Appears in The Bible in the abduction of the Shiloh women, and the rape of Dinah in Genesis 34. The Romans had their Rape of the Sabine Women.
+-   And Your Little Dog, Too!: Hector killing Patroclus in _The Iliad_.
+-   Androcles' Lion: Aesop's Fables; Trope Namer.
+-   Angelic Abomination: The Book of Ezekiel describes angels as wheels with eyes and animal body parts, which was horribly uncomfortable for the human viewer.
+-   Angel Unaware: Lot's houseguests in Sodom (Genesis 19).
+-   Angry Guard Dog: The Greek underworld is guarded by the multi-headed Cerberus.
+-   Animal Assassin: The Greek goddess Hera sent two serpents to kill her infant stepson Heracles. It didn't work.
+-   Animal Motifs: The many animal comparisons in The Bible.
+-   Animate Dead: Courtesy of Ezekiel, under the command of God, he reanimated an army of skeletons and resurrected them by a prophecy.
+-   Animorphism: See Forced Transformation and Voluntary Shapeshifting on this page.
+-   Answering Echo: Narcissos and Echo, in Ovid's poetry.
+-   Antagonistic Offspring: See David and Absalom below.
+-   Antagonist in Mourning: In The Bible, King David mourns for Saul and Absalom, the former of whom tried to kill him before he became king and the latter who overthrew and exiled him. They _were_ close family, though.
+-   Anvilicious: Some of Aesop's Fables.
+-   Apocalypse Wow: The entirety of the Book of Revelation.
+-   Apple of Discord: How Eris started The Trojan War, and the Trope Namer.
+-   Arcadia: Trope Namer is a region in Greece, held to be the home of Pan, the god of shepherds and the wilderness. Virgil celebrates it as a pastoral paradise in his _Eclogues_.
+-   Archangel Azrael
+-   Archangel Gabriel: First mentioned in the Book of Daniel.
+-   Archangel Michael: First mentioned in the Book of Daniel.
+-   Archangel Raphael
+-   Archangel Uriel
+-   Archer Archetype:
+    -   Classical Mythology:
+        -   Artemis and her Roman counterpart Diana. She is the goddess of the moon and hunting, often depicted as standing on top of a mountain and shooting arrows at whoever she felt like.
+        -   Also, Orion, a fellow hunter and possibly the only man she respected. According to the most popular version, he either hunted with her and came close to winning her heart, but earned the enmity of Gaea when he threatened to hunt every beast on Earth, and was killed by a giant scorpion sent by the Earth Goddess. Upon Artemis' request, Zeus placed Orion in the heavens as a constellation, who also bestowed the same honor upon the scorpion (as a memorial to the hero's death), where it was known as Scorpio from then on. The constellation Orion immediately dims when Scorpio shows itself — he's fleeing from the creature.
+        -   Teucer, also from Greek mythology. He was reputed to be the finest Achaean archer in the army besieging Troy. He loosed shaft after shaft whilst hiding behind his brother Ajax's shield. The gods themselves had to intervene in order to nerf Teucer's effectiveness, with Apollo sending some of his arrows off course and Zeus breaking his bow.
+    -   Houyi from Chinese Mythology. This dude was essentially a combo of Hercules and Robin Hood on steroids. He was able to take out _nine Suns_ with arrows. And would have taken out the tenth and final Sun if it weren't for the Emperor reminding him that we still need at least one sun to survive.
+-   Arranged Marriage: More the rule than the exception, in many cultures. For example, when it's time for the biblical Abraham's son Isaac to get married, Abraham sends his servant back to the old country to find a nice girl for him. Isaac and Rebecca agree to the match without meeting each other (Genesis 24).
+-   Arson, Murder, and Jaywalking: From The Bible, 1 Peter 4:15: "by no means let any of you suffer as a murderer or thief or evildoer or a troublesome meddler."
+-   Ascended Fanfic: _The Aeneid_ was a fanfic continuation of _The Iliad_.
+-   Ass in a Lion Skin: One of Aesop's Fables.
+-   Asshole Victim: Many characters who die in The Bible and Classical Mythology are depicted by the authors as assholes who deserved to die and shouldn't be mourned: Ouranos, Kronos, Agamemnon, Amnon, Absalom, Jehoram of Judah, the entire populations of Sodom and Gomorrah...
+-   Asymmetric Multiplayer: Asymmetric video games are obviously nowhere near this old — but asymmetric _board_ games date back at least as far as the first tafl games, which appeared in the fourth century.
+-   Attempted Rape: In _The Odyssey_, the giant Tityos is tortured forever in Tartaros for trying to rape the goddess Leto.
+-   Author Avatar: Cratinus (519-422 BC) himself was the protagonist in his (sadly lost) comedy _The Wine-Flask_.
+-   Author Filibuster: The plot of _The Golden Ass_ by Lucius Apuleius Platonicus wraps up early with the last chapter spent talking about how awesome the cult of Isis was, of which Apuleius just happened to be a member.<sup>note&nbsp;</sup> 
+-   Ax-Crazy: Referenced by Socrates.
+-   Badass Bookworm: Athena was the Greek Goddess of crafts, knowledge, and warfare, though her domain was more in the strategic aspect of war. As a female deity, she didn't look the part when not wearing her armor.
+-   Badass Crew: The Greek Argonauts, who included famous heroes such as Hercules among them.
+-   Badass Normal: _The Iliad_ positively gushes as it describes human warriors without divine ancestry fighting against gods and demigods, and in the case of Diomedes, _winning_. Most famous is Hector, who could only be defeated in battle by the invulnerable Achilles.
+-   Baldness Mockery: _The Bible_: A passage in 2 Kings, chapter 2 recounts an incident where the prophet Elisha was taunted by a group of young men for being bald:
+    
+    23 Then he went up from there to Bethel; and as he was going up by the way, young lads came out from the city and mocked him and said to him, 'Go up, you baldhead; go up, you baldhead!' 24 When he looked behind him and saw them, he cursed them in the name of the LORD. Then two female bears came out of the woods and tore up forty-two lads of their number.
+    
+-   The Bard: Ancient Greeks had them, and one shows up in _The Odyssey_. He may even be Homer's Author Avatar.
+-   Bargain with Heaven: This appears in The Bible repeatedly: in fact, a good third of the Old Testament revolves around it.
+-   Barrier Maiden: In the Theogony, the god Atlas has to hold up the sky _forever_.
+-   Basilisk and Cockatrice:
+    -   The basilisk's first appearance in Western tradition is in the writings of the Roman naturalist Pliny the Elder, who described it as a twelve-inch-long serpent with a white, crown-shaped spot on its head, capable of killing with its gaze. Its poison is so strong that it shatters stones and kills vegetation it slithers by or breathes on, birds fall dead from the sky at its passage and waters that it drinks from become fouled and poisoned. He was also the first to record the story of how, when a knight killed a basilisk with a spear, its poisonous blood ran up his spear and killed him and its horse. The only way to reliably kill it would be to set a weasel on it, as its smell was fatal to basilisks. The part about it being hatched by a cock’s egg brooded by a toad or snake first shows up early in the Middle Ages. At some point in its mythological development, the basilisk transformed into a eight-legged lizard with a rooster's head that holds its tail above its body (see here<small>◊</small>). It is likely the result of when early medieval writers somehow confused the creature with scorpions. This version inspired the popular modern depiction in fantasy games of basilisk as multi-legged reptiles.
+    -   A few verses in the King James Version of _The Bible_ mention cockatrices, although this is most likely a "Blind Idiot" Translation of an ancient Hebrew word that was just a generic term for any venomous snake.
+-   Bastard Bastard: Abimelech, son of Gideon in the Book of Judges 8:29-9:56, was the illegitimate son of Gideon who murdered his 70 legitimate brothers (he had a lot of step-mothers), then conquered his father's kingdom.
+-   Battle Epic: _The Iliad_ is one.
+-   Battle of Wits: Sun Tzu's _The Art of War_ is practically a _handbook_ for these.
+-   Be a Whore to Get Your Man: Delilah and Samson in The Bible (Book of Judges).
+-   Be Careful What You Wish For: In Greek Mythology Tithonos wished for immortality, but both he and his lover Eos forgot to wish for eternal youth. In one of Aesop's Fables, a herdsman notices one of his calves missing from the herd. He prays for his patron deities to lead him to whoever stole the missing calf. When he finds the thief, it proves to be a lion.
+-   Beam Me Up, Scotty!: The Bible is probably the most frequently misquoted text in history. Special mention goes to the adage "Money is the root of all evil", a misquote of 1 Timothy 6:10.<sup>note&nbsp;</sup> 
+-   Bears Are Bad News: In The Bible (2 Kings 2) when a group of children mocked Elisha for his baldness, he cursed them, whereupon two bears came out of a forest to maul them.
+-   Became Their Own Antithesis: Perhaps. It may date back to apocryphal legends from millennia ago about Satan.
+-   Because Destiny Says So: In Greek Mythology, an oracle warned Pelias that a man with one sandal would be his downfall. Iason/Jason was that man, and the rightful heir of the throne Pelias usurped. Destiny is the plot driver in Virgil's _The Aeneid_, because Aeneas is fated to found Rome. The gods like to remind him of he has a destiny.
+-   Bedsheet Ladder: Michal and David in The Bible (Samuel 19).
+-   Berserk Button: In _The Bible_, do NOT turn God's temple into a marketplace, even twice; or Jesus won't be amused.
+-   Best Her to Bed Her: The Greek myth of Atalanta.
+-   Big Bad: Hera (for Heracles). Poseidon in _The Odyssey_. Satan (in parts of The Bible). Cronos in the first part of Hesiod's Theogony.
+-   Big Heroic Run: The original Marathon run, 490 BC.
+-   Bigger Is Better in Bed:
+    -   The Book of Ezekiel in The Bible.
+    -   Sima Qian's _Records of the Grand Historian_ relate a story from the foundation of the Qin Dynasty based in part on this trope. According to the story, the merchant-turned-Chancellor and regent of Qin Lü Buwei had been carrying on an affair with the Queen Mother, but wanted to break it off as the king (the future Qin Shi Huangdi) approached majority. To persuade the queen, Lü found a man named Lao Ai, who had a huge penis, and (indirectly) presented him to her as a replacement lover. This worked (after Lao Ai had been plucked of all his hair to pass as a eunuch) insofar as the queen accepted the trade (apparently she bought into the trope), but although it is known that Lao Ai fathered children with the Queen Mother (causing a revolt and the execution of Lao Ai and Lü Buwei, among many others), it's not clear how much of this is historical fact and how much is Sima Qian embellishing things.
+-   Biography:
+    -   Plutarch is considered one of the earliest biographers, with his 23 pairs of biographies collectively titled _Lives of the Noble Greeks and Romans_, 80 AD.
+    -   About 150 years before Plutarch, Sima Qian's _Records of the Grand Historian_ include 69 "Ranked Biographies", telling the lives of notable figures in pre-Han Dynasty and early Han Dynasty Chinese history. These biographies form the largest section of the _Records_—42% of the gigantic work.
+-   Bird-Poop Gag: At one point in _The Birds_, the chorus of birds calls on the jurors of the play contest to award _The Birds_ the first prize, or else they will be bombarded with bird droppings whenever they wear fine clothes.
+-   The Blacksmith: Hephaestus is an immortal blacksmith. _The Iliad_ describes him at work, creating armor and weapons.
+-   Blame Game: After Adam and Eve eat of the Forbidden Fruit, Adam blames Eve because she gave it to him (and indirectly blames God for putting her in the Garden of Eden), and Eve blames the serpent for tempting her to do so. God punishes all three of them.
+-   Blame the Paramour: Greek goddess Hera had the tendency to take her anger out on Zeus's many mortal lovers, regardless of consent, because Zeus was too strong to deal with directly.
+-   Blessed with Suck: King Midas in Classical myth turns everything he touches to gold... including his food, his water, his clothes, his daughter...
+-   Blind Seer: Tiresias in Greek works such as _The Odyssey_.
+-   Blood Bath: The ancient Christian apologist Prudentius accused the priests of the Magna Mater of bathing in bulls' blood; he may have been exaggerating, but nonetheless the trope appears in his anti-pagan writings.
+-   Blood from the Mouth: Assyrian bas reliefs of lion hunts in the British Museum depict dying lions bleeding profusely from the mouth.
+-   Blood Knight: Ares, the Greek God of War — or rather, bloodlust and slaughter.
+-   Blood Magic: In Exodus, when the Angel of Death came to kill the firstborn children of Egypt, the Jews painted their doors with lamb blood so the angel would know which babies to spare.
+-   Blood on the Debate Floor: The Real Life assassination of Julius Caesar in the Theatre of Pompey where the Roman Senate was meeting, 15 March 44 BC.
+-   Blood Sport: Roman gladiatorial combat.
+-   Bloodstained Defloration: Mentioned in the _Book of Exodus_
+-   Bluff the Impostor: When Odysseus finally returned home to Ithaca in _The Odyssey_, his wife Penelope tested him with a blatant lie about their bedroom's construction. Odysseus proved his identity by correcting her.
+-   Boisterous Bruiser: Ajax from Greek Mythology.
+-   Bolt of Divine Retribution: The Greek god Zeus punished many people with his signature lightning bolt, e.g. Iasion (who slept with Demeter) and Salmoneus (who tried to impersonate Zeus).
+-   Born as an Adult: In the Theogony, Athena emerged from the head of Zeus in adult form and fully armed, and Aphrodite emerged from the sea foam in adult form. In the Works and Days, Hephaestus created Pandora, the first mortal woman, in adult form.
+-   Bound and Gagged: Odysseus asks his crew to tie him to the mast when his ship sails past the Sirens in _The Odyssey_. The other sailors use his reactions as a gauge for when it's safe to unclog their ears.
+-   Bounty Hunter: Saul from The Bible, before his Heel–Faith Turn into the apostle Paul. He's first depicted in Acts as accepting payment for arresting a follower of Christ.
+-   Boy Meets Girl: Ovid's "Pygmalion And Galatea," sort of.
+-   Brains Versus Brawn: How Ares and Athena are used with regards to their roles as War Gods; Athena is The Strategist and provides intellectual insight to her believers whereas Ares is the Blood Knight who focuses more on savagery and destruction in battle.
+-   Breaking the Bonds: The story of Damon and Pythias from Classical Mythology, as well as the story of Samson from The Bible.
+-   Breaking the Fourth Wall: Ancient Greek playwrights did this all the time... they even did it before the concept of the Fourth Wall was an accepted universal concept!
+-   Breakout Villain: Satan in the Jewish Bible only appears in the Book of Job, in which he's a gadfly to God and not even particularly evil. The early Christians, under the influence of dualistic religions like Zoroastrianism, made him the Big Bad and combined him with the snake in Genesis.
+-   Break the Haughty: The Ancient Greek idea of _hubris_ often includes the gods punishing the prideful mortal.
+-   Break-Up Bonfire: After Aeneas abandons Dido, Dido in _The Aeneid_ orders to build a pyre to burn Aeneas' clothes and weapons, an image of Aeneas and also the bed on which she slept with him, claiming this ritual will heal her of her lovesickness. When the pyre is ready, she stabs herself with Aeneas' sword on it, and is burnt on it.
+-   Bring My Brown Pants: A regular occurrence in the plays of Aristophanes.
+-   Bring News Back: Pheidippides at the Battle of Marathon, who managed to warn Athens that Sparta would not aid them in time for the battle.
+-   Brother–Sister Team: _The Iliad_ has twin deities Apollo and Artemis teaming up to slay the children of Niobe. Apollo killed the sons, Artemis the daughters.
+-   Brown Note Being: See an Old Testament angel would cause people to fall down in fear and trembling. Both the Bible's God and the Greek gods Zeus could cause unshielded viewers to die on the spot. Greek mythical creatures such as Medusa or Gorgon would cause petrification to those who viewed them.
+-   Buried Alive: In Sophocles' _Antigone_, the eponymous heroine is walled up in a crypt to die as punishment. The same punishment supposedly awaited the Roman Vestal Virgins that had broken their vows of chastity.
+-   Burning the Ships: After crossing the Huang He into hostile Qin territory in 208 BC, Xiang Yu of Chu supposedly ordered his army to sink the boats, as well as to pack only supplies for three days and to destroy the rest, along with the cooking utensils. This meant that they could neither go back, nor avoid starvation except by conquering the supplies of the enemy. The traditional wording of the order, "Break the kettles and sink the boats!" (破釜沉舟), are a Chinese idiom.
+-   Burn the Undead: In "The Ghost of Philinnion", the citizens of Amphipolis resolve to burn the body of Philinnion, a young woman who has left her tomb to consort with a young man, to prevent her from coming to life again.
+-   Bury Me Not on the Lone Prairie: When the Israelites left Egypt, they took the embalmed body of Joseph with them (Exodus 13:19), fulfilling Joseph's own wish (Genesis 50:25).
+-   But I Can't Be Pregnant!: The Bible, namely Abraham and Sarah in the Book of Genesis. Subverted with Mary in The Four Gospels, who's often depicted as knowing why she's pregnant with Jesus.
+-   But Liquor Is Quicker: The Bible, specifically the Book of Genesis. Lot's _daughters_ get him drunk so they can have sex with him.
+-   The Cake Is a Lie: Several of Aesop's Fables feature this. One has a wolf get a bone stuck in his throat, and offer a reward to a crane for plucking it out. After the crane does so, the wolf informs the crane that the "reward" is the wolf not biting his head off the minute he could swallow properly.
+-   The Call Knows Where You Live: The biblical God wants the prophet Jonah to deliver a warning to Nineveh. Jonah tries to shirk the mission, but God's intervention prevents him from getting away till he agrees to fulfill the mission.
+-   Canon Discontinuity: The apocryphal books of The Bible. _Which_ books are apocryphal and which are canon depends on which denomination does the counting.
+-   Canon Fodder: Notable examples in Homer's works include the fate of Aeneas in _The Iliad_, and the specifics of the Fall of Troy.
+-   Captain Ersatz: The Greek Aphrodite is almost certainly the same goddess as the Mesopotamian Inanna/Ishtar, with a Hellenized name and new back story, at least in the story of her and Adonis/Attis. He, in turn, is the Phrygian/Greek ersatz of the Mesopotamian Dumuzi/Tammuz, Inanna's husband.
+-   Cargo Envy: In Ovid's _Amores_, he expresses a strong desire to be the ring on his mistresses finger.
+-   Carry a Big Stick: Greek hero Hercules' weapon of choice.
+-   The Cassandra: Cassandra herself, in the works of Homer.
+-   Cassandra Truth. Princess Cassandra of Troy is the Trope Namer, thanks to a curse from the god Apollo.
+-   The Casanova: Zeus, king of the Greek pantheon. Yes, they had very different values from us.
+-   Catch the Conscience. Happens to King David in The Bible, courtesy of Nathan (2 Samuel 12).
+-   Celebrity Endorsement: Ancient Roman gladiators used to do this all the time.
+-   Celibate Hero: The title character of Euripides's _Hippolytus_.
+-   Celestial Paragons and Archangels: There are several kinds of angels in The Bible, some mightier than others.
+-   Cement Shoes: In The Bible, Jesus says that people who tempt others to sin should _"be thrown into the sea with a millstone tied around their neck"._
+-   Chained to a Rock: Prometheus in Hesiod's Theogony is the Trope Maker.
+-   The Chains of Commanding: The Sword of Damocles, described by Cicero.
+-   Character Catchphrase: The Bible, partly due to its oral origin, has some of these: For example, Jesus uses (depending on the translation) "I tell you the truth," "Verily I say unto thee," or "I tell you solemnly." Angels tend to say "Fear not" when they show up, due to their decidedly _non_\-Winged Humanoid appearances.
+-   Changeling Fantasy: Many Half-Human Hybrids in Greek Mythology, if their father or mother was a god.
+-   Charles Atlas Superpower: See Badass Normal on this page.
+-   A Chat with Satan: Two such tests of character occur in The Bible: The serpent's conversation with Eve, and Satan trying to tempt Jesus in the wilderness.
+-   The Chessmaster (only the version without chess motifs): _The Art of War_ is a good guide on how to be the Chessmaster (but inspired by go instead).
+-   Chess with Death: Some mythical Greek characters challenge gods to contests and end up dead or otherwise badly off. e.g. Marsyas the Satyr, Arachne (in Ovid and Virgil), and Thamyris in Apollodorus and Asklepiades.
+-   Chicken-and-Egg Paradox: Aristotle formulated the Trope Namer as a thought experiment. Additionally the Rabbinic text _Pirkei Avot_ has one of the first recorded non-chicken examples, with a story that God created the first pair of tongs, on the grounds that one would need to already have a pair of tongs to make another pair.
+-   Chocolate Baby: _Aethiopica_, a Greek romance by Heliodorus of Emesa (c. 3rd century AD), starts with Queen Persinna of Ethiopia giving birth to a white daughter, despite she and her husband being black, which causes her to give the baby away to avoid accusations of adultery. After many adventures, it is revealed that Persinna had been looking at a painting of Andromeda while she conceived, and so Andromeda's white skin "imprinted" on her child.
+-   The Chooser of the One: The prophet Samuel chose the first two kings of Israel, Saul and David, in The Bible, led by God.
+-   Cinderella Plot: Appears to have started with the 1st century Greek story of "Rhodopis", which contains elements such as a footwear-based search for a girl.
+-   City Mouse: From Aesop's "The City Mouse and the Country Mouse". Trope Namer.
+-   Civilized Animal: The ancient Greek _Batrachomyomachia_ is a mock epic parodying works in the genre like the _Iliad_ by replacing the heroic figures with talking mice and frogs. They definitely still behave like animals in some respects, but they wear armor, carry tiny spears, and generally act 'civilized' throughout the 300-line poem.
+-   The Clan: The ancient Greeks loved genealogy and linked most of their gods together into one huge Badass family.
+-   Clap Your Hands If You Believe: The Gospel of Luke in The Bible.
+-   The Climax: In _The Odyssey_, for example, the climax comes in Books 21 and 22, when Odysseus strings his bow, reveals himself, and starts killing people. There's not much denouement.
+-   Clingy Jealous Girl: Greek goddess Hera, though she has reason to be jealous since Zeus is constantly unfaithful.
+-   Clingy MacGuffin: The Ring of Polykrates, as recounted by Herodotus.
+-   Cluster F-Bomb: Gaius Valerius Catullus' Carmen 16.
+-   Coins for the Dead: The proper way to pay respect for a corpse is to place a coin in the mouth or on the eyes. This was a real burial practice among the likes of the ancient Greeks, in ancient Iran, and numerous other areas.
+-   Cold-Blooded Torture: Greek Mythology has Prometheus and Tityos chained up while vultures perpetually eat their regenerating livers. Echetos liked to hack off the body parts and genitals of everyone he met. In Real Life the Persian and Roman Empires executed some people by crucifixion.
+-   Combat by Champion: David and Goliath (The Bible, 1 Samuel 17). Eteocles and Polyneices (Greek Mythology) finally agreed to end the war of Thebes this way, but killed each other simultaneously. Republican Roman soldiers practiced single combat.
+-   Comes Great Responsibility: Virgil used this trope as the Roman ideal. The Bible has the Parable of the Faithful Servant.
+-   Come to Gawk:
+    -   The title character in Aeschylus's _Prometheus Bound_ was Chained to a Rock in the middle of nowhere, but he figured this was part of the punishment too — the play would've been a one-character monologue if nobody had Come to Gawk.
+    -   In The Bible the Philistines blinded Samson and put him on display.
+    -   Real Life Romans publicly displayed crucifixion victims for exactly this purpose.
+-   Comedy: Greek theatre from the 5th century BC onwards, with Aristophanes as the most notable author.
+-   Comforting the Widow: The Widow of Ephesus story in _The Satyricon_.
+-   Comically Missing the Point: The Apostles of all people, when they took a parable too literally:
+    
+    **Jesus:** Beware the yeast of the Pharisees.  
+    **Apostles:** He's upset that we didn't bring any bread!
+    
+-   Constrained Writing: The earliest documented lipogram, a hymn to Demeter written by Lasos of Hermione, of which a fragment survives, 6th century B.C.
+-   Contrapposto Pose: One of the oldest stock poses, used by sculptors in ancient Greece (and later refined by painters in Renaissance Italy).
+-   Cool and Unusual Punishment: In addition to Cold-Blooded Torture, Greek Mythology features a variety of less physical torments such as those inflicted upon Tantalos and Sisyphos (in _The Odyssey_) and Atlas (in Theogony).
+-   Cool Horse: Laomedon and Achilles both own immortal horses in _The Iliad_; Alexander the Great had the amazing Bucephalus; Helios has fire horses; and Poseidon has half-fish hippokampoi.
+-   Cool Sword: Perseus's sword was a gift from the gods, according to Aeschylus and Apollodorus.
+-   Could Say It, But...: This trope was known as "evasio" to Roman rhetoricians like Cicero, and it was used in law courts and speeches.
+-   Counter-Earth: The philosopher Philolaus proposed the idea that there was a second Earth located on the other side of the Sun. The Greeks called this hypothetical planet _Antichthon_.
+-   Country Mouse: From Aesop's "The City Mouse and the Country Mouse". Trope Namer.
+-   Courtroom Antics: Aristophanes' _The Wasps_ is full of courtroom oddities, being about Athens' litigious society.
+-   Courtroom Episode: _Eumenides_ ends the Oresteia trilogy with Orestes being tried in an Athenian court for killing his mother, with the furies prosecuting him and Apollo and Athena on the defense,
+-   The Creon: Creon of Thebes was a recurring character in early Greek drama, right hand of _Oedipus Rex_ who avowed that he had no intention or desire to become king. He was later forced into the position anyway, much to Thebes' regret.
+-   Crossover: The _Argonautica_ (3rd century BC).
+-   Crowd Song: The chorus in Greek drama.
+-   Crucial Cross: The Ur-Example being Jesus' cross as described in The Four Gospels.
+-   Crying Wolf: The original is one of Aesop's Fables.
+-   Cunning Like a Fox: In Aesop's Fables.
+-   Cutting the Knot: The original Gordian Knot.
+
+    D-I 
+
+-   Daddy's Girl: According to _The Iliad_, Athena is Zeus' favorite child. Ares claims that Zeus rarely bothers to restrict her behavior. She also has the boyish traits associated with the trope.
+-   Damsel in Distress: Andromeda and Hesione in Greek Mythology, both in the same pickle: their parents pissed off Poseidon, and had to sacrifice them to giant sea monsters to save their kingdoms. Thanks, Mom!
+-   David Versus Goliath: The Trope Namer is from the Books of Samuel in The Bible.
+-   The Day of Reckoning: The Book of Revelation in The Bible.
+-   Dead Person Conversation: Odysseus converses with several ghosts in Homer's _Odyssey_.
+-   Deadly Euphemism: The Latin term _proscriptio_ originally just meant "publication", and most commonly referred to written advertisements in public places that such-and-such goods or land were for sale (typically at auction). However, when Sulla decided to purge his opponents, he declared them enemies of the state and "proscribed" their property (as forfeited property of traitors, for sale by the Roman state to the highest bidder). The "enemies of the state" were thus often said to have themselves been "proscribed". Since these _proscripti_ were also usually executed, "proscription" gradually became a term referring to purges, both bloody (like those of Sulla and Augustus) and bloodless, even by the "proscriptors" themselves. A long way from "advertisement."
+-   Death by Childbirth: Likely as old as our species, what with our disproportionately huge heads and tiny, tiny hips. In The Bible, Jacob's favorite wife Rachel died giving birth to Benjamin.
+-   Death Faked for You: Faking baby Oedipus' death was what started the whole mess that blew up in _Oedipus Rex_.
+-   Death Takes a Holiday: Sisyphos tied up Thanatos in Greek Mythology, and nobody could die until Ares rescued him.
+-   Decapitation Presentation: David with Goliath's head in The Bible, Judith with Holofernes' head in the Apocrypha, Salome asking for John the Baptist's head, and Perseus displaying Medusa's head as a weapon in Greek Mythology. In Real Life, the Galatian noblewoman Chiomara presented her husband with the head of the centurion who raped her, and the Egyptians presented Pompey's head to Caesar (who reportedly turned away in disgust when presented with the gruesome prize).\]
+-   Decided by One Vote: Aeschylus's Eumenides has the trial of Orestes, in which the jury is tied on whether to convict him. In ancient Athens, a tie went to the defendant, so Orestes gets to go free.
+-   Deconstruction: Euripides's _Trojan Women_ and _Hecuba_ portrayed The Trojan War as a human tragedy rather than a sweeping epic tale of martial valor in the Homeric tradition, by showing the human consequences of war and its aftermath on the conquered people, and the cruelty and violence of the "heroic" invaders.
+-   Demanding Their Head: In Greek Myth, King Polydectes ordered Perseus to bring him the head of Medusa.
+-   Democracy Is Bad: Plato's _The Republic_, various ancient Chinese writings.
+-   Demythification: Euhemerus' treatment of Classical Mythology is the alternate trope namer.
+-   Denied Food as Punishment: In Greek Mythology Tantalos killed his son and tried to trick the gods into eating him. Punished after death in Tartaros, he stands forever in a pool of water, surrounded by fruit trees, but whenever he reaches for it the water drains away and the branches blow out of reach.
+-   Depending on the Writer: _The Bible_. The Book of Genesis gives two accounts of Creation that some find contradictory, and The Four Gospels tell of Jesus' life from the slightly differing perspectives of four of the Apostles. Notably, the accounts of Creation differ on whether Male and Female were created at the same time, and whether humans were created before or after animals; the Gospels differ slightly on which people witnessed Jesus' crucifixion, and on which women were present when his tomb was found empty.
+-   Depraved Dwarf: The Ur-Example might be found in Classical Mythology, specifically in certain depictions of satyrs. These creatures were sometimes drawn with dwarfish proportions in ancient art, and were _always_ depicted as debauched perverts (a trait that even shows up in _Hercules_'s Disneyfied version of the myths). Like The Fair Folk, satyrs weren't strictly _evil_, but they were wild and uncouth, sometimes dangerously so.
+-   Determinator: Odysseus _does_ get home... eventually.
+-   The Dictatorship: The Roman Republic was the earliest example of a dictatorship, where a politician or magistrate would be temporarily appointed as a _praetor maximus_ or _dictator_ with the full authority of the state during a time of crisis; as time went by, this term adopted its modern definition of an undemocratic and oppressive place under the control of a single man and/or clique.
+-   Died on Their Birthday: The Talmud teaches that Moses was both born and died on the 7th of Adar.
+-   Different for Girls: In _The Trojan Cycle_, when Thetis disguised her son Achilles in drag, he completely failed to pull it off — not that he really _wanted_ to dodge the draft.
+-   Ditzy Genius: Theaetetus, one of Plato's dialogues, has Socrates explaining that philosophers (which were equivalent to modern day polymaths) were considered "absent-minded" because they didn't care about mundane stuff like gossip or social fads.
+-   Don't Look Back: In the story of Sodom and Gomorrah (Book of Genesis), looking back got Lot's wife turned into a pillar of salt. In Greek Mythology Orpheus lost his wife Eurydice (again) because he looked back when leading her out of Hades.
+-   Don't Shoot the Message: Several times in The Bible, someone complains that God's followers' actions are besmirching God's name.
+-   Double Entendre: A favorite tactic of Greek comedians. Aristophanes's plays are full of them.
+-   Double Standard: In _The Odyssey_ the nymph Calypso complains about this. She points out that male gods frequently sleep with mortal women, but are "harsh and far too jealous" when goddesses take mortal lovers.
+-   Doves Mean Peace: Doves are depicted as God's messenger and manifestations of the Holy Spirit in _The Bible_.
+-   Downer Ending: Rather common in Classical Mythology. _The Odyssey_ has the murder of Agamemnon. The _Returns_ told the deaths of several characters of The Trojan War. The _Telegony_ has Odysseus killed accidentally by one of his own sons. The Argonauts' story ends with Jason's ignominious death. Greek tragedy almost _required_ this trope.
+-   Downfall by Sex: Samson had a lust problem, and the Philistines he tormented used this against him by bribing a prostitute named Delilah to try to learn his secret. He eventually caves, and is captured and humiliated as a result.
+-   Draft Dodging: Odysseus tried to avoid joining The Trojan War by pretending to be insane, but the other princes called his bluff. Thetis tried to get her son Achilles out of it by dressing him in drag.
+-   Dragon Hoard: The idea that dragons are irrationally driven to guard treasure first appears in Roman literature: In his 13th _Philippic Speech_, Cicero compares a supposedly greedy man to a dragon, and in the Beast Fable "The Fox and the Dragon" by Phaedrus (c. 50 AD), a dragon guarding a gold hoard in a cave freely admits his behavior is absurd, leading to An Aesop about avarice.
+-   Dreadlock Rasta: Technically, since Samson is a sort of an Old Testament proto-monk, which fits the "for religious purposes" connotations of the trope.
+-   Dreadlock Warrior: Dreadlocks appeared in a wide variety of warrior cultures throughout the world, from Masai to Spartans to Maori and many more. Notably, Samson, the inhumanly strong One-Man Army from the Bible, is specifically stated to wear his hair in dreadlocks in Judges 16:13.
+-   Dressing as the Enemy: Homer's _Iliad_.
+-   Driven by Envy: Cain killing Abel in The Bible.
+-   Driven to Suicide: King Saul from The Bible. Queen Iocaste in _Oedipus the King_.
+-   Drives Like Crazy: Jehu, son of Nimshi drives his chariot "like a madman" (The Bible, 2 Kings 9:20).
+-   The Drunken Sailor: In _The Odyssey_, the ship was almost home when the sailors decided to crack open Odysseus's pouch, assuming he was hoarding wine or gold. It actually contained all the winds, which immediately blew them way off course.
+-   Dual Wielding: Dimachaerii type gladiators in Ancient Roman games.
+-   Dude, She's Like in a Coma: In Greek Mythology the handsome Endymion is enchanted to eternally sleep, with his youth and beauty preserved. Meanwhile Selene, goddess of the Moon, frequently makes love to him.
+-   Due to the Dead: Achilles dragging and abusing Hector's corpse in _The Iliad_ exemplifies the evil version. The protagonists in Sophocles's _Antigone_ and _Electra_ exemplify the good form.
+-   Dumb Muscle: Ajax in _The Iliad_. Olympic "meatbag" athletes, according to some ancient Greek philosophers. Heracles was portrayed this way in Attic comedy, for example in Aristophanes' _The Birds_ (in the "canonical" myths, he is reasonably clever).
+-   Dying Curse: Immediately before Queen Dido of Carthage commits suicide in book IV of _The Aeneid_, she prays to the gods that Aeneas' mission may fail, and that the Carthaginians may forever be enemies to the descendants of Aeneas' Trojans and may one day avenge her. While part of the curse comes true, it ultimately fails.
+-   Dystopia: Prophesied in the Book of Revelation, as the Beast arises.
+-   Earn Your Happy Ending: Homer's _Odyssey_ ends with the protagonist triumphant and the evildoers punished, but boy does Odysseus have to earn it. He goes through The Underworld, and 20 years of exile, angst, and heartsickness, to get home. This epic was held up as the prototype of comedy, which originally just meant any story with a happy ending.
+-   Eats Babies: In Hesiod's Theogony, the Titan Cronus swallowed _his own_ children, though unlike Child Eaters he didn't make a habit of seeking out more babies.
+-   Eaten Alive: Some characters in Greek myth die this way, such as Odysseus's shipmates in Polyphemos's cave. Some gods, such as Prometheus and the siblings of Zeus, suffer this and _survive_, because Greek gods _can't_ die.
+-   Eating the Enemy: Naturally ties in with Eaten Alive in many cases.
+-   Egopolis: Such as several Alexandrias founded by Alexander the Great.
+-   El Cid Ploy: Patroclus impersonating Achilles in _The Iliad_.
+-   Elixir of Life: Qin Shi Huang is said to have died from drinking elixirs full of mercury in a quest for immortality.
+-   Emasculated Cuckold: An ancient trope, but an early example in _Classical Mythology_ comes when Aphrodite, wife of Hephaestus, the crippled and often-ignored smith god, cheats on her husband with the ultimate manly man the bombastic War God Ares. In order to regain his honor, Hephaestus gets his revenge by creating an inescapable net that he uses to catch them in bed together and humiliate him.
+-   Emergency Cargo Dump: a ship on which St. Paul is sailing in _Acts of the Apostles_ in The Bible encounters a very rough storm, and one of the measures the crew takes to try to survive is to dump the cargo overboard.
+-   Emergency Impersonation: Patroclus impersonated Achilles in _The Iliad_, when the latter refused to fight. Unlike in later impersonation stories, Achilles is the protagonist while Patroclus is a side character.
+-   Emotional Bruiser: Hector in _The Iliad_: mighty warrior, devoted husband and father, and named by Helen as the only one who's nice to her but Priam.
+-   Enemies Equals Greatness: The Bible seems to hold that the only reason why people have enemies is because of their choice to follow God. Joseph was hated by his brothers for being favored by Israel, David was resented by King Saul for being the only one to defeat Goliath, and there's Jesus who had set an example to humanity, much to the disgust of the Pharisees.
+-   Entitled to Have You: Propertius devotes some of his poems to saying he's entitled to have Cynthia.
+-   Epic Catalog: The Catalogue of Ships in Book II of _The Iliad_ is probably the most famous one in ancient epic poetry.
+-   "Eureka!" Moment: Trope Namer is Archimedes in his bath, allegedly.
+-   Even the Guys Want Him: Narcissus of late Greek and Roman myth.
+-   Every Man Has His Price: Excessive amounts of bribery were commonplace in The Roman Republic.
+-   Everyone Is Bi: Most of the Classical pantheon are. Hades and Ares are straight and Athena, Artemis and Hestia are aces, but apart from them, basically everyone else is so casual with sex the idea of heterosexuality is down-right quaint.
+-   Everyone Calls Him "Barkeep": The Bible never specifically states exactly which pharaoh is involved in the Book of Exodus. Biblical scholars have been trying to identify him for a long time.
+-   Everything's Better with Rainbows:
+    -   Rainbows used by characters: In Greek religion, the rainbow was personified as the goddess Iris, and was the path left by her as she travelled between heaven and earth.
+    -   Rainbows as symbols: In Genesis 9, the rainbow is the sign of God's promise that He will never again destroy the Earth with a flood.
+-   Evil Cannot Comprehend Good: Dates back to The Bible, in which the Devil often shown in this fashion, being unable to appeal to anything other than selfish desires when manipulating humans.
+-   Evil Colonialist: Conquest was one of the four _original_ Horsemen of the Apocalypse in the Book of Revelation; depictions of the Horsemen only replaced Conquest with the more familiar figure of Pestilence starting around the time of the Black Death. This makes sense, given the amount of oppression that Judaea had endured under Roman rule by the time the Book of Revelation was written.
+-   Expecting Someone Taller: Jesus.
+-   Explain, Explain... Oh, Crap!: Deianira in _Trachiniae_, telling the chorus about the "strange sight" that is the bubbling, disintegrating piece of cloth she used to smear a "love potion" onto a shirt she just gave her husband.
+-   Face–Heel Turn: In the back story of Euripides's play _Hecuba_, Achilles defected to Troy after falling in love with Polyxena, one of its princesses.
+-   The Face of the Sun: This type of solar iconography first showed up in Roman and late Greek religious artwork, such as the sides of temples.
+-   "Facing the Bullets" One-Liner: Jesus has a couple in The Bible.
+-   Fairest of Them All: The Judgement of Paris in _The Trojan Cycle_, when Eris deliberately provoked a fight between goddesses using an Apple of Discord inscribed with the words "to the fairest." The resulting fight caused The Trojan War.
+-   Fake Defector: In _The Aeneid_ and _The Odyssey_ Sinon surrenders to the Trojans, claiming he defected from the Greeks, so he can convince the Trojans that the Trojan Horse is a gift.
+-   Faking the Dead: Orestes in _Electra_.
+-   Fallen Cupid: While the modern idea of Cupid is more of an idea of both Flanderization and Bowdlerization of the original myth, the Cupid of Ancient Rome was nowhere near as wholesome, making the modern idea of who Cupid was the _real_ Subverted Trope and this trope a Double Subversion.
+-   Fallen Hero: The Bible has numerous instances of good guys turned bad with Satan as the most famous example.
+-   False Rape Accusation: In The Bible, Potiphar's wife, after failing to rape Joseph, tells her husband that Joseph raped her.
+-   A Family Affair:
+    -   One of the origins of Zagreus and Melinoe is that Zeus slept with his brother Hades' wife Persephone by disguising himself as Hades. Persephone also happened to be his daughter.
+    -   Ares' favorite consort is Aphrodite, who was married to Hepheastus, blacksmith god and his full brother. While Aphrodite cheated on her Unwanted Spouse with a lot of other people, Ares was the one most well known for it.
+-   Fanon: The Bible never states that there are three Magi, never even gives a definite number, and doesn't specify that they were male. It also doesn't specify that the fruit Adam and Eve ate was an apple, and doesn't refer to Mary Magdalene as a prostitute.
+-   Familial Cannibalism Surprise: A number of examples from Greek myth. The most famous is probably the story of Atreus (father of Agamemnon and Menelaus), who caught his brother Thyestes seducing his wife; he surreptitiously fed Thyestes the flesh of his sons at a banquet as punishment.
+-   Fan Wank: As early as 44 AD, Stoic philosophers were complaining about obsessive fans who argued over literary trivia like "how many rowers did Ulysses have?"
+-   Fandom Rivalry: In Byzantium, brawls between followers of different religious leaders were an everyday occurence, as were running fights between supporters of different chariot racing teams.
+-   Fashion Hurts: Plutarch mentions painful footwear.
+-   The Fatalist: All the time. Thetis warned her son Achilles that two fates awaited him: if he went to Troy, he would die young, but become famous forever. If he stayed home, he would live a long time, but be forgotten. He went to Troy and was not shy about courting death. Hector knew he was fated to die at Achilles's hands, but eventually chose to face him.
+-   Fat and Skinny: In 224 AD, Wu Zhi arranged a skit making fun of Cao Zhen (who was known to be fat) and Zhu Shuo (who was skinny). At a banquet celebrating Cao Zhen, no less.
+-   Feather Boa Constrictor: In Hindu Mythology, Lord Shiva combines one of these with snake bracelets.
+-   Feed the Mole: One of The Thirty-Six Stratagems.
+-   Fighting for a Homeland: The march of the Ten Thousand, as depicted in Xenophon's _Anabasis_. The Hebrews fighting the Canaanites in The Bible. The Trojan refugees in _The Aeneid_.
+-   Fire-Forged Friends: The Spartans and Thebans encouraged soldiers to have a lover in the army so that they'd fight harder to protect them. And if they died, hopefully they'd go Ax-Crazy in a quest for vengeance.
+-   Fire of Comfort: The domain of Hestia, Greek goddess of the Hearth. She was associated with the fireplace and the joys of domesticity. A Homeric Hymn to her mentions her place of honor in the residences of every immortal god and every mortal man.
+-   Fix Fic: _Iphigenia in Tauris_ was written to remove the bridge dropped on Iphigenia.
+-   Flaming Sword: According to the Book of Genesis, God set up a Cherub with a flaming sword to guard the Garden of Eden after Adam and Eve had been cast out from there.
+-   Flashback: Homer's _Odyssey_.
+-   Flipping the Table: Jesus does this with the moneychangers in the temple.
+-   Fluffy the Terrible: A nasty-looking dog named "Puppy" in _The Satyricon_.
+-   Food Chains: Eating some pomegranate seeds in The Underworld forced the Greek goddess Persephone to return there every year. In the Homeric Hymns, Hades force-fed her. Odysseus almost loses several men to the lotus-eating addiction.
+-   Forbidden Fruit: The Adam and Eve story from Genesis is the Trope Namer.
+-   Forced Transformation: Several in Classical Mythology: Circe transformed men into animals in _The Odyssey_; various gods transformed Procne and Philomela into birds, and turned some Arcadian guys into werewolves. Zeus turned Io into a cow. Dionysus turned some pirates into dolphins.
+-   Forged by the Gods: Hephaestus forges new armour and shield for Achilles, a knife for Peleus, and the shield and armour of Heracles. The _Cypria_ mentions a spear, created by the Athene, Hephaestus, and Chiron, for Peleus.
+-   Forging Scene: The forging of the Shield of Achilles in _The Iliad_.
+-   A Form You Are Comfortable With: In Greek Mythology, Zeus apparently did this sort of thing whenever he had an affair with a mortal woman, at least according to the story in which his true form turned the woman Semele to ash. In The Bible, angels occasionally tried to appear in human form, since their true forms look more like bizarre Eldritch Abominations.
+-   Freudian Excuse Is No Excuse: In Ezekiel chapter 18, God has the prophet Ezekiel tell Israel to not use the proverb "The parents ate sour grapes, and the children's teeth are set on edge" anymore as an excuse for blaming parents or previous generations for the sins they themselves are committing before God.
+-   Friendship Denial: Prophesied by Jesus who tells Peter that he will deny Him three times before the rooster crows. Peter assures Him that he will never do that to Him, but, as Jesus was arrested that night, somebody in the crowd asks Peter was he with Jesus. Trying to avoid getting himself into further trouble, Peter responds with "No! I do not know Him!". As the rooster crows and with Jesus looking at him, Peter realizes that he was wrong.
+-   From Zero to Hero: The story of Jesus Christ follows this plotline, where he started out in humble beginnings and later became known as the "King of Jews" and a symbol of resistance to the empire, and from there, inspired the world's second largest religion with many who worship him devoutly.
+-   Frontline General: In Real Life this is _at least_ as old as the Roman Republic, moving to Older Than Dirt when it crosses over with Royals Who Actually Do Something. This is because before the invention of radio the general usually had to be in the midst of his men to be able to give orders and have them carried out quickly.
+-   Full-Boar Action: The Erymanthian Boar and Calydonian Boar from Greek Mythology. Both were monstrous boars that could only be vanquished by great heroes (Hercules and Meleager and Atalanta respectively).
+-   Funetik Aksent: In Aristophanes's _Lysistrata_, the Athenians speak normally, but the Spartans have their Doric Greek accent spelled out phonetically. Modern translators may render the Doric (a Greek redneck accent) as Irish, Scottish, or Southern, or may omit it.
+-   Funny Foreigner: A staple of ancient Greek and Roman comedy. An example is Triballos, a "barbarian god" serving as an ambassador to Cloudcuckooland in Aristophanes' _The Birds_.
+-   Fun with Acronyms: Emergent Greek Christians used a symbol of a fish as a Trust Password for their faith; this is because the Greek word for "fish", ICTHYS (ΙΧΘΥΣ), was used to stand for Iēsous Christos, Theou Yios, Sōtēr (Ἰησοῦς Χριστός, Θεοῦ Υἱός, Σωτήρ) — Jesus Christ, Son of God, Savior.
+-   Gambit Roulette: According to some ancient Greek writers, Zeus set up the whole of The Trojan War by manipulating one key goddess as a gambit to reduce the population of demigods.
+-   Gate of Truth: Described in The Underworld in Homer's _Odyssey_ and Virgil's _Aeneid_.
+-   Gender Bender: Tiresias in Greek Mythology, Iphis and Hermaphroditos in Ovid's _The Metamorphoses_, and Bhangasvana and Shikandin in the Mahabharata.
+-   Genius Bruiser: Odysseus is a powerful Badass, and also a master of cunning and strategy. Heracles is sometimes depicted this way, too.
+-   Genius Cripple: The Greek Hephaestus is a crippled god, yet a brilliant craftsman who created magnificent works, including weapons, armor, and _robots_. Yes, robots.
+-   Genre Deconstruction: See Deconstruction above.
+-   Ghostly Death Reveal: When Odysseus descends to the entrance of the Underworld to question the ghost of the seer Tiresias, his sacrifice also attracts the ghosts Odysseus' own mother Anticlea and of Agamemnon, the supreme leader of the Greeks at Troy. Odysseus is distressed because he did not know about their deaths, and learns that Anticlea died of grief, and that Agamemnon was murdered by his wife and her lover Aegisthus (_The Odyssey_).
+-   Giant Squid: Large squids were first described by Aristotle, but Pliny The Elder is the first to give them more explicitly gigantic proportions (heads "as big as a cask" and 30 ft. arms) in his _Natural History_. The actual animals are presumably Older Than Dirt.
+-   Gluttonous Pig: The Calydonian Boar of Classical Mythology was far bigger than any normal boar, and it ate everything—so much that people starved to death. Eventually over 50 of Greece's greatest heroes, including Jason, Asclepius, and Atalanta, had to team up to kill it.
+-   God Is Flawed: Rather common in this era. For instance, the Greek gods were a bunch of regular jerkasses. It's been theorized this was a metaphor for how idiotic humans can be.
+-   God Test: Frequently in the Old Testament. Additionally the Gospel of Matthew gives us what may be the oldest subversion: Satan telling Jesus to prove he's the son of God, and Jesus basically telling him to screw off. Aristophanes provides a parody in _The Frogs_, in which Dionysos completely fails said test, despite being a real deity.
+-   God Was My Co-Pilot: In the Bhagavad Gita, Arjuna's charioteer is revealed to be the god Krishna.
+-   Going Native: Octavian's propaganda against Mark Antony made the latter out to be the Ur-Example.
+-   Gold Fever: Discussed in Book II of the _Aeneid_, when Aeneas recounts how King Polymestor of Thrace murdered Polydorus, the son of his ally King Priam of Troy, to rob Polydorus' treasure of gold. Aeneas' words _auri sacra fames_, the "accursed hunger for gold", was a popular quote even in antiquity.
+-   Golem: Talos, a mythical Greek giant automaton made of bronze to protect Europa in Crete from pirates and invaders, may be the oldest example.
+-   Good Cop/Bad Cop: Odysseus and Diomedes in Book 10 of the _The Iliad_.
+-   Gosh Dang It to Heck!: The third commandment of the Hebrews: "You shall not take the name of Y\*\*H your God in vain, for Y\*\*H will not hold him guiltless who takes His name in vain." (Exodus 20:7, NKJV). Euphemisms for this four-letter word were "the Name" in speech or "Lord" in prayer.
+-   Grand Theft Me: Yayati, after the curse of his father-in-law that he should become old and infirm, asked his sons to exchange their youthful body with his. All refused except the youngest son, Puru, who was crowned after his reign. Puru was the ancestor of the Kauravas and the Pandavas in the Mahabharata. His brother Yadu was the ancestor of the Yadavas — thus the ancestor of Krishna.
+-   Gratuitous Greek: Several ancient Roman authors often inserted Greek quotations into their works.
+-   Grey-and-Gray Morality: The Achaeans and Trojans in _The Iliad_.
+-   The Grotesque: Classical Mythology describes Hephaestus, the resident Genius Cripple of Mount Olympus, as deformed — which is why the other gods treat him badly.
+-   Gruesome Goat: The Bible compares sinners to goats, and has goat-like demons, with Baphomet in particular being depicted with a goat's head.
+-   Guile Hero: Odysseus. Ruth and Queen Esther in The Bible. Krishna in the Mahabharata.
+-   Happiness in Slavery: The biblical instructions for freeing slaves also tell owners what to do in case they have a happy slave who wants to stay...just in case, you know.
+-   Hate Sink: Haman the Agagite, from the Book of Esther, is one of the oldest examples of a character whom is supposed to be despised by the audience (due to being a narcissist and genocidal racist), and is one of the rare examples with religious significance.
+-   Heads or Tails?: Dates back to Ancient Rome, according to The Other Wiki.
+-   Head-Turning Beauty: Helen of Troy, the most beautiful mortal woman in the world.
+-   Heh Heh, You Said "X": Cicero made note of several phrases that unintentionally sounded dirty in his personal correspondences.
+-   Healing Factor (Regenerative Immortality): Greek gods don't age, can't be killed by _anything_, and heal very quickly even from massive wounds. Poor Prometheus had his liver torn out every day and grown back by the next morning. The Hydra also had this: whenever Heracles cut a head off, it instantly grew two more. One of its heads was also physically indestructible, which got it buried under a big rock.
+-   Healing Serpent:
+    -   In the The Bible, when Moses was in the wilderness with the People of Israel, they faced death from getting bitten by poisonous snakes. When Moses inquired to God about how to treat this, he was told to create an effigy of a snake on a stake and all one needed to do to be healed of the poison was to look at it. The concept was so simple, many didn't believe it would work and didn't bother looking and summarily died. Those who did, found themselves healed, as promised.
+    -   Classical Mythology:
+        -   The Trope Codifier Asclepius<sup>note&nbsp;</sup> , who was a demigod and later god, was affiliated with healing, medicine, rejuvenation, and physicians. The second part of this trope is found in the snakes<sup>note&nbsp;</sup>  that he had help him in healing pilgrims at his temples. Some myths stated that he learned healing from a snake. His symbol, the Rod/Staff of Asclepius or the asklepian, which is a snake coiled around a staff, is still a prominent symbol for medicine and health care around the world.
+        -   Hygiene, the daughter of Asclepius, also counts as this, for she is the goddess of good health, cleanliness, and sanitation. She is also affiliated with snakes as the trope requires, often being accompanied by one.
+        -   The Gorgons, which were some sort of Snake People. Blood taken from the right side of a Gorgon had wondrous healing properties and in some myths could even bring the dead back to life.
+        -   Hermes/Mercury's staff the Caduceus. Much like the Rod/Staff of Asclepius mentioned above, is also a symbol for medicine and health care around the world. This appears to be a case of Sadly Mythtaken, though, since Hermes/Mercury and his Caduceus had little if anything to do with healing or medicine.
+-   Heaven Above: Appears both in the Book of Genesis (where Nimrod builds a sky-scraping tower to reach God) and Classical Mythology (where the gods live in the place in Greece closest to the sky).
+-   Heaven's Devils: The Book of Job casts Satan as an advisor to God who was given express permission to torment Job to test his faith.
+-   Heel–Face Town: The town of Nineveh was a spicy cesspool of wickedness before God sent Jonah to warn them of of what would happen if they did not stop. They all repented that day.
+-   Heel–Faith Turn: Just for starters, St. Matthew and St. Paul of the Apostles. Matthew was a tax collector, while Paul was a Pharisee-in-training _cum_ Bounty Hunter under the name Saul.
+-   Hell: The Christian concepts of Heaven and Hell go back to the New Testament.
+-   Hell of a Heaven: Happens in one version of the classic Indian epic Mahabharata.
+-   Hermit Guru: John the Baptist, and the Real Life Pillar Hermits.
+-   Heroic Ambidexterity: In _The Iliad_, the Trojan Asteropaeus throws both his spears at once, "for both his arms were as his right", and by this feat is the first Trojan to wound Achilles. In a list of famous warriors who served King David, Chronicles 1,12 names 23 Benjaminites who "were armed with bows and were able to shoot arrows or to sling stones right-handed or left-handed".
+-   Heroic Bastard: Almost all of the demigod heroes in Greek Mythology, such as Heracles. Karna in the Mahabharata, and Jephthah in The Bible.
+-   Hero Killer: Typhon in Classical Mythology, who is terrifying enough to make the gods flee Olympus, and badass enough to defeat Zeus in a straight up fight. From a Trojan perspective Achilles is definitely this; one could make a case for Mezentius or Turnus in _The Aeneid_.
+-   Hit Me, Dammit!: In 1 Kings 20:35-37, a prophet of God needs to be beaten and bruised in order to deliver the message God had for King Ahab.
+-   Hoist by His Own Petard: Oedipus' father Laios, when he's killed by the son he abandoned years earlier. Murderous King Diomedes, eaten by the freakish horses he used to feed human flesh. Corrupt minister Haman in The Bible, hung on the gallows he built for his rival.
+-   Holy Is Not Safe: The Greeks believed that seeing the glory of a god would kill you. Likewise the Book of Exodus has God state that seeing His face would kill Moses, and The Ark of the Covenant was an equal-opportunity Doomsday Device.
+-   Homosexual Reproduction: Poseidon and a fellow sea-god Nerites fell in love and their coupling created Anteros, the personification of requited love.
+-   Honor Before Reason: Cicero mentions Marcus Atilius Regulus, who had been captured by Carthage in the Punic Wars. He was sent to Rome to negotiate a Roman surrender, with the promise that he would return to Carthage. If he was unsuccessful, the Carthaginians would kill him. Regulus went to Rome, argued AGAINST surrender, and then returned and accepted execution by a Carthaginian sword.
+-   Hope Springs Eternal: In Hesiod's story of Pandora's Box, hope was in the box (jar) to either help mortals, or deceive them.
+-   Hope Sprouts Eternal: In the Old Testament the olive branch was the sign to Noah that the flood waters were receding.
+-   Hot Librarian: The Greek goddess Athena is beautiful _and_ wise.
+-   Human Resources: The Roman Empire collected urine in vats and sold it to industries like launderers (who used the ammonia in urine to clean and whiten woollen togas) and tanners. Nero was the first to implement a tax on urine, a policy which the later emperor Vespasian famously reinstituted, giving rise to the proverb "Money does not stink" (_Pecunia non olet_ in the original Latin). To this day, urinals — especially public ones — are known by words derived from Vespasian's name in languages like French (_vespasienne_) and Italian (_vespasiano_).
+-   Human Pincushion: Saint Sebastian's legend says that his martyrdom had him become this. In a subversion, he actually survived, so he "had" to be flogged to death.
+-   Humongous Mecha: Greek mythology features Talos, a gigantic automaton forged either by Hephestus or Daedelus (depending on who you ask) that pops up as a Guardian Entity of various people and islands in several different myths. He combines Infernal Retaliation with "Second Law" My Ass! and returns home after being captured from Minos by the Sardinians.
+-   Hydra Problem: Heracles fought the Trope Namer. He had to burn the stumps to stop its heads from growing back.
+-   Hypocrite: Agamemnon in _The Iliad_; you go to war over a woman being taken — that means you shouldn't take another man's woman.
+-   I Am Who?: Oedipus, especially in Sophocles's _Oedipus the King_.
+-   I Am X, Son of Y: "I am Odysseus, son of Laertes". Commonly used in The Bible as well.
+-   I Believe I Can Fly: Icarus, Pegasus, Harpies, Sirens, Hermes and Perseus with winged sandals...
+-   I Fell for Hours: In _The Iliad_, when Hephaestus recalls being flung off of Olympus by Zeus he says that he fell all day.
+-   I Gave My Word: In Classical Mythology, the oaths of the suitors that required them to follow Menelaus to Troy. Also the Oath of the Styx that Greek gods cannot break, which has gotten Zeus, Helios, and others in big trouble...
+-   In Medias Res: The earliest known example is Homer's _The Iliad_, which begins towards the end of the ninth year of Troy's ten-year siege.
+-   I Want Grandkids: In _The Metamorphoses_, Daphne's father often told her this: "Saepe pater dixit 'Debes mihi, nata, nepotes.'"
+-   I Will Wait for You: Odysseus's wife Penelope and his dog Argos both waited 20 years for him to return. Penelope kept a ton of obnoxious suitors hanging while she waited.
+-   Identical Stranger: In _Menaechmi_, by the Roman author Plautus.
+-   Idiot Plot: _Menaechmi_, in which the characters take way too long to realize both twins are present.
+-   If I Wanted You Dead...: The biblical David twice gets close enough to kill Saul, but stays his hand. Although not explicit, the message is clear. Saul doesn't get it.
+-   Ignore the Fanservice: Socrates is above such things.
+-   Impossible Task: Heracles, David, Psyche, and Perseus faced them in stories from this period.
+-   Impoverished Patrician:
+    -   The Roman Republic was full of them. One narrates Juvenal's Satires.
+    -   A surviving fragment of Euripides' _Stheneboea_ discusses this trope.
+-   Improbable Aiming Skills: Odysseus shot an arrow through the handle-rings of twelve axes in _The Odyssey_.
+-   Improbable Food Budget: The seven years of plenty before Joseph's biblical drought.
+-   Improbable Weapon User: The biblical Samson killed an army of Philistines using a donkey's jaw.
+-   In the Name of the Moon: The heroes of Homer's _Iliad_ do this, down to formulaic repetition originally designed to allow extemporaneous reciters of epic poetry to keep to the meter.
+-   Indentured Servitude: In Real Life the Athenian lawmaker Draco passed a law that any man who was owed a debt by another could claim the indebted party as a slave until the debt was paid off. This caused such strife that Solon banned the practice—respecting only Athenian citizens—when he was asked to reform the city's laws.
+-   Inevitably Broken Rule: An introduced rule will eventually be broken and affect the trajectory of the story.
+-   Information Wants to Be Free: The Prometheus myth: the secret of fire given to the mortals against the other gods' will. Older Than They Think? Yup.
+-   Inn of No Return: Procrustes' bed: Accept hospitality from this man, and he'll kill torture and kill you.
+-   Instructional Dialogue: The style of Plato's writings about Socrates.
+-   Invisible Jerkass: Plato's _The Republic_ tells the tale of Gyges, a shepherd who finds a ring of invisibility. Gyges promptly uses its power to seduce the queen, assassinate the king, and become king. Plato's moral is that morality is rooted completely in society, and with anonymity, all morality disappears.
+-   Invisibility Cloak:
+    -   The Cap of Hades, which rendered all wearers invisible; later borrowed by Perseus.
+    -   Ring of Gyges.
+-   Ironic Hell: Tantalus and Sisyphus in Greek Mythology both ended up in versions of Tartarus that fit their crimes.
+-   Irrevocable Message: The execution order in _Antigone_, by Sophocles. The result was death and tragedy, not played for laughs.
+-   Irrevocable Order: In The Bible, the Medes and Persians had a law that if the king's ring was used to seal a proclamation then it could not be undone, not even if the king changed his mind. This plays a role in the stories of Esther and Daniel.
+-   It Was a Gift: Perseus was given his mirror-like shield and winged sandals by the gods Athena and Hermes. In Greek Mythology, Philoctetes got the famous bow of Heracles at the latter's death.
+
+    J-P 
+
+-   Jews Love to Argue: Parts of the Old Testament.
+-   Journey to the Sky: The humans who tried to build the Tower of Babel to reach the heavens (Genesis 11:1-9, Old Testament).
+-   Judgment of Solomon: 1 Kings 3:16-28, Old Testament. Solomon did it with a baby.
+-   Just the First Citizen: Augustus, the first Emperor of Rome: his official title, _princeps_, means "first" and is conventionally translated in this context as "First Citizen." He very deliberately avoided titles like "king" or "dictator".
+-   Kangaroo Court: The trial of Jesus, as depicted in the Gospels.
+-   Kid Hero: David in The Bible (1 Samuel), specifically his fight with Goliath.
+-   Kind Restraints: Odysseus was tied to the mast in the Odyssey in order to prevent him from being drawn to the sirens.
+-   King Incognito: Odysseus did it twice: once at Troy, and again in Ithaca. The prophet Elijah did this among the Israelites, and King Solomon was forced to after being dethroned by an imposter.
+-   Klingon Promotion: If you successfully prosecuted a Roman Senator in court, you obtained their rank. Between 235 and 284 AD there were 25 different Roman emperors, mainly because they kept assassinating their predecessors.
+-   Kneel Before Frodo: In the Ramayana, after the war against Ravana is won and Sita is rescued, Rama rewards his generals for their courage. When Hanuman walks up, Rama breaks into tears and tells him there's no treasure valuable enough.
+-   Knotty Tentacles: Classical Mythology: When attacked by two snakes, the baby Hercules defeated them by tying them together.
+-   Kraken and Leviathan: The Leviathan in The Bible (Job 41).
+-   Lady Land: The Amazons in Greek Mythology.
+-   Lady of War: The Greek goddess Athena.
+-   Lady Macbeth: Jezebel, wife of King Ahab in the Old Testament.
+-   Laser-Guided Amnesia: Figures in _The Recognition Of Shakuntala_, an episode from the Mahabharata that was made into a play by Kalidasa: Śakuntalā and Dushyanta get married, but Dushyanta gets cursed with amnesia and completely forgets her, but nothing else. When Śakuntalā finally breaks the spell, all the memories return.
+-   Lawful Stupid: The Hindu god Daksha hated his son-in-law Shiva for living a chaotic lifestyle. Shiva ignores him until his wife commits suicide after Daksha defiles and mocks her beloved. Shiva kills him, then revives him with the head of a goat.
+-   Law of Inverse Fertility: In "want but can't conceive" form only: Theseus's mortal father Aegeus, and several women in The Bible.
+-   Law Procedural: The _Apology of Socrates_ by Plato is about the trial of Socrates for corrupting the youth of Athens.
+-   Leaking Can of Evil
+-   Let Me Tell You a Story: Jesus's parables are a famous example; the prophet Nathan has an earlier example in The Bible (2 Samuel 12).
+-   Liminal Being: Tiresias, in _The Odyssey_, manages to be between two different states in three different ways.
+-   Literal Genie: In a Roman myth about the Greek god Hermaphroditos, an annoying clingy girl wished she could forever be united with the uninterested deity she was harassing. Some literal-minded god fulfilled her wish ... by fusing their bodies together into one hermaphroditic person.
+-   Living MacGuffin: Helen of Troy from _The Iliad_.
+-   Living Shadow: Ghosts in Roman Mythology were usually jet-black, resembling animated shadows, and souls in the afterlife were called _umbrae_ ("shadows").
+-   Loads and Loads of Races: Classical Mythology features many races: Ordinary mortals, gods (including titans and daimones), nymphs, cyclopes, giants, centaurs, satyrs, fauns, and six-armed Gegenees; plus various bizarre Human Subspecies: headless Blemmyes, one-eyed Arimaspians, dog-heads, one-legged Skiapodes, four-legged Artabatitai, hermaphroditic Makhlyes, short-lived Kalingoi, mouthless Astomoi, ageless Makroboi, Golden and Silver Men, and more.
+-   Loser Deity: Both Ares and Hephaestus were portrayed as losers in the Greek myths, with Ares being divine Dumb Muscle and Hephaestus being mocked and ostracized for his looks.
+-   Losing Your Head: Orpheus's head continued to sing after his decapitation, according to Ovid.
+-   Lost in Imitation: Several Greek myths are best known, and more often repeated, from a later version after a famous poet or playwright altered the contours of an earlier story. Such was apparently the case with Aeschylus's Prometheus and Euripides's Medea.
+-   Lost Orphaned Royalty: Unbuilt Trope version. The Histories of Herodotus report a story like this about Cyrus the Great. In this story, Astyages, King of the Medes, has a Prophetic Dream that his advisors interpreted as meaning that the son of his daughter Mandane, whom he had married off to King Cambyses of neighboring Persia, would supplant him. Astyages therefore recalled Mandane to his capital at Ecbatana and waited for her to give birth. When she gave birth to a son named Cyrus, Astyages ordered his general Harpagus to kill the newborn. Harpagus couldn't manage this, so he delegated it to one of the royal shepherds, Mithradanes, who couldn't bring himself to do it, either. Instead, Mithradanes, whose wife had conveniently given birth to a stillborn son about the same time as Mandane was giving birth to Cyrus, presented the stillborn child to Astyages as Cyrus, and took Cyrus as his own son. For ten years, Cyrus was raised as a shepherd's son, but eventually Cyrus does something unshephardlike (he orders the son of a noble to be beaten for failing to follow his orders), and the shepherd tells Astyages everything. At this juncture, Astyages realizes You Can't Fight Fate and sends the boy to live with his parents in Persia. (This is an unbuilt version because Astyages didn't try to kill all the royals or male royals of Cyrus' house; then again, it looks like there were no others, or at least no other males, of his generation besides Cyrus.)
+-   Lottery of Doom: How the Minotaur got fed, according to late Greek writers such as Diodorus Siculus and Apollodorus.
+-   Lotus-Eater Machine: Homer's _The Odyssey_; Trope Namer.
+-   Lotus Position: Gautama Buddha did it.
+-   Love at First Sight: Classical Mythology is full of this: Eros, god of love, can inflict it on anyone whenever he wants, but then he suffered the same with Psyche. Numerous hapless souls fell for Narcissus, only to be callously rejected, and finally the gods made him pine away for his own reflection.
+-   Loved by All: In Classical Mythology, Hestia is a person loved and adored by her divine family which ranges from the likes of Hermès, Zeus and Eris among others. As demonstrated when they all united to beat the crap out of Priapus after he tried and failed to rape her.
+-   Lover and Beloved: Common in Ancient Greece; they called this Erastes Eromenos.
+-   Love Ruins the Realm: Dido's fling with Aeneas supposedly started the Punic Wars. Prince Paris abducting Helen started The Trojan War. Marcus Antonius allowing Cleopatra to co-rule opened him up to bad PR and ultimately civil war.
+-   Luck-Based Mission: Keno slips in the Chinese Han Dynasty, circa 205 BC.
+-   Luke, I Am Your Father: The story of _Oedipus the King_.
+-   Lunarians: _True History_ centers around sailors from Earth getting involved in a war between the peoples of the Sun and the Moon over the colonization of Venus, and is itself a response to an even earlier, long lost novel with a similar space travel motif.
+-   Lying by Omission: In Genesis 37:31-35, Joseph's brothers sell him to slave traders, then kill a goat and splash its blood over his coat of many colors. They then show the coat to their father and let him draw his own conclusions about what happened to Joseph.
+-   Lysistrata Gambit: The trope namer is _Lysistrata_ by Aristophanes.
+-   Macho Masochism: Mucius Scaevola was an ancient Roman who demonstrated his courage and loyalty to the city by thrusting his hand into a flame until it was consumed, when an enemy tried to threaten him.
+-   Made a Slave: Joseph was enslaved in Genesis. Heracles was enslaved to Omphale in Classical Mythology.
+-   Mad Oracle: The Pythia, a.k.a. the priestess of Apollo's Oracle at Delphi, was occasionally depicted giving prophecies in a state of possessed frenzy. The Real Life version, not so much.
+-   Mad Scientist's Beautiful Daughter: Medea, in the trope's more general form.
+-   Magical Girlfriend: Greek myth of Pygmalion, the anti-social guy who was so great Aphrodite turned his statue into Galatea, the perfect bride, so he could be happy forever.
+-   Magic Music: In Classical Mythology Orpheus could charm wild animals, plants, rocks, and the god Hades with his singing.
+-   Magic Staff: Courtesy of Moses in _The Bible_. It is powered by God Himself rather than possessing magical power.
+-   Magic Wand: What Circe uses to turn men into pigs in _The Odyssey_.
+-   Magma Man: Vulcanus is the Roman god of volcanoes. Italy has active volcanoes, and they tended to blame eruptions on this god.
+-   Magnetic Hero: Jesus Christ might be the Ur-Example, as it was his charismatic preaching that attracted his followers to him.
+-   The Magnificent Seven Samurai: _Seven Against Thebes_.
+-   Make the Dog Testify:
+    -   One of the numerous courtroom antics in Aristophanes' _The Wasps_ is putting a bowl, a pestle, a cheese-grater, a brazier, and a pot on the stand in a lawsuit between two dogs (who look like famous figures of the day and can apparently talk) about the alleged theft of some fine Sicilian cheese. The defendant also brings out his puppies to soften the hearts of the jury.
+    -   A borderline case is Older Than Dirt: Ancient Egyptian myth has the trial of Horus (for sodomy with Set), in which Set and Horus both make their semen testify. However, since this is an explicitly supernatural trial (both parties being gods), it's unclear if it really fits under the trope.
+-   The Man Behind the Man: Some Bible students believe that Isaiah 14:12 (particularly in the King James Version) and Ezekiel 28:12-19 is God talking to The Man Behind The Kings.
+-   The Man in the Moon: A Talmudic tradition holds that the face of Jacob is engraved upon the Moon.
+-   Marked Bullet: The sling bullets with "ΔΕΞΑΙ" (_DEXAI_, Greek for "take that") engraved on them.
+-   Massive Multiplayer Crossover: The Classical myth of Jason and the Argonauts: name a Greek hero, he was probably in this one, everyone from Hercules to Oedipus. Many had sons at Troy.
+-   Mass Transformation: Circe transforming Odysseus's men into pigs, among others.
+-   Matriarchy: The Amazons, first mentioned in _The Iliad_, are the sexist variety, supposedly demonstrating why women should never rule.
+-   Maternal Impression: A medical theory. Appears in _Aethiopica_ (a Greek romance from the 3rd century AD).
+-   The Maze: The Labyrinth of Crete from Greek Mythology.
+-   Men Are Generic, Women Are Special: The Greek Theogony has men created first, and the woman created later as a _punishment_ to ruin mortal life.
+-   Mentor Archetype: In the _The Odyssey_, Athena poses as Mentor, Telemachus's elderly advisor, and convinces him to actively seek information on his missing father, instead of passively waiting.
+-   Merlin Sickness: The fruit on Anostus causes this in the Roman _Varia Historia_, by Claudius Aelianus.
+-   Merger of Souls: Postulated by the 3rd-century-AD Greek philosopher Plotinus, as "Emanation _ex deo_" ("out of God"). Basically, in the hierarchy of being, there is The One (who is all good, transcended, and unchanging). The nature of the One is simply that it filters down itself, but the One never loses anything or changes. Next comes the Novus, or Divine Mind, and then bellow that is the Oversoul. From the Oversoul comes individual Human Souls. So what does this have to do with this trope? It's possible for a human soul to reunite with the One again, forever (at least in Neoplatonic tradition).
+-   Midas Touch: King Midas in Greek Mythology.
+-   Miles Gloriosus: The play of that name is the Trope Namer, but _The Iliad_'s Paris beat him to it.
+-   Miracle Food: It goes all the way back to Greek mythology and the concept of ambrosia.
+-   Mistaken Identity: Goes back at least to Greek theater, potentially further.
+-   Modesty Bedsheet: Believe it or not, there are numerous Roman wall paintings depicting couples during sex — with the woman wearing a brassiere, because it would've been considered lascivious for her to show her breasts. To her own husband. During sex.
+-   Monkey Morality Pose: Dates back to the days of Confucius.
+-   Moon Rabbit: Earliest recorded reference found during the Warring States period of Ancient China.
+-   Morton's Fork: In the New Testament (Mark 12:13) the Pharisees try to catch Jesus in one by asking if they should pay taxes to Caesar.
+-   Moses in the Bulrushes: Moses himself, in the Book of Exodus. Also Oedipus in Greek Mythology, Romulus and Remus in Roman Mythology, and Karna in the Mahabharata.
+-   Moving the Goalposts: Done by Gideon in the Book of Judges, when God gives him the requested sign with the fleece the first time. In the story of the Labors of Heracles, King Eurystheus originally sets ten tasks but tacks on two more on the grounds that Heracles had help with the hydra and the Augean stables (respectively his charioteer Iolaus for a second pair of hands, and diverting a river to flood the stables and wash them out).
+-   Multiple-Choice Future: In _The Iliad_, Achilles' mother knew that he could either live a brief but glorious life as a hero or a long life of I Coulda Been a Contender!. While she tries her best to steer him towards the latter by disguising him as a girl, it doesn't work, and when she sees how easily he takes to the warrior's life she realizes she would rather he be happy rather than miserable for the rest of his days, so she stops trying to keep him safe.
+-   Multishot: Rama, hero of the Ramayana, can shoot _one thousand_ arrows with one draw, and once used such a feat to shoot down a rain of stones aimed at him. He _is_ an Avatar of Vishnu, after all.
+-   Mundane Made Awesome: Old Greek and Roman poems played up the mediocrity of an event by writing it in epic verse. _Batrachomyomachia_ used epic Homer-style poetry to narrate a battle between frogs and mice.
+-   Murder the Hypotenuse: King David effects the death of General Uriah, so he can have Bathsheba for himself, in The Bible (2 Samuel 10-12).
+-   Murder Water: The river Skamandros tries to kill Achilles in _The Iliad_.
+-   My Hovercraft Is Full of Eels: Plautus's _Poenulus_, in which an incompetent interpreter translates Carthaginian into Latin gibberish.
+-   Naked First Impression: Mortal men pay dearly for having accidentally seen a Greek goddess bathing.
+-   Necromancer: The Witches of Endor, but the book also condemns the very act of inquiring the dead, and the fact the dead knows nothing and will not come back as a ghost. However, there's no rule stating that one cannot fully resurrect the dead, in courtesy of Ezekiel (for being explicitly commanded by God himself) and Jesus (being God in Human Form).
+-   Nepharious Pharaoh: Egyptian pharaohs have been portrayed as villains ever since The Bible.
+-   Neutrality Backlash: Seen in "The Bat, The Birds and The Beasts" in Aesop's Fables, where a bat refuses to take sides in a war between birds and beasts and is shunned by both sides after the war.
+-   Never Accepted in His Hometown: Jesus Christ mentions this happening to prophets.
+-   Never Found the Body: At least as early as 200 AD, Achilles Tatius' _Leucippe And Clitophon_.
+-   New Media Are Evil: Socrates' criticism of _writing_, which apparently goes back to an old tradition among the Greeks; didn't stop Plato, though.
+-   Nice Jewish Boy: Lots of them in The Bible.
+-   Nice Job Breaking It, Herod: The Trope Namer Herod, as well as the Ur-Example of Pharaoh with Moses from the Book of Exodus.
+-   Nice Mice: Found in "The Lion and the Mouse" in Aesop's Fables, where a mouse sets a lion free from a trap by gnawing through a hunter's net.
+-   Nigh-Invulnerability: Achilles, the Nemean Lion, and Antaeus, all from Classical Mythology.
+-   No Animosity in the Afterlife: It is one of the characteristics of the Heavenly Kingdom in Christianity, discussed in detail in The Book of Isaiah:
+    
+    The wolf also shall dwell with the lamb, The leopard shall lie down with the young goat, The calf and the young lion and the fatling together; And a little child shall lead them.
+    
+-   No "Arc" in "Archery": Aristotle, the poster-boy for Artistic License – Physics, claimed that an arrow would fly in a straight line until its momentum was used up, then drop suddenly to the ground. Never mind the fact that every _actual_ archer of the time knew he was full of shit.
+-   No Fourth Wall: Greek theater was not known for firmly dividing the actors from the audience.
+-   No Hero to His Valet: Jesus mentions that "no prophet is accepted in his hometown." for this reason.
+-   No, Mister Bond, I Expect You To Dine: In the Book of Genesis, Joseph does this to his brothers in Egypt. Subverted, because he actually intends them no harm at all.
+-   No Place for Me There: In The Bible, Moses could not enter The Promised Land because of his impiety at Meribah (never mind that the other Israelites frequently surpassed him by leaps and bounds). King David could not build the Temple of Jerusalem because he was a man of war, and the temple had to be built by a man of peace (his son Solomon).
+-   Noble Fugitive: Exile was a common punishment for higher-ranked individuals in Ancient Greece. Often, a disgraced individual would willingly choose exile for a stipulated period of years to wait for the feelings against him to die down and/or rally his own forces for a comeback. Democratic Athens famously institutionalized this with its practice of ostracism, in which once a year, the _ecclesia_ (assembly of free male citizens) could send one person for any reason (or no reason) into exile for ten years. Those exiled tended to be of Athens' aristocratic class (typically being politicians whom public sentiment held had gotten too big for their britches and needed to be cut down to size). Medea is a prominent mythological/literary example, as she fled to Athens after poisoning Jason.
+-   Noble Savage: Used by Tacitus when describing the Germanic and Caledonian tribes.
+-   Nostalgia Ain't Like It Used to Be: In many myths of this period, the ambiguous "past" was much better than life at the time; for example, people lived much longer (Genesis), they mingled with gods, etc. Hesiod's myth of the Five Ages explicitly describes the decline of humanity.
+-   Not Now, We're Too Busy Crying Over You: In _The Bible_, Jesus Christ pulled this on two of his disciples after his own death and resurrection when they think he's still dead.
+-   Nouveau Riche: _The Satyricon_ (c. 60 AD) has Trimalchio, a freed slave that has come to untold riches and is not afraid to show it off.
+-   Obfuscating Insanity: Odysseus tried this in _The Trojan Cycle_, to avoid having to go to Troy. The biblical David did it when in exile before he became king.
+-   Obfuscating Stupidity: The original Brutus and the Roman emperor Claudius are two famous Truth in Television examples.
+-   O.C. Stand-in: Aeneas was a minor character in _The Iliad_ and the rest of the Trojan Cycle whom Virgil decided to expand upon when making his Fan Sequel _The Aeneid_
+-   Occupiers Out of Our Country: One of the first known examples is that of the Jewish Zealots, of the 1st century BC.
+-   Ode to Intoxication: Most notably, Horace's "Ode to a Wine Jar."
+-   Offscreen Crash: A deadly one is indicated by a surviving fragment of Aeschylus' _Glaukos of Potniae_.
+-   Off the Table: In Roman legend, the Cumaean sybil visited Tarquin the Elder (the last king of Rome, 6th century BC) and offered him nine books of prophecy for a great price. He refused; she burned three of them and offered the rest at the same price. After repeating this, he finally paid the original price for the remaining three.
+-   Oh, My Gods!: God swears by Himself in Jeremiah 22:5 and Jesus does the same thing in Matthew 28:19.
+    
+    "But if you will not hear these words, I swear by Myself, said the LORD, "that this house shall become a desolation."
+    
+-   Old Retainer: Odysseus's old nurse in _The Odyssey_; Phoenix to Achilles in _The Iliad_.
+-   Omniscient Morality License: The Book of Job, as well as most of the tests, trials, and commands God gave people.
+-   Only Sane Man: Most prophets. Also Odysseus. Noah and Lot from the Book of Genesis — although "righteous" rather than sane.
+-   The Only Way They Will Learn: "The Tao which can be explained is not the eternal Tao." Laozi, fifth century BC China.
+-   Opinion Flip-Flop: In the Qín Dynasty of China, one imperial advisor tested the loyalty of courtiers by bringing a deer before the emperor and calling it a horse. Anyone who dared tell the truth was soon vacated from his post.
+-   Or Are You Just Happy to See Me?: A joke in _Lysistrata_.
+-   Ordered to Cheat: Krishna urges Bhima to illegally hit Duryodhana below the belt in the Mahabharata, since his Achilles' Heel is his thighs.
+-   Organ Autonomy: Ancient Greek and Roman doctors commonly believed that the uterus could get up and wander around a woman's body, inciting her to insanity. This is why the word "hysteria" comes from the Greek word for uterus. After all, if _your_ organs did this to you on a regular basis, you might start to lose it after a while.
+-   Original Man: The subject of how different past humans were from modern humans was the subject of Hebrew, Greek and Hindu philosophy long before the feudal period.
+-   Original Position Fallacy: Haman in the Book of Esther is asked by Ahasuerus Shah how one who served his liege well should be honored, and Haman answers assuming the intended honors are for _himself_, rather than his hated rival the Jew Mordecai. Similarly in 2 Samuel Chapter 12, the prophet Nathan invokes this on King David after the latter pulled the original Uriah Gambit so he could have Uriah's wife Bathsheba for himself.
+-   Orphan's Plot Trinket: In Euripides' play _Ion_, the orphan Ion was raised in Apollo's temple, and the only clue to his true identity is the basket he was found in. His mother conveniently recognizes this basket just in time to prevent him from killing her, after she'd tried to assassinate him.
+-   Ostrich Head Hiding: Mentioned in Pliny the Elder's _Natural History_.
+-   Our Angels Are Different: The Bible actually features very few Winged Humanoid Angels. Otherworldly, Lovecraftian Eldritch Abomination\-looking angels abound. Those in Isaiah and Ezekiel are particularly... awesome. The Cherubim were originally imagined as winged cobras.
+-   Our Hydras Are Different: Classical Mythology:
+    -   Greek mythology is the Trope Maker through the Lernaean Hydra, a monstrous nine-headed snake that lived in the swamps of Lerna and guarded one of the entrances to the underworld. A creature of poison, its breath and blood were both fatally toxic and, in some versions, even its scent was deadly. The creature was a daughter of the primordial monsters Typhon and Echidna, like many of the other multi-headed or hybrid monsters of Classical myth, and was eventually slain by Heracles during his second labor, scorching the stumps of the Hydra's heads to keep them from growing back and burying its last immortal head beneath a rock. He then dipped his arrows in the Hydra's blood, turning them permanently poisonous. One interpretation of the original hydra myth was that it served as a symbol of the Lernean swamp itself, where plugging up one spring would cause another to spring up shortly after.
+    -   Heracles would later encounter Ladon, the dragon of the Hesperides, which was sometimes described as having a hundred heads, though these heads did not regrow after being destroyed.
+-   Our Sirens Are Different: The Sirens and their fatally enthralling voices in Greek Mythology.
+-   Ouroboros: Adisesha is a primordial being who coils and forms the seat of Vishnu. Adisesha does not actually consume itself and it in fact has thousands of heads but still Adisesha forms a symbol for infiniteness and the endlessness of time.
+-   Out of the Frying Pan: In The Bible (Amos 5:19), "It will be as though a man fled from a lion only to meet a bear."
+-   Outdoor Bath Peeping: David to Bethsheba in The Bible (Samuel 1). Actaeon and Siprotes to Artemis, and Tiresias to Athene, in Classical Mythology.
+-   Outsourcing Fate: Several examples in Greek Mythology, but probably the best-known is Paris having to choose the most beautiful goddess from among Athena, Hera, and Aphrodite. We all know how that ended.
+-   Overpopulation Crisis: Plato and Aristotle raised this issue in the fourth century BC when the population of Athens were causing problems — at a time when there were only around 200 million people on the planet as a whole.
+-   The Owl-Knowing One: Owls are the symbol for the Greek goddess of knowledge Athena.
+-   Panacea: The trope as we know it comes from Greek Mythology.
+-   Papa Wolf: In _The Odyssey_, many of Odysseus' problems are caused by Poseidon's wrath and revenge for the fate of his son Polyphemos, whom Odysseus blinded. Ares, usually not depicted in a favorable light, once killed a son of Poseidon to stop him from raping Ares' daughter.
+-   The Paragon Always Rebels: In one version of Judeo-Christian mythology (_much_ later described in Milton's _Paradise Lost_), Lucifer was a paragon of the angelic hosts before he refused a command from God (either to bow down before humanity, or before Jesus, reports vary) and rebelled. Interestingly, the Yazidi version of the myth is a subversion: Melek Taus (equated to Lucifer, leading to the false accusation that Yazidis are Satanists) is a holy figure who refused the command because it would violate the First Commandment. God rewarded the Peacock Angel for not being a Yes-Man, making him the leader of the Archangels.
+-   Parental Abandonment: A staple of fairy tales.
+-   Paranormal Investigation: the letter _To Sura_ by Pliny the Younger (62-113 AD) tells of a restless ghost put to rest.
+-   Parental Favoritism: Jacob vs. Esau, Joseph vs. his brothers (Genesis).
+-   Parody: The ancient Greek _Batrachomyomachia_, a parody of the war epic genre depicting a conflict of mice and frogs.
+-   Pater Familicide: The Greek hero Heracles, in a fit of insanity caused by the goddess Hera.
+-   Peacock Girl: Hera in Greek Mythology sometimes wears a few feathers; the peacock is her sacred bird.
+-   The Pearly Gates: The door to Heaven as described in the Book of Revelations.
+-   Pegasus: The Trope Namer shows up first in Hesiod's writing.
+-   The Philosopher King: As outlined in Plato's _The Republic_.
+-   Pizza Boy Special Delivery: A joke about craftsmen going to the home on some pretext for the benefit of insatiable wives appears in _Lysistrata_.
+-   Plague of Good Fortune: Herodotus tells of a king who had such good luck that he threw a cherished ring in the ocean to try and balance things, hoping to dodge whatever doom the gods had in store for him. The ring was eaten by a fish, the fish captured by a fisherman, and the ring returned to the king. This sealed his fate —- he lost everything.
+-   Planet of Hats: The allegorically intended nations of Hyperborea and Atlantis, among others.
+-   Plant Person: Greek religion has the dryads, the nymphs of trees, groves, woods, and mountain forests. Hamadryads were a type that died when their tree died.
+-   Platonic Cave: Plato's philosophy.
+-   Please Shoot the Messenger: In Classical Mythology, Iobates was the King of Lycia. His nephew Proetus sent Bellerophon to Iobates with a note that said "Kill the bearer of this message."
+-   Please Spare Him, My Liege!: Large portions of Numbers and Leviticus consist of the Israelites doing something to piss God off, God threatening to wipe them all out, Moses pleading with Him, and then God agreeing to destroy only a few thousand instead.
+-   Polar Opposite Twins: The Greek gods Artemis and Apollo became this, but only after the Greeks and Romans started regarding them as sun god and moon goddess.
+-   Power Incontinence: King Midas just can't stop turning everything to gold... his food, his water, his daughter...
+-   The Power of Rock: In the Book of Joshua, Joshua destroyed the walls of Jericho with music.
+-   Preacher's Kid (diabolic type): In Leviticus 10:1,2 the very first High Priest, Aaron (the brother of Moses), had two of his sons mess up.
+-   Prodigal Hero: In The Bible Moses is exiled for some time, then comes back to free the Israelites from slavery.
+-   The Promised Land: Canaan in the Book of Exodus, which is also the Trope Namer.
+-   Prongs of Poseidon: The Greek god Poseidon's trident is the Trope Namer.
+-   Proper Lady: _The Odyssey_ features Penelope, Queen of Ithaca, who remains loyal to her missing husband Odysseus for twenty years, keeping her suitors at bay. She was cited as the greatest example of marital faithfulness in the classical world.
+-   A Protagonist Shall Lead Them: Saul, Moses, David, etc. in The Bible.
+-   Protective Charm: Achilles being dipped in the River Styx to be made invulnerable, Classical Mythology, 1st century AD.
+-   Psycho Ex-Girlfriend: Euripides's Medea, after Jason dumped her for the princess of Corinth. This did not end well.
+-   Public Domain Artifact: Many such artifacts are drawn from very old stories, but it happened back then too. The Golden Fleece was used by various mythographers in their retellings of the Argonauts story, and Hercules's bow showed up in his stories and _The Trojan Cycle_.
+-   Pungeon Master: God made some puns in The Bible.
+-   Punished for Sympathy: There are multiple incidents in The Bible where God punishes the Israelites for showing pity to those He commanded to be destroyed. In Sophocles' _Antigone_, after the title character's brother dies an enemy of the state Creon commands that his body be left unburied. Antigone disobeys and is Buried Alive for her trouble.
+-   The Punishment: In some versions of the Greek Medusa myth, Medusa used to be a beautiful nymph. Being a hideous monster, and turning people to stone, was a punishment from Athene for having sex (or rather, getting raped) in her temple.
+-   The Purge: The first documented<sup>note&nbsp;</sup>  political purge happened in Athens after the Peloponnesian War: The victorious Spartans, having installed an oligarchy of "Thirty Tyrants" to govern Athens, left the city to its own devices. The Thirty proceeded to execute or exile the leaders of the former ruling party; then the leaders of the opposition party; and finally anyone they suspect of being able to organize an opposition. Eventually, the Athenians revolted, restored democracy, and issued a general amnesty. However, having learned the value of eliminating ideological enemies, they then proceeded to try, convict, and execute Socrates.
+-   Purple Is Powerful: In Ancient Rome, the Patrician class were the only people allowed to wear Tyrian purple.
+-   Purpose-Driven Immortality: The Bible contains several examples of people who were promised that they would not die until they saw some prophesy fulfilled, such as Simeon who was promised he would live to see the Lord's Messiah.
+-   Putto: Originating in Ancient Rome and adopted by the Classicists in The Renaissance.
+-   Pyrrhic Victory: The Trope Namer is the Greek general and king Pyrrhus of Epirus, who tried to conquer Italy. Rome beat him in a war of attrition partly because of Roman improvements on Greek military doctrine (better combined arms tactics, and generals commanding from the rear instead of leading from the front), but mostly because they could replace their forces fairly readily and Pyrrhus couldn't. After his third clash with the Romans, Pyrrhus is recorded to have said, "Another victory like this and we are undone."
+
+    Q-Z 
+
+-   Queer Flowers: Sappho's poetry using "with violets in her lap" to refer to homosexual romance between women.
+-   Quest to the West: Odysseus trying to go back to Ithaca after the Trojan War.
+-   Quote-to-Quote Combat: Jesus versus Satan in the Gospels of Matthew and Luke.
+-   Rage Against the Heavens: The title characters in The Book of Job and Aeschylus's _Prometheus Bound_.
+-   Rags to Royalty: Julius Caesar went from Impoverished Patrician to dictator-for-life of Rome. The biblical Esther went to common Jewish girl to queen.
+-   Raised by Wolves: Romulus and Remus by a wolf. Atalanta by a bear, according to late Classical writers. In both cases, it's more that the babies were nursed by wild animals until human foster-parents found them.
+-   "The Reason You Suck" Speech: In _The Bible_, Jesus, of all people, lays down a few of these, usually directed at the Pharisees. He also had a tendency to lambast crowds as he was teaching them, such as this quote from Matthew 21:31 (New American Standard Bible):
+    
+    _Which of the two did the will of his father?” They said, “The first.” Jesus said to them, “Truly I say to you that the tax collectors and prostitutes will get into the kingdom of God before you._
+    
+-   Reclining Reigner: The Roman upper class were well-known to dine on reclining sofas, the better to show off their affluence.
+-   Refuge in Audacity: Codefied and Named by Roman Senator and Historian Publius (or Gaius) Cornelius Tacitus _“Crime, once exposed, has no refuge but in audacity.”_
+-   Reign of Terror: The rule of the Thirty in Athens at the end of the Peloponnesian War was an Unbuilt Trope form—when the oligarchs installed by Sparta, in search of establishing the "ideal state" (most were aristocratic students of Socrates—not La Résistance), executed not only all of the leaders of the former Athenian democracy, but all of the potential democratic leaders and all of the _suspected_ potential democratic leaders. (This didn't prevent the overthrow of the Thirty and reestablishment of the democracy—which averted this by issuing a general amnesty.) Later, the proscriptions of Octavian and Marc Antony in Rome—killing hundreds in the name of the people—fits more closely.
+-   Reincarnation Romance: Several examples in Hindu Mythology: Sati/Parvati and Shiva; Kama and his wife; etc.
+-   Religion of Evil: Pre-Christian "pagan" religions accused Judaism of this. Later on Christians accused non-Christian religions of Satan-worship. Nowadays atheists accuse Christians of this. Tomorrow....?
+-   Reptiles Are Abhorrent: In Book of Genesis, the evil Serpent that persuades Adam and Eve to eat the Forbidden Fruit appears to be a stand-in for Satan.
+-   The Resenter: Cain, towards Abel, in the Torah.
+-   RevengeSVP: The _Cypria_ featured the story of Eris, goddess of Strife. Denied invitation to the wedding of Peleus and Thetis, she responded by orchestrating a quarrel between Aphrodite, Athena, and Hera. Said quarrel led to The Trojan War.
+-   Reverse Whodunnit:
+    -   The Bible:
+    -   _Oedipus Rex_ is the Ur-Example. The audience knows Oedipus killed his own father, but we wait for him to figure it out.
+-   Ride the Rainbow: Rainbows, the motorized vehicles of Old Olympus.
+-   Riddle Me This: The Sphinx in Greek Mythology.
+-   Riddle of the Sphinx: The Trope Namer in Greek Mythology.
+-   Riddling Sphinx: Again, Greek Mythology.
+-   Right Behind Me: Aristophanes' _The Frogs_ has such a joke with Dionysus bragging about a monster just before it appears.
+-   Right Way/Wrong Way Pair: The Book of Proverbs' first 29 chapters carry the thread of contrasting the wise man and The Fool.
+-   Ring of Power: The Ring of Gyges, which made the wearer invisible, but also corrupted him (as told by Plato in book II of _The Republic_).
+-   Rip Van Winkle: The oldest examples are found in The Talmud in the story of the ancient Rabbi and scholar Honi ha-M'agel, and in Diogenes Laertius' biography of the Greek sage Epimenides.
+-   Road Trip Plot: _The Odyssey_, the story of Odysseus's 10-year voyage home.
+-   Roaring Rampage of Rescue: Essentially the entire plot of the Ramayana once the demon king Ravana kidnaps Rama's wife Sita, starting a war in the process.
+-   Roaring Rampage of Revenge: From Greek Mythology: Achilles avenging Patroclus, Odysseus killing the suitors, and Heracles on several occasions.
+-   Robot: The _automatones_ created by Hephaestus were machines that moved of their own accord and worked for their maker; some of them had humanoid form.
+-   Robot Girl: Hephaestus is served by _automaton_ maidens made of "living gold" in _The Iliad_.
+-   Rock of Limitless Water: Several of these appear in Classical Mythology. In addition, Moses creates one with God's power in The Bible.
+-   Romance Arc: Book of Genesis: God creates Man. Next on the agenda — Introducing Man's love interest. Classical Mythology examples include Venus and Adonis, Jason and Medea, and Cupid And Psyche.
+-   Ron the Death Eater: The different versions of myths in Ancient Greece would often favour their patron Gods and heroes and paint the heroes and Gods of their enemies unfavourably.
+-   Rousing Speech: Boudicca gave one in her (ill-fated) campaign against the Roman invaders of Great Britain. Pericles' funeral oration in the Peloponnessian War, as depicted by Thucydides, has elements of this.
+-   Rule of Seven: Rome was built on seven hills.
+-   Rule of Three: In the New Testament: In John 13:38 "Jesus answered (Peter), Wilt thou lay down thy life for my sake? Verily, verily, I say unto thee, The cock shall not crow, till thou hast denied me thrice." After his resurrection, Jesus asks Peter three times if he loves him, extracting from Peter a promise to continue his work three times before he leaves him alone. This could be a symbolic reversal of Peter's thrice-denial of Jesus before his death.
+-   Sacred Hospitality: An ancient Greek custom, and a plot point in many myths. The gods punish those who violate this rule. Getting rid of those pesky suitors would have been easier were it not for this.
+-   Sadly Mythtaken: When the Greeks started worshipping the Egyptian child-god Harpokrates (Har pa-Khered), they called him the god of silence because Egyptians usually depicted him holding a finger to his lips. But in Egyptian iconography, this was just a symbol of childhood, like sucking a thumb.
+-   Same-Sex Triplets: Greek Mythology has the 3 Fates, the 3 Furies, the 3 Graces, the 3 (elder) Cyclopes, the 3 Hekatonkhires, the 3 Horai/Seasons (usually), the 3 Harpies (usually), the 3 Graeae, and the 3 Gorgons (usually).
+-   Satan Is Good: Specifically, the positive and sympathetic portrayal of the god Prometheus in _Prometheus Bound_, as compared to earlier depictions, fits this trope fairly well.
+-   Satire: The name of the form comes from the Roman period, being the label given to the works of the poets Ennius, Lucillus, Perseus, Horace, and Juvenal. The Romans considered satire the only uniquely Roman form of literature, but although the Romans did develop it the furthest, the plays of Aristophanes were earlier and were definitely satirical. (Some surviving Ancient Egyptian works can be interpreted satirically, but these can also be read seriously.)
+-   Saved From Their Own Honor: God stops Abraham from ritually sacrificing Issac after he was ordered to by God.
+-   Scaled Up: Greek mythology example: the river god Achelous turns into a serpent to fight Hercules for the hand of a princess called Deianeira. He loses, and in one version Hercules rips off one of his horns, which was used by the nymphs to make the Horn of Plenty.
+-   Schmuck Bait:
+    -   "Do not under any circumstances bring this horse into your city, because then us Greeks will never ever be able to conquer Troy."
+    -   Adam and Eve: "You can eat anything you like in this garden, except the fruit from That One Tree. Got that? Whatever you do, don't touch the fruit from That One Tree."
+    -   Pandora's Box (actually a jar), with Pandora intentionally set up to peek.
+-   Screw the Rules, I Have Money!: Happened more and more towards the end of The Roman Republic.
+-   Scylla and Charybdis: Odysseus lost several men to the Trope Namers.
+-   Sealed Evil in a Can: Pandora's Box, filled with all the miseries and evils that now make humanity miserable, as told by Hesiod.
+-   Sealed Good in a Can: Several examples predate feudalism. Hesiod's Theogony did it twice:
+    -   The Cyclopes and Hundred-Handed were imprisoned by Uranus, then again by Cronus, because they were ugly. Zeus freed them, and they pledged their not-inconsiderable skills to his cause.
+    -   Pandora managed to shut the box before Hope got away.
+-   Sea Monster: Charybdis and Leviathan are just a couple of many sea monsters found in early myths.
+-   Sea Serpents: In _Classical Mythology_, Scylla is a many-headed, sharp-toothed serpentine beast that guards a narrow strait in the ocean (with her counterpart Charybis which is a monster in the center of a giant vortex, pulling nearby ships into her hungry maw). Multiple characters in various myths have to pass through the narrow channel and pick one of the two to deal with, which gave birth to the idiom _between Scylla and Charybdis_ (= between a rock and a hard place).
+-   Seduction Lyric: Catullus wrote some overtly seductive poems, and the trope may well go back further.
+-   See You in Hell: According to the Roman biographer Suetonius, a certain actor implied this in a farce during Emperor Nero's bloody reign.
+-   Self-Fulfilling Prophecy: The Greek god Cronos, whose brutal efforts to prevent his children from overthrowing him directly motivated them to do exactly that. Oedipus, fleeing his adoptive parents to avoid killing Dad and marrying Mom, came to Thebes where his real parents lived.
+-   Serpent Staff:
+-   Sexual Euphemism
+-   Sexual Extortion: Testament by Joseph featuring Potiphar's Wife, mentioned in the Book of Genesis. Also the story of Bellerophon.
+-   Shaming the Mob: The Gospel according to John 8:1-11, New Testament.
+-   Shapeshifting Seducer: Greek god Zeus used the usual form for a Bed Trick with Alcmene, mother of Heracles. But he has also gone after mortal women as a bull, a swan, and a "shower of gold."
+-   Shared Dream: In Matthew 2:1-12 of The Bible, the Magi are all warned in a dream about Herod's malicious intentions while they're traveling to meet the baby Jesus.
+-   Shark Pool: Pliny the Elder, Seneca and Cassius Dio report the fact that Vedius Pollio (who died in 15 BC) had his slaves fed to lampreys when they displeased him.
+-   Shoot the Dog: Fairly common early in the Old Testament.
+-   Shield Surf: According to Plutarch's _Life of Marius_, during the war between the Romans and the Cimbri, the Cimbri showed off their toughness and audacity by climbing up naked to snowy peaks of the Alps and then sliding down from there on their shields.
+-   Sidetracked by the Analogy: Happens every so often when when one of Jesus's parables falls flat. See Comically Missing the Point above.
+-   Signature Item Clue: In _The Bible_, Potiphar's wife gets hold of Joseph's cloak as he runs away from her. She later produces the cloak to support her claim that he tried to rape her.
+-   Simple Country Lawyer: Cicero, in his _In Verrem_ speeches, emphasized his background as a non-patrician from the Italian town of Arpinium.
+-   Sinister Minister: Diotrephes and Ciaphas in the New Testament.
+-   Sins of Our Fathers: In The Bible, especially Original Sin. The Greek gods bring misfortune on several descendants of Tantalus through their family curse, even those who were innocent, because Tantalus was a cannibalistic jerkass.
+-   Sleeping Dummy: In 1 Samuel 19 in _The Bible_, David's wife Michal disguises a statue as David and hides it in a bed, giving David time to escape from King Saul.
+-   The Smart Guy: Athena among the Olympians: she's the goddess of wisdom, strategic thinking, and various arts. Odysseus tends to be this whenever acting as part of a group, or leading a crew.
+-   Smart People Build Robots: The legend of the Golem, originally found in the Talmud. It was said that those who made golems were wise Rabbis with thorough knowledge of the nature of God.
+-   Smashing Hallway Traps of Doom: The Argonauts had to pass their ships through the maritime version in Greek Mythology.
+-   Smite Me, O Mighty Smiter: One of the Ajaxes in _The Iliad_ curses the gods until Poseidon and Zeus both smite him.
+-   Snakes Are Sexy: Depending on the source, Medusa of the Greek Mythology can count. Instead of being horrifyingly butt-ugly, some stories depict Medusa to be extremely beautiful regardless of the snake hair, so beautiful that people turn to stone anyway out of the sheer beauty.
+-   The Sociopath: Alcibiades of Athens. The nephew of Pericles, he was brilliant, charismatic, and excelled at virtually everything he applied himself to, from soldiery to statecraft to seducing women (and men). He was also inconstant, fickle, capricious, impulsive, and felt lasting affection for few if any people — except, perhaps, for his purported friendship with Socrates. He was as good at making bitter enemies as he was at making superficial friends, and for this reason he changed sides a dizzying number of times during The Peloponnesian War; a war that he had helped to reignite, for no other reason (according to Thucydides and Plato) than his own ambition. In _The Mask of Sanity_, psychiatrist Hervey M. Cleckley writes that Alcibiades "had the gift of every talent except that of using them consistently to achieve any sensible aim or in behalf of any discernible cause."
+-   Soiled City on a Hill: The state of the world just before The Great Flood occurred, and of Sodom and Gomorrah. Atlantis in Classical Mythology, and Dvārakā in the Mahabharata, both sank into the seas for this reason.
+-   Solar-Powered Magnifying Glass: Used to light the Olympic torch in _The Clouds_. Greek historian Lucian claimed that Archimedes built a giant bronze mirror and set fire to ships attacking Syracuse, but the story is hard to believe.
+-   Son of a Whore: In the _Chandagoya Upanishad_, the sage Satyakama Jabala was the son of a prostitute who did not know who Satyakama's father was. As only boys of Brahmin parentage were allowed to study the Veda, this could have excluded Satyakama from higher learning; but when the boy Satyakama applied to be taught by the sage Haridrumata, he told Haridrumata the full truth about his parentage. Haridrumata opines that only a Brahmin could speak so honestly, and agrees to teach Satyakama.
+-   The Sons and the Spears: The oldest known version is by Plutarch.
+-   Sorcerer's Apprentice Plot: Lucian's _Philopseudes_, 150 AD.
+-   Speculative Fiction LGBT: Lucian's _True History_ is a satire on his predecessors' works (like The Odyssey) being treated as factual when they really weren't, by having a soldier get transported to the moon where he meets aliens, fights the Sun, and marries a prince.
+-   Speech-Centric Work: This was a popular format for philosophical works in Ancient Greece. For example, Plato's works are presented as conversations between two parties.
+-   Spontaneous Choreography: The Greek chorus did this on stage, as evidenced in the terms _strophe_ and _antistrophe_ (referring to dancing), though the actual dance steps are lost.
+-   Standard Hero Reward: The Greek seer Melampos "won" a princess for a bride by performing heroic feats.
+-   Star Scraper: The Tower of Babel in Genesis 11:1-9 was envisioned as being tall enough to reach heaven, but God put a stop to it.
+-   Stars Are Souls: In Greek Mythology, most of the northern hemisphere constellations were supposed to be the souls or images of people placed in the sky by the gods — sometimes to reward or memorialize a hero, sometimes to humiliate (?) somebody they hated.
+-   The Starscream: This could sum up the Roman Empire in the 3rd and 4th centuries CE. One series of these after another. Almost every Emperor was a military general who betrayed his Emperor and seized power for himself, only to have the exact same thing happen to him.
+-   Stealth Insult: "Rex Iudaeorum", coming from a Roman, was not an honorific...
+-   Stereo Fibbing: The Bible, specifically the story of Susannah and the Elders in the Apocrypha.
+-   Stranger in a Familiar Land: Homer's _Odyssey_.
+-   Straw Character: Plato regularly used strawmen as opponents to Socrates in his Socratic dialogues.
+-   Straw Feminist: The Amazons in Classical Mythology, all-female warriors who either killed their sons or enslaved them.
+-   Straw Nihilist: Achilles goes on a rant about the meaninglessness of the heroic values and how they're all doomed to obscurity in _The Iliad_.
+-   Streisand Effect: A Chinese proverb from the 4th century BCE translates as, "The desire to conceal something brings more attention to itself."
+-   Stylistic Suck: Eumolpus in _The Satyricon_, an absolutely awful poet who is nevertheless convinced he is a genius philosopher. We hear plenty of his bad poetry throughout his sections of the story, and it is so bad that other people usually pelt him with rocks to make him stop.
+-   Suddenly Suitable Suitor: In the classical Sanskrit play _The Recognition Of Shakuntala_.
+-   Suffer the Slings: Courtesies of David and the Israelites, essentially the ancient counterpart of pistols.
+-   Supernatural Aid: Gods granted Perseus the use of winged sandals and the Cap of Hades (which rendered all wearers invisible) so he could slay Medusa.
+-   Superpowerful Genetics: Greek myths include Sisyphos, who talked his way out of Tartaros. His son Sinon convinced the Trojans to bring the Trojan Horse into their city. Apparently lying is genetic.
+-   Superweapon: The Ur-Example exists in the Mahabharata in the form of the 'Brahmastra' — Divine weapons that always hit their target and completely annihilate their enemies.
+-   Supporting the Monster Loved One: The Minotaur, son of the Queen and stepson of the King, was kept in the Labyrinth and fed sacrifices by his stepfather.
+-   Sweet Sheep: Sheep are very prominent in _The Bible_ (notably in the New Testament) who serve as symbols of peace, gentleness, innocence. Especially in numerous Parables of Jesus such as "Parable of the Lost Sheep", "The Sheep and the Goats", and The Nativity of Jesus a.k.a "The Nativity Scene". Since Jesus' sacrifice, sheep (especially lambs) quickly become very important animals in major religions such as Christianity, Judaism, and Catholicism.
+-   Sweets of Temptation: In Classical Mythology, Hades falls in love with Persephone and kidnaps her, but she refuses all of his romantic advances. Finally, at his urging, she eats six sweet, juicy pomegranate seeds. When her uncle Zeus comes to take her back, the rules of the Underworld state that Persephone is bound to it since she has eaten food from there, but Zeus compromises by declaring that Persephone will spend six months of every year with her mother Demeter and the remaining six months in the Underworld with Hades, one for each seed she ate. So, when Persephone and her mother are together, Demeter is happy and blesses the earth with spring and summer, but when she has to return to the Underworld, Demeter's sadness creates fall and winter.
+-   Swords to Plowshares: A prophecy in The _Book of Isaiah_ mentions that in the world to come people will beat their swords into plowshares, spears into pruning hooks, and eschew the ways of war forever.
+-   Tag Team Suicide: The tale of Pyramus and Thisbe from _The Metamorphoses_ by Ovid, the inspiration behind _Romeo and Juliet_.
+-   Take That!: The Bible includes several passages that amount to insults directed at enemies of ancient Israel, such as saying that the people of Moab and Ammon were descended from the products of Parental Incest. Euripides's _Electra_ mocks a plot development in Aeschylus's _Oresteia_. There's also Catullus and his entire genre of invective poems, writings meant to take potshots at personalities of his era- such as Julius Caesar and Cicero.
+-   Take That, Audience!: Most surviving Ancient Greek comedies featured a _parabasis_, in which the actors suddenly halted the plot to spend several minutes insulting random spectators. Aristophanes' characters also insulted the audience in their dialogue.
+-   Taken for Granite: Everybody who ever looked at a Greek Gorgon. Lot's wife was turned into a pillar of salt in the Book of Genesis 19.
+-   Taking You with Me: The Bible — post Traumatic Haircut Samson and the Philistines, specifically.
+-   Talking Your Way Out: Sisyphos did this to escape The Underworld after he died.
+-   Tastes Like Chicken: The First Century BCE Roman poet Horace ridiculed the habit of serving peacocks during Roman feasts, saying the birds tasted no different from chicken.
+-   Tell Me About My Father: Telemachos in _The Odyssey_.
+-   Tempting Fate: Capaneus of the Seven Against Thebes, and the companions of Diomedes after The Trojan War.
+-   Thanatos Gambit: Several examples (as detailed on the Trope Page), although the one with the most lasting influence makes up the bulk of the Gospels: Jesus Christ's entire _life_.
+-   Thicker Than Water: When Theseus comes to Athens, his step-mother, Medea, tries to poison him, but Aegeus recognized the tokens he had left for Theseus, saves him, and exiles Medea — although he had never even seen his son before.
+-   This Bed of Rose's: In The Bible, in the second chapter of Joshua, the prostitute Rahab houses and protects two spies sent by Joshua, and she is commended in the book of Hebrews (11:31).
+-   This Is a Work of Fiction: Though the phrase isn't directly used, the 2nd Century AD novel _True History_ has a lengthy preface/introduction in which the author explains that everything in the book is completely made up.
+-   This Is for Emphasis, Bitch!: Courtesy of King Saul:
+    
+    "You **son of a perverse, rebellious woman**! I know that you side with the son of Jesse—to your shame, and to the shame of your mother's nakedness!"
+    
+-   Thoughtcrime: As the Good Book Says... (specifically in Matthew 5:28), "...whosoever looketh on a woman to lust after her hath committed adultery with her already in his heart."
+-   Test and Trial Tropes: Heracles/Herucles, Theseus, Odysseus, Jason, Oedipus,... all have to fulfill impossible tasks and quests.
+-   Token Heroic Orc: Or token heroic centaur, in the case of Chiron from Classical Mythology.
+-   Torn Apart by the Mob: Dates back at least as far as the myth of Orpheus who was ripped apart by Maenads: frenzied female followers of Dionysus.
+-   Totalitarian Utilitarian: Karl Popper (somewhat persuasively) reads Plato's _Republic_ as advocating this: the means are horrifying, but (theoretically) the society is perfectly just and everyone's as happy as can be.
+-   Tragedy: Greek theatre, starting in the late 6th century BC.
+-   Tragic Intangibility: Used by Homer in _The Iliad_ and _The Odyssey_, inspiring two episodes of _The Aeneid_.
+-   Tragic Mistake: Used by the Greek playwrights and codified by Aristotle.
+-   Trail of Bread Crumbs: Theseus, on Ariadne's advice, used a ball of twine this way in the Cretan Labyrinth.
+-   Transflormation: Several of the Transformation Fiction stories mentioned below involved the transformed character becoming a flower or other plant.
+-   Transformation Fiction: Very popular in Classical Mythology, with stories from The Metamorphoses being some of the more noticeable examples.
+-   Translator Microbes: In the Acts of the Apostles, the Holy Spirit blessed Jesus's Disciples so that when they preached, anyone could understand their words, regardless of language barriers.
+-   Traumatic C-Section: Agamemnon wants to do this to pregnant Trojan women in _The Iliad_.
+-   Traumatic Haircut: Samson suffers this in the Book of Judges.
+-   Treated Worse than the Pet: Discussed in The Bible. In the parable of the prodigal son, after taking his share of the inheritance and ditching his family, he blows through his newfound wealth and ends up a starving farmhand. He observes that the pigs he tends are fed better than him, and returns home because he knows his father would never treat a servant that poorly.
+-   Tricking the Shapeshifter: Greek god Zeus learned that his wife Metis would bear a son who would overthrow him, so he tricked her into shapeshifting into a fly, and swallowed her whole. Thus he tricked Fate as well.
+-   The Trickster: Hermes is a famous example in Greek Mythology. As a newborn, he stole Apollo's cattle. The Homeric Hymn to Hermes describes him as "a son, of many shifts, blandly cunning, a robber, a cattle driver, a bringer of dreams, a watcher by night, a thief at the gates". Eris has a similar role in the _Cypria_.
+-   Trojan Horse: The Trope Namer.
+-   Trojan Prisoner: Jesus at Golgotha, on a spiritual level.
+-   Troll Bridge: The Angel of Death in The Bible.
+-   Turn the Other Cheek: Jesus advocates and names this trope in the New Testament.
+-   Turtle Island: Pliny The Elder in his _Natural History_ describes a giant fish called _pristis_, which is so big that sailors have taken it for an island and landed on its back.
+-   20 Bear Asses: In the 1st Book of Samuel, King Saul demands of David to bring him one hundred Philistine foreskins as a condition for letting him marry his daughter Michal. David brings two hundred foreskins.
+-   Two Lines, No Waiting: _The Odyssey_ has Odysseus attempting to get home, and Odysseus's son Telemachos's attempts to find his father.
+-   Two-Timing with the Bestie: After discovering his wife Aphrodite was having an affair with his brother Ares, Hephaestus started up a relationship with Aglaia, one of the Graces and Aphrodite's friend. In versions where Hephaestus divorces Aphrodite, he and Aglaia even get married and have a much happier life together.
+-   Ugly Guy, Hot Wife: Hephaestus and Aphrodite in _The Iliad_.
+-   Unaccustomed as I Am to Public Speaking...: Socrates at his trial, according to Plato.
+-   Underdressed for the Occasion: Appears in Matthew 22.
+-   Underside Ride: Odysseus and his crew escape from Polyphemus's cave by tying themselves to the underside of sheep in _The Odyssey_.
+-   The Un-Favourite: Ares in _The Iliad_, in the eyes of his father Zeus. In a famous scene, Athena helps her champion Diomedes defeat Ares himself in combat. Ares escapes while severely wounded and bleeding. When he complains to Zeus about his favoritism for Athene, Zeus chews him out for being a violent bully.
+-   Unicorn: Greek writers first mention them in the 5th century BC.
+-   Unicorns Prefer Virgins: The earliest known example is the story of the ascetic One-Horn, written in the _Mahabarata_.
+-   Uriah Gambit: Named after a biblical story of King David.
+-   Utopia Justifies the Means: Plato's _Republic_ institutes a rigorous discipline on its citizens that seems rather harsh to modern readers and would have even seemed so to most Greeks (although perhaps not the Spartans). Additionally, when queried as to how this ideal state might be established in reality, Plato's Socrates replies that the only way to do it would be to find an existing city and exile everyone over the age of ten. (Some scholars think that Plato was using this as an indication that the ideal state was impossible, but others aren't so sure.)
+-   Verbal Weakness: Springing from Hindu Mythology
+-   Very Loosely Based on a True Story: 'The Education of Cyrus'' by Xenophon only resembles the life of its supposed subject Cyrus the Great in the Broad Strokes: He was the son and heir of the king of Anshan and a Mede princess; he had to fight a war against the Medes (led by his grandfather); he beat the Medes, then conquered the rest of the Middle East, and is generally considered to have ruled wisely and justly. The rest, however, is entirely made up; in particular, the constitution and educational system of Anshan that Xenophon describes more closely resembles that of Sparta than anything you'd find in Persia. Xenophon didn't really care, and neither did his readers, since it was obvious that Xenophon was writing a "mirror-of-princes" intended to instruct the education of wise rulers rather than a straight biography of the Persian king. (In particular, Xenophon seems to model his Cyrus on the Socratic ideal of a philosopher-king.)
+-   Villainous Lineage: Original Sin in the Book of Genesis.
+-   Virile Stallion:
+    
+    -   _The Bible_: Ezekiel 23:19-20 references this trope with the following passage:
+    
+    "Yet she became more and more promiscuous as she recalled the days of her youth, when she was a prostitute in Egypt. There she lusted after her lovers, whose genitals were like those of donkeys and whose emission was like that of horses."
+    
+    -   _Classical Mythology_:
+        -   Centaurs were originally characterised as amorous warriors who were seen as wild, lawless, and inhospitable beings who were slaves to their "animal passions" (with wise Mentor Archetype Chiron being a rare exception).
+        -   Satyrs were originally depicted by the Greeks as hairy men with the ears and tails of horses or donkeys and permanently-erect Gag Penises (which may or may not have been equine in appearance, Depending on the Writer) who spent all their time engaging in Black Comedy Rape against whatever crossed their paths. It wasn't until the rise of the Roman empire when they became associated with fauns that they gained their more well-known half-human/half-goat appearance.
+-   Voice of the Legion: Daniel experiences it in The Bible.
+-   Voluntary Shapeshifting: In "Prince Khaemwase and Si-Osiri", the two Ethiopian wizards shapeshift themselves into geese. Though Egyptian, this tale is only from the 1st century CE. Greek gods like Zeus, Proteus, Thetis, and many river gods could take any shape they pleased.
+-   Vow of Celibacy: Real Life's Vestal virgins, acolytes of the Roman goddess Vesta who were required to remain virginal and were severely punished for violating this.
+-   Wacky Wayside Tribe: Much of _The Odyssey_ is taken up by Odysseus and his men encountering Wacky Wayside Tribes during their 10-year journey home: Cyclopes, Lotus-Eaters, Aeolus and his family, Circe and her "animals," the Laestrygonians, the Cicones, Calypso...
+-   Walk on Water: Jesus Christ and Apostle Peter both did it in the New Testament. Ancient Greeks credit Orion with the ability.
+-   War Elephants: Encountered by Alexander the Great when invading India; also famously used by Hannibal in the Second Punic War.
+-   Warrior Poet: King David slew giants, won wars... wrote poetry, and once danced naked to celebrate the return of the Ark.
+-   Weak to Fire: In the legend of Hercules, the only thing that would stop the Hydra regrowing its heads after one was cut off was to quickly cauterize the stump with fire.
+-   Weasel Mascot: Pliny the Elder suggested a weasel (most likely a least weasel) in regards on dealing with Basilisks.
+-   Weeding Out Imperfections: _The Four Gospels_: In the Parable of the Tares, Jesus tells a story about a man who sowed wheat seed in his field, but an enemy came in the night and planted weeds. When the man's servants learned what had happened, they offered to pull out the weeds, but the man refused as the weeds and wheat look similar and thus the servants might accidentally pull out the wheat as well. He thus orders the men to leave both types of plants to grow together, and when the harvest time comes they will separate the wheat from the weeds and take one for harvest and another to be burned. When Jesus's disciples ask for an explanation, he explains that this is a metaphor for the coexistence of good and evil people in the world and the judgment that will come at the end of time.
+-   We Have Become Complacent: Croesus and Solon, as described in Herodotus' _Histories_.
+-   Welcome Back, Traitor: The Bible.
+-   Well-Intentioned Extremist: Creon or Antigone or both of them in _Antigone_, depending on interpretation. To audiences at the time it was written, Creon was _not_ considered an obvious villain, though his actions do conflict divine law.
+-   Werewolf Theme Naming: In Greek mythology, King Lycaon of Arcadia was turned into a wolf as punishment for serving Zeus human meat. Lycaon's name already contains "lykos", the Greek word for "wolf".
+-   What Happened to the Mouse?: Several examples in Classical and Judeo-Christian stories, ranging from Aeneas after evading Achilles in _The Iliad_ to Jesus Christ's stepfather Joseph after Luke 2:41-51. See the trope page for details.
+-   What You Are in the Dark: The Chinese proverb for this trope<sup>note&nbsp;</sup>  dates back to the Han Dynasty.
+-   Who's on First?: Odysseus telling Polyphemus that his name was "Nobody," leading to Polyphemus screaming to the other Cyclopes that "Nobody has blinded me!" Naturally, they saw no need to go help him.
+-   Who Wants to Live Forever?: The message is already implied in the Greek myth of Tithonos, who wished for immortality but forgot to ask for eternal youth, and now ages _forever_.
+-   Wicked Stepmother: In Greek Mythology, Hera reacted to her husband Zeus' constant infidelity by harassing or trying to kill her stepchildren, such as Apollo, Artemis, and Heracles. There is also a poem in the _Anthologia Palatina_ where a warning says that stepmothers bring bad luck
+-   Wig, Dress, Accent: A minor prophet in 1 Kings 20 disguises himself by pulling his headband down over his eyes.
+-   Wizard Duel: In "Prince Khaemwase and Si-Osiri" the story-within-the-story features a duel between an Egyptian wizard and an Ethiopian wizard at the royal court in Memphis. Though Egyptian, this tale is only from the 1st century AD.
+-   A Wolf in Sheep's Clothing: One of Aesop's Fables.
+-   Wonder Child: Isaac in The Bible.
+-   World of Ham: Happens in The Bible.
+-   Wretched Hive: Sodom and Gomorrah from The Bible.
+-   Wring Every Last Drop out of Him: Virgil's version of _The Aeneid_ prolongs Queen Dido's death in a tragically beautiful way.
+-   Xenofiction: The Latin novel _Metamorphoses_ (also known as _The Golden Ass_), written in the 2nd century AD, is narrated by a man who was changed into a donkey. His experiences cover the whole spectrum of an animal's life.
+-   Year Outside, Hour Inside: According to _Mahabharata_ and other texts from Hindu Mythology, King Kakudmi a.k.a. Raivata went to Brahma to ask for advice on to whom he should marry his daughter. After waiting for what seemed to be short time, Brahma informed him that 108 _yugas_ had already passed on earth, and all the candidates that Raivata had considered suitable son-in-laws had died long ago.
+-   You Can't Go Home Again: Homer's _Odyssey_.
+-   You Have Waited Long Enough: Poor Penelope has to put up with this for _years_ in _The Odyssey_.
+-   You Make Me Sick: A surviving fragment of Plautus' lost play _Frivolaria_.
+-   Youngest Child Wins:
+    -   Zeus, king of the Greek gods, is the youngest of his siblings according to Hesiod. His father Cronos, previous king of the gods, was also the youngest son. Homer, however, makes Zeus the eldest son of Cronos.
+    -   Also a remarkably popular trope in The Bible: Abel, Isaac, Jacob, Joseph, Benjamin, Ephraim, and Moses were all favored younger sons. (In most cases, parental favoritism led to big trouble...)
+-   Zero-Effort Boss: Emperor Claudius vs. Beached Killer Whale.
+
+___

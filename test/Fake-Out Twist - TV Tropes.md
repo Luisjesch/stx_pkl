@@ -1,0 +1,64 @@
+_"These are the movies that swerve multiple times, that keep you guessing right up until the very end. They're the movies that you immediately want to go back and rewatch, just to see all the little hints that get dropped throughout."_
+
+The Reveal is a fairly common plot device: new information about the plot that either sets the tone going forward or that redefines things the viewer has already seen, in a Wham Shot. Sometimes, though, a piece of media will hit its viewers with a wham shot and then immediately follow it up with another wham shot that completely redefines the first one. For instance, in one scene, it may be revealed that the person thought to be the main villain was Dead All Along; then the next scene reveals that the villain's corpse was Actually a Doombot. Note that if the wham shots do not occur in immediate succession within the narrative, it's not this trope.
+
+The most common reason for doing this is to make the _actual_ plot revelation have more impact. The viewer hasn't had time to recover from the first one and their primed emotions make the real twist an even bigger surprise. It can also be done to build up what _seems_ like a Captain Obvious Reveal only for it to turn out it was a Red Herring and the real twist was something much more unexpected. If done poorly, it can be an Ass Pull or drive the plot Off the Rails into kudzu, but when executed well, it leaves the viewers excited to see how the new revelation affects the plot.
+
+The first wham shot will sometimes be an Internal Reveal, but the second almost never is. In an ongoing episodic work, the second wham shot will often be left on a Cliffhanger. May involve Once More, with Clarity if prior plot points are revisited with the new perspective of one or both revelations.
+
+Related to Five-Second Foreshadowing, which is when a twist is first hinted at a few moments prior to its reveal. When a reveal is given a fake cliffhanger that's played for laughs, you get To Be Continued... Right Now. See also Confirm Before Reveal, which is when a plot point is told before it is shown.
+
+As a plot twist trope, this page is Spoilers Off. Read at your own risk.
+
+## Examples
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   _Bleach_: The Evil Plan of Xcution is to alter their memories with Tsukishima's Fullbring, train Ichigo to unlock and how to use _his_ Fullbring, then later Tsukishima unalters their memories, and finally they steal his reawakened powers and share them if with each other. After Ginjou successfully steals (part of) Ichigo's powers, the other members of Xcution (minus Tsukishima) remind Ginjou of their agreement of sharing Ichigo's powers. Annoyed by them, Ginjou cuts them all (again, minus Tsukishima). Which is how they receive their power-ups.
+-   _My Hero Academia_:
+    -   In chapter 191 of the manga/episode 90 of the anime, Hawks, the number 2 ranked hero in Japan, is shown meeting with Dabi of the League of Villains, revealing Hawks to be The Mole. Once the meeting is finished, the next scene is Hawks recalling how the Heroes Public Safety Commission asked him to spy on the League, meaning he's actually a mole for the good guys.
+    -   The end of Chapter 335 sets up Toru Hagakure as the U.A. traitor by way of an Answer Cut when All For One talks about the "friends" he can use. However, the next chapter reveals the real traitor.
+
+    Films — Animated 
+
+-   _Lightyear_: When Buzz is beamed up to Zurg's ship, Zurg unlocks his robotic suit to reveal an older man who resembles Buzz. Buzz exclaims, "Dad?" (A twist backed up by Toy Zurg's Luke, I Am Your Father reference in the earlier _Toy Story 2_ film.) However, Zurg instead reveals that he is actually Buzz himself, from a now-alternate future.
+-   In _Turning Red_, when Mei throws a dodgeball at Tyler with a transformed red panda arm it appears no one but her friends noticed her partial transformation. When she transforms in the bathroom at Abby's request it is revealed she was noticed and by what appears to be the Alpha Bitch of the school and her Girl Posse. This is then subverted as not only do they not bully her they find her panda form adorable.
+
+    Films — Live-Action 
+
+-   _Frailty_: Fenton and his father turn out to be insane Serial Killers; Fenton's father professes to have the ability to sense evil in people and they believe they're purging sinners from the world by ritually murdering them in their barn. But then it's shown that Fenton isn't Fenton at all: he's Adam, the brother "Fenton" claimed was murdered by their father. And Adam actually can sense evil in people. Adam killed Fenton because he was a murderer, and he sees that the detective he's been talking to slew his own mother.
+-   Near the end of _Friday the 13th (1980)_, it's revealed that the killer is Jason's mom, meaning that Jason wasn't actually Back from the Dead as was thought. The Final Girl dispatches her and returns to Crystal Lake to catch her breath from her ordeal. Surprise, Jason _is_ Back from the Dead and pulls Alice into the lake. She wakes up in the hospital having almost drowned and no one else believes her that Jason was involved.
+-   _The Others (2001)_: In the final act of the film, it turns out that the Stewart family has been seeing ghosts because they were Dead All Along. But wait! It actually turns out that _they're_ the ghosts and the "ghosts" they've been seeing were the living family who now owns the Stewarts' old house, who are holding a séance to try to reach out to the former owners who are haunting them.
+-   _Phone Booth_: At the end of the film, the police locate The Caller, who has apparently committed suicide. Stu recognizes him as the guy who tried to deliver him a pizza at the beginning of the film. However, once Stu is put on painkillers and is waiting to be transported the _real_ Caller walks by to tell him to stay on the straight and narrow. Due to Stu's state we see him mostly as a blur but you can tell he's played by the person who voiced him so far, Kiefer Sutherland.
+-   _The Usual Suspects_: Verbal Kint's movie-long monologue finally finishes up by revealing the identity of Keyser Söze: Dean Keaton, who died in the opening scene of the movie. As Kint leaves the police station, a fax comes in showing the _actual_ identity of Keyser Söze: Verbal Kint himself.
+-   _The Wicker Man (1973)_: The missing girl Howie came to the island to find? She was never missing. The villagers are hiding her and are planning to sacrifice her to their gods... except, actually, the whole case was a lie, they're planning to sacrifice _Howie_, and they succeed.
+-   _Who Framed Roger Rabbit_: A particularly clever one occurs with Judge Doom. Right from the moment he is introduced, Doom is an Obviously Evil villain who dresses in all-black, regularly tortures and kills toons for little reason, and is relentlessly hunting Roger as the prime suspect in the murder of Marvin Acme. So it's no real surprise to Eddie Valiant and the audience when it's revealed he's Acme's killer, thus setting the plot in motion, as well as the killer of R.K. Maroon. However, all of this distracts the audience from the _real twist_: Judge Doom is actually a toon <sup>note&nbsp;</sup> , and is the toon who killed Eddie's brother years ago.
+
+    Literature 
+
+-   _The Executioner and Her Way of Life_: Everyman Mutou Mitsuki is summoned to another world but is cast out by the king when his ability comes up as null. However, it turns out this is actually an incredibly powerful ability. Moments later, he is stabbed in the head and murdered by the real protagonist for being too dangerous to her world.
+-   _Harry Potter and the Prisoner of Azkaban_: When Lupin first appears in the Shrieking Shack and helps Sirius Black in the climax, it appears as though Lupin was The Mole the whole time (paralleling the Quirrell reveal from the first book). However, Lupin quickly explains that he hasn't been helping Sirius because he had believed, as the trio and the Wizarding World at large do, that Sirius betrayed Harry's parents and killed Peter Pettigrew... until he saw Pettigrew's name on the Marauder's Map. Lupin and Sirius go on to reveal that not only was Pettigrew alive and guilty of Sirius's alleged crimes, but he was in the room with them... as Ron's pet rat Scabbers.
+
+    Live-Action TV 
+
+-   The season 2 finale of _Only Murders in the Building_ provides two twists in quick succession. In their Summation Gathering the heroes accuse Cinda Canning of being the killer. Then the focus shifts to Alice who in a rage kills Charles with a knife. After she has been restrained, there is another twist revealing that everything up to this point was staged in order to draw out the real murderer amongst the guest, side character Poppy White.
+
+    Video Games 
+
+-   _Choo-Choo Charles_: After the eggs on the island are all destroyed, along with the monstrous Charles itself, The Stinger first shows a lone egg deep underground that implies that this egg will hatch into the new Charles. Then the camera turns to reveal that there was not just one, but _hundreds_ of eggs in the background, all of which have potential to hatch, making the future threat much more terrifying than initially presented.
+-   _Fantasy Maiden's Odd Hideout_ does this to subvert Evil All Along. It appears to conclude with the revelation that Bernd, Ange's friend, was the evil vampire all along who trapped her in the gingerbread house to suck her blood. After the credits roll, -Bernd's Story is unlocked, which almost immediately shows that Bernd is merely a Dhampyr\- it's _Ange herself_ who is the vampire, and Bernd locked her away to keep her from harming others.
+-   _Later Alligator_ has Pat the Alligator hire you to find out which of his family members is out for his life. On New Game Plus and beyond, an additional plot reveal in a new cutscene shows that _you_ were a hired hitman planning to kill Pat all along. The Golden Ending, right after you save Pat from your own attempt to push him off the balcony, reveals that you were after his life because Pat accidentally ordered a hit on _himself_.
+-   _Metal Gear Solid 2: Sons of Liberty_: That the hijacking of the United States' cutting-edge combat mech and a hostage crisis led by a supposedly-insane anti-terrorist unit was orchestrated by the US president himself, and the "water treatment facility" that sprung up to "treat" the environmental damage caused from the aforementioned hijacking is a front for a super-sophisticated airborne battleship for a secret society that really controls America aren't the real twists. The real twist is much stranger: very soon afterwards, the secret society steps forwards to show that the president, the player character, and _the player themselves_ have been manipulated by rogue AI borne from American ideals into acting out a recreation of the first game's own terrorist plot that would justify their authoritarian worldview and conveniently launch the airborne battleship to actively censor and oppress any information deemed useless or extraneous, like "art", "entertainment," "anti-war protests", or "any vaguely subversive opinion".
+-   _Persona 5_: Goro Akechi is revealed to be The Mole in the party who sold out the protagonist. This might disappoint players as it's a major Captain Obvious Reveal... however, it's quickly revealed that the _real_ twist is the party knew all along that he was the traitor, and the whole Framing Device interrogation of the protagonist was one big Batman Gambit on their part to sway Prosecutor Sae Nijima to their side, fake the protagonist's death, and trick Akechi into exposing his boss.
+
+    Western Animation 
+
+-   _Gravity Falls_: In "Tourist Trapped", Dipper is just about to dismiss his theory that his sister's new boyfriend is a zombie, until he reviews his footage and sees Norman's hand fall off. With his zombie theory seemingly confirmed, he rushes off into the woods to find Mabel before it's too late. Norman, meanwhile, decides to tell Mabel the truth about himself, but unzips his hoodie to reveal... a bunch of gnomes stacked on top of each other. Dipper lampshades this when he arrives.
+    
+    **Dipper:** Gnomes? Huh, I was _way_ off.
+    
+-   _Young Justice_: In season two, Aqualad (who's undergone a Face–Heel Turn during the time-skip) kills Artemis by stabbing her through the chest with one of his water blades. At the end of the episode, it's revealed that he's actually The Mole for the heroes and only pretended to kill Artemis (while actually curving the blade around her body) in order to let her join him undercover as Tigress. Unfortunately, they (along with Nightwing and Kid Flash) didn't share this with the rest of the team, leading to problems later because Miss Martian still thinks Aqualad is a traitor.
+
+___

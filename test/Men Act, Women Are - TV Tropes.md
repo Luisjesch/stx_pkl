@@ -1,0 +1,201 @@
+_"Girls can never do anything. Men can ride about the countryside and do things. Girls have to sit and wait for things to happen."_
+
+In media, male characters are defined more by their actions than their personalities or appearances. Female characters, on the other hand, are defined by their personalities and appearances but not their actions.
+
+This trope is rooted in the female/male = passive/active dichotomy.
+
+Essentially, it's the idea men are expected to be out doing things, but women are expected to just sit there looking pretty, emotionally reacting to events, and avoid action. It's also a social construct in real life that's the cause of many other Double Standards that affect both genders.
+
+Part of this trope refers to how characters function to advance the plot. While male characters will be directly involved in the action, or manipulating the action behind the scenes in a comprehensive way, female characters, when they do take action, often take it in the form of inspiring, motivating or nagging a male character to do something. See Lady Macbeth, Henpecked Husband.
+
+And, yes, it also applies to _that_ meaning of "action" as well. In the past, and indeed today, many traditions considered women good if they didn't have sex (got no 'action'), and/or considered them to be superior to women who _did_. <sup>note&nbsp;</sup> 
+
+This trope is a possible consequence of Men Are Generic, Women Are Special. Since men are generic, any individual male character has to do something special to stand out. But because women are special, a female character just has to be, well, female.
+
+## A Super-Trope to:
+
+-   Men Are Strong, Women Are Pretty
+-   My Girl Is Not a Slut
+-   Never a Self-Made Woman
+-   No Guy Wants to Be Chased
+-   Science Hero's Babe Assistant
+-   Stay in the Kitchen
+-   Women Are Delicate
+
+Contrast Action Girl, Damsel out of Distress, Feminist Fantasy, Non-Action Guy, Politically-Active Princess, and Silk Hiding Steel.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime and Manga 
+
+-   Akane from _Ranma ½_ tends to fall into this one pretty hard. She's a very capable martial artist (especially considering that the Tendo school is implied to focus on _weaponry_, not hand-to-hand combat) but right around the time Ryoga is introduced, she starts getting sidelined or kidnapped or otherwise removed from serious fights. Notable ones include the figure-skating pair combat match, where Ryoga switches her out for girl-Ranma by accident and they continue the fight without Akane, even though Ranma is severely injured and Akane is the only one of them who knows how to skate, and the battle where Akane is turned into a literal figurine-sized, motionless, speechless doll and saves Ranma's life by existing really hard.
+
+    Comic Books 
+
+-   _Sensation Comics Featuring Wonder Woman_: The annoyance of having interviewers attempt to reinforce this trope in real life by asking women about their beauty regimes and their male coworkers about their work (usually seen with actors) is discussed in "Venus Rising":
+    
+    **Robyn:** I'm guessing this doesn't happen to Superman.  
+    **Diana:** "What's it like being a _**male**_ superhero? Enough about Lex Luthor. Who does your hair?"  
+    **Robyn:** Ha!
+    
+-   _Street Fighter_ has the Legends subseries which so far has focused on its female characters. In these comics, the personalities and thoughts of the heroine in question are always shown alongside her personal life; some like Ibuki's show her dressing up in outfits that are not in game and even have her with her hair down for viewing pleasure.
+
+    Fan Fiction 
+
+-   Most of the plot of _Knowledge is Power_ seems to be driven by the male characters, with even Hermione being relegated to a supporting role even though she's named in the header.
+-   _In This World and the Next_ treats Hermione similarly, drifting into Unfortunate Implications because the plot is driven by her being raped by (literal) Ron the Death Eater, despite Ron being unable to hex two muggles properly and Hermione being a powerful witch.
+-   Blatantly displayed in _The Real Us_, where Harry is given the title "The-Man-Who-Won", while Hermione is merely "The-Witch-Who-Was-With-Him."
+
+    Films — Animated 
+
+-   Disney Animated Canon:
+    -   Zigzagged in _Sleeping Beauty_. Prince Phillip faces a fire-breathing dragon to save Princess Aurora while she lies asleep, looking beautiful. Although he is technically the hero, the fairies do most of the work.
+    -   Most early Disney princess movies the man acting as pretty much their only characterization. Prince Florian in _Snow White and the Seven Dwarfs_ just shows to wake Snow White up, Prince Charming organized ball and research of _Cinderella_, and Prince Eric in _The Little Mermaid_ shows his affection by killing Ursula.
+
+    Films — Live-Action 
+
+-   In the _Back to the Future_ films, female characters who aren't the 1955 version of Lorraine are only there to serve as Satellite Love Interests and victims to male characters. Not one of them has an active role in advancing the plot. In fact, they had to basically write around one (Marty's girlfriend Jennifer) because she was brought to the future at the end of the first film, but when they actually started making the _Back to the Future Part II_, they realized they did not know what to do with her. Rather than Retcon her away, they solved this problem by making her stay sedated for much of the film.
+-   Subverted and sort of zig-zagged in _Dungeons & Dragons: Honor Among Thieves_: The two women in the party _do_ plenty in the many fight scenes and they are much more physically badass than the two male protagonists. And the Big Bad is a powerful female wizard. But her henchman and the two male protagonists still get most of the screentime and almost all of the character development. The male protagnists get character arcs where they resolve personal issues and improve themselves (to be accepted by the women in their lives) and they make all the plans and dramatic decisions; the two female "protagonists" are along for the ride, but they're emotionally static and primarily fulfill the narrative function of a sounding board, reacting to the men's decisions and actions in supportive and/or snarky ways.
+-   The plot of _Fantastic Four (2015)_ is driven by Victor, Reed, Johnny, and Ben going on a drunken transdimensional trip to Planet Zero, where they mess around with a strange substance that gives them their powers. Sue doesn't go along on the trip — she's just there when they get back and gets splattered by the substance.
+-   In _Groundhog Day_, male lead Phil re-experiences the same day in a trope-titling loop for possibly thousands of years according to some theories, learning new skills and experiencing personal growth before finally breaking the loop by proving himself worthy of female Love Interest Rita. Rita, having experienced the day only once, is the same vaguely pleasant person at the end of the film as she is in the beginning.
+-   At the end of the film, _Hancock_ is off saving the world while his ex-wife and the only other super-human of their kind, Mary, is content living with a mortal husband and bringing up a mortal kid. Also, Hancock was always saving her whenever they were de-powered in the past.
+-   For a film that's ostensibly about female empowerment, the female characters in _In a World…..._ are remarkably passive in the two main romantic subplots:
+    -   Carol sleeps with Gustav when he hits on her despite not liking him much and seeming actively put off by the fact that he sees nothing more in her than that she's "pretty," apparently for no better reason than that it's less trouble than actively rejecting him.
+    -   Then she waits patiently while Demetri Martin's character goes through the awkward, halting motions of courtship rather than take any initiative herself despite the fact that there's an informed mutual attraction.
+    -   When Moe's attractive neighbor asks to use his shower, he actively attempts to sound out the sexual possibilities, clumsy as his attempts may have been. By contrast, his wife Dani merely smiles and blushes when an attractive Irishman flirts with her and eventually seduces her into cheating on Moe. When this causes a Second-Act Breakup, it is Moe, not Dani, that performs the grand romantic gesture that reconciles them.
+-   _Noah_: The women don't really have a purpose in this film other than being wives and mothers, nor do they do much of anything. Best example of this in the film is when Noah is trying to kill Ila's daughters. Both she and Noah's wife both stand there and watch, instead of even trying to fight him. Ila doesn't even try to run away. If he had decided to go through with it, they would have just let him do it.
+-   A common criticism of _Scott Pilgrim vs. The World_ is Ramona's blandness, especially when she's compared to other female characters in the story. Incredibly, she can _rollerblade through dreams_, but plot-wise this is only significant as the way Scott first sees her. For the rest of the movie, her most impressive powers are her fighting skills (which aren't unique by any means) and her frequent hair-dyeing. The audience is simply supposed to accept that she is worthy of all the trouble Scott goes through to date her. Although, this is a case of Adaptation Distillation and All There in the Manual. The comic makes it clear that while Scott is pursuing Ramona and having all his adventures, Ramona is also dealing with some pretty serious issues of her own (particularly recovering from Gideon's emotional manipulation), something that's glossed over in the movie.
+-   Subverted in _Serenity_. River starts fighting Reavers to buy time for Mal. A few minutes later, the doors open, the bodies of dead Reavers cover the floor, and we get a badass shot of River with a knife in her hand.
+-   _Star Wars_
+    -   Inverted in _The Phantom Menace_. Queen Padmé's planet is under attack so she pleads her people's case to Chancellor Valorum and the Galactic Senate, goes home, and leads the charge to take back her planet while Anakin merely follows and then accidentally saves the Gungans.
+    -   _Revenge of the Sith_ is all about how Anakin turns into Darth Vader while Padmé is merely his pregnant wife who dies of a broken heart. She originally had a political role in helping set up what would eventually be the Rebel Alliance, but it all ended up on the cutting room floor.
+    -   In _The Force Awakens_, despite being a General in the Resistance and her long history of diplomacy and strategic thinking, Princess Leia makes no useful contributions to the planning or prepping session to bring down Starkiller Base and spends most of her screen time being Han's jaded ex-wife, while Han himself is still going into battle.
+-   _Teenage Mutant Ninja Turtles (2014)_: Megan Fox's character, April O'Neil, is established as the main character but does little besides getting rescued from danger by the Turtles, or just watching them fight, or screaming (and at one point, faint) in fear. She doesn't do anything important to the plot, she even gets Vern to take down Eric Sacks in the climax. The only female character in the film who actually uses weapons and participates in battles is Karai.
+
+    Literature 
+
+-   In _Bearing an Hourglass_, Gawain uses the phrase "man does, woman is" in a conversation with Norton, who doesn't appear to disagree, implying this is at least a somewhat common belief in their culture.
+-   Averted in _A Brother's Price_, as men have Gender Rarity Value and if women didn't do things, not much would get done.
+-   In _In Desert And Wilderness_ Staś shoots lions, Kali says funny things and Nel is there mostly to be adored and looked after (don't even ask about Mea). But - Nel's cuteness secures allies (even among the animal kingdom!), so - zig-zagged?
+-   Zigzagged in _Frankenstein_, which we should note was written by a proto-feminist. For the most part, the women are completely passive while the men are active as complete _idiots_, but it's Victor's cousin who takes charge and acts as a character witness (to no avail, unfortunately) when her friend is charged and falsely convicted of the murder of their youngest brother.
+-   A common criticism of _The Railway Series_ was that most of the female characters were coaches, while all of the male characters were engines (meaning that the females were incapable of doing anything unless they were being towed along by a male).
+-   _A Song of Ice and Fire_:
+    -   The Faith of the Seven, a quasi-Catholic Church based around worshiping seven aspects of one godhood. Aside from the Mother and the Father, the male aspects are the Warrior and the Smith, whereas the female aspects are the Maiden and the Crone. In the south of Westeros, men are defined by craftsmanship and valor whereas females are defined by simply being marriageable, and their religion is constructed to support that. Justified in that George RR Martin isn't particularly enamored with the feudal socioeconomic system in his books.
+    -   Averted fiercely with many female characters: some are straight-up Action Girls (Arya, Asha, Brienne, Ygritte, some of the Sand Snakes), and many of those who aren't are playing the Game on the battlefield of diplomacy. Special mention goes to Daenerys who started out as this trope played straight until she took control of her sex life (and the other aspects of her life in general).
+-   Tolkien's Legendarium:
+    -   In _The Lord of the Rings_, Galadriel doesn't do much of anything beyond giving gifts and advice to heroes. However, Galadriel was a legit Action Girl in _The Silmarillion_, leading her people across the local equivalent of the North Pole, on foot, when some Jerkass burned the ships that were supposed to come back for them.
+    -   Averted with Éowyn, even dispatching the Witch-King of Angmar, leader of the Nazgûl. Even then, her status as female is part of the Prophecy Twist that gets around the prophecy that states "It is not by the hand of MAN that the Witch-King will be slain", a thing she points out. She also decides to Stay in the Kitchen upon meeting and marrying a Gondorian noble. In fairness, he also settles down and becomes a Non-Action Guy; he was never a warrior by choice, only taking up the sword in a defensive war against an imminent threat.
+    -   Aragorn's Love Interest Arwen and Sam's Love Interest Rosie Cotton are barely even characters, sitting at home and waiting patiently for the menfolk to come back from the war and marry them.
+    -   The effects of this trope are most obvious simply from how few mentionable female characters LOTR has, despite having tons of characters in total. Of the 38 entries on its character page, only four are female, and one of them is a giant spider. The Hobbit's page has no women at all. No female characters ever join the lead adventuring party, even temporarily.
+    -   Averted with Lúthien. Her father sends her suitor on an impossible Engagement Challenge and locks her in a treehouse, supposedly for her own protection. Lúthien promptly escapes and rescues Beren, her suitor, from a dungeon. She then helps him with the quest (and arguably contributes more than he does), despite not being an Action Girl in the traditional sense. She caps it off by putting _Morgoth_ (Tolkien's equivalent of Satan) to sleep _by singing_. One does not need to be a warrior to be a badass.
+-   In _The Twilight Saga_, Bella stands around while two supermen fawn over her and their families promise to lay down their lives to protect her. Everybody either loves her or wants to kill her to spite the Cullens, but about the only thing about her that stands out is that she's immune to mind reading. This, of course, is a trait she can't control and didn't even know about until Edward told her. On the rare occasion when she is called to action, it's usually just to find a man so he can take care of the problem.
+-   The _Doctor Who New Adventures_ novel _Christmas on a Rational Planet_ features gynoids. What makes them "female" is not simply that they have a female form; according to the novel, an android is "male" because it was built to fulfill a purpose, while gynoids simply are.
+
+    Live-Action TV 
+
+-   River Tam from _Firefly_ is the prime example of a Living Macguffin, while her older, slightly less genius brother is charged with protecting, care taking, and enduring most of Mal's flack. River is said to be a super genius with infinite potential, but because of some rather unsavory experiments performed against her will, she's more sought after as a weapon than an outlaw.
+-   _The Flash (2014)_:
+    -   After two seasons of suffering this, Iris West finally(!) tries to defy this trope, telling her brother, Wally (who after only one season gets to become Kid Flash), "I want my life to mean something. More than as a daughter or as a sister or as a girlfriend. But as a reporter.” She then Took a Level in Badass and killed the season's Big Bad Savitar, directly saving Barry's life. Iris officially averted the trope in Season Four. In the six months Barry was lost in the Speed Force, Iris had assumed the role of Mission Control and _de facto_ leader of the team, and even after Barry returned largely retained the role.
+    -   Given a nod in the Musical Episode "Duet." Barry and Kara need to get into an apartment, and Barry insists he be the one to break down the door. Then he realizes what that sounds like and says he didn't want it to be a "gender thing," he just really wants to kick the door down. Barry and Kara end up doing it together.
+-   In _Law & Order: Special Victims Unit_, Det. Elliot Stabler is a devoted father of four and his partner, Det. Olivia Benson, is the product of rape. On the job, he has rage for the perp and she has empathy for the victims. However, working around as much ugliness as they do, maintaining the ability to care about people is one of the hardest things. Stabler's lost it. In more ways than one.
+-   _The Last Place on Earth_: Elizabeth Scott is a 1910 version of the Manic Pixie Dream Girl who wishes that she could accompany her husband, Captain Robert Scott, on his expedition to be the first humans to reach the South Pole. She resents the fact that she can't go because she's a woman, and she references this trope when she says "Men do. Women don't."
+-   _Survivor_:
+    -   It generally has this during the course of a season, with women often shown just lying around in bikinis looking pretty (but often bonding in the process) while the men of the tribe are often shown chopping wood or helping out around camp. There are of course exceptions to this too.
+    -   Subverted with Russell's "Dumb Girl Alliance"—Russell used the women purely to pad out his numbers, assuming they would see him as a protector and let him do all the strategizing. Of course, Natalie eventually took advantage of that and outwitted him.
+    -   It's worth noting that he used this exact same strategy to get to the final Tribal Council. _Twice._ And that most of the women in his alliance (and his tribe in general) were Too Dumb to Live.
+
+    Music 
+
+-   In _The Hamildrops_, avoiding this trope is Lin-Manuel Miranda's reasoning for changing "First Burn" (and also "Congratulations" from the Mixtape) to "Burn" and "The Reynolds Pamphlet" in the show proper; while the original versions were angrier and more passionate, they made Eliza and Angelica too passive rather than reacting to Hamilton's faults.
+-   In Bonnie Tyler's song "Holding Out for a Hero", the singer keeps making demands for a man with Action Hero qualities without doing anything herself. In the video, even though the whole thing revolves clearly around Tyler and everyone else is just an accessory, and women are actually in the majority among the performers, Tyler does nothing (besides singing, of course) but hang around Holding Out for a Hero and being a Damsel in Distress, and the other female performers only dance and sing in the background, while the faceless male performers play the part of the villains and the hero who fight it out over Tyler.
+-   Bruno Mars and Cardi B's "Finesse" talks at length about the singer and his date being the talk of the party, and everyone can't stop staring at them. He recognizes that both of them have some high qualities, but he attributes his attractiveness to "\[his\] confidence" and his beau's to "\[her\] measurements".
+
+    Tabletop Games 
+
+-   _BattleTech_: In-universe, this is the general attitude of the Draconis Combine, best exemplified by the two eldest children of Theodore Kurita, the ruler of Combine from the 3050s through the Jihad. Hohiro Kurita, his son, is expected to be a model samurai who fights on the front line. His sister, Omi Kurita, is "the keeper of the family honor", which means that she's expected to be a Yamato Nadeshiko who doesn't fight. She actually _could_ fight, but it just wasn't talked about: she once killed an assassin by decapitating him with a sword but because this didn't fit with the image she was supposed to have, it was reported that Victor Steiner-Davion was the one who did so.
+-   Played with in _Exalted_, perhaps unintentionally. You see, there is this big Sun God guy, and all his chosens have superpowers tied to their Skill, i.e. what they can _do_. On the other hand, there is this Moon Deity, who is a woman, a man, and everything in-between. S/he has chosen too, and their superpowers are tied to their Attributes, i.e. who they _are_. For each chosen of the Sun, there is a chosen of the Moon destined to be his/her mate, and this mate has a hard time defying his/her will, which doesn't help the implication.
+
+    Theatre 
+
+-   _An Ideal Husband_ states that, essentially, men are meant to go out into the world and do great things, while the most a woman can ask for is to help and support a great man.
+
+    Toys 
+
+-   _Halo_:
+    -   An interesting example are the _Halo: Combat Evolved_ action figures. The Master Chief figure has twenty-six points of articulation. The Cortana action figure released in the same wave? _Zero_. She's got that cocked-hip thing going on, though (see the page pic).
+    -   Helped and yet played straight with a new figure for _Halo 4_. Cortana's given articulation, but it's limited (9 points) in comparison. And results in an unaligned mess of parts in anything but her neutral standing pose anyway.
+-   Zigzagged with these<small>◊</small> _Metroid: Other M_ action figures. Action Girl Samus Aran in her Powered Armor? Lots of articulation. Samus Aran in her Spy Catsuit? Cocked hips stance, no articulation. By the time when Max Factory released _Figma_ version of Zero Suit Samus, she is finally articulated with or without the Power Suit.
+-   This is fairly common with action figures because the articulation messes up the lines of the body. Frequently, the non-sexy characters (mainly male characters) in a figure line have plenty of articulation, but the sexy characters (mainly female characters) will have significantly fewer points of articulation, often only having a few arm joints and nothing else, or outright being a statue.
+-   Subverted constantly with _BIONICLE_ in both toy design and in the story since female and male characters often shared similar designs and levels of articulation as each other, going all the way back to early franchise characters such as Gali, Nokama and Macku being comparable to their male counterparts, despite otherwise operating via The Smurfette Principle in terms of gender ratio. _BIONICLE (2015)_ kept up the tradition, with Korgot and Gali also matching their male counterparts in the story and toy design.
+
+    Video Games 
+
+-   This trope hits _BlazBlue_ pretty damn hard among its three protagonists. You have Ragna, who is primarily motivated by revenge; Jin, who is motivated by his own sense of justice; and Noel, while she _does_ have a motivation to protect her friends, it is secondary to her role as a Living Macguffin to motivate the men to act.
+-   Zigzagged in _Fire Emblem: Awakening_, where all of the characters get an individual ending, which changes if two characters marry in-game. In many cases, the men's endings are the same, while the women are said to support them in some fashion instead of going off to pursue their own interests. There are a few exceptions, however — a paired Avatar's ending is always the same, no matter the gender, stating that the one thing historians know is that they loved their spouse above all else; Maribelle will always become a magistrate in all of her endings (her pursuing this is mentioned in several of her supports); Sully and Stahl, the game's resident red-and-green cavalier duo, will get a unique ending in which both pursue defending their realm together; Virion _is_ a "traitor and coward" while his wife _acts_ to restore his reputation. Another amusing exception comes if one pairs a woman with Kellam, who spends most of the game being ignored — it's the woman's solo ending, with "her husband's name has been lost to history" tagged at the end.
+-   In _Fire Emblem Heroes_, there was some controversy in Book II because many of the female characters do nothing but let things happen to them (especially Fjorm, who gives exposition about Nifl, and cries and has angst after every setback — and we're not getting into how two of her female family were disposables that were killed off by Surtr just to further the plot) while male characters (like Alfonse) take action, fighting off Surtr's minions and crafting plans to get the Nifl villagers to safety. This was discussed on Reddit here (warning: unmarked spoilers). Though this is averted at the end of Book II as Fjorm successfully defeats Surtr by her own hands.
+    -   _Heroes_ also introduced Duo Heroes, where two characters fight as one. But only one of them is doing the actual fighting and the other enters play only if a Duo Skill is used. This caused a bit of controversy in the beginning as all of them were male-female duos, with the male fighting and the female being an assist character at best or just a simple cheerleader at worst. However, later Duo Heroes zigzag this (e.g. the 2020 Bridal banner having female Bridal Micaiah fighting and the male Groom Sothe assisting).
+
+-   Played straight in _King's Quest III: To Heir Is Human_ where Prince Alexander goes on adventures and his sister Rosella is merely a Damsel in Distress, to be saved from a three-headed dragon. Inverted in _King's Quest IV: The Perils of Rosella_ where Rosella goes on adventures and Alexander stays home and does nothing except mourn their dying father.
+-   In _Pokémon Black and White_ we get Bianca, the first rival in any of the Pokémon games to actually _give up on being a Pokémon trainer_. She starts the game just as excited as the main character and the male rival, Cheren. She even says it's her life's dream to be a great Pokémon trainer and has a small story arc devoted to convincing her father she can handle it. Her strong will holds out until about halfway into the game where she decides she'll never be able to compete with her friends and gives up. She never battles again until post-game, and even then only if the player specifically challenges her. Subverted as she does seem to have gotten a bit more spirited by the time _Pokémon Black 2 and White 2_ comes around, judging by the fact that she's okay with fighting in the Pokémon World Tournament.
+-   _Rune Factory_ has a particularly egregious example in the opening for part 2: despite technically being the same character, the male character is shown fighting monsters (or running away from them) or planting crops while the female character is only shown twirling through flower petals or being surrounded by friendly monsters.
+-   _The Simpsons Arcade Game_ has a dream level that has the player fight each of the playable character's alter egos or representation of their personalities. Homer is represented via power plant workers, Bart is by devil figures but Marge simply is represented by the clouds that make the floor to walk on turning into Marge heads that attack with their hair. Even Marge's own daughter Lisa has a more defined image of personality via saxophones.
+-   _Street Fighter_ does this prominently with its ninjas, Guy is known for being a hero of Metro City saving said place from multiple evil organizations, Zeku is known for being the founder of the Strider clan. Its sole female ninja Ibuki is known for her fun-loving personality and how she has to balance her lifestyles.
+    -   _Street Fighter V_ also exemplifies this with titles. Zeku is known for being the "Original Strider" while Guy is not in the name he is known as a savior of Metro City. What is one of Ibuki's potential titles? "Young and Beautiful".
+-   The opening cinematic of _Tales of Vesperia_ has the male lead (Yuri) fight. The female lead Estelle... dances in a field. The gameplay averts this, though, as both take major actions throughout the story.
+-   The Valkyrur of _Valkyria Chronicles_ fall into this, at least for the first game. The militia is full of male and female soldiers who are uniquely distinguished on their own merits, but the Valkyria are a race of (apparently) all-female superhumans who are just born more powerful than everyone else, and that's why their powers are evil.
+
+    Webcomics 
+
+-   Played with in _Homestuck_. Many Active classes in Sburb, including the most Active, are reserved for males. Active classes change other things with their Aspect - a part of reality - to benefit themselves, whereas many Passive classes - also including the most Passive - are reserved for females, most notably the Muse, who can warp time, space, and reality without _doing anything_ whereas its Active counterpart, the Lord, has to do everything manually, but can do anything. It's averted for some classes, such as Knights, Mages and Seers, and implied other classes. It's actually inverted in the case of the Thief and Rogue classes, who are normally female, with male players being the notable examples.
+-   Parodied with Lampshade Hanging in _Sluggy Freelance_, in the chapter "Summer Vacation": The women in the group talk about how the men have been doing stuff all the time during their vacation, and maybe they should try to accomplish something too, but all they in fact get to do is perform in "gratuitous bikini-shot Sunday" as they talk.
+-   Though the cast of _Weak Hero_ is overflowing with young men who are constantly throwing themselves into battle, the sparse amount of women in comparison mostly stick to the sidelines and bemoan the inability for anyone to step in and stop them. The idea that a woman could step up and try to end a fight is never even presented as a possibility.
+
+    Web Original 
+
+-   _The Onion News Network_ faux talk show, _Today NOW!_, features a segment, “Strong Women in Television Awards,” that actually subverts this trope—although very satirically—by showing the different types of active roles women play on TV ... as long as those women are very attractive to men.
+
+    Western Animation 
+
+-   In an episode of _American Dad!_, Francine revealed that she only sticks with Stan because he's a good provider, while Stan reveals he's only with Francine because she's hot. Though, in other episodes, it's revealed they do genuinely enjoy each other's company.
+-   Averted in _Kim Possible_. The female protagonist, Kim Possible, is always ready for battle, skilled in combat, and intelligent, while the same can be said for her adversary, Shego. Both Ron Stoppable and Dr. Drakken are portrayed as incompetent and mainly serve as comic relief for the show.
+-   In-Universe example in _Rocko's Modern Life_. Rocko, Filburt, and Heffer put together an animated cartoon called Wacky Delly, and each one makes a character. Rocko's contribution is Betty Baloney, whose character concept is "She's a girl!".
+-   In _The Spongebob Squarepants Movie_, when King Neptune's crown gets stolen by Plankton and stationed in Shell City, SpongeBob and Patrick volunteer to retrieve it after Mindy coaches them on how to survive. When SpongeBob and Patrick are ready to give up when they're separated from Shell City by a monster trench, Mindy arrives and inputs courage into their hearts by tricking them they've become grown men through her "mermaid magic". SpongeBob and Patrick then proceed with their journey without Mindy.
+-   _Transformers: Animated_: Zigzagged with Sari Sumdac. Being that she can't do much to help her Autobot friends fight the evil Decepticons, she is mostly just a key witness or only a strategic ally. Sari is quite aware (and ashamed) of this, asking "_Hello? What am I, invisible?_", when she feels insulted for being called useless when really she possesses a key that contains the AllSpark energy, which has great impact on machines and robots. Due to being only a human girl, Sari is also forbidden by Optimus Prime to engage in any combat, as whenever she tries running off to join them in battle, Optimus uses his hand to "wall" her away. Even so, she's even regarded as less important than the **male humans**, Captain Fanzone and her father Issac Sumdac. In one episode of Season 3, she upgrades into a gynoid-form and destroys a rocky alien monster within seconds. But aside from that and her role in the Christmas special, that was all the writers ever bothered to do with her. It turns out that the network ordered the show's creators to push her away from the screen. Poor Sari, she didn't even do anything in the series finale Endgame. And the writers did have big plans for her in Season 4.
+-   The _Animaniacs_ theme song. Although the series subverts this as Dot is just as involved in the same zany adventures as her brothers.
+    
+    _Dot is cute and Yakko yaks_  
+    _Wakko packs away the snacks_
+    
+    -   The 2020 reboot changes this line to the more active "Dot has wit and Yakko yaks."
+
+    Real Life 
+
+-   Though the shapes have been distorted over time, the Chinese character for "man" (男) is a pictographic representation of a field and a plow, while the character for "woman" (女) represents a curvy human figure. In a similar vein, the character for "father" (父) shows a hand holding an axe, while the one for "mother" (母) shows the same curvy figure as 女, though it retains the two dots that symbolize the nipples. All four are found in the Shang-era oracle bone inscriptions, making this trope Older Than Dirt.
+-   In the Chinese _Yin and Yang_ symbol, the _yin_ represents femininity and passiveness, while the _yang_ represents masculinity and activeness.
+-   In the 2008 US presidential election, Hilary Clinton's clothing and appearance got a _lot_ more attention than that of the male candidates.
+    -   Conversely a male politician's military service record receives a great deal more attention than a female politician's.
+        -   Inverted for the 2012 congressional elections with disabled veteran Tammy Duckworth running against famously handsome incumbent Joe Walsh in the Illinois 8th. Duckworth won.
+    -   Sarah Palin also had some controversy surrounding her wardrobe, but people were actually worried she looked _too_ good and some said she was spending too much money on her clothes.
+    -   The same concern has been raised by some conservative critics of Michelle Obama, alleging that she's paying for them (or vacations with their children) with taxpayer dollars.
+    -   Hillary Clinton famously pointed this out during a television interview when she noted that female politicians, like actresses doing red carpet interviews, are always asked about what they're wearing instead of what they're doing, and male politicians and actors never are. Her point was proven in the same interview, right after she said this when the very first (previously selected) question from the audience she was asked was who was her favourite designer.
+    -   This became very apparent during the 2016 Democratic primaries. It was noted that as a female politician, Clinton couldn't show up looking anything but perfectly dressed and styled to events lest she face criticism about her appearance, but her opponent, Bernie Sanders, with his generally unruly hair and not precisely fashion-plate clothing, could show up looking like he'd just gotten out of bed and it wouldn't be commented on.
+    -   Wyoming Congresswoman Liz Cheney, who was at the time the third-ranking Republican in the House of Representatives as the Chair of the Republican caucus and who had voted to impeach Donald Trump in January of 2021 after the insurrection at the Capitol on January 6th, faced a _lot_ of backlash after her vote, with many of the male members describing in a subsequent meeting just how much she seems to have hurt their feelings. In particular, Congressman Mike Kelly of Pennsylvania — who, it should be noted, was not in any kind of leadership position whatsoever — described her vote as "You're playing in the biggest game of your life and you look up and see your girlfriend sitting on the opposing side."
+        
+        These were grown men. This was 2021. I was standing at the podium at the front of the auditorium thinking, You’ve got to be kidding me. Other female members started yelling, “She’s not your girlfriend!”  
+        “Yeah,” I said, “I’m not your girlfriend.”
+        
+        —_Oath and Honor: A Memoir and a Warning_
+        
+-   Inverted during the 2014 World Cup with this Buzzfeed post about how handsome and sexy Spain's team members are. The post talks about their physical attributes as many fangirls do, and as many men's magazines talk about women. This article was posted just before Spain lost to the Netherlands 5-1, so many commentators (mostly male, but some female) made derogatory comments about how the team was full of pretty boys who couldn't play football (never mind that the Dutch were getting revenge for the 2010 World Cup final and that Spain lost its first match in 2010 and still won the World Cup).
+    -   Short-form news aggregators like Buzzfeed, Gawker, Salon, etc... overwhelmingly cater to consumer spending power of adult women rather than teenage boys, beginning sometime around 2012-2013. Unfortunately, most of this new-found attention comes in the form of sensationalism and fluff meant for Facebook feeds; women genuinely interested in sports might find it somewhat condescending.
+-   A newspaper report in one of the British newspapers caused some controversy in the news over this trope once because it criticized the media over its fascination on the Duchess of Cambridge's (Kate Middleton's) looks instead of the enormous amounts of charity work she'd been doing ever since her marriage to Prince William. The media were quick to deny the accusation, but not before overly-describing what she was wearing and how her hair looked when she recently visited a children's primary school at the time.
+-   A few studies have been done where a baby (whose actual sex was deliberately hidden) was given to volunteers to hold. If the study participants were told the baby was a girl, they tended to describe the baby as "cute," "pretty," "calm," "lovely," etc. _much_ more frequently than they did if told the baby was a boy.
+-   A 2016 photo of two magazines, "Girls Life" and "Boys Life", went viral after someone took a picture due to its personification of this trope. "Girls Life"'s cover featured tips on how to improve personal appearance, while "Boys Life" focuses on activities that boys can engage in.
+-   Generally, the more common insults hurled at men have to do with him being weak, wimpy, passive, or lack of sexual action. The more common insults hurled at women tend to be related to their appearance or sexual history.
+-   The official motto of the U.S. state of Maryland is _Fatti maschii, parole femine_, which (from an archaic form of Italian) literally translates as "Manly deeds, womanly words". (The state government prefers a less literal translation, "Strong deeds, gentle words".)
+
+___

@@ -1,0 +1,1251 @@
+One giant leap in terror. <sup>note&nbsp;</sup> 
+
+_In space, no one can hear you scream_
+
+Sci-Fi Horror is a sub-genre of both Science Fiction and Horror that uses scientific advances or futuristic settings as a source of fear.
+
+Notably, the first Sci-Fi genre work<sup>note&nbsp;</sup>  was also one of the first works in this sub-genre: Mary Shelley's _Frankenstein_, published in 1818.
+
+The broad variation of the parent genres allow for a multitude of ways this can play out: scientific advancements being used for evil ends or creating new, dangerous lifeforms; man's hubris leading to horrific consequences because of our reliance on technology; alien monsters menacing the characters; or the vast loneliness of outer space being a source of ontological dread, branching into Cosmic Horror Story and Space Isolation Horror. Compare and contrast Digital Horror.
+
+___
+
+## Tropes:
+
+-   After the End: The story takes place after the end of civilization, with all the remaining humans struggling for continued survival.
+-   A.I. Is a Crapshoot: Artificial intelligence can and will go crazy.
+-   Alien Abduction: Aliens kidnap humans, often for sinister purposes.
+-   Alien Invasion: Aliens plan to attack and conquer Earth.
+-   Aliens Are Bastards: Aliens are invariably shown to be Always Chaotic Evil.
+-   Animalistic Abomination: A particularly freakish beast.
+-   Apocalypse How: There are many different ways for a doomsday scenario to happen, all of them varying degrees of horrible.
+-   Artificial Zombie: Who needs voodoo and dark magic to raise the dead when you got nanites and cyborg implants?
+-   Assimilation Plot: A creature or machine wants to subdue humanity and turn them into more of itself.
+-   Attack of the 50-Foot Whatever: A giant (something) goes on a rampage.
+-   Beware the Superman: A super-powered individual abuses their abilities to rule over normal people.
+-   Bioweapon Beast: Some monsters aren't born but are merely made.
+-   Blob Monster: Evil had no shape.
+-   Body Horror: Unsettling and painful anatomy or mutilation.
+-   Botanical Abomination: A powerful, plantlike monster.
+-   Brown Note Being: An entity who prove to be detrimental to anyone experiencing it with their senses.
+-   Came from the Sky
+-   Chest Burster
+-   Contagious A.I.: Better make sure your antivirus software is up to snuff.
+-   Cosmic Horror Story: A horror genre dealing with humanity's insignificance in the face of inscrutable beings.
+-   Cybernetics Eat Your Soul: After becoming a cyborg, a person becomes corrupted by their cybernetic parts.
+-   Digital Abomination: A powerful, horrific intelligence born in Cyberspace.
+-   Dramatic Space Drifting
+-   Eldritch Abomination: An ancient and powerful being of unknown origins.
+-   Eldritch Ocean Abyss: There is something lurking deep under the sea, and it is not friendly...
+-   The End of the World as We Know It: A catastrophic disaster results in the total collapse of global human civilization, killing countless people in the process.
+-   Evil Elevator
+-   Evil Phone
+-   Evilutionary Biologist: An evil geneticist who has the goal of improving the human race on their terms.
+-   Face Full of Alien Wing-Wong: A human gets impregnated by aliens.
+-   Face Hugger
+-   Freak Lab Accident
+-   Genetic Abomination: Indescribably scary eldritch-looking monstrosities born from genetic engineering.
+-   Ghost Planet
+-   Gone Horribly Right: The solution becomes a new problem due to working too well.
+-   Gone Horribly Wrong: The solution fails spectacularly.
+-   Haunted Technology
+-   Helicopter Flyswatter
+-   Homicide Machines
+-   Humanoid Abomination: A being lurking deeply in _Homo sapiens_' uncanny valley.
+-   Hyperspace Is a Scary Place: Where you're going, you won't need mouths to scream.
+-   Industrialized Evil
+-   Inscrutable Aliens: You cannot understand the thoughts of these extraterrestrials.
+-   It Won't Turn Off: A machine stays active even when the switch is flipped in the "off" position and/or power is severed.
+-   Killer Robot
+-   Living Battery
+-   Mad Scientist: An insane scientist who conducts bizarre and dangerous experiments.
+-   Mad Scientist Laboratory: The laboratory where a mad scientist conducts their experiments.
+-   Man in the Machine
+-   Meat Moss
+-   Meat-Sack Robot: A cyborg who started out as fully robotic before grafting organic body parts onto its being.
+-   Mechanical Abomination: A machine or A.I. with the capabilities of a god.
+-   Mechanical Monster
+-   Mind-Reformat Death
+-   Nuclear Mutant: Exposure to radiation mutates people into monsters or supervillains.
+-   People Farms
+-   Planet Eater: A being who eats planets.
+-   Planetary Parasite: A massive creature that sucks the nutrients of a hapless planet
+-   Planet Looters: Aliens who steal resources from other planets.
+-   Puny Earthlings
+-   Puppeteer Parasite: A creature that latches onto people and controls their bodies like puppets.
+-   Robotic Undead
+-   Science Is Bad: The story has the moral that scientific progress is evil.
+-   SkeleBot 9000: A robot with a skeletal appearance.
+-   Space Isolation Horror: In space no one can hear you scream.
+-   Space Madness
+-   Spawn Broodling
+-   The Stars Are Going Out
+-   Starfish Aliens: Extraterrestrials who don't abide with familiar body shapes and physiology.
+-   Superhero Horror: A superhero story that's played for horror or invokes a lot of classic horror tropes.
+-   Techno Dystopia
+-   They Look Like Us Now
+-   To Serve Man: Humans are tasty meals for predatory aliens and other monsters.
+-   Transformation Horror: Horrifically being transformed into something against one's will.
+-   Transhuman Abomination: Once human, now horribly inhuman and godlike.
+-   Turned Against Their Masters: A machine puts their creators on a hit list.
+-   Undead Abomination: A vile necromatic being.
+-   Unwilling Roboticisation: A human is converted into a robot or cyborg against their will.
+-   Virtual Ghost
+-   The Virus: An infectious disease that turns people into predatory monsters.
+-   Wetware Body
+-   Zombie Apocalypse: A global pandemic results in most people around the world dying and/or turning into monsters.
+
+## Works:
+
+    open/close all folders 
+
+    Multimedia Franchises 
+
+-   _Alien/Predator/AVP_ franchise(s):
+    -   _Alien_
+    -   _Predator_
+    -   _Alien vs. Predator_
+-   _Danganronpa_
+-   _Dead Space_
+-   _Frankenstein_
+-   _Ghostbusters_ combines supernatural horrors, Weird Science, and comedy in all its iterations.
+-   _Resident Evil_
+-   _Terminator_, while primarily better known as an action franchise, does have plenty of horror elements, particularly the first movie, which plays out like a Slasher Film that just happens to have a time-traveling Austrian-accented robot as the killer.
+
+    Anime and Manga 
+
+-   _AKIRA_
+-   _Alien Nine_
+-   _Bio-Hunter_
+-   _Bio-Meat: Nectar_
+-   _Biomega_
+-   _Blue Gender_
+-   _Brynhildr in the Darkness_
+-   _B: The Beginning_
+-   _Danganronpa_
+    -   _Danganronpa: The Animation_
+    -   _Danganronpa 3: The End of Hope's Peak High School_
+-   _Deadman Wonderland_
+-   _Denjin N_
+-   _Drifting Classroom_
+-   _Elfen Lied_
+-   _Emerging_
+-   _Fourteen_
+-   _Franken Fran_
+-   _Gantz_, which combines aliens, monsters, and high-tech weaponry with a Deadly Game and plenty of Gorn.
+-   _Genocyber_
+-   _Gyo_
+-   _Hero Mask_
+-   _Iczer-One_
+-   _Inuyashiki_, from the same author of _Gantz_, although much less gory.
+-   _Key the Metal Idol_
+-   _King of Thorn_
+-   _Knights of Sidonia_
+-   _Mars of Destruction_
+-   _Milk Closet_
+-   _MPD Psycho_
+-   _Neon Genesis Evangelion_
+-   _Parasyte_
+-   _Real Account_
+-   _Remina_
+-   _Resident Evil_
+    -   _Resident Evil: The Marhawa Desire_
+    -   _Resident Evil: Heavenly Island_
+    -   _Resident Evil: Infinite Darkness_
+-   _Serial Experiments Lain_
+-   _TerraforMARS_
+-   _Vampire Wars_ (Please note that the reason why it belongs here is a _massive_ spoiler, so potential viewers should proceed with caution while reading about it.)
+
+    Comic Books 
+
+-   _Alien_
+    -   _Alien (2021)_
+    -   _Alien (2022)_
+-   _The Beauty_
+-   _Black Gas_
+-   _Caliban_
+-   _Carnage_
+    -   _Maximum Carnage_
+    -   _Absolute Carnage_
+    -   _Extreme Carnage_
+    -   _Carnage (2022)_
+    -   _Carnage Reigns_
+    -   _Carnage (2023)_
+-   _The End (Marvel Comics)_: A thematic series of After the End comics by Marvel Comics.
+    -   _Hulk: The End_
+    -   _The Punisher: The End_
+    -   _Captain Marvel: The End_
+    -   _Venom: The End_
+-   _El Eternauta_
+-   _The Evil Within_
+-   _Fanboys Vs Zombies_
+-   _The Frankenstein Monster_
+-   _Ghost Rider 2099_
+-   _Jason X Special_
+    -   _Friday the 13th: Jason vs. Jason X_
+-   _Immortal Hulk_
+-   _Judge Dredd_ has used its dystopian sci-fi setting for anything from drama to action to comedy, as well as horror. For instance, _Dark Justice_ sees Dredd and Anderson battle the Dark Judges on a Ghost Ship in space.
+-   _Man-Thing_
+-   _Morbius_
+-   _Nameless (2015)_
+-   _Outer Darkness_
+-   _Sherlock Holmes and the Horror of Frankenstein_
+-   _Southern Cross_
+-   _Swamp Thing_
+-   _The Thing from Another World_
+-   _Venom_
+    -   _Venom (2003)_
+    -   _Venom (Donny Cates)_
+    -   _Venom (2021)_
+    -   _Extreme Venomverse_
+    -   _Death of the Venomverse_
+-   _The Vision (2015)_
+-   _We Kill Monsters_
+-   _The X-Files Season 10_
+
+    Film — Animated 
+
+-   _Dead Space_
+    -   _Dead Space: Downfall_
+    -   _Dead Space: Aftermath_
+-   _Kite Liberator_
+-   _Lily C.A.T._
+-   _Looney Tunes_
+    -   "Hair-Raising Hare"
+    -   "Hyde and Go Tweet"
+    -   "Water, Water Every Hare"
+-   The "Magnetic Rose" segment of _Memories_, which is a classical Ghost Story.
+-   _Resident Evil_
+    -   _Resident Evil: Degeneration_
+    -   _Resident Evil: Damnation_
+    -   _Resident Evil: Vendetta_
+-   "Runaway Brain"
+-   _Seoul Station_
+
+    Film — Live-Action 
+
+-   _10 Cloverfield Lane_
+-   _28 Days Later_
+    -   _28 Weeks Later_
+-   _The Abominable Snowman_
+-   _Absurd (1981)_
+-   _Ad Astra_ (some segments)
+-   _Alien_
+    -   _Alien_
+    -   _Aliens_
+    -   _Alien³_
+    -   _Alien: Resurrection_
+    -   _Prometheus_
+    -   _Alien: Covenant_
+-   _Alien 2: On Earth_
+-   _Alien Cargo_
+-   _The Alien Factor_
+-   _Alien vs. Predator_
+    -   _Alien vs. Predator_
+    -   _Aliens vs. Predator: Requiem_
+-   The second segment of _All Hallows' Eve_
+-   _Alligator_
+-   _The Alligator People_
+-   _Altered States_
+-   _The Amazing Colossal Man_
+-   _A.M.I.: Artificial Machine Intelligence_
+-   _Anaconda_
+    -   _Anacondas: The Hunt for the Blood Orchid_
+-   _Annihilation (2018)_
+-   _Antisocial_
+-   _Antiviral_
+-   _Apollo 18_
+-   _Apocalypse of the Dead_
+-   _Arachnia_
+-   _Arachnicide_
+-   _Arcade_
+-   _Army of Frankensteins_
+-   _The Arrival_
+-   _Assimilate_
+-   _The Astro-Zombies_
+-   _The Atomic Brain_
+-   _Attack of the 50-Foot Woman_
+-   _Attack of the Crab Monsters_
+-   _Attack of the Giant Leeches_
+-   _Attack of the Moon Zombies_
+-   _Attack of the Puppet People_
+-   _Await Further Instructions_
+-   _Bad Taste_
+-   _Banshee Chapter_
+-   _Bats_
+-   _The Bay_
+-   _Bedeviled_
+-   _The Beast from 20,000 Fathoms_
+-   _The Beast in Heat_
+-   _The Beast of Yucca Flats_
+-   _Before I Hang_
+-   _Beginning of the End_
+-   _Beyond the Black Rainbow_
+-   _Big Ass Spider!_
+-   _Birdemic_
+    -   _Birdemic 2: The Resurrection_
+-   _Bite_
+-   _Black Butler_
+-   _Black Friday (2021)_
+-   _Black Sheep (2007)_
+-   _Black Wake_
+-   _Blackenstein_
+-   _The Blob (1958)_
+    -   _Beware! The Blob_
+    -   _The Blob (1988)_
+-   _The Blood Beast Terror_
+-   _Blood Freak_
+-   _Blood Machines_
+-   _Blood Waters of Dr. Z_
+-   _Blue Monkey_
+-   _Boa_
+-   _Body Melt_
+-   _The Borrower_
+-   _The Box_
+-   _The Brain (1988)_
+-   _Brain Damage_
+-   _The Brain from Planet Arous_
+-   _The Brain That Wouldn't Die_
+-   _Brainscan_
+-   _The Bride_
+-   _Bride of the Monster_
+-   _Brightburn_
+-   _The Brood_
+-   _Captive Wild Woman_
+    -   _Jungle Woman (1944)_
+    -   _Jungle Captive_
+-   _The Car: Road to Revenge_
+-   _Carnosaur_
+-   _Carriers_
+-   _The Cave_
+-   _Cave Women on Mars_
+-   _The Cell_
+-   _Cemetery Gates_
+-   _Chernobyl Diaries_
+-   _Child's Play (2019)_
+-   _Chiller_
+-   _Chopping Mall_
+-   _C.H.U.D._
+-   _Class of 1999_
+-   _Class of Nuke 'Em High_
+    -   _Class of Nuke 'Em High Part II: Subhumanoid Meltdown_
+    -   _Class Of Nuke Em High Part III The Good The Bad And The Subhumanoid_
+-   _Clonus_
+-   _Cloverfield_
+    -   _The Cloverfield Paradox_
+-   _A Cold Night's Death_
+-   _Color Out of Space (2020)_
+-   _Communion_
+-   _Contracted_
+-   _The Crawling Eye_
+-   _The Crawling Hand_
+-   _The Crazies (1973)_
+-   _The Crazies (2010)_
+-   _Creature from the Black Lagoon_
+    -   _Revenge of the Creature_
+    -   _The Creature Walks Among Us_
+-   _Creature with the Atom Brain_
+-   _The Creeping Terror_
+-   _Creepozoids_
+-   _Creepshow_<sup>note&nbsp;</sup> 
+-   _Critters_
+-   _Crocodile_
+-   _Cube_
+    -   _Cube 2: Hypercube_
+    -   _Cube Zero_
+-   _A Cure for Wellness_
+-   _The Curse_
+-   _The Curse of Frankenstein_
+    -   _The Revenge of Frankenstein_
+    -   _The Evil of Frankenstein_
+    -   _Frankenstein Created Woman_
+    -   _Frankenstein and the Monster from Hell_
+-   _The Cyclops_
+-   _Dance of the Dead_
+-   _Danny Johnson Saves the World_
+-   _The Dark (1979)_
+-   _The Dark Side of the Moon (1990)_
+-   _Dark Skies_
+-   _The Day of the Triffids_
+-   _The Day the Earth Caught Fire_
+-   _Dead Air (2009)_
+-   _Dead and Deader_
+-   _Dead Heat_
+-   _Deadly Eyes_
+-   _Deadly Friend_
+-   _The Deadly Mantis_
+-   _The Deadly Spawn_
+-   _Dear God No!_
+-   _Death Factory_
+-   _Death Machine_
+-   _Death Warmed Up_
+-   _Decoys_
+-   _Deep Blue Sea_
+    -   _Deep Blue Sea 2_
+    -   _Deep Blue Sea 3_
+-   _Deep Rising_
+-   _DeepStar Six_
+-   _Demon Seed_
+-   _Demon with the Atomic Brain_
+-   _The Descent_
+-   _Destination: Outer Space_
+-   _The Devil Bat_
+-   _The Devil Commands_
+-   _The Devil-Doll_
+-   _Devil Fish_
+-   _Die, Monster, Die!_
+-   _Die You Zombie Bastards!_
+-   _Disturbing Behavior_
+-   _Doctor Blood's Coffin_
+-   _Doctor Jekyll and Sister Hyde_
+-   _Doctor X_
+-   _Donnie Darko_
+-   _Doom_
+-   _Dracula vs. Frankenstein_
+-   _Dr. Cyclops_
+-   _Dr. Jekyll and Mr. Hyde (1920)_
+-   _Dr. Jekyll and Mr. Hyde (1931)_
+-   _Dracula 3000_
+-   _Earth vs. the Spider_
+-   _Eden Log_
+-   _Eight Legged Freaks_
+-   _Empire of the Ants_
+-   _Endangered Species_
+-   _The Erotic Rites of Frankenstein_
+-   _Event Horizon_
+-   _Evolution (2015)_
+-   _eXistenZ_
+-   _Extraterrestrial (2014)_
+-   _The Eye Creatures_
+-   _Eyes Without a Face_
+-   _The Faculty_
+-   _FeardotCom_
+-   _Fido_
+-   _Fiend Without a Face_
+-   _Fire in the Sky_
+-   _Five_
+-   _The Flesh Eaters_
+-   _Flesh for Frankenstein_
+-   _The Fly (1958)_
+    -   _Return of the Fly_
+    -   _Curse of the Fly_
+-   _The Fly (1986)_
+    -   _The Fly II_
+-   _The Food of the Gods_
+    -   _Food of the Gods 2_
+-   _Forbidden World_
+-   _Frankenfish_
+-   _Frankenhooker_
+-   _Frankenstein (1910)_
+-   _Frankenstein (1931)_
+    -   _Bride of Frankenstein_
+    -   _Son of Frankenstein_
+    -   _The Ghost of Frankenstein_
+    -   _Frankenstein Meets the Wolf Man_
+-   _Frankenstein (2015)_
+-   _Frankenstein 1970_
+-   _Frankenstein Island_
+-   _Frankenstein's Army_
+-   _Frankenstein's Castle of Freaks_
+-   _The Frankenstein Theory_
+-   _The Freakmaker_
+-   _Friend of the World_
+-   _From Beyond_
+-   _Full Eclipse_
+-   _Galaxy of Terror_
+-   _Get Out (2017)_
+-   _Ghostbusters_
+    -   _Ghostbusters (1984)_
+    -   _Ghostbusters II_
+    -   _Ghostbusters (2016)_
+    -   _Ghostbusters: Afterlife_
+    -   _Ghostbusters: Frozen Empire_
+-   _Ghost in the Machine_
+-   _Ghosts of Mars_
+-   _The Giant Claw_
+-   _The Giant Spider_
+-   _The Giant Spider Invasion_
+-   _God Told Me To_
+-   _Godzilla_
+    -   _Godzilla (1954)_
+    -   _Godzilla Raids Again_
+    -   _Shin Godzilla_
+-   _Goke, Body Snatcher from Hell_
+-   _Grabbers_
+-   _The Grapes of Death_
+-   _The Green Slime_
+-   _Guns of the Apocalypse_
+-   _The Happening_
+-   _Harbinger Down_
+-   _Hardware (1990)_
+-   _Hell of the Living Dead_
+-   _Hellraiser: Bloodline_
+-   _Hell's Highway_
+-   _Hidden_
+-   _The Hidden_
+-   _The Hideous Sun Demon_
+-   _High Life_
+-   _The Hive_
+-   _Hollow Man_
+-   _Honeymoon_
+-   _Horror Express_
+-   _The Horror of Party Beach_
+-   _Horrors of Spider Island_
+-   _Horrors of the Black Museum_
+-   _Horrors of War_
+-   _Horrorvision_
+-   _Hostile_
+-   _The Host (2006)_
+-   _The House by the Cemetery_
+-   _House of Dracula_
+-   _House of Ghosts_
+-   _Humanoids from the Deep_
+-   _Hungerford_
+-   _Hunter Prey_
+-   _I Am Legend_
+-   _I Eat Your Skin_
+-   _I Married a Monster from Outer Space_
+-   _I, Monster_
+-   _The Incredible Melting Man_
+-   _The Incredible Shrinking Man_
+-   _Indestructible Man_
+-   _Infini_
+-   _Inseminoid_
+-   _Invasion of the Bee Girls_
+-   _Invasion of the Body Snatchers_
+    -   _Invasion of the Body Snatchers (1956)_
+    -   _Invasion of the Body Snatchers (1978)_
+    -   _Body Snatchers_
+    -   _The Invasion_
+-   _Invaders from Mars (1986)_
+-   _Invasion of the Saucer Men_
+-   _The Invisible Man (1933)_
+    -   _The Invisible Man Returns_
+-   _The Invisible Man (2020)_
+-   _The Invisible Ray_
+-   _The Island of Dr. Moreau (1977)_
+-   _The Island of Dr. Moreau (1996)_
+-   _Island of Lost Souls_
+-   _Island of Terror_
+-   _Island of the Fishmen_
+-   _Isolation_
+-   _It Came from Another World!_
+-   _It Came from Beneath the Sea_
+-   _It Came from Outer Space_
+-   _It Conquered the World_
+-   _It's Alive_
+-   _It! The Terror from Beyond Space_
+-   _Jack Frost (1997)_
+-   _Jason X_
+-   _Jesse James Meets Frankenstein's Daughter_
+-   _Journey to the Seventh Planet_
+-   _Kairo_
+-   _Killdozer!_
+-   _Killer Crocodile_
+-   _Killer Klowns from Outer Space_
+-   _The Killer Shrews_
+-   _King Cobra (1999)_
+-   _Kingdom of the Spiders_
+-   _Kiss Me Quick!_
+-   _Lady Frankenstein_
+-   _Lake Placid_
+-   _The Last Man on Earth_
+-   _The Late Night Double Feature_
+-   _Lavalantula_
+-   _The Lawnmower Man_
+-   _The Lazarus Effect_
+-   _The Leech Woman_
+-   _Legion (1998)_
+-   _Leprechaun 4: In Space_
+-   _Leviathan (1989)_
+-   _Life (2017)_
+-   _Lifeforce (1985)_
+-   _De Lift_
+-   _Link_
+-   _The Little Shop of Horrors_
+    -   _Little Shop of Horrors_
+-   _The Living Dead at Manchester Morgue_
+-   _Lords of the Deep_
+-   _M3GAN_
+-   _The Mad Monster_
+-   _Maniac (1934)_
+-   _Man's Best Friend_
+-   _The Man They Could Not Hang_
+-   _The Man Who Changed His Mind_
+-   _The Man Who Could Cheat Death_
+-   _The Man Who Turned to Stone_
+-   _The Man with Nine Lives_
+-   _Mary Shelley's Frankenstein_
+-   _Matango_
+-   _Mayhem_
+-   _Maximum Overdrive_
+-   _Meatball Machine_
+-   _The Medusa Touch_
+-   _Mega Shark vs. Giant Octopus_
+-   _The Mihmiverse_: The collective Shared Universe making up the movies of Christopher R. Mihm.
+    -   _The Mihmiverse Holiday Special_
+-   _Mimic_
+-   _Monkey Shines_
+-   _Monster a-Go Go_
+-   _The Monster Maker_
+-   _The Monster of Phantom Lake_
+-   _The Monster That Challenged the World_
+-   _Morbius (2022)_
+-   _Morgan_
+-   _Mosquito_
+-   _Nazi Overlord_
+-   _The Neanderthal Man_
+-   _Nekrotronic_
+-   _The New Mutants_
+-   _Nightmare at Noon_
+-   _Night of the Big Heat_
+-   _Night of the Comet_
+-   _Night of the Creeps_
+-   _Night of the Lepus_
+-   _Nightwish (1989)_
+-   _Nobody Sleeps in the Woods Tonight_
+    -   _Nobody Sleeps in the Woods Tonight II_
+-   _No One Will Save You_
+-   _Nope_
+-   _Office Uprising_
+-   _The Ωmega Man_
+-   _Outlander_
+-   _Overlord (2018)_
+-   _Pandorum_
+-   _Parasite Eve_
+-   _Patchwork_
+-   _Patrick_
+-   _Patrick Still Lives_
+-   _The Phantom Lake Kids In: The Unseen Invasion_
+-   _The Phantom Lake Kids In: The Beast Walks Among Us_
+-   _Phase IV_
+-   _Piranha_
+    -   _Piranha Part Two: The Spawning_
+    -   _Piranha 3D_
+-   _Pitch Black_
+
+-   _Plan 9 from Outer Space_
+-   _P.O.D._
+-   _Possessor_
+-   _Predator_
+    -   _Predator_
+    -   _Predator 2_
+    -   _Predators_
+    -   _The Predator_
+    -   _Prey (2022)_
+-   _The Projected Man_
+-   _Project: Metalbeast_
+-   _Prophecy_
+-   _Proteus_
+-   _Pulse_
+-   _Quarantine (2008)_
+-   _Queen of Blood_
+-   _Queen of Snakes_
+-   _A Quiet Place_
+    -   _A Quiet Place Part II_
+-   _Rabid_
+-   _Rats: Night of Terror_
+-   _Re-Animator_
+    -   _Bride of Re-Animator_
+    -   _Beyond Re-Animator_
+-   _Red Planet_
+-   _The Relic_
+-   _Repo! The Genetic Opera_
+-   _Resident Evil_:
+    -   _Resident Evil Film Series_
+        -   _Resident Evil (2002)_
+        -   _Resident Evil: Apocalypse_
+        -   _Resident Evil: Extinction_
+        -   _Resident Evil: Afterlife_
+        -   _Resident Evil: Retribution_
+        -   _Resident Evil: The Final Chapter_
+    -   _Resident Evil: Welcome to Raccoon City_
+-   _The Return (1980)_
+-   _Return of the Living Dead_
+    -   _The Return of the Living Dead_
+    -   _Return of the Living Dead Part II_
+    -   _Return of the Living Dead 3_
+    -   _Return of the Living Dead: Necropolis_
+    -   _Return of the Living Dead: Rave to the Grave_
+-   _Robot Monster_
+-   _The Robot vs. the Aztec Mummy_
+-   _Robowar_
+-   _Rockabilly Zombie Weekend_
+-   _The Rocky Horror Picture Show_
+    -   _The Rocky Horror Picture Show: Let's Do the Time Warp Again_
+-   _Santo vs. la hija de Frankestein_
+-   _Saturn 3_
+-   _Scanners_
+    -   _Scanners II: The New Order_
+    -   _Scanners III: The Takeover_
+    -   _Scanner Cop_
+    -   _Scanner Cop II_
+-   _Scream and Scream Again_
+-   _Screamers_
+    -   _Screamers: The Hunting_
+-   _Shakma_
+-   _Sharkenstein_
+-   _Shivers (1975)_
+-   _Shock Waves_
+-   _Shocking Dark_
+-   _Signs_
+-   _Silent Night, Deadly Night 5: The Toy Maker_
+-   _Silent Rage_
+-   _Skinwalker Ranch_
+-   _The Slime People_
+-   _Slither_
+-   _Slugs_
+-   _Society_
+-   _Species_
+    -   _Species II_
+-   _Spiders_
+    -   _Spiders II: Breeding Ground_
+-   _Splice_
+-   _Split Second (1992)_
+-   _Spontaneous Combustion_
+-   _Sputnik_
+-   _Squirm_
+-   _SS Doomtrooper_
+-   _Sssssss_
+-   _Starfish_
+-   _Starship Troopers 2: Hero of the Federation_
+-   _The Stone Tape_
+-   _Strange Behavior_
+-   _The Strange Case of Dr. Jekyll and Mr. Hyde (1968)_
+-   _Strange Invaders_
+-   _The Stuff_
+-   _The Suckling_
+-   _Sunshine_
+-   _Supernova_
+-   _Tarantula!_
+-   _Teenagers from Outer Space_
+-   _Tell Me How I Die_
+-   _Terminator_
+    -   _The Terminator_
+    -   _Terminator 2: Judgment Day_
+    -   _Terminator 3: Rise of the Machines_
+    -   _Terminator Salvation_
+    -   _Terminator Genisys_
+    -   _Terminator: Dark Fate_
+-   _Terror from Beneath the Earth_
+-   _Terror from the Year 5000_
+-   _TerrorVision_
+-   _Tetsuo: The Iron Man_
+-   _Them!_
+-   _These Are the Damned_
+-   _The Thing_
+    -   _The Thing from Another World_
+    -   _The Thing (1982)_
+    -   _The Thing (2011)_
+-   _The Thing with Two Heads_
+-   _Thirst (1979)_
+-   _Thirst (2015)_
+-   _Tickles the Clown_
+-   _Ticks_
+-   _Time Walker_
+-   _The Tingler_
+-   _Tokyo Gore Police_
+-   _Track of the Moon Beast_
+-   _Train to Busan_
+    -   _Peninsula_
+-   _Triassic World_
+-   _Trog_
+-   _The Troll Hunter_
+-   _The Two Faces of Dr. Jekyll_
+-   _Under the Skin_
+-   _Underwater_
+-   _Uninvited (1988)_
+-   _Upgrade_
+-   _Us_
+-   _The Vampire_
+-   _The Vampire Bat_
+-   _Vampirella_
+-   _Venom (2018)_
+-   _Victor Frankenstein_
+-   _Videodrome_
+-   _Village of the Damned (1960)_
+-   _Village of the Damned (1995)_
+-   _The Vindicator_
+-   _Viral_
+-   _Virus Shark_
+-   _Virtuosity_
+-   _Virus_
+-   _The Visitor_
+-   _Vivarium_
+-   _The Void_
+-   _The Walking Dead (1936)_
+-   _Warning Sign_
+-   _The War of the Worlds (1953)_
+-   _War of the Worlds (2005)_
+-   _Warriors of Terra_
+-   _The Wasp Woman_
+-   _Weresquito: Nazi Hunter_
+-   _Werewolves of the Third Reich_
+-   _Westworld_
+-   _The Whisperer in Darkness_
+-   _Without Warning (1980)_
+-   _Wyrmwood_
+-   _X: The Man with the X-Ray Eyes_
+-   _X the Unknown_
+-   _Xtro_
+-   _Zombie Holocaust_
+-   _Zombieland_
+-   _Zombie Strippers!_
+-   _Zombies! Zombies! Zombies!_
+-   _Zombie Wars_
+-   _Zontar, the Thing from Venus_
+-   _Zygote_
+
+    Literature 
+
+-   _The 5th Wave_
+-   "The Age of Desire"
+-   _All Your Ruins_
+-   _Black Destroyer_
+-   _Boojumverse_
+-   _The Brain Eaters_
+-   Joseph Payne Brennan
+    -   "The Corpse of Charlie Rull"
+    -   "Slime (1953)"
+-   _The Bride of Frankenstein: Pandora's Bride_
+-   John Brosnan
+    -   _Bedlam_
+    -   _Carnosaur_
+    -   _The Fungus_
+    -   _Slimer_
+-   "Carnivorine"
+-   _The Clone_
+-   _The Croning_
+-   _Cthulhu Armageddon_ by C.T. Phipps. Also a post-apocalypse Western.
+    -   _The Tower of Zhaal_
+    -   _The Tree of Azathoth_
+-   Several _Cthulhu Mythos_ stories are within this genre, and the shared setting pretty much implies this for any of its horrors. H. P. Lovecraft's stories clearly within the subgenre include:
+    -   _At the Mountains of Madness_
+    -   "The Colour Out of Space"
+    -   "Cool Air"
+    -   "The Dreams in the Witch House"
+    -   "From Beyond"
+    -   "Herbert West–Reanimator"
+    -   _The Shadow Out of Time_
+    -   _The Whisperer in Darkness_
+-   _Daikaiju Yuki_, or at least the Mokwa trilogy that takes place within the same universe. The rest is more traditional science-fiction.
+-   _The Dark Descent of Elizabeth Frankenstein_, a retelling of _Frankenstein_ through the perspective of the title character.
+-   _Dark Warrior_
+-   _Dead Space_
+    -   _Dead Space: Martyr_
+    -   _Dead Space: Catalyst_
+-   _The Draka_, and in particular the sequel/spinoff _Drakon_.
+-   _Dead Silence_
+-   _The Deep (Nick Cutter)_
+-   _The Descent_
+-   _Eat Them Alive_
+-   _Eden Green_
+    -   _New Night_
+-   "The Elixir of Life (1903)"
+-   _The Expanse_ is half this and half Space Opera. In the words of the author himself in the afterword of _Leviathan Wakes_:
+    
+    _"I've never written anything in my life that didn't at least blur the line into horror. If I wrote greeting cards, they'd probably have a squick factor."_
+    
+-   "The Fly"
+-   _Fragment_
+-   _Frankenstein_
+-   _From the New World_
+-   _Geek Love_
+-   _Gone_
+-   _Human Resources (2018)_
+-   _The Hungry Plague_
+    -   _The Girl With All the Gifts_
+    -   _The Boy on the Bridge_
+-   _Godzilla and Godzilla Raids Again_
+-   _Hyperspace Demons_
+-   _I Am Legend_
+-   _I Have No Mouth, and I Must Scream_
+-   _Into the Drowning Deep_
+-   "It's a Good Life"
+-   _The Melissa Allen Trilogy_
+-   James Herbert
+    -   _The Fog (1975)_
+    -   _The Rats_
+-   _Jurassic Park_
+-   Stephen King
+    -   _Cell_
+    -   _Dreamcatcher_
+    -   _Firestarter_
+    -   _The Mist_
+    -   _The Tommyknockers_
+-   _Kitty Cat Kill Sat_
+-   Dean Koontz
+    -   _Demon Seed_
+    -   _Phantoms_
+-   George R. R. Martin
+    -   "Nightflyers"
+    -   "Sandkings"
+-   _Necroscope_
+-   _Night of the Black Horror_
+-   _The Night's Dawn Trilogy_
+-   _Otherside Picnic_
+-   _The Outside_
+-   _Parasite Eve_
+-   _Past Doctor Adventures_:
+    -   _Illegal Alien_: A graphic depiction of _Doctor Who_'s Cybermen.
+    -   _Matrix_: A _Doctor Who_ look at Jack the Ripper, featuring a mechanically processed, ethereal concentration of unadulterated evil.
+-   _Peter Benchley's Creature_
+-   _The Relic_
+    -   _Reliquary_
+-   _Resident Evil_
+-   _Return of the Living_
+-   _Scorpion: Second Generation_
+-   _The Shadowspawn_
+-   _The Sister Verse and the Talons of Ruin_
+    -   _The Sister Verse and the Devouring Glass_
+-   _Slime (1988)_
+-   _Small World (Tabitha King novel)_
+-   Guy N. Smith
+    -   _The Festering_
+    -   _Night of the Crabs_
+    -   _The Slime Beast_
+    -   _Spawn of the Slime Beast_
+-   _Snow Shark_
+-   _The Southern Reach Trilogy_
+-   _Star Wars_:
+    -   _Death Troopers_
+    -   _Star Wars: Red Harvest_
+    -   _Galaxy of Fear_
+-   _The Stepford Wives_
+-   _The Strange Case of Dr. Jekyll and Mr. Hyde_
+-   _Thebe and the Angry Red Eye_
+-   "The Things"
+-   "The Thought-Monster"
+-   _The Thousand Eyes Of Night_
+-   _Titus Crow_
+-   _The Troop_
+-   _Tuskers_
+-   _Veniss Underground_
+-   Peter Watts:
+    -   _Rifters Trilogy_
+    -   _Blindsight_ starts out with a world where humanity is becoming obsolete in the face of cyborgs, hyper-intelligent A.I., and genetically reconstructed vampires with savant skills and no morals whatsoever. Then a team is sent out into the Oort cloud to make contact with aliens and find what appears to be simply a non-sentient biological probe at first, but later it dawns on them that the aliens aren't sentient but are much, much smarter than them. Plus, self-awareness is nothing but an anomaly that aliens see as a threat and vampires and A.I. are evolving away from.
+    -   _Echopraxia_
+-   H. G. Wells:
+    -   _The War of the Worlds (1898)_
+    -   _The Island of Doctor Moreau_
+    -   _The Invisible Man_ (though it's more of a Psychological Thriller than horror)
+-   _Who Goes There?_
+    -   _Frozen Hell_
+-   "Window"
+-   _Xeelee Sequence_
+-   John Wyndham
+    -   _The Day of the Triffids_
+    -   _The Midwich Cuckoos_
+
+    Live-Action TV 
+
+-   _1899_
+-   _All of Us Are Dead_
+-   _Black Mirror_
+-   _Doctor Who_ veers into this territory at times, "The Impossible Planet"/"The Satan Pit" and "Oxygen" being prime examples.
+-   _The Expanse_
+-   _Fringe_
+-   _From_
+-   _Helix_
+-   _The Invisible Man (1984)_
+-   _The Last of Us (2023)_
+-   _Legion (2017)_
+-   _The Mist_
+-   _Nightflyers_
+-   _The Outer Limits (1963)_
+-   _The Outer Limits (1995)_
+-   _Resident Evil (2022)_
+-   _Sapphire and Steel_
+-   _Stranger Things_
+-   _Swamp Thing (2019)_
+-   _The Twilight Zone_
+    -   _The Twilight Zone (1959)_
+    -   _The Twilight Zone (1985)_
+    -   _The Twilight Zone (2002)_
+    -   _The Twilight Zone (2019)_
+-   _Ultra Q_
+    -   _Ultra Q Dark Fantasy_
+    -   _Neo Ultra Q_
+-   _V (1983)_
+-   _V (2009)_
+-   _WandaVision_ mixes this up with Dom Com.
+-   _War of the Worlds (1988)_
+-   _War of the Worlds (2019)_
+-   _The War of the Worlds (2019)_
+-   _The X-Files_
+
+    Podcasts 
+
+-   _Limetown_
+-   _On the Threshold_
+
+    Radio Drama 
+
+-   _Dr. Jekyll and Mr. Hyde_
+-   _The Peoria Plague_
+-   _The War of the Worlds (1938)_
+
+    Tabletop Games 
+
+-   _CthulhuTech_
+-   _Delta Green_
+-   In _Eclipse Phase_, the Earth was taken over by A.I.s that made head-stealing drones, rampant Grey Goo swarms, and viruses that take over people's minds or mutate them into horrific monsters, all of which invoke Sanity checks on the behalf of players. Due to the gregarious use of Brain Uploading, the Player Characters can expect to be decapitated, slowly dissolved molecule by molecule, mind-controlled, mutated, and vaporized by their own employers to prevent whatever they caught from infecting what's left of civilization, repeatedly. Also, transhumanity has explored dozens of planets and found ruins of long-extinct alien races, but only one that is extant has been encountered.
+-   _Mothership RPG_
+-   _Splicers_ focuses on the last members of humanity fighting a near-hopeless Robot War with horrifically disfiguring biotechnology and killer mutant animals.
+-   _Warhammer 40,000_. This game is the reason the word "grimdark" exists, make of that what you will.
+    -   _Space Hulk_
+-   _Zombicide: Invader_
+
+    Theatre 
+
+-   _Black Friday_
+-   _The Guy Who Didn't Like Musicals_
+-   _Little Shop of Horrors_
+-   _Return to the Forbidden Planet_
+-   _The Rocky Horror Show_
+
+    Video Games 
+
+-   _1213_
+-   _The Abyss: Incident at Europa_
+-   _Afterfall: Insanity_
+-   _Alien_
+    -   _Alien: Resurrection_
+    -   _Alien: Isolation_
+    -   _Alien Blackout_
+-   _Among Us_
+-   _Antarctica 88_
+-   _Barotrauma_
+-   _Beacon (2018)_
+-   _Beyond: Two Souls_
+-   _BioShock_
+    -   _BioShock_
+    -   _BioShock 2_
+    -   _BioShock Infinite_
+-   _Black Snow (Half-Life 2)_
+-   _BloodNet_
+-   _Bloody Zombies_
+-   _The Breach_
+-   _Buddy (2020)_
+-   _The Callisto Protocol_
+-   _Carrion_
+-   _Changed_
+-   _Chicken Feet_
+-   _Chordosis_
+-   _Close to the Sun_
+-   _Close Your Eyes_
+-   _Code 7_
+-   _Condemned 2: Bloodshot_
+-   _The Council of Hanwell_
+-   _Creature Shock_
+-   _Cyberqueen_
+-   _Dark Seed_
+-   _Dead Effect_
+-   _Dead Space_
+    -   _Dead Space_
+        -   _Dead Space (Remake)_
+    -   _Dead Space 2_
+    -   _Dead Space 3_
+-   _Deathless Hyperion_
+-   _Deep Fear_
+-   _DERE.EXE_
+-   _Discover My Body_
+-   _Don't Get Spooked_
+-   _DOOM_
+    -   _Doom³_
+    -   _Doom (2016)_
+    -   _Doom Eternal_
+-   _Dying Light_
+    -   _Dying Light 2 Stay Human_
+-   _Echo Night Beyond_
+-   _Endoparasitic_
+-   _Erie_
+-   _Enemy Zero_
+-   _The Evil Within_
+    -   _The Evil Within 2_
+-   _Exit Limbo: Opening_
+-   _Extermination_
+-   _First Encounter Assault Recon_
+-   _The Forest_
+-   _Frostbite: Deadly Climate_
+-   _Garten of Banban_
+-   _Genetic Species_
+-   _Ghostbusters: The Video Game_
+-   _Ghostship_
+-   _GTFO_
+-   _Happy's Humble Burger Farm_
+-   _Hellpoint_
+-   _HEPH_
+-   _Hollow_
+-   _House of Ashes_
+-   _House of the Dead_
+-   _Hyperviolent_
+-   _Icescape_
+-   _I Have No Mouth, and I Must Scream_
+-   _Imscared_
+-   _Infested_
+-   _INPUT6_
+-   _Iron Helix_
+-   _Iron Lung_
+-   _The Last of Us_
+    -   _The Last of Us Part II_
+-   _Lethal Company_
+-   _Luna Abyss_
+-   _Manhunt 2_
+-   _Man of Medan_ (Please note that the reason why it belongs here is a _massive_ spoiler, so potential viewers should proceed with caution while reading about it.)
+-   _Marathon Infinity_, the final game of the _Marathon_ trilogy, veers into this from the previous two games' more general Sci-Fi.
+-   _Mario '85_
+-   _Master Detective Archives: Rain Code_
+-   _Midnight Ghost Hunt_
+-   _Moons of Madness_
+-   _The Obscura Experiment_
+-   _ObsCure_
+-   _\>OBSERVER\__
+-   _Outlast_
+    -   _Outlast II_
+    -   _The Outlast Trials_
+-   _Parasite Eve_
+    -   _Parasite Eve 2_
+    -   _The 3rd Birthday_
+-   _Penumbra_
+-   _Phantasmagoria: A Puzzle of Flesh_
+-   _PO'ed_
+-   _Poppy Playtime_
+-   _Prey (2006)_
+-   _Prey (2017)_
+-   _RATUZ_
+-   _Resident Evil_
+    -   _Resident Evil_
+        -   _Resident Evil (Remake)_
+    -   _Resident Evil 2_
+        -   _Resident Evil 2 (Remake)_
+    -   _Resident Evil 3: Nemesis_
+        -   _Resident Evil 3 (Remake)_
+    -   _Resident Evil – Code: Veronica_
+    -   _Resident Evil 0_
+    -   _Resident Evil Gaiden_
+    -   _Resident Evil: Gun Survivor_
+    -   _Resident Evil 4_
+        -   _Resident Evil 4 (Remake)_
+    -   _Resident Evil: The Umbrella Chronicles_
+    -   _Resident Evil 5_
+    -   _Resident Evil: The Darkside Chronicles_
+    -   _Resident Evil 6_
+    -   _Resident Evil: Revelations_
+    -   _Resident Evil: Revelations 2_
+    -   _Umbrella Corps_
+    -   _Resident Evil 7: Biohazard_
+    -   _Resident Evil Village_
+-   _Resistance_
+-   _Ripout_
+-   _The Rocky Horror Show_
+-   _Sara is Missing_
+-   _Scorn_
+-   _SCP – Containment Breach_
+    -   _Nine Tailed Fox Mod_
+    -   _SCP: Secret Laboratory_
+-   _Scars Above_
+-   _SIGNALIS_
+-   _Silent Debuggers_
+-   _SIMULACRA_
+    -   _SIMULACRA 2_
+-   _Smile_
+-   _Solarix_
+-   _SOMA_
+-   _Space Beast Terror Fright_
+-   _Space Yandere_
+-   _Spirits Of Xanadu_
+-   _SSTR_
+-   _Stasis_
+-   _Stasis: Bone Totem_
+-   _Stories Untold_
+-   _Subject_
+-   _Sukutte_
+-   _Syndrome_
+-   _System Shock_
+    -   _System Shock 2_
+-   _Transference_
+-   _The Visitor_
+-   _The Voidness_
+-   _Water Womb World_
+-   _the white chamber_
+
+    Visual Novels 
+
+-   _Absolutely Perfect Specimen_
+-   _Chaos;Head_
+-   _Danganronpa_ series
+    -   _Danganronpa: Trigger Happy Havoc_
+    -   _Danganronpa 2: Goodbye Despair_
+    -   _Danganronpa Another Episode: Ultra Despair Girls_
+    -   _Danganronpa V3: Killing Harmony_
+-   _Doki Doki Literature Club!_
+-   _DRAMAtical Murder_
+-   _Perseverance_
+-   _Saya no Uta_
+-   _sweet pool_
+-   _Vincent: The Secret of Myers_
+-   _Your Turn to Die_
+-   _Zero Escape_
+    -   _Nine Hours, Nine Persons, Nine Doors_
+    -   _Virtue's Last Reward_
+    -   _Zero Time Dilemma_
+
+    Web Animation 
+
+-   _The Amazing Digital Circus_
+-   _Autodale_
+-   _Internecion Cube_
+-   _Murder Drones_
+-   _Shed 17_
+
+    Webcomics 
+
+-   _Awful Hospital_
+-   _Bearmageddon_
+-   _Bio Apocalypse_
+-   _Outlast: The Murkoff Account_
+-   _Suppression_
+-   _Trevor (2020)_
+
+    Web Original 
+
+-   _Alien Abduction Role Play_
+-   _The Chronicles of Taras_
+-   _Cyberpunk ASMR_
+-   _Green Antarctica_
+-   _Mortasheen_
+-   _Mystery Flesh Pit National Park_
+-   _RPC Authority_
+-   _SCP Foundation_
+
+    Web Videos 
+
+-   _Ben Drowned_
+-   _Dad_
+-   _Daisy Brown_
+-   _Gemini Home Entertainment_
+-   _Kane Pixels' The Backrooms_
+-   _NOC +10_
+-   _Smile Tapes_
+-   _vintage eight_
+-   _Vita Carnis_
+
+    Western Animation 
+
+-   _Frankenweenie_
+-   _Ghostbusters_
+    -   _The Real Ghostbusters_
+    -   _Extreme Ghostbusters_
+-   _Godzilla: The Series_
+-   _Infinity Train_
+-   _Invader Zim_
+-   _LEGO Star Wars: Terrifying Tales_
+-   _Love, Death & Robots_
+-   _Monster Force_: A Darker and Edgier take on _Ghostbusters_, featuring the Universal Horror monsters.
+-   _Mutant League_
+-   _Scavengers' Reign_
+-   _Spiral Zone_
+-   _Super Robot Monkey Team Hyperforce Go!_
+
+___

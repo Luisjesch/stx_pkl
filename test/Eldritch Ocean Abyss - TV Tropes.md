@@ -1,0 +1,181 @@
+In his dwelling in R'lyeh, dead Cthulhu lies dreaming.<sup>note&nbsp;</sup> 
+
+_"There is no before. There will be no after. There is no place for time here among the dark, among the alien things that crawl and swim in a sea without light."_
+
+The ocean is mysterious. We know more about the surface of Mars than we do about our own oceans. The really deep, dark parts of the ocean are even _more_ mysterious. The ocean floors and trenches have forms of life that are wholly alien to humans: deep sea anglerfish, Giant Squids, gulper eels, chimera fish, to which fiction can add any bizarre variety of horrific leviathans.
+
+Until recent technological developments, no one had a chance at observing the deep sea. No ray of light can reach that depth, and Dark Is Evil. Oceanographers had almost no information to work with, and Nothing Is Scarier. Imagination ran wild. Some surmised that the ocean depths were a sort of Lost World where monsters that had ages ago vanished from the surface could still be alive and hiding. Great strange beasts that have not set foot on the shore since prehistory might be silently stomping across the silty seafloor. Creatures spawned before The Great Flood might be swimming down there, torpid and undisturbed — not disturbed _yet_, at least.
+
+Submersibles and ROVs have allowed closer study of the ocean depths, and oceanographers have not found any Eldritch Abomination or Cthulhu in any part of the sea-floor (yet). Nevertheless, there is still some Truth in Television to this for a host of different reasons: the environmental conditions (low or no light, high pressure, low temperature, low oxygen, and very little food or prey compared to shallow waters) in the midnight,<sup>note&nbsp;</sup>  abyssal<sup>note&nbsp;</sup>  and hadal<sup>note&nbsp;</sup>  zones of the ocean have led organisms to evolve traits that are completely different from creatures that evolved on land and even from some shallow water fish. For example, many creatures do not have eyes or have evolved special eyes due to the lack of light, and are usually either very dark, transparent, or bright red in color.<sup>note&nbsp;</sup>  This biome is utterly inhospitable to humans, and the logistical difficulties of conducting research in it only adds to these regions' sense of mystery.
+
+Compare Ocean of Adventure. Not to be confused with Time Abyss. May overlap with Eldritch Location, although the work can portray the deep ocean as relatively "normal" but just home to creepy things. Also compare Space Is an Ocean, as stories about exploring the deep sea may share genre conventions with space stories and portray sea life in a manner similar to aliens, and Ocean Madness, the feeling of insanity after being out (or in this case, _down_) at sea for too long. See also Creepy Old-Fashioned Diving Suit for another otherworldy source of horror on the ocean floor.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Comic Books 
+
+-   In _Sub-Mariner: The Depths_, Atlantis is depicted as a dark, lost city in the deepest part of the ocean, instead of the bustling country it usual is in Marvel. Namor himself is a silent Humanoid Abomination who guards the city and ruthlessly kills anyone searching for it. One panel even implies that Namor's humanoid appearance is just A Form You Are Comfortable With, and his true form is something similar to a Deep One.
+-   _Aquaman_ once faced off against The Trench, named for their place of origin; a race of vicious, predatory anglerfish-like humanoids who have been isolated in the darkest depths of the ocean for thousands of years. To make things worse, they are immune to Aquaman's power over marine life, probably because they are descended from Atlanteans themselves.
+
+    Fan Works 
+
+-   _Dungeon Keeper Ami_: A very toothy, ugly deep sea fish is described:
+    
+    _A tiny deep sea fish investigated the probe from up close, startling Ami by filling the screen with a set of fangs that even Rabixtrel would have envied._
+    
+
+    Films — Animation 
+
+-   In _Finding Nemo_, Marlin and Dory accidentally swim into deep waters and encounter an anglerfish, which almost eats them.
+-   In _The Little Mermaid (1989)_, Ursula's lair is in a deeper, darker part of the ocean (as she was exiled from Atlantica for being, well, a witch) and inside a creepy-looking prehistoric animal skeleton. The whole atmosphere should tell you she's Obviously Evil.
+-   In _The SpongeBob SquarePants Movie_, SpongeBob and Patrick make their way into a deep ocean trench with horrific monsters. Subverted when the monsters take a liking to them after they show off their impressive dance skills.
+
+    Films — Live-Action 
+
+-   _The Abyss_ features a United States SEAL team trying to salvage a destroyed nuclear submarine in the deep ocean, and encountering strange creatures dwelling there. It kickstarted a whole wave of this type of movie, including _Deep Star Six_, _The Evil Below_, _Lords of the Deep_, _Leviathan_, and _The Rift_, all of which are listed below, and came out in 1989 and 1990. Unlike the subsequent ripoffs The creatures living in the Abyss are benevolent and are persuaded not to attack humanity thanks to The Power of Love.
+-   The Always Chaotic Evil creatures who reside in the Trenches in _Aquaman_ are all horrific monsters. They actually evolved from original Atlanteans into what they are because of the natural environment of trenches. Going even deeper, we eventually find a tropical Lost World with Living Dinosaurs.
+-   _Deep Rising_: The cruise ship accidentally strays into the territory of giant predatory worm-like Sea Monsters (actually, one gargantuan, octopus-like beast) that dwelt on the ocean floor. This is driven home by the opening shot of the film showing numerous whale skeletons and sunken ships littering the seabed.
+-   _DeepStar Six_ has an underwater military outpost attacked by a big worm-like Sea Monster.
+-   _Dagon_ ends with the protagonist growing gills and traveling into an underwater abyss to meet the Eldritch Abomination that spawned him and his sister.
+-   _The Evil Below_ is about a cursed shipwreck, guarded by a Sea Monster.
+-   _Godzilla: King of the Monsters (2019)_ has a sequence in the Underwater Ruins of an ancient, Godzilla-worshiping city deep within the Hollow Earth. The ruins are infused with radiation from the Earth's core, making it Godzilla's preferred place to rest and heal after a fight.
+-   _It Came from Beneath the Sea_ opens with a submarine exploring a deep ocean trench, where they have their first encounter with the giant octopus. Unfortunately, it is not content to stay down there.
+-   _Leviathan_ is about an underwater mining crew 15,000 feet below the surface that slowly dwindles due to attacks by a mutant creature.
+-   _Lords of the Deep_ is about a deep sea research station crew encountering mysterious psychic creatures.
+-   _Life of Pi_: The dream sequence where the camera goes ever deeper in the ocean features a sperm whale attacked by a giant squid then exploding into zoo animals, a hideous anglerfish/squid hybrid, and the sunken cargo.
+-   In _The Meg_, scientists accidentally release a megalodon shark<sup>note&nbsp;</sup>  from the Marianas Trench. According to the original novel, megalodons are explained to have evolved into an abyssal species but are no less horrifying or threatening for it. One of the characters is also attacked by a Giant Squid, but is inadvertently saved when a megalodon eats the squid.
+-   _Megalodon_: The film is kicked off when a new experimental deep sea oil-drilling rig penetrates through the ocean floor off the coast of Greenland, revealing a Lost World hidden for millions of years inhabited by prehistoric sea life. Among these is sixty-feet of prehistoric terror, a full-grown megalodon that quickly turns the drilling expedition into a fight for survival.
+-   _Pacific Rim_: The Breach from which the monstrous kaiju come from is located at the bottom of the Pacific Ocean, and there is an extended underwater fight scene as the PPDC tries to get closer and close it.
+-   _The Phantom Menace_: The core of the planet Naboo holds vast subterranean oceans, which are inhabited by titanic dinosaur and eel-like creatures. Jar Jar believes a trip through the Core would be a Suicide Mission, but the main characters survive with only minor incident.
+-   In the horror-survivor film _Sweetheart_, the waters immediately surrounding the deserted island are sparkling, clear and shallow ...except for an impenetrably dark, perfectly round, and seemingly-bottomless black pit from which a monstrous, shark-like predator of unknown origin emerges each night.
+-   _The Rift_ is about a submarine crew on a doomed rescue mission to an underwater rift full of monsters.
+-   _Underwater_ follows a deep-sea drilling team who dig too deep and end up under attack by a horde of monstrous fishmen and their progenitor, Cthulhu. Yes, _the_ Cthulhu.
+
+    Literature 
+
+-   _20,000 Leagues Under the Sea_ is an early instance of this trope. Mostly, it emphasizes the idea of the ocean as a place of wonderful nature, but in the deeper parts, the _Nautilus_ crew encounter some very strange things, including a Giant Squid and the Underwater Ruins of Atlantis.
+-   H. P. Lovecraft, creator of the _Cthulhu Mythos_, found the sea and most sea life intensely creepy, leading to many of his Eldritch Abominations bearing traits of aquatic creatures, and many of his threats coming from the ocean's depths.
+    -   _The Shadow Over Innsmouth_. The ocean floors are inhabited by the Deep Ones: Ageless, cultish, artistically-inclined Fish People who gather in Underwater Cities to worship Eldritch Abominations from beyond the stars and receive strange powers in return. They also seem to find human beings extremely sexy. The story ends with the narrator, realizing that he's the product of such a union, deciding to embrace his inhuman heritage and join them under the sea. The Deep Ones also have some part to play in bringing about The End of the World as We Know It, but it's implied ("...some day, if they remembered, they would rise again for the tribute Great Cthulhu craved.") that they're not especially enthusiastic about it.
+    -   _The Call of Cthulhu_. The "nightmare corpse-city" of R'lyeh lies at the floor of the remote South Pacific. In it, the Great Old One Cthulhu lies in deathless slumber, waiting for the Old Gods' return.
+    -   _The Temple_. The crew of a German U-Boat during World War One succumb to what is either Ocean Madness or the influence of whatever lurks in the Underwater Ruins they find at the bottom of the Atlantic Ocean.
+-   _Deeplight_: The Undersea, a sub-ocean created by human fear and populated by Eldritch Abominations. The water is breathable and the crushing pressure that ought to exist in the depths is absent. You can swim around with no equipment, but the environment messes with your mind and may leave you with "Marks" (small mutations, a tentacle here, a patch of shell there)...
+-   _Discworld_:
+    -   The Gorunna Trench, mentioned a number of times in the series, is the deepest part of the Disc's seas and home to horrific things — according to some, horrors from the Dungeons Dimensions still lurk within it. _The Colour of Magic_ notes that even krakens only go through it in pairs, and deep-sea fish keep their lights doused to avoid attracting attention to themselves.
+    -   _Going Postal_ proposes the notion of areas deep enough that the pressure surpasses the density of sunken objects, causing ghost ships that float on seas-under-seas.
+-   _Into the Drowning Deep_ features killer mermaids which inhabit the darkest and deepest parts of the Marianas Trench. These mermaids kill and feast upon anything that enters this territory and are armed with sharp teeth and fangs. They also despise light hence their affinity for the darkness of the trench.
+-   _Jackelian Series_: In _From the Deep of the Dark_, the invading sea-bishops originally emerged from a portal at the bottom of a deep ocean trench, and are conspiring to re-open it so their countless fellows can join them.
+-   In Alfred, Lord Tennyson's poem "The Kraken", the monster in question lurks in such a location. This poem was, unsurprisingly, a big influence on _The Call of Cthulhu_, listed above.
+    
+    _Below the thunders of the upper deep_  
+    _Far, far beneath in the abysmal sea_
+    
+-   _Magic, Metahumans, Martians and Mushroom Clouds: An Alternate Cold War_: The Husa are a race of sentient coral living in the depths off the coast of Australia, who have spent centuries abducting and converting humans into a brainwashed hybrid race that can then conquer the rest of Earth for them. They finally launch their invasion in 1981, starting with an attack on New Zealand... which combined ANZUS forces quickly repel after being warned by Harold Holt (one of the Husa's victims who managed to retain his mind), before they then obliterate the Husa's main habitat.
+-   _The Voyage of the Dawn Treader_: When Lucy peers over the gunwales and views deep-sea merfolk settlements beneath the crystal clear water, she notes that the towns and castles are all on sea mounts and other high peaks. She surmises that deeper, darker, colder waters must be considered undesirable or even scary places by the sea-dwellers, in an inversion of how steep, icy mountaintops aren't much favored by humans.
+
+    Live-Action TV 
+
+-   In the show _The Rig_, the Northern Sea is portrayed homing a several millions old ancient sentient parasite species that has been unleashed from the ocean floor and can infect the rig crew members to experience behavioural changes.
+
+    Podcasts 
+
+-   A recurring motif in _On the Threshold_, with several characters in altered mental states (recurrently dreaming, subjected to non-consensual neurosurgery, etc.) explaining their experiences in terms of descending into the ocean and encountering or being pursued by unseen or incomprehensible entities
+
+    Tabletop Games 
+
+-   _Chronicles of Darkness_:
+    -   The infinite black ocean Oroboros at the furthest edge of Astral Space represents the end of reality. Anything that enters it ceases to be; anything that crawls out of it is an Eldritch Abomination trying to become real.
+    -   The Ocean of Fragments is an endless expanse at the bottom of The Underworld. Creatures who enter can breathe and see unimpeded, but slowly lose their memories as they sink deeper and deeper, ultimately disappearing to an unknown fate when everything is gone. Its only denizen is the Leviathan, a titanic, inscrutable Undead Abomination.
+-   In _Exalted_, there is a sea comprised entirely of different types of oil. It's part of the vast mechanical body of Autochthon, and embodies his madness with occasional bubbles of Void-tainted oil that sabotages any purpose it's put to. It's also patrolled by mechanical servitors and guardian spirits (guardians of the god, not of human life). But the worst part is that it holds so many resources that Loran's people must dive into it _anyway_. The alternative is slow starvation.
+
+    Toys 
+
+-   _BIONICLE_ has The Pit, a great prison used by the Order of Mata Nui to imprison those who were considered to have committed unpardonable crimes. These prisoners included the Barraki, ancient warlords cast down when the Makuta were still loyal. After the Great Cataclysm, these dangerous prisoners escaped, mutating into water-breathing monstrosities hunting for the Mask of Life to regain their powers. On top of the Barraki, there are also other horrifying beings, including the big-mouthed Gadunka, the scorpioid Hydruka, and the Takea sharks.
+
+    Video Games 
+
+-   _Barotrauma_ is an indie game involving a submarine navigating the abyssal depths of Europa's frozen oceans, which contain nightmarish deep-sea predators as well as the remnants of a mysterious alien civilization.
+-   _Beyond: Two Souls_: A late-game chapter is set in and around a pseudo-Chinese deep-sea base where the Chinese military is conducting experiments on a nearby Infraworld portal. Since precious little in poor Jodi's life ever goes right, things spiral out of control quickly until the portal starts unleashing swarms of hostile Entities that proceed to lay waste to the facility and everyone in it, thus truly turning the place into an eldritch horror scenario.
+-   _Bloodborne_: Played With. In the Back Story, the Byrgenwerth scholars had originally discovered evidence of the Great Ones' existence in the old underground labyrinth of Pthumeru, but their first actual encounter with a Great One in the flesh took place in the Innsmouth\-like Fishing Hamlet where a Great One named Kos washed up ashore. From this one discovery, the scholars have jumped to the false conclusion that _all_ Great Ones are linked to great bodies of water, and subsequently focused much attention on the ocean. Lady Maria, in particular, after cutting her ties to Byrgenwerth and joining Laurence's newfound Healing Church, spearheaded the research into human ascension by having Research Hall subjects imbibe sea water until their heads turned into fleshy blobs, then extracting "brain fluid" from said heads, and feeding it back to them until only the head blobs remained. Needless to say, this was a dead end, and Maria committed suicide after realizing it. It wasn't until after the Choir was formed to take over her research that the Church realized that while _Kos_ dwelt in the ocean, _most_ Great Ones actually reside in the cosmos above their heads.
+-   _Debris_ is set in the depths of the Arctic Seas, where a meteorite landing in it have resulted in marine life growing to monstrous proportions. And you're trapped in the trenches, with only a drone and your AI companion as guide.
+-   _DREDGE:_ You captain a trawler in the remote Gray Isles. The deeper you trawl, and the later you stay out, the more eldritch the things you bring in.
+-   _Ecco the Dolphin_: The original game features the benevolent Asterite, the oldest living creature on Earth, which lives in a deep-sea cave, and appears as a massive DNA helix. Even further down can be found the ruins of Atlantis, including a library filled with mystical crystals and a time machine. The game's climax eventually brings Ecco to the oceans of an _alien world_, where he battles the monstrous Vortex and their Queen.
+-   _Endless Ocean_: Both games have levels themed around diving into deep ocean trenches and meeting animals such as goblin sharks and sperm whales.
+-   _Final Fantasy V_ has the Great Sea Trench. Although the dungeon is located underwater, the characters can breathe in it. Likewise, the enemies are not aquatic, but still grotesque-looking, such as brain-like blobs, large worms, and lumps of bones attached to the ceiling, all of them known as "Unknown".
+-   _Guild Wars 2_: Implied, although the deepest sea is never shown in game. The depths of the Unending Ocean are occupied by the Deep Sea Dragon, an Eldritch Abomination who's sent the other residents packing. Such residents include the Krait, an Always Chaotic Evil race of snake-people, and the Largos, a mysterious race of creepy (though not necessarily evil) humanoids with Vader Breath.
+-   _Iron Lung_ takes place entirely at the bottom of an uncharted ocean on an alien moon where who-knows-what is living down there. And to make things even worse, it's an ocean apparently made up of _blood_. And to make it even worse, this is the _fourth_ blood ocean moon they've found. And to make it _even worse_, you're not alone down there.
+-   _Kingdom of Loathing_: There are a number of decidedly Lovecraftian encounters that can be had when searching for two of the Sea Monkees on the Sea Floor.
+    -   In the mer-kin deepcity, you can come face to face with — and also kill — the two gods of the mer-kin: Shub-Jigguwatt, Elder God of Violence, and Yog-Urt, Elder Goddess of Hatred. The father Sea Monkee is found at the end, hooked up to a machine that opens a portal to... somewhere that _might_ be outer space but is likely something far more alien.
+    -   The Caliginous Abyss is themed entirely around being a horrific, alien place in the deepest part of the ocean. When the player heads there to look for the mother Sea Monkee, they face several surreal non-combat encounters — such as fish with twisted human faces, incongruous mother-hen messages carved into rock walls or written out of glowing sea life, areas of the seafloor carved by the passage of hundreds and hundreds of tentacled somethings — and combat encounters against things such as enormous eyes staring out of the darkness, slithering armored things, a twisted parody of Mr. Peanut and a group of carnivorous things referred to simply as a "school of many".
+        
+        _Within the darkness there are fish, and things that are not fish, and things that are not anything a land-dweller was ever meant to see. This is a school of one such creature, and it doesn't look friendly. It looks mostly like teeth and hiveminded appetite._
+        
+-   _League of Legends_ has this theme to the Forgotten Depths skin line, which recasts Fizz, Kassadin, Kog'Maw, Malphite, Nami, Nautilus, Syndra, and Thresh in a Lovecraftian _The Shadow over Innsmouth_\-esque light.
+-   _Mass Effect 3_: In the _Leviathan_ DLC, Shepard investigates some mysterious orbs with Mind Rape capabilities and ends up descending into the depths of the ocean inside a specially-built mech. At the bottom are the _creators of the Reapers_. Shepard ends up browbeating them into helping with the war effort.
+-   _Salt and Sanctuary_: Implied to be the case. The monsters of the world, referred to as Kraekan, all believed to originate from the sea, and many even boast aquatic features even though they appear to be terrestrial. The ending further implies that the island, itself an Eldritch Location, exists within the depths of the ocean.
+-   _SOMA_: While most of the game takes place in the Pathos-II Underwater Base situated on a huge plateau, the last third of the game involves taking a 4000-meter elevator ride down into the Abyss. To reach sites Tau and Phi, you have to follow a path of barely visible lights while enduring a powerful ocean current and rabid sea creatures mutated by Structure Gel, including a Giant Squid and an enormous angler fish.
+-   _Subnautica_ and its sequel _Below Zero_ thrive on this. The "starter" biomes near the map's center — the reefs of the Safe Shallows, the Kelp Forests, the Grassy Plateaus, even the giant undersea Mushroom Forests — are all familiar enough and bathed in comforting sunlight during daytime, but the deeper you go, the more dangerous and twisted the landscape becomes, and the more lethal the local wildlife.
+    -   The Underwater Islands biome consists of several huge chunks of rock suspended between the surface and the ocean floor some 500 meters below, given buoyancy by colonies of Floater organisms. Navigating them successfully requires three-dimensional thinking and going over the edge of one of the islands can be unnerving as you see nothing but dark waters beneath you.
+    -   The Bulb Zone is a murky stretch of seabed characterized by enormous, bulbous, purple sea plants studded with bioluminescent spots. It's also located right between two biomes inhabited by the fearsome Reaper leviathans, while the Bulb Zone itself is home to plenty of Bonesharks and Ampeels to make exploration difficult.
+    -   The Blood Kelp Zone is a near-lightless area filled with Bloodvines that glow with a sickly white-green luminescence and are studded with viscous red Blood Oil pustules. Most of the zone's fauna is hostile and seems to make horrible screaming noises as it hunts you, which only adds to the ambience. And it comes in a Blood Kelp Trench variant that goes even deeper down and adds claustrophobia to the mix.
+        
+        **PDA:** This ecological biome matches 7 of the 9 preconditions for stimulating terror in humans.
+        
+    -   The Grand Reef is the deepest of the standard surface biomes and approaching it from a neighboring biome involves watching the sea floor suddenly fall away in a vertigo-inducing drop. There's little to see in the depths but occasional glowing Membrane Trees and bizarre spherical Anchor Pods tied to the side of the cliffs by creepers, which means the local Ghost Leviathans are nearly invisible until they scream and come charging out of the gloom to try and ram you. It has a cave system, the Deep Grand Reef, that goes even further down.
+    -   The Lost River is a vast cave system featuring a "river" of glowing green acidic brine that's heavier than normal seawater, and which flows through the fossilized remains of truly _gargantuan_ leviathan lifeforms. Which is not to say there aren't living leviathans lurking in the dark, murky tunnels.
+    -   The Inactive Lava Zone is a deep, dark stretch of hardened lava tunnels, with flowing magma on the very bottom of the caverns to help you know which way is down. Follow the passages deep enough and you reach a bizarre "Lava Castle" formed from cooling magma, the bones of surface sea monsters that the local Sea Dragon Leviathans drag down to cook and eat, as well as an entrance to the _Active_ Lava Zone.
+    -   The game takes place in the crater of an ancient undersea supervolcano, whose sides have eroded away over the millennia. This means the Crater Edge zone is where the sea floor falls away into an abyssal black void where there is absolutely nothing to see, down to a depth that will crush every vehicle in the game like a tin can no matter how many upgrades you give them. Worse, entering the zone will spawn swarms of irate Ghost Leviathans intent on chasing you out of their hunting grounds.
+    -   While the previous game placed your starting lifepod in shallow, sunny, pleasant waters, _Below Zero_ starts right on the edge of the Twisty Bridges, a biome of undersea trenches overgrown with bizarre twisting strands of glowing coral. Not only are there Brute Sharks in the upper section, even from the shallows you can hear the echoing roars of the Squidsharks lurking in the cave system at the bottom of the trenches.
+    -   The Purple Geysers area is characterized by fumaroles blasting a mix of volcanic gasses, whose iodine content gives them their distinctive hue. The eruptions are capable of damaging explorers, and the hot waters are populated by packs of snarling Cryptosuchus, and worse, the Chelicerates that prey on them.
+    -   The Lilypad Islands are a stretch of clumps of rock hanging off the sea floor, caught up in the stems and roots of titanic lilypads that are large enough to support a habitat. The harmless Glow Whales that swim through the waters are counterbalanced by the local Squidsharks, and the area sports a long cave system filled with glowing, cotton-like flora.
+    -   The Tree Spires is a deep, dark biome that gets its name from its bizarrely tree-shaped geothermal vents. It's also home to the Ventgardens, truly alien leviathans that anchor themselves over those vents and use the hot gases to support an entire ecosystem within their membranes.
+    -   Beneath Sector Zero are the Crystal Caves and Fabricator Caverns, a cave network dominated by enormous, faintly glowing crystal columns and strangely geometric mineral formations. They're home to the Shadow Leviathans, the most aggressive and persistent sea monsters in the series thus far.
+    -   Once again, trying to leave the game area will involve plunging into the pitch-black ocean abyss of the World Edge, inhabited by albino Chelicerates that exist solely to encourage you to turn back to safer waters.
+-   _Sunless Sea_ revolves around exploring the "Unterzee", a colossal, ever-shifting, underground expanse of water full of dangers and oddities. Late-game dialogue crosses this with Space Is an Ocean, serving as a Sequel Hook for _Sunless Skies_. The _Zubmariner_ expansion lets you submerge and visit the abysses themselves. The zeefloor is already an Eldritch Location of the highest calibers, but the abysses are where the Lady in Black lives.
+    
+    _"One day, you'll sail another ship, on another sea more sunless. One day."_
+    
+-   _Terraria Calamity_ replaces one of your world's oceans with the Sulfurous Sea, an ocean full of Hollywood Acid for water and a large pit leading to the Abyss, a dark, tight biome full of aggressive predators. It also circumvents most means of breathing in water, instead just having them increase how long you can stay down there before you start drowning, with the sole exception of Amidias' Blessing, which instantly wears off as soon as you take damage. And don't think about mining open an air pocket, because you'll just start taking damage from the toxic air. As you go deeper in the Abyss, you use more air in less time and it becomes harder to see, and more dangerous monsters make their presence known, including the mod's most dangerous boss as of yet, the Eidolon Wyrm, and teleporting with the Rod of Discord or Normality Relocator has it attack you almost instantly. However, there are useful items down there that will make your trip worth the while, such as weapons that can be useful against the Slime God and Wall of Flesh, and materials for later on in the game. At the very bottom of the Abyss is the Terminus, an item that allows you to play through the mod's Boss Rush, but Yharon also drops it. For killing the Eidolon Wyrm, you also get the Halibut Cannon, which used to drop from every enemy in the Abyss at a very low drop rate.
+-   _Terror Of The Deep_ (one figures there are only so many possible combinations of "deep" and "terror") has you descend in a steampunkish bathysphere into Loch Ness — meaning, not an ocean, but Tropes Are Flexible — in order to defeat the monsters living in it. The oxygen slowly runs out, they may come from any direction, and you can only look through one window at a time.
+-   _Water Womb World_ is a short indie game involving a Christian scientist hunting for the supposed true origin point of man in Gaspar's Zone, a remote location in the middle of the ocean. Outside his sub in pitch darkness he finds ancient species of fish, mysterious coral, and the actual being man evolved from, then becomes one himself.
+-   _We Need to go Deeper_ is an indie game involving a submarine crew navigating a labyrinth of tunnels while fending off giant sharks and whales. Later updates to the game, however, have added increasingly Lovecraftian monsters.
+-   _World of Warcraft_: The Old God N'zoth was chained at the bottom of an oceanic trench by the Titans. Since then, he has corrupted the surrounding sea life, creating the zoatroids and mutated fish through which he can communicate. The Naga city of Nazjatar and Azshara's Eternal Palace lead to the abyss where players inadvertently free N'zoth. Before N'zoth, there's the underwater super zone of Vashj'ir filled with multiple demigods that take the form of crustaceans the size of cities, faceless ones, and several elites that will oneshot any player foolish enough to attack them.
+-   _X-COM: Terror from the Deep_ is about an independent military force funded by the world's governments that battles ancient alien invaders originating from deep within the Earth's oceans. The game borrows heavily from Lovecraftian influences, going so far as the Big Bad being a sleeping ancient evil that the X-Com forces must keep the aliens from awakening.
+
+    Webcomics 
+
+-   Subverted in _8-Bit Theater_: Despite Black Mage's impressive narration about the horrors of the deeps, they don't actually encounter anything particularly mind-breaking.
+    
+    **Black Mage:** We have always lived in the ocean. There is no _before_. There will be no after. There is no place for time here among the dark, among the alien things that crawl and swim in a sea without light. We are one of them now. We have _always_ been one of them.  
+    **Red Mage:** Black Mage? You're narrating again.  
+    **Black Mage:** My companions succumbed to sea madness weeks ago.  
+    **Thief:** Dude, it's been two and _a half_ hours.  
+    **Black Mage:** I alone maintain a glimmer of humanity. I fear it is fading fast.  
+    **Red Mage:** What kind of dark wizard in league with nameless forces of primordial evil _are_ you that you can't even make a successful sanity check versus _boredom_?  
+    **Black Mage:** I ignored the pitiable babbling that issued from their misshapen lips. Their wet gurgles, a noise that had once been words, came to an end when one of the _things_ outside assaulted our craft. I welcome death.
+    
+-   All _Homestuck_ trolls are dangerous, but the worst are the "seadweller" trolls. Insanely strong and isolated from others, they are driven by fear of the psychic Eldritch Abomination nursing their queen. If they fail to keep "Gl'bgolyb" fed, it will scream...and that scream will kill everyone on the planet. Life on the surface is an unending atrocity of oppression, bombing and Hunting the Most Dangerous Game, but it is still _safer_ than the depths where Gl'bgolyb lives.
+-   _Unsounded_: Scripture teaches that the ocean floor — which is cut off from the Background Magic Field and therefore from the afterlife as they understand it — is where the Gods built Hell, for the souls of the damned to be trapped in the frigid, crushing dark for all eternity.
+
+    Web Original 
+
+-   This picture of the contents of the ocean,<small>◊</small> which gets more terrifying the lower you scroll, with the absolute bottom of the ocean containing as a joke, _SpongeBob SquarePants_.
+-   _Gemini Home Entertainment_: "The Deep Blue" portrays the "Demisia Tunnel", a fictional offshoot of the Marianas Trench, as a cave of unknown depth that is inhospitable to all life. Not including the glowing-eyed, tentacled Eldritch Abomination seen at the end.
+
+    Western Animation 
+
+-   The animated short _The Deep_ features a dark deep-sea ocean full of fish and sea creatures made from various mechanical parts, accompanied by eerie ambient music.
+-   In the "Rock Bottom" episode of _SpongeBob SquarePants_, the town of Rock Bottom is populated by numerous deformed-looking fish that terrify SpongeBob and Patrick.
+-   Played with on the _Wild Kratts_ octopus episode, when what _seems_ like a gargantuan deep-sea horror to the explorers is actually a normal octopus turned Mix-and-Match Critter by a Power Suit malfunction. Averted in the double-length hydrothermal vent episode, in which the weirdness of the local sea-bottom life forms merely evokes the team's wonder and admiration.
+
+    Real Life 
+
+-   The ocean in real life is home to strange stuff, especially deep down in the trenches.
+    -   Creatures born without what we would see as vital to living, pillars of sulfur belch toxic superheated smoke, the pressure so intense even thick steel can be crushed easily; and that's just scraping the surface of what's down there. Supposedly, there's more undiscovered species down there than there are extinct species.
+    -   Brine lakes. They are, for all intents and purposes, lakes under the ocean, complete with a shoreline. Even more mind screw-y, the density of the brine lake's surface means that any submarine that visits it can "float" on top of the denser brine lake surface. While already underwater. That's right, there is water at the bottom of the ocean; scientists found Goo Lagoon!
+    -   There is also the phenomenon of deep-sea gigantism, as well. For unknown reasons, with theories ranging from greater energy conservation, to protection against the pressure and cold of the deep sea, several animal species grow several times larger than relative species in other parts of the ocean. Such creatures include giant isopods, _Alicella_, the Japanese spider crab and various forms of giant mollusk, such as the seven-arm octopus and the giant squid. While many of these creatures are more or less larger versions of animals found elsewhere, it only adds to the strangeness of the abyssal ocean.
+
+___

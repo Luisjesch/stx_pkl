@@ -1,0 +1,128 @@
+_"Justice has a price. The price is freedom."_
+
+The stereotypical enemy of La Résistance, and a must have for any self-respecting Dystopia that is not in total anarchy.
+
+Police Brutality is the standard operating procedure here and they are most likely incredibly corrupt. One popular portrayal is having them dressed perpetually as SWAT Teams. If they need a vehicle, they aren't likely to settle for a car. Fascists' Bed Time will be enforced.
+
+Truth in Television, of course, but we won't list such situations. It's not always obvious when a country is one of these.
+
+Variants: Culture Police, Secret Police, State Sec. Sub-Trope of The Dictatorship and Dystopia. An America that has become one of these is an Oppressive States of America.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Comic Books 
+
+-   _Beast Wars: Uprising_: Cybertron in the 24th century, where the Maximal Command Security Forces are the main arm of the Builders, and it's possible to get into trouble for looking in a reflective surface too long. Most of the MCSF only sign up for the job because it means exemption from the Games, and so are usually apathetic and corrupt at best.
+
+-   In the _Judge Dredd_ universe, all of the major governments are Police States of varying flavours and levels of corruption, in a more literal manner than the norm. At least in the US, it is the long-term result of the growing power of the Justice Department initially to combat out-of-control urban crime in the new Mega-Cities. First the constitution was repealed and the entire judiciary (which was hopelessly corrupt) abolished, with Fargo merging the responsibilities of the Attorney General and Chief Justice into one office. His successors militarized it further, to the point where the DoJ became a wholly independent State Sec. Then the President derelicted his duties by plunging the world into nuclear war, forcing the Judges to depose him and basically became the entire government.
+    -   Dredd's own Mega City One is often shown to be one of, if not _the_ nicest, or at the very least less-corrupt, places on Earth. Other cities, on the rare occasions they are featured in the main continuity, are variously portrayed as corrupt, criminal regimes, run by Freemasons, falling apart, nuked, even more oppressive, infested with zombies, religious dictatorships or horrifically cheery theme park versions of Ireland. The world of _Judge Dredd_ is such a Crapsack World that if your city is _just_ a police state, you're incredibly lucky!
+    -   Outside the Mega Cities, the Cursed Earth is less dictatorial, but generally far less pleasant overall.
+    -   Judge Fargo, the founder of the Judge system, never wanted America to be a police state forever. On his deathbed, he begged Dredd to restore the American Dream of freedom and democracy. Dredd allowed the Judge system to remain indefinitely.
+
+-   _V for Vendetta_ is set in a Britain gone fascist, complete with armies of jackbooted thugs doing Police Brutality.
+
+    Fan Fiction 
+
+-   The Lemony Narrator of _Equestria: A History Revealed_ seems to believe she's living in one, with Celestia's secret police, fallacy police, and paranoid police. However, with that last one, coupled with her Conspiracy Theorist nature, it's probably just all in her head.
+
+-   In _Weight of the World_, Atlas becomes a military-police state after the fall of Beacon. There is a strict curfew, owning board games that "encourage aggression" is illegal, soldiers round up people they claim are criminals in highly public and brutal arrests, and said "criminals" are sent to a place known as the Transformation Institute to be "reeducated".
+
+    Film — Live-Action 
+
+-   _Brazil_ is a unique variant where the Police State is _laughably_ incompetent, clearly beginning to collapse under the weight of its own bureaucracy, and somehow manages to do far more harm than it would if it were deliberately malevolent instead of simply stupid.
+-   _Children of Men_: In 2027, after 18 years of global human infertility, civilization is on the brink of collapse as humanity faces extinction. The United Kingdom, the only stable nation with a functioning government, is deluged by asylum seekers fleeing the chaos and war which have taken hold around the world. In response, Britain has become a militarized police state as British government forces round up and detain immigrants.
+
+-   _Cry Freedom_ is set in South Africa during The Apartheid Era, therefore this naturally is the case. The very first scene shows white police violently breaking up a temporary settlement by black people. South African police are the main representatives of the apartheid regime throughout the movie, constantly harassing, detaining or even killing dissidents. Truth in Television for the time.
+-   The government of Libria from _Equilibrium_, whose anti-emotion laws are enforced by motorcycle-helmeted Sweepers and Gun Kata\-trained Grammaton Clerics.
+
+-   _The Girl From Monday_: Triple M has turned the US into one, with its black-clad paramilitary police everywhere hauling dissidents off, and spying on all the citizens.
+-   _Judge Dredd_ depicts Mega-City One as a post-apocalyptic city covering the greater New York area controlled by the Judges and ruled by the Council of Five. While the Chief Judge is pretty much a dictator, Fargo does balk at the suggestions of his more draconian cohorts.
+
+-   In _Super Mario Bros. (1993)_, under Koopa's rule, the police can arrest people for singing anti-Koopa songs while ignoring Daisy's kidnapping. When an APB for plumbers is issued, they're quick to arrest the Mario Brothers as well.
+-   _V for Vendetta_: The Norsefire regime has instituted one, with secret police patrols constantly on the streets, ubiquitous surveillance of the citizens, and people being taken away never to be seen again very regularly.
+-   _What Happened to Monday_ has a daily presence of guards trying to detect any second or third children in a nation that has adopted a one-child policy, promising to cryogenically freeze any children in hopes that a future world will have less population. They don't freeze them.
+
+    Literature 
+
+-   The lunar colony in _Cylinder van Troffa_ by Janusz Zajdel, supposed to be the means for humanity's "best" to survive while Earth is uninhabitable. Because of this, Luna runs on "lifeboat rules", with tight Population Control and fervent suppression of rumours that the next generation of lunarians might be unable to survive in Earth gravity.
+
+-   _Riotous Assembly_ and its sequel _Indecent Exposure_, set in The Apartheid Era, center on the South African Police Force in the sleepy city of Piemberg, a place stuck in a late-Victorian time warp where colonial mentalities prevail (on the part of British South Africans) and a desire to replay the Boer War exists (on the part of Afrikaners). Both ethnicities unite in despising and distrusting blacks, however, and this is where the racist and incompetent SAPD excels. Beyond the regular uniformed police is BOSS, the Bureau of State Security. Headed locally by a psychotic and hysterical paranoic called Verkramp, who sees conspiracies against a White South Africa — _everywhere_.
+
+-   The Federation in _Shannara_ is like this, especially in _The Heritage of Shannara_, when it was a xenophobic, expansionist state where magic was outlawed, State Sec controlled all aspects of life, and The Shadowen were pulling the strings.
+-   _A Song of Ice and Fire_: Westeros was this during the tenure of Brynden "Lord Bloodraven" Rivers as Hand of the King. As he was a particularly powerful skinchanger<sup>note&nbsp;</sup>  who could control ravens, a greenseer and had a good knack for glamours, he was able to spy on quite a lot of people in order to root out any Blackfyre sympathizers (real or not) and punish them. As shown in the _Tales of Dunk and Egg_ novellas _The Sworn Sword_ and _The Mystery Knight_, a lot of people felt that they couldn’t speak openly for fear of being perceived as treasonous.
+
+-   In _The Vazula Chronicles_, the triple kingdoms are run this way by the Record Master, who spreads misinformation among the merpeople to keep them in the kingdoms and under his control and secretly orders the execution of anyone who defies him, including Merletta's parents.
+
+    Live-Action TV 
+
+-   _The Barrier_: New Spain became a dictatorship twenty-five years prior to the beginning of the series. In one episode, two government officials discuss the fact that the police are gaining too much power. Meanwhile, corruption and casual Police Brutality are already a reality for the large portion of the population that isn't part of the political or economic elite.
+-   _Black Mirror_: The United Kingdom becomes this in the ending of "The Waldo Movement", as the Waldo movement has replaced the British parliament in a wave of cynical populism. The protagonist, Jamie, is shown to have become a homeless alcoholic who is tased and beaten by police after throwing a beer bottle at a Waldo sign. What's worse, the Waldo movement is spreading globally across the world.
+-   _Class of '09_: The US has become one by 2034, with constant surveillance of citizens and preventative arrests just for what they _might_ do, as calculated by the AI system the FBI now has. At first, it seems that many support this as a result of crime falling drastically due to such measures. However, the AI is later overthrown and the prior status quo restored.
+-   _Colony_: RH forces conduct random (and sometimes physical) inspections, and curfews are always enforced from 12 to 6 AM with orders to shoot anyone who is caught violating rules. Massive surveillance operations are done to control the populace and slave labor policies are used for anyone caught committing crimes against the CTA.
+-   _Doctor Who_:
+    -   In "The Happiness Patrol", the eponymous patrol uses their "fun guns" and pink uniforms to suppress anyone seeming miserable or unhappy, whom they label "Killjoys". Some are executed by means of deadly sweets.
+    -   "Turn Left" shows how a universe without the Doctor would play out. As London and most of its surrounding area is wiped out by the crash of the _Titanic_ (which the Doctor prevented in "Voyage of the Damned") and other countries are ravaged by alien attacks, Britain becomes one of these. The most striking moment occurs when Donna's Italian housemate is taken to a "work camp", as Britain has become heavily anti-immigrant, yet can't kick them out since the oceans closed. As they climb into the army truck, Donna's grandfather Wilf starts to cry.
+        
+        **Wilf:** "Work camps". That's what they called them last time!
+        
+    -   In "The Beast Below", England is turned into one of these. The government is keeping a secret and any dissidents who try to find out what happened are fed to the eponymous Beast Below. The Doctor figures this out pretty quickly since nobody is visibly reacting to his usual weirdness and nobody stops to inquire why a child is crying — they are too afraid.
+-   _The Handmaid's Tale_: The Republic of Gilead. Black-clad soldiers are constantly patrolling the streets, and secret police vans snatch people off the sidewalk. In a flashback to the rise of Gilead, they respond to the women's rights marchers with machine guns and mortars.
+-   _The Purge_: We usually see the setting through the lens of its brutal, lawless titular annual event. Season 2 shows that everyone is constantly monitored and committing crime of any kind will have the police sent after you in minutes the other 364 days of the year (or for violating the rules of the Purge — this also explains how they enforce those, as otherwise it would be logistically impossible). Depending on the violation, suspects can potentially be stripped of their rights as citizens, showing that the government now prevents crime on off-Purge days through draconian punishments (it's later revealed that capital punishment is used liberally for all major felonies).
+
+    Music 
+
+-   Disturbed's music video for "Another Way to Die" has a military-like group controlling all the earth's remaining water supplies and suppressing any form of agriculture not within their control.
+
+    Tabletop Games 
+
+-   _BattleTech_: The Capellan Confederation is outright described as a police state in the game's lore, being highly centralised and with a powerful government that controls practically everything about its citizenry, including whether or not they are 'citizens' at all or simply 'servitors': all children are officially 'wards of the state' until they can be assigned to either category. The Draconis Combine is slightly less centralised and has less direct power over its citizenry, but is even more authoritarian as a highly stratified feudal society where the Coordinator has almost unlimited power. The Lyran Commonwealth was briefly this under Alessandro Steiner, predecessor to Katrina Steiner (the actual Katrina Steiner, not her granddaughter Katherine). His idea of loyalty to the realm involved judicious use of LOKI operatives to suppress dissent. Unfortunately, the Lyran Commonwealth is notoriously full of General Failures, so this doesn't work nearly as well or as effectively as he'd have liked, and eventually led to Alessandro getting deposed by the infinitely more reasonable Katrina.
+
+-   _In Nomine_: Hell is overseen by the pervasive and merciless inquisition of Asmodeus and his servants, who ruthlessly purge the infernal ranks of any demon judged incompetent, treasonous, or insufficiently committed to Lucifer and his goals.
+-   _Misspent Youth_ by Robert Bohl has you play a group of teenage anarchists out to change the world. The group creates Systems of Control that are sci-fi-ish details about the world that the Authority uses to mess with your lives. These frequently include a police state, especially if the Authority's Visage is State.
+-   _Paranoia_: The setting's sole surviving human settlement is run by a powerful self-aware computer who is also, unfortunately, quite insane, and is absolutely convinced that every misfortune real or imagined is caused by communist or mutant saboteurs, despite most forms of communist theory or texts having been lost for centuries (the mutants are quite real, however). The Computer is _always_ watching, and anybody who engages in communist activity, is a mutant, can in any way be misidentified as part of those two groups, or runs afoul of the Computer's many, many badly worded and contradictory laws is in for an unpleasant time.
+-   _The Splinter_: Earth is a police state controlled by a single corporation. Make sure to watch TV every night and report suspicious activities to the police robot that's most assuredly watching you right now. It's for your own safety.
+-   _Warhammer 40,000_: The Imperium of Man is one of these. The Adeptus Arbites are the civilian law enforcement, keeping an eagle eye on everyone and acting on crime and criminals with Judge Dredd-level intensity. Further up the chain, the Inquisition watches _everyone_.
+
+    Toys 
+
+-   _BIONICLE_: Metru Nui is run as this, as it is patrolled by armies of Vahki who are ruthless in hunting down law breaking Matoran.
+
+    Video Games 
+
+-   In _Baldur's Gate III_, Barbarian Hero Karlach's Arch-Enemy Lord Enver Gortash pulls a Tyrant Takes the Helm on the titular city, brainwashing the duke (Wyll's father) into naming him Archduke, upon which he turns the city guards known as the Flaming Fist into his personal footsoldiers, arrests all the Reasonable Authority Figures opposing him, turns the city's most popular newspaper into a Propaganda Machine, and has towering magitek Mecha-Mooks kill people for petty crimes. Meanwhile, the citizenry regard all of this as Repressive, but Efficient due to the climate of fear maintained by the Big Bad which he helped create, as he was Running Both Sides as the Chosen of the god of tyranny, Bane.
+-   In Season 1 of _Batman: The Telltale Series_, Harvey Dent gets elected mayor of Gotham City and after he's wounded and potentially disfigured by the Penguin and a terrorist group known as the Children of Arkham, he snaps and slowly turns Gotham into a police state with armed guards on every street corner. He blows up an entire city block to destroy the Children of Arkham's drug supply, throws Bruce Wayne into Arkham without a trial and sets fire to his house, and tries to have his enforcers kill either Bruce or Gordon in Crime Alley. If Batman decides to focus on stopping the Penguin instead of Dent, he starts silencing his opposition and even goes so far as to try to have his enforcers kill off the entire GCPD before holding public executions in what's left of Wayne Manor, with his hostages including a police officer and a newscaster who spoke out against him.
+-   _Civilization_:
+    -   _Civilization III_ gives us the Fascist form of government, which offers benefits to military support but also (for reasons not completely explained) causes many settlements to lose a few units of population when you switch to it.
+    -   _Civilization IV_ has "Police State" as a civic option, with a SWAT officer in its portrait. Using the police state speeds up weapon production and halves the effects of wartime anger, presumably because people are too afraid to speak out or protest.
+    -   _Civilization V_ features this under the Autocracy tree, which gives +3 Happiness from every Courthouse built, and also halves the time it takes to build them. In the Gods and Kings expansion, it reduces the efficiency of enemy spies by 25%, and gives _your_ spies a +25% bonus to catch the enemy spies.
+-   In the Flash game _Deep State_, creating a police state in Eastern Europe is the end goal, and is accomplished by running protection rackets, selling drugs, smuggling weapons, manipulating the press and other False Flag Operations, including terrorist attacks against yourself and other countries. The main mechanic is balancing the population's fear (so that you can keep passing ever-more intrusive surveillance laws, militarizing police, curtailing civil rights, what have you), the population (the more people die, the more scared they are, but the less money they make) and your income (as you can't make as much money when the population doesn't feel safe, which is needed to fund your money-making operations).
+
+-   By the time _Escape Velocity Nova_ starts, the Federation is something like this. It is relatively light on the oppression for something on this page (it does still maintain the formal structure of the democratic federation it was founded as, and the rulers has to pretend that it still is a working democracy to the public), but it is effectively _ruled_ (in secret, obviously, though there is a Rebellion out to oust them) by its FBI-counterpart, the Bureau of Internal Investigation. Once you start working for the Bureau in the Federation storyline (which is fairly quickly), the missions you are allocated end up being to go to a planet, pick up a captured 'spy' or 'terrorist', and bring them in for interrogation. With each mission, it is increasingly obvious that the crimes in question was being a political dissident, culminating in you being ordered to bring in what turns out to be the Councillor — Senator, more or less — for Port Kane.
+-   _Freedom Wars_ has warring police states as one of the only forms of civilization left in the future. People live in Panopticons under constant surveillance, and any infraction, no matter how slight (including the crime of _being born_ and representing a new drain on limited resources), is punishable by prison sentences that can easily exceed a million years.
+
+-   In the Injustice universe of _Injustice: Gods Among Us_, Superman has turned his world into a totalitarian police state called the One World Regime following a horrible tragedy orchestrated by the Joker that cost millions of lives and pushed him to his breaking point. This regime is opposed by Batman and the heroes under his banner, along with a handful of heroes from the prime universe who find themselves transported there.
+-   In _Master Detective Archives: Rain Code_, the Amaterasu Corporation Peacekeepers effectively run Kanai Ward, or at least as badly as they possibly can. Those who defy them become a target for them in an instant, and they relentlessly pursue their targets. All they care about is their reputation, so naturally, Kanai Ward becomes a dystopian hellscape thanks to them.
+-   In _Mirror's Edge_, the government is a totalitarian police state that monitors all communication and public activity; however, the city cops dress rather casually (blue T-shirt and pants).
+-   In the original _PlanetSide_, the Terran Republic is a military oligarchy that mercilessly crushes any form of dissent with riot police or tanks. In the sequel, the Republic is an actual republic, but The Remnant on Auraxis has taken on a much more authoritarian bent due to resource shortages.
+-   _Sid Meier's Alpha Centauri_ has 'Police State' as a social engineering option and practically downright states that a few factions use them (The Hive is more or less forbidden from using anything else). You can even go for complete Thought Control once you research the technology "The Will to Power" (the Nietzsche reference is intentional, and also intentionally twisted — Chairman Yang _understands_ what Nietzsche was saying, he just wants to take it in a wholly different direction).
+-   In _Spider-Man (PS4)_, after a terrorist attack instigated by the Demons, Mayor Norman Osborn hires Silver Sable and her mercenary company Sable International to end their threat. He gives them full authority, which allows them to establish restrictive curfews, checkpoint areas, and invasive surveillance throughout the city. They also arrest civilians at any sight of dissent and constantly oppose Spider-Man and the police. Unfortunately for Osborn, reality bites hard; the American public and federal government do not exactly respond well to a municipal government official acting like a tinpot dictator, and he winds up resigning in disgrace once everything is resolved at the end of the game, with a strong implication that he just _barely_ avoided serious legal prosecution.
+-   _Stellaris_ has a Civic (principles behind a government) actually called Police State. In practice, it can fall anywhere between "highly repressive police force" and "a ridiculously high proportion of the population, up to and including one half of it, are police officers".
+-   _World of Warcraft_: This is what the Blood Elf capital Silvermoon is, or at least was before Kael'Thas was exposed as a madman. It had automated arcane sentries on every street corner, occasionally spouting propaganda, and anyone critical of the regime was quickly apprehended by the city guard and brainwashed via magic.
+-   _XCOM 2_'s ADVENT Administration is a global puppet government established after aliens invade and world governments surrender after the titular XCOM Project from _XCOM: Enemy Unknown_ fails to combat the aliens. Ostensibly, it is run by human officials in cooperation with benevolent aliens, and is protected by an army of apparently human ADVENT Peacekeepers. In reality, ADVENT Troopers enforce a global police state that monitors all communication and public activity in city centers. They favor ID scanners in the streets, military checkpoints on seemingly every other block, patrols kitted out with assault weapons, automated turrets in public places, and a massive electronic/psionic surveillance system that links everything together. It doesn't help that all ADVENT forces wear heavy eye-concealing helmets.
+
+    Web Animation 
+
+-   The Kingdom of Atlas from _RWBY_ ends up becoming one in Volume 8 after General James Ironwood enforces martial law at the end of Volume 7, resulting in the people of the below Mantle region becoming targeted by the Atlas military in the event that Atlas' safety against Salem is put in jeopardy, and culminating in Ironwood planning on nuking Mantle to prove a point to Team RWBY for going against him.
+
+    Western Animation 
+
+-   In _Beware the Batman_, Mayor David Hull declares martial law in Gotham City, turning both the Gotham City Police Department and Harvey Dent's Special Crimes Unit into a death squad targeting Batman. However, Hull is forced to do this by a disfigured and increasingly insane Dent. Commissioner Gordon quits in disgust.
+
+-   In _The Legend of Korra_, Councilor Tarrlok reacts to the Equalist (nonbender revolution) capture of the Pro-Bending Arena by enforcing a curfew on all nonbenders, punishable by being thrown in jail. Tenzin naturally objects, but can't get a majority opinion on his dissent. Until Korra confronts Tarrlok, no one seems to point out that this curfew only makes Republic City into the oppressive state that Amon wants his followers to believe it is.
+-   _My Life as a Teenage Robot_: When Jenny finally visits the Cluster homeworld in the Big Damn Movie, it unsurprisingly turns out to be this. Unlike many examples, most of the populace doesn't actually _know_ they're living in a police state; Queen Vexus and her Secret Police have such complete control over the planet that their citizens are thoroughly brainwashed into thinking Cluster Prime is a happy, prosperous world of freedom and that anything Vexus does is to protect them from foreign invaders.
+
+___

@@ -1,0 +1,74 @@
+In epic Fantasy worlds, "subtlety" is forbidden from their tomes of legend. When there is a clear line between the forces of good and evil, conflict is inevitable. Conflict usually means combat and thus protection from the opponent is required. With protection comes the opportunity for Character Alignment\-based fashion, because there is always time to look fabulous.
+
+Heroic armor is often done in primary or bright colors, either reflective chrome silver or the purest of gold, their monetary wealth a reflection of their moral wealth. If worn by the protagonist or the king, it will have a Badass Cape flowing behind them connected from the collar and embroidered by the symbol of the nation or their House. If enchanted, the armor is capable of surviving any blow no matter how improbable and enhancing the wearer's capabilities as a fighter, with an equally enchanted Anti-Armor weapon capable of rendering it useless. Helmets are uncommon.
+
+Evil armor is colored in dark, sinister colors, usually black and decorated in colors associated with villainy in context of the story like red or secondary colors. It can be reflective like it was carved from obsidian, or so rusted and aged that just putting it on could be a health hazard. They'll be covered in Spikes of Villainy because it is meant to elicit caution in all who see at, meant to look like it is as big of a danger to their opponents as their weapons. Typically worn by Tin Tyrants full-time or Evil Overlords during battle. Dialed up and that makes it Scary Impractical Armor. In rarer cases, the armor is cursed and it is what causes the bad behavior of the wearer.
+
+Of course these prerequisites are not exactly mandatory for the trope to apply. The hero can wear dark, battered armor and the rich villain could have saved a pretty penny for a shiny suit adorned with flowers and feathers. Inversions and subversions are as likely, just as long as symbolism can be drawn from the disparity.
+
+Often coupled with Good Weapon, Evil Weapon.
+
+Compare Character Model Karma Meter, for when you can tell where a video game character sits on the Karma Meter from their appearance. Related to Armored Villains, Unarmored Heroes, Color-Coded Patrician, Elemental Armor, Good Colors, Evil Colors and Instant Armor.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime 
+
+-   _Berserk_: Inverted with Guts (an Anti-Hero) and Griffith (a Villain with Good Publicity). The former wears black wolf-themed armor (and spends his days brutally killing Apostles), the latter used to wear pure white hawk-themed armor (and is responsible for there being so many Apostles around, not to mention his betraying his entire army to the Godhand). It is worth noting that once Griffith pulls his Face–Heel Turn, he discards his original silver armor for a black version of it.
+
+    Comic Books 
+
+-   _Fables_:
+    -   In the _Happily Ever After_ arc of the main series, the nature of the Fables and their family curse causes Snow White and Rose Red to act out the Arthurian narrative. When it is made public knowledge that Bigby has been revived (albeit in a broken, feral state), they agree to work together to find him, only for Rose Red and Snow White to immaculately gain their own sets of armor, Rose Red's being shining and made of gold, while Snow White's black with a Skeleton Motif. Genre Savvy that they are, they realize that the narrative is actively trying to paint Snow White as the Bad Guy in the current narrative. While Snow White refuses to go along with it (turning her black sword white in the process), Red Rose slowly transitions into the role to the point of fanaticism, her sword and armor turning red after murdering Mrs. Sprat for the ring she used to control Bigby.
+    -   In _Fairest_ issue #5, a bottle imp in service to Lumi accidentally summons Hadeon the Destroyer by invoking her name, thus Hadeon feels compelled to act out her title and destroy her. When the duel officially starts, both conjure their own set of armor. Lumi summons a shining silver armor akin to Joan D'Arc with a shield and sword, while Hadeon has black armor with Spikes of Villainy and an axe/mace combo.
+
+    Films — Live-Action 
+
+-   _Star Wars_: In the original trilogy, the Stormtroopers wear completely identical, all-white armor with a skull-like helm. In the prequels, the Clone Troopers sport various predecessor forms of this armor which, while still mostly white, has friendlier-looking, colorful markings and they're allowed to customize it. Their helms also resemble more Mandalorian helmets (which were based on crusader helms) than skulls, though they are shown to gradually evolve into what Stormtroopers wear, just as the clones turn from heroic soldiers to the villain's enforcers.
+
+    Literature 
+
+-   _The Beginning After the End_:
+    -   The Dicathians wear silver and blue armor while the Alacryans wear Red and Black and Evil All Over armor complete with Horns of Villainy evocative of their Vritra overlords.
+    -   Zig-Zagged with Aldir. While he wears an black panoply with purple highlights, he is on the side of the Dicathians as he was sent by Kezess to act as a strategic advisor for the impending Alacryan invasion. However, Kezess turns out to be a genocidal tyrant who is no better than Agrona, which is shown when he forces Aldir to use the World Eater technique in a futile bid to prevent Agrona and the Vritra from summoning the Legacy, which ends up destroying Elenoir in the process. Aldir was extremely reluctant to use the technique in the first place due to the collateral damage, and he ends up leaving Kezess's service altogether out of guilt. By the time Arthur meets with him in the Hearth, Aldir has discarded his armor as he no longer wishes to fight anymore.
+    -   Arthur plays this straight before getting a Subversion. When he becomes a Lance during the War Arc, he is given the same silver and red armor worn by all the Lances in combat. During his endeavors in the Relictombs after the war, he acquires a suit of Djinn Powered Armor only he can wear due to being descended from them. Said armor is ebon black with gold highlights and horns on his head. However, despite the armor's appearance, Arthur donning the armor coincides with him becoming the Big Good and turning the war against both Agrona and Kezess.
+-   In _The Twilight Reign_, the main hero and messiah figure Isaak, wears the greatest armour ever forged - a light silvery armour that was named for an Elven word for quicksilver. Kastan Styrax, an invincible warlord who sends Isaak to Hell, wears a very intimidating and black, enchanted full-plate armour that he took as a trophy from a legendary vampire he defeated. After his imprisonment in Hell, Isaak loses his armour and because he was chained so long, he develops an aversion to wearing metal armour so he takes to wearing a humble suit of leather armour.
+
+    Tabletop Games 
+
+-   Most editions of _Dungeons & Dragons_ have had magical suits of armor that were aligned with demons or celestials and followed this trope extremely straight. The Demon Plate armor is probably the most famous example, it's a suit of full plate that's covered with spikes and blades that you can attack your foes with, in addition to other enchantments that very with editions. Unfortunately, it's also cursed and drives you toward being Chaotic Evil (though since its appearance doesn't change when it isn't being worn, only a foolish or desperate Good character would voluntarily put it on) and also makes you very susceptible to the attacks and magic abilities of demons. Celestial armors, on the other hand, tend to do things like give the wearer angelic wings and healing or protective magic.
+-   _Warhammer Fantasy_, _Warhammer: Age of Sigmar_, and _Warhammer 40,000_:
+    -   In all settings, Chaos armor tends to be black (especially if it is Chaos Undivided), rusted with blood, and covered in spikes and skulls. Depending on the patron Chaos God, the armor has additional traits. Khornate armor is a blood Red Is Violent, Tzeentchian armor is navy blue and frequently sports eyes and sinister curves, Nurglish armor is an unappealing shade of green (and oftentimes the diseased bulk of the occupant just bursts through the seams of the armor), and Slaaneshi armor is either a Psycho Pink or Light Is Not Good sheen of gold or silver with BSDM elements littered throughout it.
+    -   The Loyalist Space Marines, meanwhile, tend to have a far sleeker and shinier appearance compared to their Traitor counterparts, though they're not a whole lot more good. After all, a good portion of the Traitor Legions were a case of Mistreatment-Induced Betrayal, and before and after the Heresy Space Marines have a history of committing atrocities if they are ordered to.
+    -   In the Old World, the human nations have more realistic looking suits of armor when compared to the Warriors of Chaos. The Empire has full plate Gothic armor, Bretonnia has high medieval panoplies and great helms, Kislev has rugged scale armor and Pelts of the Barbarian, and Grand Cathay has silver lamellar armor. Of course, while all of the human nations have their own flaws, it isstill a case of Grey-and-Black Morality.
+    -   The High Elves wear glistening ithilmar panoplies and blue tunics in contrast to the Dark Elves who wear black armor with purple tunics. The Wood Elves tend to wear less armor given their environment, but their armor tends to be either a bronze or gold color with green cloaks.
+    -   The _40k_ counterparts follow the same philosophy. Craftworld Aeldari armor tends to have bright colors and sleek contours. Drukhari armor tends to be black in color and sports lots of Spikes of Villainy.
+    -   The Dwarfs have impressive gromril suits of armor that are gold and silver in color. In sharp contrast, the Chaos Dwarfs have blackshard armor that is darker in color compared to their uncorrupted cousins, oftentimes being dark red, black, or navy blue.
+    -   _Age of Sigmar_ introduces the Stormcast Eternals, who are meant to be the Good Counterpart to the Chaos Warriors. They wear powerful suits of armor complete with face masks and sport bright colors to indicate they are the good guys. In particular, the main Stormhost, the Hammers of Sigmar, sport gold armor and blue tunics.
+
+    Video Games 
+
+-   _Hero of Sparta_ has the player hero, King Argos of Sparta, wearing a sleeveless Spartan-style golden tunic, while the series' villain Hades is a Tin Tyrant clad entirely in sinister-looking black armor.
+-   The Create-A-Soul feature in _Soul Calibur III_ features a Karma Meter of sorts that determined your character's general attitude and outlook in combat based on what equipment you attached to them. Certain types of armor would move the meter between "Good" and "Evil". Equipping heavy armor covered in spikes would move you pretty far to the Evil side, where your character's dialogue would be aggressive and unrepentant.
+-   _Kingdom Hearts_
+    -   When Riku tries controlling the darkness (and in-turn allowing Ansem, Seeker of Darkness to possess him), he gains a suit that would later be labeled his "Dark Mode" form. In this form, his torso, arms, and legs are covered in black and purple material that resembles muscle tissue. On his chest is a symbol of the Heartless, except that the cross is not there, and he has a white cloth around his waist. In _Kingdom Hearts: Birth by Sleep_, this is retroactively verified as a type of suit that is worn by those who possess loyalties to Xehanort, Vanitas wearing a very similar outfit.
+    -   In _Kingdom Hearts: Birth by Sleep_, it is revealed that Keyblade wielders are traditionally given access to what is called Keyblade Armor, a suit of Instant Armor that is shoulder mounted and can be used as both protection in battle and protection from the corrosive darkness that exists between worlds, acting as a type of protective space-suit. Aqua, Ventus, Terra and Eraqus all have their own sets of armor that reflects their own specific motifs are predominantly built for practicality. Master Xehanort on the other hand possesses armor that is meant to either emphasize his inflated sense of importance (his "No Heart" armor done in an elaborate monarch motif) or his affinity to the darkness (his armor after forging the χ-blade emphasizing his Satanic Archetype role in the story).
+    -   After Sora falls into darkness in _Kingdom Hearts 3D \[Dream Drop Distance\]_, Riku is forced to fight a Nightmare that takes the form of Ventus' armor, imprisoning Sora within itself. Being a construct of darkness, it is completely black with the Nightmare Dream Eater symbol on its visor.
+-   In _World of Warcraft_, paladins wear shiny gold, blue, silver, and white armor to symbolize their connection the Light. However, when turned into death knights by the Scourge, they instead don black and grey armor littered with skulls and other malevolent ornaments.
+-   In _Final Fantasy IV_, Cecil is a dark knight whose armor is black, red, gold, and purple to represent his reliance on dark powers. After becoming a paladin, his armor is transformed, ditching the helmet and turning his armor a holy white and deep blue on top of giving him a flowing Badass Cape.
+-   _Fable_: Most Player Character armor has "Light" and "Dark" variants that have the same defensive statistics but benefit or penalize the Karma Meter, respectively. NPCs tend to react happily or apprehensively to the PC's presence as a result.
+-   Sparkster from _Rocket Knight Adventures_ wears light blue armor with curved shoulder pads and rounded boots, as well as flight goggles. This is in contrast with his arch-rival and Evil Counterpart, Axel Gear, who wears dark purple armor more in line with a traditional knight's armor, having more edged shoulder pads, elf-like boots, and a visor on his helmet.
+
+    Web Comic 
+
+-   _The Order of the Stick_: The Sapphire Guard's enchanted armor only grants its benefits to a Paladin in good standing, effectively requiring its wearers to be Always Lawful Good.
+
+    Western Animation 
+
+-   Downplayed in _Trollhunters_. The Amulet of Daylight and the armor and sword it produces in usually bathed in glowing blue and is made of a chrome silver daylight-based alloy. When Jim incorporates the Triumbric Stones (three stones that possess either a literal or archaic connection to the series' Big Bad Gunmar) into it, the armor and sword takes on darker tones - referred to as his Eclipse Armor - becoming black with red highlights. Aside from having a different summoning phrase and being able to remain active without the amulet being connected to him, it is functionally the same as his normal armor.
+
+___

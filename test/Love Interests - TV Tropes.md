@@ -1,0 +1,168 @@
+"And who'd have guessed they'd come together on their own?"
+
+The princess to be rescued, or the Prince Charming to sweep the heroine off her feet. Or just someone that happens to become romantically involved.
+
+It's a Super-Trope so universal, that there are too many specific examples to list. There are a few in the list below.
+
+Compare Attraction Tropes, Flirting and Courtship, Dating Tropes, Marriage Tropes, Index of Romantic Couples. Contrast Celibate Hero, who is immune to this.
+
+More innocent Sister Trope to Lust Object.
+
+___
+
+## Sub-tropes:
+
+-   The Ace: A character who is great at everything and always wins the affection of their love interest.
+-   Action Girlfriend: His girlfriend is an Action Girl.
+-   Amazon Chaser: In love with an Action Girl.
+-   Amnesiac Lover: A love Interest under Laser-Guided Amnesia.
+-   Beast and Beauty: A couple involving a beautiful girl and a horrifically inhuman male.
+-   Beautiful Slave Girl: Often the subject of a Rescue Romance by The Hero.
+-   Bespectacled Cutie: A love interest is a cute girl who wears glasses.
+-   Betty and Veronica: A character has two conflicting love interests with contrasting personalities.
+-   Betty and Veronica Switch: When two love interests with contrasting personalities switch places.
+-   Big Bad Friend, when they pull a Heel–Face Turn because of The Power of Love.
+-   Bokukko: A girl who uses grammatically masculine pronouns to refer to herself.
+-   Broken Bird: A Troubled, but Cute love interest (often female) with a Dark and Troubled Past.
+-   Cat Girl: A love interest who looks like a human girl, but has some cat parts.
+-   Circassian Beauty: Now a Discredited Trope, it was popular in Orientalist literature during the 17th and 19th Centuries to feature girls of Circassian origin as romance options (in case of Russian literature, often doomed).
+-   The Charmer: A decent guy with noble and chivalrous instincts who knows how to treat their love interest right.
+-   Clingy Jealous Girl: Your love interest doesn't like it when other girls talk to you.
+-   College Widow: A Dude Magnet who lives near a male-only institution and encourages the attention she receives.
+-   Cowboy Cop: A love interest who is a reckless cop who doesn't play by the rules.
+-   Crazy Jealous Guy: He doesn't like it when boys talk to his girl.
+-   Cute Sports Club Manager: A love interest who runs a sports club.
+-   Damsel in Distress: A female character is kidnapped (or otherwise endangered) and in need of rescue by a male hero, who would become their love interest.
+-   Dark Mistress: A love interest for the villain.
+-   Dating Catwoman: When a protagonist and an antagonist are in love with each other.
+-   Deconfirmed Bachelor: A Confirmed Bachelor meets the right person and changes their mind about being single.
+-   Defrosting Ice Queen: The love interest initially rejects them, but begins to warm up to him eventually.
+-   Demoted to Satellite Love Interest: A prominent character becomes a Satellite Love Interest.
+-   Divine Date: A love interest who is a god.
+-   Disposable Fiancé: Either the main character or love interest's Romantic False Lead, who gets dumped to make way for the main character and love interest getting together.
+-   Disposable Love Interest: A character's established love interest disappears between the first movie and the sequel.
+-   Distressed Dude: A male love interest in need of rescue.
+-   Doppelgänger Replacement Love Interest: A character's love interest dies/leaves, and they meet a doppelganger who looks exactly like the previous love interest.
+-   Dogged Nice Guy — because Single Woman Seeks Good Man
+-   Dominatrix: A love interest who is into BDSM.
+-   Dungeonmaster's Girlfriend: The girlfriend of a gamer who gives her special treatment when playing tabletop games.
+-   Eerie Pale-Skinned Brunette: A love interest with ghastly skin and brown or black hair.
+-   Endearingly Dorky: Social awkwardness in a love interest.
+-   False Soulmate: Someone is led to believe this person is their love interest, only to realize this isn't the case.
+-   Femme Fatale: A sultry, highly attractive woman who tries to seduce someone's love interest.
+-   Fetishized Abuser: Is in love with them even though they abuse them.
+    -   Kichiku: Anime Fanspeak for a male Fetishized Abuser.
+    -   Kichiku Megane: Anime Fanspeak for a male Fetishized Abuser who wears glasses to indicate that he is smart, sophisticated, and successful.
+-   First Girl Wins: The protagonist ends up with the potential love interest we saw them meet.
+-   Girl Next Door: An accessible Nice Girl who is often a Childhood Friend of The Hero.
+-   Girl Next Door Turned Superstar: The Girl Next Door becomes a celebrity who the male protagonist longs for.
+-   Girl of My Dreams: A character meets their love interest in a dream.
+-   Girl of the Week: A new love interest shows up once an episode, and is usually gone by the end.
+-   Green-Skinned Space Babe: An alien woman is the love interest.
+-   Hair of Gold, Heart of Gold: A love interest with gold or blonde hair and is pure-hearted.
+-   Head-Turning Beauty: A female character who attracts all of the guys will most definitely be a love interest for the lead protagonist.
+-   The Hero: If male, the main character of the series will often be a love interest of the main (or only) female.
+-   Hooker with a Heart of Gold: A sex worker who becomes a love interest.
+-   Hospital Hottie: A doctor/nurse is the love interest.
+-   Hot Librarian: A librarian is the love interest.
+-   Hot Teacher: A teacher is the love interest.
+-   Implied Love Interest: Two characters seem to have an interest in each other, but it is implied and not pointed out.
+-   Incompatible Orientation: A character with a love interest whose sexuality prevents reciprocal feelings.
+-   Incorruptible Pure Pureness, since Single Woman Seeks Good Man
+-   Innocent Fanservice Girl: A character who goes naked because they are unaware of other people, including their love interest, finding nudity taboo.
+-   Insecure Love Interest: A love interest who feels unworthy of their significant other's affection.
+-   Jerk with a Heart of Gold: The love interest is nice despite the fact they can be a jerk at times.
+-   Jungle Princess: A love interest who was raised in the jungle.
+-   Knight in Shining Armor: A character who always saves their love interest.
+-   Knight in Sour Armor: A cynical character who saves their love interest.
+-   Lady of War: A love interest who is a graceful Action Girl.
+-   Ladykiller in Love: The Casanova falls in love.
+-   Last Girl Wins: The last person the protagonist meets is ultimately their true love interest.
+-   Likes Older Men: She's in love with men older than her.
+-   Likes Older Women: He's in love with women older than him.
+-   Literally Loving Thy Neighbor: When the Girl Next Door really does live next door.
+-   Little Sister Heroine: A character's little sister serves as a love interest option.
+-   Lonely Rich Kid: A love interest who is rich and has no friends.
+-   The Lost Lenore: A love interest who is dead and their lover mourns over them.
+-   Love-Interest Traitor: When a character's love interest betrays them.
+-   Loves My Alter Ego: The love interest of a Part-Time Hero is only attracted to their hero identity, not their secret one.
+-   Loving Bully: A character bullies their love interest to hide their true feelings for them.
+-   Mad Scientist's Beautiful Daughter: The hero's beautiful love interest is the daughter of an unattractive Mad Scientist.
+-   Magical Girlfriend: The love interest of an ordinary man (or less commonly, ordinary woman) who has supernatural powers.
+-   Magnetic Girlfriend: Women don't take an interest in the hero until after he gets a girlfriend.
+-   Manic Pixie Dream Girl: An energetic upbeat girl whose love gives the brooding male hero a new lease on life.
+-   Marry the Nanny: A single parent marries a household employee.
+-   Master of the Mixed Message: One character is definitely in love with another, but it's unknown how the other person feels about the love interest.
+-   Morality Pet: The love interest is what softens a character.
+-   Muggle and Magical Love Triangle: The lead's two choices for a love interest are a normal person and someone of supernatural origin.
+-   Mr. Fanservice: A love interest who provides eye candy for the female viewers.
+-   Ms. Fanservice: A love interest who provides eye candy for the male viewers.
+-   Naughty Nun: A love interest is a sexualized nun.
+-   Nice Guy: The love interest is a nice person.
+-   Non-Action Guy: A love interest who is not combat, action, or adventure adept.
+-   The Not-Love Interest: A partner who is not romantically involved with the main character, despite fulfilling the usual role of one.
+-   New Old Flame: The protagonist and their new love interest have romantic history with each other.
+-   The Obstructive Love Interest: A love interest who constantly misunderstands her lover's behavior and treats him terribly until the ending.
+-   Official Couple: When a character and their love interest get together in Canon.
+-   Old Flame: A couple who drifted apart are reunited and discover they still have feelings for each other.
+-   Old Flame Fizzle: A character is reunited with an Old Flame, but finds there's no longer any romantic feelings between them.
+-   The One That Got Away: The protagonist didn't end up with their One True Love.
+-   One True Love: The love interest who is the character's soulmate and the person they were destined to spend eternity with.
+-   Patient Childhood Love Interest: A childhood friend slowly develops into becoming a love interest.
+-   Peerless Love Interest: A love interest who is heavily idealized by their admirer, often to the point of being romantically unobtainable.
+-   Prince Charming: A love interest who is good, kind, and handsome.
+-   Prince Charming Wannabe: A man who deludes himself believing he's a Prince Charming to attract his love interest, but can't see that she doesn't want him.
+-   Princely Young Man: A love interest who acts like and is treated like a prince, but is not actually royalty.
+-   Previously Overlooked Paramour: The Love Interest is someone who you wouldn't have previously thought compatible with you.
+-   Promoted to Love Interest: when a major, minor, support or villainous character (redeemed or not) becomes the protagonist's love interest during the history.
+-   Proper Lady: A love interest who is kind, feminine, and polite.
+-   Rebellious Princess: A princess who does not like royalty, and most cases have them rejecting an Arranged Marriage to be with their desired love interest.
+-   Redheads Are Ravishing: Red hair is associated with attractiveness.
+-   Reformed Rakes: A character changes their love interest from a bad boy to the ideal man thanks to The Power of Love.
+-   Relationship Revolving Door: A characters and their love interest date, break up, get back together, break up, and so on.
+-   Relationship Sue: A Mary Sue whose personality, arc, and traits all go towards being the perfect love interest for another character.
+-   Replacement Goldfish: A character is replaced with another. Can include getting a new love interest (who often resembles the first one) after the previous one dies/leaves.
+-   Resurrected Romance: A deceased love interest comes Back from the Dead.
+-   Rich Bitch, since All Guys Want Cheerleaders
+-   Robot Girl: A robot love interest.
+-   Romantic False Lead: A character who acts as a secondary love interest to one of the main characters in order to create tension and difficulty between two love interests.
+-   Romantic Runner-Up: The character set up as a potential love interest for the protagonist, but ultimately doesn't end up with them.
+-   Romantic Vampire Boy: A vampire love interest.
+-   Sage Love Interest: A wise and often spiritual love interest, who provides helpful advice to their significant other.
+-   Satellite Love Interest: A character whose personality revolves around being a love interest to another character.
+-   Second Love: The character's first love didn't work out and now they have a new love.
+-   Seemingly-Wholesome '50s Girl: A love interest who looks pure and wholesome on the outside, but has some dangerous or unchaste practices when no one's watching.
+-   Self-Proclaimed Love Interest: A character who claims to be/thinks they're someone's love interest.
+-   Settled for Gay: A straight girl hooks up with their gay male friend due to having no other love interest.
+-   Shrinking Violet: A shy, quiet, gentle love interest.
+-   Significant Green-Eyed Redhead: A love interest that has green eyes and red hair.
+-   Southern Belle: A love interest that's a dainty upper-class girl from the South.
+-   Speech-Impeded Love Interest: The love interest cannot speak properly.
+-   Spirited Young Lady: A love interest in the upper class who is witty, educated, honest, and cultured, but is also frank, a bit loud, and doesn't care too much about the rules.
+-   Spoiled Sweet: A love interest who is upper-class, rich, and spoiled, but nice to everyone.
+-   Stacy's Mom: A character has a crush on another character's mom.
+-   Stalker with a Crush: A character stalks their love interest.
+-   Stock Light-Novel Calamity Princess: A Light Novel heroine with prestigious beauty and destructive magic, usually in love with the hero.
+-   Sugar-and-Ice Personality: The love interest is nice in spite of their cold exterior.
+-   Tall, Dark, and Snarky: A love interest that is tall, dark-haired, and constantly being snarky.
+-   The Tease: A character (usually female) constantly teases their love interest by acting flirtatious or dressing in a manner that drives them crazy.
+-   Temporary Love Interest: A character has a brief relationship with another character.
+-   Third-Option Love Interest: A new character that is introduced to let someone Take a Third Option in a Love Triangle.
+-   Tragically Disabled Love Interest: A love interest is made disabled for tragedy or drama.
+-   Trickster Girlfriend: A character's love interest plays pranks on them and answers all the questions with snark and riddles.
+-   Troubled, but Cute, since All Girls Want Bad Boys.
+-   Tsundere: In in love with their love interest, but outwardly acts hostile towards them to hide it.
+-   Understanding Boyfriend: A female character is freaking out or is very insecure about a perceived flaw that she has. However, once her love interest is made aware of it, he doesn't care and his acceptance is enough to put her at peace.
+-   Unwanted Harem: A character doesn't want any of these love interests.
+-   Unwanted Spouse: They're married to them, but can't stand them.
+-   Uptown Girl: A woman from a wealthy family falls in love with a man from the Wrong Side of the Tracks.
+-   Useless Boyfriend: A male character who appears useless when compared to their ActionGirl/MagicalGirl love interest.
+-   Well, Excuse Me, Princess!: A princess or lady who acts snarky toward her friend or love interest.
+-   Wet Blanket Wife: When the hero has awesome, or dangerous, things to do, his love interest pleads or nags him not to do it, for reasons that may be valid, but not conducive to the plot.
+-   White Magician Girl: A love interest with healing and supportive magical abilities.
+-   Woobie, Destroyer of Worlds, since they're Troubled, but Cute
+-   Yamato Nadeshiko: A love interest that is the ideal image of a traditional Japanese woman, such as being elegant, kind, and submissive without being a total pushover.
+-   Yandere: Is in love with their love interest and makes sure they feel the same... or else.
+-   Yandere Couple: Two Yanderes that fall in love and start dating.
+
+___

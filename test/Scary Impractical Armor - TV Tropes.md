@@ -1,0 +1,161 @@
+Not even the Avatar can stand up to it... or _in_ it.
+
+Armor with loads of flashy things that look intimidating, but that may not be nearly as useful as it looks. It has loads of Spikes of Villainy, Shoulders of Doom, and often some skulls. Expect any headgear to be a Rage Helm, unless the bearer is a main character. It is meant to look intimidating first and foremost, and may be more hindrance than help to the wearer. Can sometimes qualify as Impossibly Cool Clothes, but other times the character with the terrible taste to wear it is a Fashion-Victim Villain.
+
+If any normal character wore this armor, it might render them so heavy and awkward they could barely fight. However, if a character can wear this mess and still fight effectively despite the armor practically being a Power Limiter, it renders them even more threatening.
+
+Animated Armor made from this kind of suit of course has none of the mobility problems a human would have, probably due to lacking any structure without the armor to begin with. A Wizard Did It indeed. Similarly made more plausible by Powered Armor in sci-fi settings.
+
+Sometimes an Evil Overlord will wear this even when not in battle, which creates a variation of Ermine Cape Effect. Many of these are also Tin Tyrants. Bonus points if said armor comes with a High Collar of Doom.
+
+Compare Weapon for Intimidation. It serves the same purpose and may be wielded by someone who wears this armor.
+
+Cursed variations may become a highly impractical Clingy Costume.
+
+Compare 24-Hour Armor, Bling of War, Good Armor, Evil Armor, Impractically Fancy Outfit, Impossibly Cool Weapon, Breast Plate, Stylish Protection Gear, Battle Ballgown.
+
+Compare/Contrast Pimped-Out Dress.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   _Berserk_:
+    -   Every knight in has Scary Impractical Armor, verging on Costume Porn in most cases (though calling them impractical is perhaps unfair, since we only see them demonstrate Armor Is Useless against the Dragonslayer or the attacks of the Apostles that Guts fights).
+    -   Guts' Berserker Armor, on the other hand, looks like Batman's suit if it had a Savage Wolf motif and can keep the user in combat at the cost of their prolonged health by jamming metal spikes to bypass broken bones.
+    -   Griffith's Apostle cavalry goes even further, with the Apostle and his mount melding with the armor to form a single nightmarish creature based on the armor's theme.
+-   _Fullmetal Alchemist_:
+    -   Barry the Chopper is an Animated Armor that looks like this, complete with skull-like helmet.
+    -   So is Al; he has spikes all over the place even on the joints. The way his chest bulges out seems impractical but it's probably supposed to be an exaggerated sort of sloped armor. Some armor had the wedge on the breastplate for better deflection.
+    -   Fittingly, supplementary material has revealed that the two aforementioned armors were made by the same person. It's also very much implied that Al's armor is a novelty item meant to be used as an ornament, and the same is probably true of Barry's armor.
+-   In _Dragon Quest: The Adventure of Dai_, Dai buys an impossibly cool armor that turns out to be horribly impractical. He ends up throwing half of it away so it fits better. The armor itself is normal: the problem is that Dai is a Kid Hero who is about a head and a half shorter than the regular cast, trying to equip adult-sized armor.
+-   _Saint Seiya_ progressively becomes like this. In the final parts of the series, we see stuff like this. Must be noted that even the weakest of the Cloths are powerful magical artifacts.
+-   Naga from _Slayers_ has spikes on the shoulders of her armor and ends up injuring herself every time she raises her arms.
+
+    Comic Books 
+
+-   _Amalgam Universe_: Dark Claw, the fusion of Batman and Wolverine in _DC Versus Marvel_'s Amalgam Comics Fifth Week Event, has a very strange costume consisting of serrated fin gloves, a jagged bladed Utility Belt, boots with bat wings at the top, serrated Wolverine Claws and a weird demonic Wolverine mask all topped with the usual Bat-cape. When reviewed on _Atop the Fourth Wall_, Linkara joked that the real mystery needed to be solved was how Dark Claw came out of every adventure without his cape in tatters.
+-   _Batman_:
+    -   The final batsuit worn by Jean-Paul Valley, a.k.a. Azrael, during the _Knightfall_ arc qualifies. At first it mainly added gauntlets with projectile shooters, extra chest armor, a glider cape, and other bits of tech<small>◊</small>. Towards the end of the arc, as Jean-Paul was going insane, he added more armor, added ammo feed belts for his gauntlets connecting to a drum on his back, and ditched the cape for a set of metal fins.<small>◊</small> And of course, being the '90s, the suit had brighter colors, particularly after it was set on fire, revealing a red and yellow paint scheme underneath, despite the role of Batman requiring stealth. As Bruce noted when he had to fight Jean-Paul to get him under control, the armor hampered his mobility, making him slow and awkward.
+    -   Mr. Freeze is often shown in suits of armor that are incredibly large and bulky and look like big badass robots. They do their job keeping him cool. However, the live-action version of this suit was 75 lbs, and there is the problem that some are so wide in the shoulder/chest that for the rather average-built Freeze to wear them and actually move his arms would have to be cut off and stuffed in the sleeves. (One reason bodybuilder acting superstar Arnold Schwarzenegger was cast in the role was he was one of the few A-List actors strong enough to actually move around in the suit). In his later appearance in the '90s animated series, he adopted a very broad look but it was justified: His body is robotic and his only living flesh is a head in a jar.
+-   _X-Men_: Stryfe wore a suit of armor that looked like it was made out of blades, giving many readers the impression that he'd decapitate himself if he ever shrugged his shoulders. Partially justified in that Stryfe is a world-class telepath and telekinetic (which is saying something in the Marvel world). His armor is _meant_ to be scary and impractical, because not only does he not need to move to attack his enemies, he doesn't actually need the armor, since wrapping his own telekinesis around his body is more effective. And he is aware of both facts.
+
+    Fan Works 
+
+-   _My Little Denarians_:
+    -   Harry, of all people, after his Face–Heel Turn.
+    -   He then asks Lash if she would like a hooded black robe, tight black leather, or spiky black armor. Lash's response:
+        
+        **Lash:** I see you opted to combine all three for your own outfit, before covering the whole thing in skulls and adding a cape. I'm speechless.
+        
+
+    Films — Animation 
+
+-   _How to Train Your Dragon: The Hidden World_: While all of the dragon-riders have their own custom-made armor, Snotlout's is the only one that is made more useless by it despite it being designed off of Hookfang (arguably the most aesthetically intimidating of the rider's dragons). His Badass Cape is repeatedly snagged whenever he tries to make a Three-Point Landing and his helmet done in Hookfang's likeness has a bad habit of being knocked at an angle, leaving him blind during fights.
+
+    Films — Live-Action 
+
+-   In _Brotherhood of the Wolf_, the Beast wears armor covered in bone and metal spikes that is simply there to make it appear more monstrous. The armor doesn't appear to hinder its movements, however.
+-   In _Highlander_ the Kurgan has a skull helmet. He would have been better off with a normal metal one. Possibly justified for a couple of reasons: firstly the Kurgan is immortal and nothing but decapitation would do more than annoy him, and secondly he is not all that right in the head.
+-   Sauron in _The Lord of the Rings_ films, and some of the artwork for him. The books say that Sauron's physical form during that time was that of a man who had been burned to ashes but was still alive, and in general was brick-shittingly horrifying to look at. This is kind of a subversion since John Howe went to great lengths to stress the idea that all the armors in the movies _must_ work properly. This trope was lampshaded by the artists, however, as they joked that Howe specialized in scary-looking outfits with Spikes of Villainy that "could poke your eye out." But he did indeed go to great lengths to actually make it possible to even move your fingers without slicing an artery.
+    -   Howe gave a similar armour design to Sauron in _The Lord of the Rings: The Rings of Power_
+-   The Green Goblin's armor in _Spider-Man_ didn't seem to help much when Spider-Man started pounding the living bejesus out of him. Given Spidey once exploded a telephone booth from the inside, and Norman Osborne has only slightly superhuman strength, he probably would've been reduced to a pulp fairly quickly without the armor.
+    -   It gets even worse in _Spider-Man: No Way Home_, where Norman Osborn manages to smash his Goblin mask into pieces just by throwing a rock at it. In all likelihood, his enhanced strength may have helped, but you've still got to ask yourself why he would wear a head covering that could shatter in such a way.
+-   In _Willow_, General Kael's helmet has a skull for a faceplate. Half of it breaks off when swatted with a sword.
+
+    Literature 
+
+-   In _The Black Company_, The Lady and Croaker have sets of this armor justified that without having magic to protect them, they would be sitting ducks. It looks something like this. It should be noted that they're wearing them to scare their enemies, so it's an invoked trope.
+-   The elves in one of the worlds of _The Death Gate Cycle_ use an ancient armor (now they use magic) to scare dwarves, it's so impractical that an armored elf is unable to get up after he was pushed down.
+-   _Dark Lord—The Rise of Darth Vader_ initially depicts Vader's iconic suit as this. It leaves him in constant irritation, he can only walk at a slow pace due to his awkwardly constructed prosthetics, he can never sleep because of his own iconic breathing, and he's constantly reminded of his limitations compared to his old capabilities. Vader even suspects that Palpatine deliberately used outdated tech in his armor and made it nightmarishly uncomfortable as a punishment for his failure on Mustafar. However, by the end of the novel, he's fully adjusted to it and becomes as dangerous as ever.
+-   Towards the end of _The Elenium_, Sparhawk and his armor-clad companions enter the abandoned city of a dark god and his insane high-priest. The square outside the temple's main door turns out to be positively COVERED with undead soldiers wearing armor like this, which gives the church-knights pause... until they realize that the undead soldiers are basically brainless, and the armor utterly useless: The Zemoch has never really invented plate-armor, and only saw it during the previous war against the Elenes - who favored heavily-armored cavalry such as the Church Knights. They simply did not understand the idea behind it - all they knew was that it was really scary. So they ended up making armor that looked really scary while being more of a hindrance than anything else...
+    -   The renegade knight Martel also makes this mistake. He decided to spend some money on an elaborate and very expensive suit of armour, which slows him down in his final fight. Sparhawk takes advantage.
+-   In Michael Moorcock's novel "The Eternal Champion," the humans use very elaborate armor with many flanges and other impressive-looking touches. Ekrose (who has extensive war experience) comments on how dangerous it is, as a sword or axe blade can easily be caught in such armor. His own armor is very plain but light and practical.
+-   In _The Once and Future King_, a character spends at least a paragraph hating on ornate armour, stating that the designs just make it easier for a lance to get a good hold and knock you off your horse.
+
+    Live-Action TV 
+
+-   _Peacemaker (2022)_: The White Dragon's Powered Armor is a zigzagged example; it sure _looks_ intimidating, and it has some fairly useful weapons and gadgets installed throughout, but it's impractical for the opposite reason as most other examples on this page — instead of being too heavy and bulky to move around in, its design is lightweight and maneuverable, but with significant gaps between the armor plating that the heroes identify as a weak spot.
+
+    Myths & Religion 
+
+-   In the book of Samuel in _The Bible_, it is mentioned how scary and imposing Goliath was in his huge bronze armor. The "impractical" is coming from the fact that it didn't protect him from a pebble to the head. Also there's King Saul's own armor which he offered to lend the young shepherd boy David for his impending battle with Goliath. Which he turned down - though probably more because he was just a young guy and Saul a full-grown adult male than because the armor as such was a problem in the first place.
+-   Subverted in the legend of the Lambton Worm - the titular worm is an eel-like creature that, somewhat like the Lernaean Hydra, can simply join severed parts back onto it to stave off death. To counteract this, a witch tells John Lambton to wear armor covered with large spikes and fight it in a river that it lives in. The spikes on his armor proves to be key for the tale's hero to succeed in killing the creature with the spikes tearing up the worm as it attempts to coil around him, and the running river causing the severed bits of the worm to wash away downstream preventing its owner to joining with them again.
+
+    Tabletop Games 
+
+-   In most versions of _Dungeons & Dragons_, plate armor gives a ridiculous Armor Class bonus, but doesn't allow you to dodge as effectively and gives a HUGE penalty to skill rolls. In Third Edition, this penalty was -10, meaning the wearer couldn't even climb an unknotted rope without ranks in Climb and/or above-average Strength.
+-   The First and Forsaken Lion, one of the Deathlords in _Exalted_, has gigantic soulsteel armor covered in spikes and skulls and anything else intimidating and impractical. It's not like he has much choice to change it out for something more efficient, though, as his Neverborn master basically welded him into it after he screwed up his initial plan for world domination.
+-   Hellknights in _Pathfinder_ are usually depicted wearing plate armor painted a dark blue-gray and covered in Spikes of Villainy. This may serve a practical purpose given part of their duty is enforcing Chelaxian law (the "Hell" referred to is the Lawful Evil plane, the Chaotic Evil plane being the Abyss), but it's an open question whether the armor or their reputation is more intimidating.
+-   The Warriors of Chaos of _Warhammer_ fame are essentially Vikings in Scary Impractical Armor.
+    -   Malekith the Witch King of the Dark Elves wears one with Spikes of Villainy. He however needs his armor to keep himself alive as he is covered in burn scars from head to toe, and it's the source of his magical powers.
+-   _Warhammer 40,000_
+    -   Subverted with the Dark Eldar warriors, who have armor suits that are covered in blades and attach by hooking into their skin. While it looks outwardly menacing, the hooks are meant to produce a little bit of pain which enhances the senses. And given their proclivities, armor that can cut whilst in use is approved of. However, played somewhat straight since it's pretty fragile armor, trading protection for maximum agility and freedom of movement in battle, as the Dark Eldar are a piratical Glass Cannon whose combat doctrine emphasizes lightning raids and hit-and-run tactics. Parodied in a _Turn Signals on a Land Raider_ strip here.
+    -   Standard scowling design of Space Marine power armor looks kinda sinister, but that's just a design quirk compared to the power armor worn by Chaos Space Marines. Each suit is individually customized to be downright menacing, and invariably include an excess of horns, spikes, skulls, and arrows. Most of them are decorative or devotional, but more than a few of those horns coming out of their armor are actually parts of their bodies. While it's still functioning power armor, years of privation and cannibalizing parts means Chaos Marines have armor where most of the bells and whistles of the armor subsystems don't work.
+    -   Ork mega-armor does a good job of protecting its wearer and enhancing their killing power with a Power Klaw, but between its ramshackle design and the spikes and tusks and whatnot bolted onto it to make the suit look extra intimidating, it can be difficult to get around in. Models in mega-armor move as though they were always in difficult terrain, so if you roll poorly it's entirely possible for your big killy Warboss to spend the entire game struggling to march across the tabletop instead of earning his points back in close combat.
+-   _Warhammer: Age of Sigmar_ takes this to a whole new level. Whoever designed the Stormcast Eternals obviously never checked to make sure that their archers could look past their Shoulders of Doom and see what they're aiming at.
+
+    Video Games 
+
+-   _ADOM_ has a version that is actually more impractical than scary. Moloch armour weighs a ton and gives huge penalties to speed, dexterity, and defense (which is not what heavy armour usually grants anyway) as well as attacks. The only positive quality is that it has an even more enormous bonus to protection. As for scariness, the armour _is_ the (dead) moloch, and they are certainly scary enough, both according to their descriptions and when they lumber towards you to punch you hard enough to shatter stone, or at least to take away a lot of hit points.
+-   In _Command & Conquer_ many of the Brotherhood of Nods elite units have intimidating armor with helmets and capes, and they all wield some awesome weapons. Yet they provide the same amount of protection as any infantry in the game, and still can't protect them from the harmful effects of tiberium.
+-   War from _Darksiders_ has armor so ridiculously elaborate, it takes Yahtzee the _entire second page_ of his Extra Punctuation article to describe in detail.
+-   In the _Dark Souls_ games many armor sets fall into this. In _Dark Souls_ Ornstein and Smough each have their own variation<small>◊</small>. Ornstein wears a golden lion-themed dragoon where the eye opening is between the lion's mouth. Smough wears armor that makes him look morbidly obese and has the eye holes on the neck. It's justified a bit here since both are demigods.
+-   While some of its armor is merely ornate looking, the _Dragon Quest_ series does have the Sword Edge Armor. While it has good defense and an effect that lets it damage an enemy that attacks its wearer, artwork for it in its debut game gives it so many sharp, pointy bits, one can only imagine how the heroes can walk around in it without jabbing themselves.
+-   _Diablo III_'s barbarian has some body armor with horns that protrude from the body in positions that would be _really_ likely to stab him in the arms.
+-   In _Dungeons_, the Villain Protagonist is clad from head to toe in a scary, menacing spiked armor, which in the third game is repeatedly mocked, with the narrator musing that maybe the Absolute Evil is always in a bad mood because he insists in wearing that uncomfortable spiky armor even in bed.
+-   _The Elder Scrolls_:
+    -   Daedric armor typically qualifies throughout the series. It is red and black (forged from ebony which has been imbued with Daedric souls), generally quite spiky, and is almost always the heaviest armor available in each game. Other than the weight, the "impractical" aspects ultimately end up meaning very little in terms of gameplay. These aspects are especially exaggerated in _Oblivion_ and _Skyrim_.
+    -   _Morrowind_ plays with it. Mostly only the native styles (Glass, Bonemold, Dreugh, Indoril) play it straight, as each possess spikes and oversized shoulders. Trollbone armor also counts, while it is Nordic style – essentially, it’s just a pile of troll bones sewed to cloth underarmor and a troll skull atop. Local Chitin and Netch leather armor, on the other hand, may look somewhat menacing, but fairly practical, given the materials they made and that they are suited to harsh island environment. Western (i. e. Imperial) armors looks very much like real-life plate armor examples; same to local Ebony armor. Even Daedric armor, while featuring extremely scary facemasks, doesn’t have the common “impractical” features that subsequent games in the series would exaggerate.
+    -   In _Skyrim_, Falmer armor qualifies. It can be more of less effective, depending on whether it's normal, Hardened, or Heavy (the best, but also, well, the heaviest), but it always looks monstrous, and is covered in Spikes of Villainy. In this case, however, it's a Justified Trope - the Falmer makes that armor from the only material they have access to, the Chitin of the Chaurus, which happens to be quite spiky. And the helmet makes you look like a monster because it's the _hollowed-out head of a huge bug_.
+-   _Fallout 3_:
+    -   Raider and Super Mutant armors fit this trope to a T. They are made mostly from stuff like old tires, leather, and the occasional scrap metal; as such, they provide very little protection but significant intimidation factor. _The Pitt_ DLC adds the Tribal Power Armor which is both scary AND practical. The _Broken Steel_ DLC's Hellfire Armor ups the ante one degree more as it's both scary, practical, AND cool.
+    -   Another subversion is the Centurion armor from _Fallout: New Vegas_, which, although cobbled together from armors of defeated enemies, is very practical as well as intimidating. _Lonesome Road_ adds the Scorched Sierra Power Armor, worn by the Optional Boss Colonel Royez, which has a bear head in place of the left pauldron and red and green accents. When worn by the player or a companion, it provides a Regenerating Health bonus of 2 HP per second and 25% fire resistance, without the agility penalty of normal T-45d armor.
+-   _Final Fantasy_ cares much more about the Rule of Cool than practicality and as such is in love with this trope. About the only time this could possibly be even vaguely construed as justified is with the Emperor: He wears imposing, elaborate golden armor that gives him a Sculpted Physique, though other, robe-based outfits show him to be very slender (fitting for an Evil Sorceror Squishy Wizard). The justification comes into play when one considers that perhaps the golden armor is meant to primarily be a show of the Emperor's wealth and power, a legitimizing display rather than an accurate reflection of his martial prowess.
+-   _Liberal Crime Squad_: Given the interrogation bonus they give, and their nonexistent armor rating, Death Squad uniforms are this, but since it's an ASCII game, it's hard to tell otherwise.
+-   _Myth__: The Fallen Lords_ has this with Balor. Not only was his armor spikey, its protective qualities were completely redundant considering how many magical dreams of protection he had woven about himself (which is also the reason most other arch mages in the setting never bother wearing armor.) Balor wore it just for the intimidation factor.
+-   _\[PROTOTYPE\]_ hands Alex the Armor power roughly halfway through the story. On the one hand, it reduces damage, looks awesome (and spiky) and means that, rather than having to leap over and dodge obstacles, Alex will plow _right through or over them_, enemies included. On the other hand, all this comes at the cost of Alex's agility (his main advantage over his foes) and gives him the frustrating habit of smashing objects that could otherwise have been picked up and thrown. His Shield power lacks those disadvantages and will negate _all_ damage when deployed, but has less coverage and will break after a time. And it just doesn't look as _cool_.
+-   Nightmare from _Soulcalibur_ wears armor that ranges from somewhat spiky to armor made of Body Horror depending on whether he's possessing someone or taking his own form.
+-   _World of Warcraft_:
+    -   The Lich King has what looks like Sauron's armor with a few nips and tucks (and skulls. Loads and loads of skulls.), although since neither are human, armor like that is at least justified.
+    -   Most of the high-level armors count. They tend to have pauldrons that stick up higher than the PC's head (sometimes by almost a whole foot) and make the character look twice as wide across the shoulders. Because the character moves in various ways, the pauldrons often clip through the body in ways that should result in accidental decapitation or brain surgery. An egregious example is the night elf female, who due to an unfortunate combat stance when wielding two-handed axes, swords, or maces will spend most of the fight with her shoulder spikes embedded in her face.
+    -   Some rogue armor sets glow menacingly. Try sneaking like that.
+-   Intentionally averted by the designers of _Half-Life 2_. The Combine don't care about intimidation and just wear practical outfits - which makes them significantly scarier.
+
+    Visual Novels 
+
+-   Some of the Tsurugi's present in _Full Metal Daemon Muramasa_ certainly lean towards the more flashy end of the design spectrum with little regard to actual practicality, often ordained with huge crests, spikes, and plates of armor facing every which way. The Muramasa line is perhaps the worst with all of the ones shown having a huge spike at the center of the chest that would make swinging a sword quite awkward.
+
+    Web Animation 
+
+-   Before starting his review of the MLP episode "Simple Ways", Silver Quill puts on an impressive black hippogriff armor (because he's badly scared of romantic triangle plots)... only to find out he can't move in it.
+
+    Web Comics 
+
+-   Parodied in _Commander Kitty_, where after getting some advice from Nin Wah, Zenith ends up making CK an outfit with so many spikes, pouches, and pads that he can't even move.
+-   Gilgamesh Wulfenbach from _Girl Genius_ wears this at one point, urged on by the Jagers. But he disposed of the Shoulders of Doom and nice hat fairly quickly. The hat is still lying around someplace; Violetta pulled it out to tease him, and if we're very lucky, he'll wear it again someday.
+-   One of the random effects of the Shield of Wonder in _Goblins_ is turning a weapon that strikes it into a set of fancy armor on the person wielding the weapon. At first the victim of the curse thinks his new set of armor is awesome, but the armor does not stop getting bigger and heavier and fancier until the armor becomes a death trap that completely encases him and crushes him to death.
+-   Fae armors in _Roommates_ and _Girls Next Door_ tend to look like this. Even more so the more pissed the wearer is either because it's magically expressive or because Changing Clothes Is a Free Action for them. The only thing they aren't fond of are the skull motifs, they prefer High Collar of Doom, Badass Cape, and Cool Crown (because Helmets Are Hardly Heroic) with their scary protection wear. Also their magical nature means, that they don't need to think about, how impractical these outfits might be for normal people. (Direct example: Why bother fitting through a door if you can just teleport in?) The whole species suffers from a terminal case of Large Ham and Complexity Addiction.
+
+    Western Animation 
+
+-   _Avatar: The Last Airbender_:
+    -   In "Sokka's Master", Aang tries some on and soon falls over. The DVD Commentary has the guys saying it's a Take That! to this kind of look, and the art book adds that it's also a shot at toymakers who wanted armor variant action figures.
+    -   It's also somewhat self-deprecation, as Fire Nation soldiers did lean in this direction when they were Faceless Mooks, but it was downplayed over time, especially once inhabitants in the Fire Nation started being shown to be normal, generally decent people. The Fire Nation _used_ to follow this trope, with utterly impractical shoulder spikes. Sokka points this out when a group of water-benders are dressing up in 80-year-old Fire Nation armor in an attempt to infiltrate the enemy army.
+    -   The armor that Phoenix King Ozai wears in the finale looks very heavy and unwieldy. This is likely why his first move in his battle with Aang is to take it all off.
+-   In the _Darkwing Duck_ episode "Time and Punishment", Gosalyn is transported into a future where Darkwing becomes unquestioned dictator of the city. In order to make her his ultimate successor, he gives her gifts, including a very imposing scary suit of battle armor. The only drawback to it is that she isn't able to move. But she sure looks impressive.
+-   _The Venture Bros._: The Monarch's "Death's Head Panoply". Parodied, too: he can't move an inch in the thing, requiring someone else to activate its flight mode. And, while it is incredibly dangerous, the suit loses balance in the air, causing the Monarch to spin around, throw up, and fall down to earth.
+
+    Real Life 
+
+-   Most ceremonial armor tends to be scary and impractical unless the users have a culture of austerity. This is because the armor is more intended to impress the commissioner and display the skill of the craftsman than to protect the wearer.
+-   Pickelhauben are a highly visible example from WWI and earlier; they definitely _did_ make an impression but its entirely on the wrong people: enemy snipers found them exceptionally easy to spot and shoot.
+-   Ancient Greeks would sometimes wear pieces of armor made of bones, the idea being to tell your enemy "I killed this animal, and I can kill you, too." Bone would still deflect a glancing blow, making it better than nothing, but it also shattered easily under the impact.
+-   Samurai during Japan's feudal era had always cared about looking scary as well as protecting themselves, but beginning in the Momoyama period (ca. 1573-1615) the decoration of armor became increasingly elaborate and bizarre. One example is a gusoku-type armor simulating the uncovered human body, which includes a faux hairdo made of bear fur on top of the kabuto (helmet) and a Dō (cuirass) incorporating flesh-colored plates sculpted to form a chest, ribs, shoulder blades, and backbone. Exotic helmets called kawari-kabuto incorporating extravagant papier mache or wooden crests (maedate) and side-crests resembling horns (wakidate) became the height of fashion. In the swordfighting ward migi-no-jódan, the sword is held above the head slightly slanted in order to avoid the helmet decorations. During the Edo period (ca. 1615-1868) when major wars were a thing of the past, kawari kabuto were made in a variety of fabulous shapes from fashion and nature including seashells, animals, mountains, and formal hats.
+-   During the 16th century in Europe, when plate armor reached its technical and artistic high point, certain forms of costume armor were mainly created for the sake of fashion rather than protection. It is important to note that armor came in a range of configurations, qualities, and prices during this period: Simple and affordable armor was being made to outfit thousands of soldiers, but at the same time the nobility and royalty were free to commission extravagant armors to suit their needs. Plate armor designed for the battlefield had a good all-around balance between protection, weight, and ease of movement, while armor for tournaments usually included reinforcing pieces that added weight or restricted flexibility for the sake of protecting better against accidents and injuries. Costume armor, on the other hand, was made in fantastic shapes to simulate things like human hair, grotesque faces, or enormous puffed-and-slashed cloth sleeves because it was mainly created to make the wearer turn heads in parades or staged events. Such armor sometimes incorporated shapes that would hinder the wearer, and too much use of embossing technique tended to thin and weaken the steel plates making them less useful as protection.
+
+___

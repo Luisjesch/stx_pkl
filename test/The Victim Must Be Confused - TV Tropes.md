@@ -1,0 +1,75 @@
+**The Shredder**: You loved _**me!**_ I could see it in your eyes.  
+**Tang Shen**: As a _brother!_ As a friend. As a good man, and as someone I could trust. But not as a lover. I never loved you the way you wanted me to.  
+**The Shredder**: STOP LYING!  
+**Tang Shen**: I love Yoshi, not you. And it is with him that I have spent these last fifteen years. Nothing you can do or say will ever change that.  
+**The Shredder**: Of course. Fifteen years of being fed lies would trick anyone into believing they were true.
+
+The Hero sees a Damsel in Distress in the claws of someone that they really not should be around—An Evil Sorcerer, a Mad Scientist, The Don, etc.—and immediately assumes that they have kidnapped the Damsel and is holding her against her will. The Hero unsheathes his sword and is more than happy to strike that villain down and ride off into the sunset, both of them on his horse.
+
+There is just one problem: the Damsel is not in distress. Or so she tells him.
+
+She explains that the villain is not so bad, and that he was actually her friend. He would never harm her and the Hero's assumptions that he would just makes him prejudiced. Perhaps the villain had used magic and hypnotic technology to brainwash her so that she would say such things, or maybe the villain was threatening her and her loved ones if she ever confided in anyone the horrible things that he does? The Hero has long since made up his mind on the issue and he refuses to think otherwise.
+
+When the supposed good guy makes the assumption that the damsel has been gaslit into Stockholm Syndrome in such a manner, then they are either a complete idiot to not see the lack of evidence of abuse, or an Unscrupulous Hero (or worse) who is out to ruin the not-really-a-villain's already paper-thin reputation by claiming that he would defile the brain of such a beautiful maiden. He acts upon his impulse to "rescue" her and "free her from his spell."
+
+All attempts to do this will undoubtedly fail, and the "hero" will often persist in trying new and increasingly archaic methods to prove otherwise. Insane Troll Logic, various holy and magical rituals, fasting and repentance, therapeutic hypnosis, and maybe even a little enhanced interrogation to force the "truth" into them one defibrillator to the temple at a time. Eventually, he may concede to the fact that she is Not Brainwashed and really is telling the truth. If the denial persists long after it should, it usually delves into I Reject Your Reality Sanity Slippage territory, coming to Believe Their Own Lies in spite of all the evidence they find along the way because they think they are right, and so they are right.
+
+Sub-Trope to Unwanted Rescue. Compare with Condescending Compassion and Not Now, Kiddo. Contrast with Stockholm Syndrome, Subverted Suspicion Aesop and Properly Paranoid, all of which happening when the hero is right all along. Related to Cassandra Truth, I Reject Your Reality, Moving the Goalposts, Not Now, We're Too Busy Crying Over You, Theory Tunnelvision and Windmill Crusader.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime and Manga 
+
+-   _Magu-chan: God of Destruction_: Izuma sees Ruru as a "feeble-minded girl" indoctrinated into Magu's cult, not understanding that Ruru is honestly Magu's friend, and if anything Magu is submissive to _her_.
+-   _The Rising of the Shield Hero_:
+    -   In a victory celebration immediately following the heroes stopping the second wave of calamity that threatened the world, Malty and King Melromarc inform the Spear Hero, Motoyasu, that the Shield Hero, Naofumi, has a slave girl named Raphtalia. Motoyasu demands a duel to free her, which the King forces Naofumi to accept. When Raphtalia tries to explain that she doesn't mind being Naofumi's slave and that he treats her nice, Motoyasu assumes that the slave brand must be forcing her to be loyal and the King orders Raphtalia to be bound and gagged so that she can't protest. Naofumi loses the duel due to Malty's illegal interference, but the moment Raphtalia is freed from the slave brand, she slaps Motoyasu and rushes to Naofumi's side. Everyone quickly comes up with the excuse that she was branded so long that her will was permanently destroyed by the slave brand, and when Naofumi later gets _another_ slave (Firo), Motoyasu tries to pull the same trick only for Firo to give him a megaton kick to the crotch.
+    -   The Church of the Three Heroes tries having Naofumi branded as a wanted criminal for kidnapping the Princess Melty. When Princess Melty tries explaining to the three heroes that she had left with him of her own free will, the Church and her sister Princess Malty tries rationalizing this as being the product of an ability to brainwash people that they believe the Shield Hero possesses. This is quickly shot down by Naofumi, citing that the other three heroes do not possess such an ability and that it would be very unlikely that he would have it. This also can be noted as further evidence that Malty lied about him trying to rape her at the beginning of the series, as having the power to control people's minds would have been useful if he did do so.
+-   _Sacrificial Princess & the King of Beasts_: When Ilya learns that his Childhood Friend Sariphi was taken to the kingdom of beasts to be sacrificed, he tries by all costs to save her but is tossed in a dungeon. Sariphi tries to reason with him, telling him that the king took her as his bride and he is good to her, but Ilya won't listen and kidnaps her. He has a deep hatred from the beasts since a bunch of beast burglars killed his family and devoured his little sister, so Sariphi's arguments infuriate him so much that he decides to fight King Lionhart to show her how savage the latter is. Much for his surprise and anger, Leo holds back during the fight, but it's only when Ilya hurts him and sees Sariphi cry that he realizes he was just trying to make up to his dead little sister, and that wasn't fair to Sariphi. Leo forgives him and Ilya leaves the land of beasts with his hatred for them increased... until he saves a beast cub from human poachers, and the cub helps him defeat the same humans.
+
+    Comic Books 
+
+-   In _All-Star Batman & Robin, the Boy Wonder_ the Gotham police demonstrates how outrageously crooked they are when they tell Dick Grayson he's probably hallucinating from the stress of seeing his parents get killed in front of him when he says he can recognize who killed them — and when he insists that he can recognize the shooter, we see one of the policemen asking the patrol car's driver to "take a detour" to the woods while he pulls out his nightstick. It is right then when the Goddamn Batman barges in.
+-   In _Runaways (Rainbow Rowell)_, the team tries to "rescue" Klara from foster care, only to discover that she's been Happily Adopted. Unwilling to accept that Klara has good reasons for not wanting to return to the team, Gert suggests that maybe Klara's foster parents are supervillains who brainwashed her, as Molly's grandmother tried to do. Considering that Klara was adopted by a gay couple, this does _not_ go over well, and Klara asks them to leave.
+
+    Fan Works 
+
+-   _The Dragon and the Butterfly_: When Stoick, Gobber, and the Viking teens come to the Encanto to find Hiccup, Stoick can't understand why Hiccup (who, along with Toothless, has been adopted by the Madrigals) would want to stay with the "witches" instead of going back to Berk.
+-   _Freeze on the Stones_:
+    -   In the Enchanted Forest, Belle and Rumpelstiltskin message her father Maurice that they have gotten married. When she visits him, he is relieved that she had "escaped" him. When she clarifies that she did not escape the castle and that the letter she sent was all true, Maurice is convinced that Rumpelstiltskin placed her under a spell to make such claims and that a quick trip to the clerics will clear everything up.
+    -   During the curse in Storybrooke, Maurice's cursed self Moe French becomes worried and paranoid over his daughter Lacey's safety when she and her daughter Renee stay over at Mr. Gold's place under the assumption that he is physically and sexually abusing her. No matter how many times she tells him otherwise, he presumes that the truth is much worse than she claims under the assumption that Gold had threatened her if she told anybody.
+-   In _The Peace Not Promised_, Remus learns that Severus has agreed to keep making Wolfsbane potion for him long-term, because Lily asked him to. He jumps to the conclusion that Severus must be using his compliance as leverage to keep Lily around (because her soft heart couldn't bear to let Remus suffer), and he asks Severus to release her. When he realises where Remus' thoughts have gone, Severus is almost too angry to speak, and throws him out of his lab.
+-   In _Same Difference_, when Shredder discovers that Tang Shen is alive and has her kidnapped, he takes her rebuking his advances and claims of being Happily Married to Hamato Yoshi as a twisted form of Stockholm Syndrome, intending on breaking her out of this mindset after he kills Yoshi. This is a disturbing sign of how absolutely obsessive Shredder is about Tang Shen.
+
+    Films — Animation 
+
+-   In _Beauty and the Beast_, when the Beast allows Belle to save her father, Gaston issues her an ultimatum; either she marries him or Maurice will be sent to the Asylum. She denies him and proves that Maurice's ravings about the Beast were true by showing him to the mob outside with the magic mirror he gave her. When it becomes clear to Gaston that she values the Beast over him, he changes tactics and accuses _her_ of being crazy, locking her and Maurice in their basement while he and the angry mob go out to kill the Beast.
+
+    Films — Live-Action 
+
+-   In _Tucker & Dale vs. Evil_, a group of college kids think that Tucker and Dale are a duo of killer hillbillies straight out of a stock slasher film who have been killing their friends and kidnapped Allison, when in reality they saved Allison from drowning when she hit her head and all of their friend's death happened either due to their own laughably pathetic ineptitude or just plain bad luck. When Allison tries explaining to her friends the situation, Naomi comes to the conclusion that she must have Stockholm Syndrome, made even more egregious since she seems to only know the most basic definition and is clearly unfit to make any kind of diagnosis.
+
+    Literature 
+
+-   Cimorene has this problem in _Dealing with Dragons_, as the knights that come to rescue her can't fathom that she's perfectly happy being a dragon's princess (which basically just means being a roommate with housekeeping and secretarial duties), let alone that she volunteered for the job. Although nobody dismisses her as outright insane, she complains that getting them to leave takes forever because most of them think she's just kidding. However, her witch friend Morwen then points out that with a sizable reward for her rescue, eventually someone will probably try to "rescue" her whether she wants it or not. Concerned, Cimerone starts to take more active steps to discourage the lot of them.
+-   Near the end of _Harry Potter and the Prisoner of Azkaban_, Snape insists that Harry and his friends must have been bewitched to believe that Sirius Black was innocent. He rationalizes this as saving them from getting in trouble for attacking him, but it's clear that his grudge against Black for being one of his school bullies (and because he blames him for the death of Lily Potter) is the real reason.
+-   In _Till We Have Faces_, Psyche claims to have been rescued from her intended Human Sacrifice by the god of the mountain and lives in a palace with him, but her sister Orual, who is unable to see the supposed palace at all, is convinced she is delusional and being manipulated by some unscrupulous person - or else under the thrall of an evil god rather than a good one. Orual realizes far too late that a lot of her motivation to rescue her sister was about wanting to keep her for herself and seeing her as a child without autonomy.
+
+    Live-Action TV 
+
+-   In _Kamen Rider Gaim_, Mitsuzane slowly undergoes Sanity Slippage and starts to see Kouta as a idiot who will doom the world with his bumbling instead of a selfless hero (largely out of resentment, as Kouta regularly interferes with his own "world-saving" plans and gets praised for it). When their mutual friend Mai tries to defend Kouta's actions, Mitsuzane ignores her argument and dismisses her as "confused", and starts threatening more of their friends to make her come with him. Most disturbingly, he doesn't even get mad or make any special effort to convince her she's wrong; he just takes the stance of "I'm sure you'll eventually see that I'm right."
+
+    Video Games 
+
+-   Throughout _LISA_, Brad hunts down his daughter Buddy - the last woman on Earth - after she gets kidnapped by the Rando Army. But when he finally reaches her again, she runs away from him the first chance she gets. When they meet again, she refuses to join him and hides behind the Rando Army, having acknowledged her role as the last woman. Brad's emotional scars from his Dark and Troubled Past prevent him from seeing through his daughter's point of view, and he proceeds to murder the entire army in an attempt to "rescue" her.
+-   Defied in _Undertale_. When the protagonist first meets the two royal guards loyal to Undyne, Undyne will let them know that she had told them beforehand that she'd likely to have been brainwashed if she ever became friends with a human if they contact her after befriending her. This is why she doesn't bother coming to talk them into letting you through.
+
+    Western Animation 
+
+-   _Codename: Kids Next Door_ has Professor XXXL lure Nigel to his lair so he can use Nigel as a taste tester to develop the perfect snow cone in "Operation C.O.L.L.E.G.E." Despite the professor's relatively harmless motives, Nigel appears to be strapped to a chair while being fed snow cone after snow cone, which the KND mistakes for torture even though Nigel is enjoying it. When he's "rescued", his attempts to explain that he was fine and that it was all a big misunderstanding fall on deaf ears, as they believe he's suffering from Stockholm Syndrome or that the professor may have already succeeded. This example is based more on circumstance, including Nigel's own earlier words, than the fault of the "rescuers".
+-   In the _Gargoyles_ episode "Sentinel", the eponymous alien sentinel Nokkar doesn't know that humans aren't the only sentients native to Earth and mistakes the gargoyles for advance scouts of his enemies, the Space-Spawn. He assumes that Elisa has been brainwashed by them, so he uses an anti-brainwashing method on her that also causes temporary amnesia. He finally realizes his mistake when she _still_ instinctively feels the gargoyles aren't evil and stops him from disintegrating them.
+
+___

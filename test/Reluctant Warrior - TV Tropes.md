@@ -1,0 +1,208 @@
+_"Miyagi always look for way not to fight. Miyagi hate fighting."_
+
+A lot of heroes fight for peace, love, friendship, justice, and all that sort of stuff. Occasionally they believe in violence as a last resort and as Dirty Business, following the path of the Martial Pacifist and falling back on their prodigious martial training only as the very last resort while avoiding unnecessary deaths. The Reluctant Warrior isn't quite so blessed, he lacks the Improbable Aiming Skills that could make his dealing with them bloodlessly possible. What's more, he will find himself constantly facing enemies who mean to hurt or kill him and his friends, and who are savvy enough to not hold a Villain Ball and dispose of themselves.
+
+Nonetheless, they stand by their Actual Pacifist ideology and continually try to give peace a chance, even when doing so verges on being a Horrible Judge of Character when offered to irredeemably evil opponents. Sadly, they will _still_ rack up a body count. Even so, they won't give up trying to hold to their Heroic Vow, even if it's functionally a Frequently-Broken Unbreakable Vow. They keep trying since they know that pure pacifism will cause more problems than solve them, even if it means having to fight and kill again.
+
+Because of these conflicting impulses, straight heroes who are Reluctant Warriors will spend a lot of time agonizing over their choices and circumstances but somehow manage to keep the Angst under control (well, until the villain tries to Break Them by Talking about their similarities). An Anti-Hero or Anti-Villain who is a Reluctant Warrior (it _can_ happen) likely has some underlying good goal and means well — for loose definitions of "well" — and nonetheless laments but will not hesitate to use force.
+
+Contrast Suicidal Pacifism. Compare Heroic Neutral and Slave Mooks. Contrast Blood Knight, who is this trope's exact opposite.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   _Bleach_: Kira Izuru believes the true essence of combat is "despair". As such he despises battle, despite the fact that when he actually _does_ fight seriously he's a complete gangster.
+-   _Bobobo-bo Bo-bobo_ parodies this trope with Bojiggler, a Bishōnen warrior that expresses his hatred for fighting by pounding the living daylights out of his enemies.
+-   In one of the _Code Geass_ prequel audio dramas, when ten-year-old Suzaku asks Tohdoh, his martial arts teacher at the time, why he should befriend the hostage Prince Lelouch instead of just letting him get beat up, Tohdoh gives him this philosophy as a reply.
+    -   This also comes up in his, Suzaku, and Lelouch's behavior in the series - Tohdoh supporting Zero's order to withdraw in Stage 17, Lelouch's way of dealing with the remade SAZ under Viceroy Nunnally in Turn 8, and Suzaku's philosophy in general, though it can be said that he takes it too far. Then again, it's also his goal to _get himself killed_...
+-   _Dragon Ball_: Gohan, especially in the Cell Saga, before Goku's death. Gohan refuses to get mad enough to blindly kill Cell in a Roaring Rampage of Revenge because he doesn't want to kill anyone. It takes Android 16's deathbed speech about how it is okay to kill to protect the innocent and then subsequent death at Cell's hand to get Gohan to let it loose. After defeating Cell, Gohan stops training to focus on his studies, because unlike his dad, he fights solely to protect people, not because he enjoys it.
+-   Shizuo Heiwajima from _Durarara!!_ takes this trope to its logical extreme: he's a vocal violence-hating pacifist who happens to have Super-Strength and a _very_ severe rage disorder that leads him to respond to the mildest irritation with — you guessed it — violence. He is fully aware of the hypocrisy of that statement.
+-   In _Freezing_, Kathy Lockhearte is a sweet, rather meek girl who wants to one day become a novelist and raise a loving family. Too bad for her that she naturally possesses the potential to become one of the most powerful Pandoras on the planet, and her Jerkass father constantly pressured her into becoming the "world's savior" more to boost his own political career than to actually, well, save the world.
+-   _Future Diary_ protagonist Yukiteru starts off as an antisocial wallflower who would prefer to stay out of trouble. Too bad he's in a Battle Royale for godhood with twelve other people, almost all of whom are directly targeting _him_. The one who isn't is a homicidally\-obsessive Yandere. Despite being frequently scared shitless Once an Episode and not being at all enthused about killing, he's killed just as many diary owners as her before Taking A Level In Badass, by which point the trope gets subverted.
+-   Yang Wen-li of _Legend of the Galactic Heroes_ hates war and violence. However, he is a genius tactician, and living in a turbulent time means he is thrust into action time and time again. Several characters have remarked on the contradiction between his attitude and action.
+-   _Martian Successor Nadesico_: Akito Tenkawa starts off as one, only wanting to serve as a cook aboard the titular ship.
+-   _Mobile Suit Gundam SEED_: Kira Yamato starts out as a Reluctant Warrior, who tries to spare his enemies but ends up killing a _lot_ of them. He's eventually able to upgrade to Technical Pacifist, much to the improvement of his mental health. Athrun may qualify in _Mobile Suit Gundam Seed Destiny_.
+-   _Mobile Suit Gundam Wing_: Quatre Raberba Winner doesn't like fighting and doesn't believe in it, but will do it if he has to.
+-   Haku of _Naruto_ hated fighting and killing, but also desired nothing more than to see Zabuza's wishes fulfilled. In his final battle, despite having many opportunities to do so, he never struck a fatal point with his senbon despite it significantly extending the battle.
+-   _Negima! Magister Negi Magi_: So how's the teaching job going, Negi? As the series progresses, he's getting less and less reluctant, getting dangerously close to the edge.
+-   _Neon Genesis Evangelion_: Shinji Ikari. At first, he pilots so that Rei wouldn't have to. Then, he pilots because he wants recognition from his estranged father. After Bardiel, he quits because he's afraid of hurting innocents but shortly afterwards, he pilots again because if he doesn't, people will get hurt anyway. Therefore, he has no choice but to sit in that fucking cockpit he hates like no tomorrow.
+    -   _Rebuild 2.0_ makes it somewhat better: he comes back because Zeruel made the big mistake of eating Rei. No-Holds-Barred Beatdown ensues.
+-   _One Piece_: The Revolutionary Dragon is revealed to have been this in the past. However, after the World Government razed Ohara via Buster Call, he could not stand their despotic tyranny anymore and went on to found the Revolutionary Army even though he hated violence.
+-   Hiiragi in _Psycho Staff_ just wants to be normal and hates fighting.
+-   _Saint Seiya_ has Andromeda Shun, who, after four seasons and at least three movies, refuses to give up on the idea of non-violently settling problems, and talking to his enemies in the hopes of reasoning with them. He has the unfortunate tendency to combine this noble character with Martyr Without a Cause and almost _giving away his life_ on a few occasions... but when push comes to shove and the enemy proves they are a monster, he _will_ fight and kill them if need be. To his credit, he's caused at least one Heel–Face Turn among his opponents, and held back and _throttled_ a body stealing god through sheer love of peace.
+-   Luluco of _Space Patrol Luluco_ wants nothing more than to live an normal, uneventful life. Unfortunately, she has to work with the Space Patrol to earn enough money to unfreeze her father. This isn't helped by the fact that her coworkers are insane.
+-   Nanashi in _Sword of the Stranger_ keeps his sword sheathed with a peace knot preventing him from drawing it because he complied with his superior's order to execute a mother and her child during a raid and had nightmares about it ever since. This doesn't stop him from defending himself or Kotaro through other means, including flinging a boiling pot of water over an enemy soldier's head and crushing another's throat with the butt of his sheath. He finally breaks the knot and unsheathes the blade during the Final Battle.
+-   Simon from _Tengen Toppa Gurren Lagann_ starts out as one of these. He's only content with working as a miner and isn't happy with Kamina sending him on adventures. Then Kamina dies, leaving him to fend for himself, and by the end, he's piloting a mecha capable of punching another mecha into an alternate dimension, where it explodes. Which it does.
+-   _The Vision of Escaflowne_: Van Fanel is constantly told he needs to attack more aggressively — at first...
+
+    Card Games 
+
+-   Raiden is one of the Lightsworn’s big guns in _Yu-Gi-Oh!_. He has gone behind enemy lines and taken out plenty of enemy commanders. However, beneath these actions lie his wish for peace, his desire for a swiftly put an end to the conflict.
+
+    Comic Books 
+
+-   _The Goddamned_: Cain's immortality makes him invincible and his age leaves him little patience for the savages that plague the badlands, so while he is perfectly willing to slaughter his way out of a tidal wave of wild-men, he won't actively seek out a fight.
+-   Superman tends to try talking things out before resorting to violence, even if it seems clear that the enemy cannot possibly be talked down. Being Nigh-Invulnerable helps with this sort of philosophy.
+-   DC Comics' western character Bat Lash. He's a fairly cheerful Reluctant Warrior, though, who doesn't anguish much about beating up villains, instead maintaining a steady stream of banter about how he did _try_ to avoid a confrontation, and, really, all he wants is to be about his business, but they've forced the issue. And he means it.
+-   Most of the Autobots in the _Transformers_ franchise don't want to be warriors. Makes sense since most of them were built for civilian purposes. Optimus Prime in particular always has humble origins: dock worker, data clerk, desk jockey police officer, etc. (except in _Transformers: Animated_, where he's a washout cadet who mistakenly thinks War Is Glorious which ends after his first taste of real war with the Decepticons) He hates war and only fights because the Decepticons have to be stopped no matter the cost. In _The Transformers: Robots in Disguise_ he takes advantage of an opportunity to leave Cybertron and explore the universe so he can abandon his identity as "Optimus Prime" forever and rediscover "Orion Pax".
+-   Wee Hughie in _The Boys_ was a Naïve Newcomer with a distaste for violence, and while he never became desensitized to it like the rest of the team and was a vocal proponent of peaceful solutions, he had a strong sense of justice that made him more than willing to kick teeth in when innocents were threatened.
+-   In _Serenity: Leaves on the Wind_, when the New Resistance catches up with _Serenity_ Mal initially rejects their request to be their leader. But after the Alliance captures Zoe and kills most of the NR in separate incidents, he finally gets angry enough.
+    
+    "I'd made up my mind to steer clear of the Alliance, make my living out where I wouldn't be bothered and wouldn't be bothering neither. But you won't seem to let me live that way. Every time I try to walk away, you come followin'. Well, from now on, you choose to chase me, I'm gonna turn and meet you head on. Be honest, I'm developin' a taste for it."
+    
+-   _Star Wars: Kanan_: Depa Billaba makes it quite clear that believes that the Jedi made a mistake in taking on military titles, but she still accepts her orders and role as a general even if she hates being called a general and has made her feelings clear to the other members of the council.
+-   _Robin_: Tim starts out his tenure as Robin treating it like a temporary position he'll eventually quit. He ends up quitting twice only to be pulled back in by the knowledge that his training makes him invaluable and sitting on the sidelines when he knows he could be helping save lives isn't something he can really stand. By the time the title is taken from him he no longer feels this way and moves on to the identity of Red Robin in response.
+-   _Wonder Woman_ _will_ fight when if she has to, she comes from an island of warrior women after all. But She'll try to go for the peaceful approach first, or trickery or another creative solution if that won't work. As Gail Simone wrote it:
+    
+    **Wonder Woman:** We have a saying, my people. 'Don't kill if you can wound, don't wound if you can subdue, don't subdue if you can pacify, and don't raise your hand at all until you've extended it.'
+    
+
+    Fan Works 
+
+-   It is implied in _Racer and the Geek_ that most mercenaries only choose that line of work after exhausting all other options. However, coming to enjoy it is not unheard of.
+-   Captain Kanril Eleya comments in _From Bajor to the Black_ that "I don't really like killing people but I'm very good at it."
+-   Mahanon, in _All This Sh\*t is Twice as Weird_, falls under this trope. Prior to the Divine's Conclave, he was a hunter - he only killed in order to feed his clan, and while he's certainly very _good_ at fighting the Inquisition's enemies, he only does it because it's part of the territory.
+-   In _Pokémon Reset Bloodlines_, Paul captures a female Pikachu (that he later evolves to Raichu) and puts her in battle even though she doesn't like to fight, but Paul never noticed it. After he releases her for losing one too many battles, she's found by Ash, who promises to take care of her and never force her to battle if she doesn't want to.
+-   _Through Her Eyes_: Ruby will fight humans if she really needs to, but she is much more comfortable fighting Grimm, to the point that her performance drastically suffers during a spar with Yang against Pyrrha and Ren.
+
+    Films — Animation 
+
+-   In _Epic (2013)_ Nod quits the Leafmen because he doesn't play well as part of a team, preferring doing things his way.
+
+    Films — Live-Action 
+
+-   _The Karate Kid_:
+    -   Mr. Miyagi would prefer not to fight at all, preferring intimidation (the thugs who square up to him in the first film) and dodging (Kreese in the second film) "Fighting _always_ last resort."
+    -   Daniel gains the willingness not to fight, as he learns from his mentor, but thanks to the plot violence ends up usually being the solution to his problems (especially facing the present-day Cobra Kai).
+-   _The Guns of Navarone_: Corporal Miller. He's seen one too many examples of the human cost of the war.
+    
+    **Miller:** Well, right now I say to hell with the job! I've been on a hundred jobs and not one of them's altered the course of the war! I don't care about the war anymore, I care about Roy!
+    
+-   Brother Gilbert in _Dragonheart_ has a minor dose of this trope, which makes sense since he's a monk. He agrees to fight against Einon because he's so evil, but keeps his shots non-fatal. Then, when presented with Einon himself as a target, he draws a bead on the tyrant's heart but hesitates while growling out "Thou... shalt... not... kill..."
+
+-   _Star Wars_ series:
+    -   Yoda. His's comment that "Wars not make one great!" was later elaborated upon with Form Zero, a sort of Jedi philosophy that stressed the importance of finding a non-violent solution to problems.
+    -   And Obi-Wan Kenobi, described in the novelization of _Revenge of the Sith_ as "A devastating warrior who'd rather not fight". It's telling that his favored lightsaber style is the defensive Soresu.
+-   Bruce Banner in the _Marvel Cinematic Universe_, especially by _Avengers: Age of Ultron_. He is one of the most powerful individuals in the franchise. He also has absolutely no interest in fighting and killing, not even getting into the fact that he can't control the Hulk.
+    
+    **Natasha:** All my friends are fighters. I've never met a man before who avoids the fight because he knows he'll win.
+    
+-   In _Appointment with Venus_, Lionel Fallaize is an artist who refused to join up when the war started because he dislikes violence, uniforms and people telling him what to do. However, after getting caught up in the plan to rescue Venus, he sees Vogel about to shoot Mooreland, he jumps at Vogel to get Vogel's attention and takes the bullet intended for Mooreland. Later, when his wound is being tended, he says that he doesn't know what came over him, but he was compelled to act when he saw what was happening, and the implication is that he intends to sign up when the squad gets back to Britain.
+
+    Literature 
+
+-   In _A Song of Ice and Fire_, Rhaegar Targaryen. By all accounts, he looked as though he was going to be more of a singer, reader, and poet than any of his ancestors ever were. But then, one day he read _something_<sup>note&nbsp;</sup>  that lit a fire in him, and turned up in the training yard the next day demanding, with an air of resignation if the person sharing this information with Daenerys is to be believed, that the Master-at-Arms educate him in the use of a sword. He kept his edge, participating in tournaments and the like, but always resorted to diplomacy when possible before he would do battle.
+-   Faramir in _The Lord of the Rings_. The Hobbits as well.
+    
+    **Faramir:** War must be, while we fight for our lives against a destroyer who would devour all; but I do not love the bright sword for its sharpness, nor the arrow for its swiftness, nor the warrior for his glory. I love only that which they defend.
+    
+-   In _The Twilight Saga,_ the older vampire, Carlisle, is considered less dangerous than those several hundred years his junior because of his reluctance to harm a living being, even if it's trying to kill him.
+-   Cassie in _Animorphs_ is the most outspoken of the kids about it, though none of them except Rachael enjoy risking their lives and killing on a weekly basis. Her attempts to create a peaceful end to the alien invasion are first portrayed as well-meaning but naive, then they lead to a peace movement within the invading forces and eventually a peaceful ending.
+-   Camaris in _Memory, Sorrow, and Thorn_, a classic Knight in Shining Armor and one of the greatest heroes the land of Osten Ard has ever known, hates battle, fights only when compelled, and prays for the souls of his vanquished foes. It helps that he's such a fearsome warrior that no sane enemy would take the field against him. This duality leads him to copious amounts of angst, including a full-scale Heroic BSoD; once he snaps out of it (twenty years later), he becomes a Shell-Shocked Veteran, but no less of a badass.
+-   Eragon of _Inheritance Cycle_, regardless of interpretation, was supposed to be this.
+-   _Over the Wine-Dark Sea_: Menedemos and Sostratos; while they constantly have to defend themselves against pirates, warlords, and assorted blackguards they prefer to avoid a fight. In their case, it is less from idealism and more because it interferes with their primary mission
+-   Sam Temple in _Gone_ doesn't want to step up and become the leader of the FAYZ. In fact, he doesn't at first, letting Orc, and later Caine, take over. Only when he sees how evil Caine is does he finally take charge.
+-   Leland de Laal in _Helm_ doesn't like fighting or, especially, killing, and avoids it assiduously wherever he can, even after being made the captain of a unit of mounted infantry. Up to and including engineering a peace treaty with the nation his unit was originally formed to fight.
+-   In Alan Dean Foster's _The Damned Trilogy_, every soldier in the Weave is this. Most of the Weave races abhor even the thought of violence, and the ones that can bring themselves to fight do so with much distaste. Their foes, the psychic influence-wielding Amplitur, do not like to fight either, but their fanatical belief in uniting all species beneath the banner of "The Purpose" drives them to do so, and they don't hesitate in genetically modifying species under their rule in order to make them better fighters. The only species that enjoys fighting is humanity. The Weave manages to recruit humankind, and the only thing that frightens them more than having humans as allies is the possibility of humans falling under the Amplitur's control.
+-   Matteo in _Someone Else's War_. Well, arguably the entire cast, given that they're all Child Soldiers and none of them actually want to be there.
+-   Yuri Zhivago of _Doctor Zhivago_ is conscripted into the Imperial Russian Army and later the Red Army as a medic, but in the latter case, he is forced to take up a gun when the Reds are cornered in a Siberian forest by the Whites. Upon seeing that most of the White soldiers are still pretty much schoolboys, he instead shoots at a tree to make it seem to his commanders that he is helping in the fight without actually killing anyone, but to his horror, some of the White soldiers still end up in his firing line in the hustle and bustle of the charge.
+-   Jessamine Lovelace from _The Infernal Devices_. Although she's no Actual Pacifist; she just really, _really_ hates the Shadowhunter world.
+-   Bowbaq, from the "Cycle of Ji" series by French novelist Pierre Grimbert, is an Actual Pacifist who has to take up arms when a bunch of fanatical killer priests are sent to kill his family, his friends, and himself. This might have to do with him being able to mentally communicate with animals (with restrictions on the species of animals he can communicate with).
+-   Marcus Valerius in _The Arts of Dark and Light_ is by education and temperament a scholar, and so doesn't really like the military (or even fit into it very well). However, he serves as his country's equivalent of a reserve officer anyway because he believes it is his duty to do so. Even as an officer, however, he tries to avoid violence when he can... even as he reluctantly accepts the necessity of it when he must.
+-   In the _Warrior Cats_ book _Riverstar's Home_, River Ripple tries to uphold peace, but once One Eye kills one cat and steals herbs meant for others who may die without them, he knows that the only way to stop him is to kill him, and comes to accept that survival and peace must be fought for.
+
+    Live-Action TV 
+
+-   Clarke of The 100 spends a great deal of her time trying to prevent as many deaths as possible. Unfortunately, they live in a Crapsack World where everyone is trying to kill everyone, so she has to kill people anyways, just to keep her own people alive.
+-   _Alias Smith and Jones_: Even as outlaws, Heyes and Curry both fit this trope. Their whole modus operandi for train and bank robbing is to secure the maximum amount of loot with no casualties whatsoever. Kid Curry seems unlikely as a Reluctant Warrior, but although he is a Gunslinger par excellence, he really, really, really doesn't want to shoot anyone. The rationale for his becoming a phenomenally fast draw is that the faster he can draw the gun, the less likely the chance that he'll actually have to fire it. And the only two times he DOES actually shoot someone are when they draw on him first, and even in those circumstances he hates having been placed in that position.
+-   _Babylon 5_:
+    -   Sheridan's mantra is "We will not start the fight, but we will finish it!" He lives up to it, as in almost all battles he commands, he allows the enemy to make a first shot.
+    -   In a novel Sheridan's predecessor Sinclair said during his introductory speech to the recruits of the newly found organisation of Rangers, that those who'd joined to have revenge on Shadows are not welcomed there, as the ultimate goal of the organisation is to save lives, _all_ lives, including those of Shadows, if it's possible.
+-   Lee "Apollo" Adama on _Battlestar Galactica_. He's a crack pilot and tactician, second only to Starbuck, but finds it difficult to carry out orders he has ethical problems with, and actively questions the decisions behind them on occasion.
+-   _Buffy the Vampire Slayer_: Buffy is very much one, especially during the high school seasons. Giles has to do everything short of grabbing her by the hair.
+-   _Doctor Who_:
+    -   Before the Last Great Time War, the Doctor was a Science Hero for whom lethal force was the last resort but still a valid one. After the war...they still are. _During_ the war, on the other hand, they fought on the front line until there was no other option but to nuke both sides to save the universe.
+    -   This was expanded on near the end of the Eleventh Doctor's run - it turns out Eight initially refused to fight and just helped those caught in the crossfire. When it became clear this couldn't last, he constructed a whole new persona that his other incarnations refuse to call "the Doctor".
+-   _Firefly_: Both Dr. Simon Tam and Shepherd Book, though Book is also The Atoner because he was a formidable warrior once and regretted how many he killed. River also qualifies; she may be a horrifically brutal and efficient killing machine, but she doesn't _want_ to be one, and is terrified of her abilities.
+-   _Highlander: The Series_: Methos is the oldest living immortal at 5,000+ years. In the present, he prefers to stay out of the Game and usually avoids fights. However, every now and then some other immortal will try to force the issue, only to learn the hard way that there's a damn good reason he's survived as long as he has.
+    
+    _"Just because someone doesn't **like** to fight, doesn't mean they **can't**."_
+    
+-   _Monty Python's Flying Circus_: Parodied in a snippet: "I'm starting a war for peace."
+-   _Star Trek_:
+    -   Most of the Federation as such would also fall under this category in that they keep up with their neighbors as best they can technology-wise but try not to use force unless needed.
+    -   Spock generally can be described as one unless he feels it is absolutely necessary to use force like he did when counseling Kirk not to show weakness to the Romulans in "Balance of Terror."
+        
+        **Spock:** It is for them, Doctor. Vulcan, like Earth, had its aggressive, colonizing period - savage, even by Earth standards - and if the Romulans retain this martial philosophy, then weakness is something we dare not show.
+        
+        -   Speaking of Spock, in _Bread and Circuses_ he and McCoy are thrown into a death match against gladiator-style warriors on a new planet. While the alien opponent is coming at him with a sword, Spock constantly plays defensive, choosing to dodge the blows while insisting that he "does not want to injure" him, leading to the watching crowd concluding that "the pointy-eared barbarian" is about to get killed. However, when he notices that the much less action-oriented McCoy is in danger, Spock deals with his opponent in the space of a second and darts over to save his frenemy.
+    -   By the time the third season of _Star Trek: Picard_ comes around, Worf had become something of a reluctant warrior who prefers pacifism first instead of going straight to violence.
+-   _Stargate SG-1_: Daniel Jackson often has to reconcile his idealist ways with the more pragmatic ways of his friends. Sometimes he wins, sometimes they do, depending on the episode.
+-   Roger Horn from _Tour of Duty_ is a conscientious objector forced to serve in combat. As much as he hates it, he has no choice but to fight and kill to survive.
+-   _Kamen Rider_ has this as a recurring theme, as many Riders would rather not fight. Some actively detest fighting, while others would rather just stay out of it for one reason or another. However, when it comes down to it, they fight because they know that if they don't, then innocent people will be hurt.
+-   The titular _Ultraman Cosmos_. His base form, Luna Mode, outright doesn't have any capacity to harm the Kaiju he faces.
+-   _Wonder Woman_: In the pilot episode, Wonder Woman states both hers and all of Paradice Island's views on violence...right after beating up her agent. Granted he had just pulled a gun on her.
+    
+    **Ashley Norman:** Please. Don't hurt me!  
+    **Wonder Woman:** Hurt you? Where I'm from we try never to hurt people.
+    
+
+    Video Games 
+
+-   Trace from _Axiom Verge_ tries to talk his way out of boss fights and tries to negotiate with the Rusalki to avoid killing Athetos. Especially made apparent after defeating the Gir-Tab Variant and the dying Athetos clone.
+-   Kabbu from _Bug Fables_ hates violence and prefers to avoid it whenever he can, and would rather talk down his opponents by reasoning with them (The Beast being the sole exception). However, if there's no other alternative, he _will_ fight back and mop the floor with anyone who dares to oppose him and his team.
+-   Kasumi from the _Dead or Alive_ series always tries to avoid conflict until either she sees there's no other choice (it's even one of her pre-battle catchphrases) or gets her Berserk Button pressed.
+-   Flonne the Love Freak in _Disgaea_ not only annoys her demonic friends and teammates with her endless prattle about "Love" and "Peace" but is quite a powerful magician and caster and helps out in fights.
+-   Hawke in _Dragon Age II_ with a diplomatic or sarcastic personality definitely can come off as this, just wanting to live a quiet life, provide for their family and not deal with all the insane politics in Kirkwall.
+-   From _Dragon Ball Fighter Z_, Android 21's Good form. Being a scientist and certainly not as tomboyish as someone like Android 18, she has a tough time getting used to being needed to fight, even moreso than Gohan. Which is ironic because she's actually the strongest character in the entire story. She'll be the first to admit however that not wanting to fight doesn't override the _need_ to fight, especially with the world and her friends on the line.
+-   Eliwood from _Fire Emblem: The Blazing Blade_: "I’ve no love for war. If I concentrate on the foe before me, I’m fine. If I picture families, innocents caught up in our foolish politics? If I imagine them… All I can do is pray for a way to solve things peacefully."
+-   Bernadetta in _Fire Emblem: Three Houses_ also doesn't find much joy in combat, as her line after her first kill indicates. However, she still fights if ordered, and if hurt, she _will_ return the favor.
+-   _Fuga: Melodies of Steel_ originally presents Malt and the rest of the kids as this, as they are children suddenly tasked with the heavy burden of fighting on the frontlines of a war, and are understandably mortified when they take their first life. During intermissions, you would sometimes have to _lie_ to Mei by telling her that you are only destroying UMGs and that no one is really dying. However, through both the manipulations of the Radio Woman as well as learning how deep the Berman Empire's villainy runs do they start growing out of this mentality, realizing that the only way to make the Berman Army stand down is to make them.
+-   Amagiri Kyuuju in _Hakuouki_ always attempts to talk his would-be opponents into walking away, and enters combat only with great reluctance. Then he curbstomps you.
+-   _Iji_ starts out as one. She may get less reluctant later in the game, depending on the player's actions. Ansaksie is definitely one, but Vateilika and Yukabacera may also count.
+-   _Mass Effect_: Through certain dialogue choices, Paragon Commander Shepard can come off as this.
+    -   In the third game, Shepard can admit to feeling like their entire life has been enslaved by warfare and expresses the hope that after the Reapers are defeated, they can finally be free.
+    -   In _Mass Effect: Andromeda_, the Initiative as a whole adopts this philosophy. Standing orders during a First Contact situation is to always try to look non-threatening and initiate dialog, and shoot only if fired upon. Even Tiran Kandros, a member of a long-established Turian military family refuses to authorize a mission to capture The Remnant city Meridian because he doesn't want to antagonize the Kett.
+-   _Mega Man X_: The original reploid, he spent about a dozen games and a century (alone and offscreen) fighting incredibly difficult battles despite feeling compassion for his victims. Even when he realized that he was beginning to no longer care about the people he was having to kill, instead of giving up he just found another way to keep trying to protect the world.
+
+-   _Pokémon_ has a few examples:
+    -   For example, Absol abhors violence and doesn't like Mega Evolving according to its _Ultra Sun_ entry.
+    -   Wimpod would also try to get out of a battle whenever possible.
+    -   Sabrina mentions that she dislikes fighting but will fight if she must. Note, Sabrina is a _gym leader_. By _Pokémon Black 2 and White 2_ she's apparently quit being a trainer in exchange for being an actress.
+-   In _Red Dead Redemption_, a game set during the dying days of the Wild West, John Marston becomes this. John was trying to give up his old life as a gang member in the Wild West by living on a ranch with his wife and son earning a humble living as a farmer. This plan is ruined when government agents kidnap his family and tell him that he will never see them again if he doesn't kill the members of his old gang. John complies and takes up his gun again for the sake of his family.
+-   Cream the Rabbit of _Sonic The Hedgehog_ is a prime candidate. She's a gentle, caring young girl who hates violence and will try to resolve any conflict without it. When forced to fight, however, she and her pet Chao Cheese can seriously lay the smackdown on some robots. Somewhat averted in _Sonic Chronicles_ where all of her special abilities revolve around healing and buffing the party. Though that doesn't keep her from being a horrifyingly powerful asset when paired up with a tank like Knuckles or Omega.
+-   In _Soul Calibur V_, Pyrrha Alexandra is this to the extent that her default stance is _leaning back with her shield pressed up against her_. She's quite the fighter if pushed, but she _really_ doesn't want to.
+-   _Tales of Symphonia: Dawn of the New World_: Emil is not only a reluctant warrior, but _incompetent_ at that. He can only do any good in a fight when 'possessed' by Ratatosk, who obligingly does so before every battle (except at certain parts of the game).
+    -   Luke in _Tales of the Abyss_ becomes one of these as one of the earliest stages of his rather extensive Character Development. At first he's downright traumatised by the experience of killing a fellow human being in self-defense. It's only when his hesitation puts himself and his companions in danger that he begins to accept that it is kill or be killed on the battlefield. And while he does eventually learn to let go of his reluctance and face his enemies without hesitation or regret, it's stated that even then he's still troubled enough by it that he's left lying awake shaking at night.
+-   The Academy faction in _Terra Invicta_. When the first signs of alien life show up, they're initially hopeful, looking forward to peaceful, mutually beneficial cooperation as equals. After observing the aliens' activities, however, the Academy quickly realize the aliens are hostile (unlike the Genre Blind Protectorate) and prepare for war. However, even during that war, the Academy's end goal remains to find some way to make an equal peace with their would-be invaders, instead of simply expelling them from the solar system or destroying them outright.
+    -   Project Exodus, although less out of principles and more out of a belief that fighting the aliens is hopeless. But they will fight to ensure that their Homeworld Evacuation succeeds and those who do not go aboard will keep fighting afterwards, if only to weaken the aliens and give the new colony its best chance at survival.
+-   While some _Twisted Metal_ contestants revel in the chaos and destruction caused by the eponymous Deadly Game and others just don't mind, there are few that participate because they feel it's their only option and are otherwise non-violent:
+    -   Axel from _2_ just wants to be freed from the mechanical contraption he's been trapped in for the last 20 years and otherwise doesn't want to fight.
+    -   Dollface from _Black_ wants to be freed from her particular predicament; a doll mask that just won't come off and needs to win the contest to earn herself the key. Near the end, she laments that she's tired of fighting and that she doesn't want to kill the Final Boss, who is just a police officer trying to stop the destructive contest.
+-   In _Undertale_, Asgore is this. He is described as a "big fuzzy pushover" who hates violence, and if it weren't for the promise he made to his subjects when in a fit of rage, he wouldn't have to fight you. When in battle, he can't even bring himself to look at you, instead looking at the ground. He feels a lot of regret for his actions, to the point that he destroys the Mercy button at the beginning of the fight not to stop you from running away, but because he thinks he doesn't deserve your mercy.
+    
+    **Asgore:** Truthfully... I do not want power. I do not want to hurt anyone. I just wanted everyone to have hope...
+    
+-   _Zone of the Enders_: Leo Stenbuck is initially extremely reluctant to fight even when his entire colony is being destroyed around him. Only near the end, when his 'girlfriend' has been shot, does he willingly continue fighting, even though a way out was staring him right in the face.
+
+    Visual Novels 
+
+-   Shirou in _Fate/stay night_ starts with the goal of only stopping Masters who are being actively disruptive and is absurdly forgiving of the likes of Shinji or Ilya. He tries diplomacy whenever it is practical, even with Kotomine and Caster. Unfortunately, when these efforts invariably fail, his only means of fighting back or even self-defense involves putting swords in people's faces. Really, that's a very effective method of self-defense.
+
+    Webcomics 
+
+-   In _El Goonish Shive_, despite being one of the most powerful characters, Grace hates fighting and was brought to tears the one time she had to unleash her full strength on someone (despite that someone being the Omnicidal Maniac God-wannabe who abused her for years). She's training to become a Martial Pacifist so she has more options than "cower in corner" or "tear to shreds".
+-   Piffany in _Nodwick_ is perhaps nauseatingly nice, but can and will fight alongside her teammates when faced with the forces of naughtiness.
+-   _Our Little Adventure_: Julie, the heroic protagonist hates fighting, especially humans and other humanoid races. She got deeply annoyed when her friends celebrated her popping her 'kill cherry' in this comic page.
+
+    Real Life 
+
+-   Post-World War 2 Germany as a whole. After the shock of what Just Following Orders can lead to, the new German constitution gave every German citizen the right to refuse military service, to prevent instrumentalization of German people by the occupying powers. In the face of the Cold War, the creation of a new German army was highly controversial and required a legal loophole to reintroduce conscription, despite violating the constitution. It wasn't until the Yugoslav Wars in the '90s when genocide was happening right next to EU borders, that German aircraft engaged in combat action, and even that was extremely controversial. Caught in the frenzy of late 2001, Germany supported the invasion of Afghanistan with equipment and technical specialists and later took control of the mostly pacified Northeast in a mission to "provide security for the population and projects for the development of local security forces". A landmark was reached in 2009 when the Minister of Defense first admitted that German troops in Afghanistan were dealing with "conditions similar to war", which was criticized by many other politicians, who went to great lengths to reassure that German troops were not involved in any war. At the same time, Germany has the world's 7th largest defense budget and is the world's 3rd largest weapons exporter after the US and Russia. While Germany hates to use military force, it's really good at making weapons.<sup>note&nbsp;</sup> 
+-   The _Karate Kid_ example above is very much Truth in Television at least among traditional, "serious" practitioners or teachers of Eastern martial arts. Those are primarily present in the respective countries of origin because, in the West, these martial arts are most often treated as sports or mere self-defense mechanisms, focusing only on combat. However, Eastern martial arts usually come with an entire philosophy attached and many, if not most, of those who practice their respective art traditionally will adhere to core points of these philosophies. Especially in Shotokan karate, the core philosophy is that actual combat should always be the very last resort and de-escalation through "diplomacy", or, worst case, non-violent intimidation, and other non-violent means should **always** be tried first. Only when there is no way to avoid a fight at all should the "martial" part come into play. This is part of the self-view of the karate practitioner since the underlying philosophy teaches virtues such as humility, calmness, respect, etc. Many other traditional martial arts are similar, but this component is mostly lacking in their Westernized forms or in MMA.
+
+___

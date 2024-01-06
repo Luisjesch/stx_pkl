@@ -1,0 +1,126 @@
+_Turns out being struck by lightning  
+Doesn't give you any powers  
+They caved my head in with a pipe  
+And beat me for several hours_
+
+When a character has a run-in with something that seems miraculous (when there is a perfectly logical explanation), one can develop a bit of a complex in thinking that they are special. Rather than thinking they were just lucky, they would start to think that they somehow made it happen and that they have developed super abilities.
+
+These situations usually manifest in two ways:
+
+-   When a character was at the right place at the right time, the people around them will mistake them for a superhero. No matter what they tell everyone, the public have now cemented their thoughts onto the idea that this person has Super-Strength or Super-Speed or some kind of mind-reading power. At best, everyone will expect that they will solve all of their problems and then get flack when they "hold back". At worst, they will be blamed for every minor inconvenience that happens in their lives. Your car breaks down? They must have used their technopathic abilities to sabotage it! Got a headache? Obviously they used their powers to bombard your brain with psychic waves! Milk gone bad? Their fault! Best start running before the Witch Hunt starts.
+-   If the character is crazy or Too Dumb to Live, they themselves would think that they have spontaneously developed some kind of superpower through some trumped-up origin story when really they are running on False Cause logic. They think they stopped a car with their hands when the driver just hit the brakes, they think they can control minds when the waiter is _supposed_ to bring you what you want, they correctly guess an event happening and they think they can command probability.
+
+More often than not it is Played for Laughs, False Gods, Phony Psychics and Super Zeroes either forced into (or if they're the dumb or insane type, blindly walk into) situations they are hilariously under equipped to handle and are served a plate of Humble Pie with a side of raw steak for their black-eyes.
+
+Compare Actually Not a Vampire, Fake Wizardry and Mistaken for Undead. Not to be confused with Power Misidentification, where they _do_ have powers but it isn't the one they thought, or Charles Atlas Superpower, where their supposed abilities are mundane abilities turned up a notch by plausible means.
+
+___
+
+## In-Universe Examples Only:
+
+    open/close all folders 
+
+    Advertising 
+
+-   In "The Force", a young boy dresses himself as Darth Vader and walks around trying to move objects with his mind. After repeated failures, he turns his attention to his father's car, which turns on when he points at it. The commercial ends with the astonished boy staring at the camera, unaware that it was the father who started the car with a remote control. It is _adorable._
+
+    Anime & Manga 
+
+-   _Bungo Stray Dogs_: Edogawa Ranpo has an ability called "Ultra Deduction", which allows him to instantly figure out the answer to a mystery simply by putting on his glasses. Or at least, that's what he believes. The truth is, he's just insanely observant, and can put together every detail at a crime scene in seconds. He's deluded himself into believing he has a supernatural ability so he can fit in with his teammates at the Armed Detective Agency.
+-   _Tower of God_: In the anime version, Paracule is despairing at enemies coming from every direction, and then suddenly he and his allies are floating high above the battlefield. He at first assumes he awakened a superpower until it is pointed out Lauroe used his levitation powers to save them.
+
+    Comic Books 
+
+-   _Batman_:
+    -   Cassandra Cain is an ordinary human being who happened to be born with the hereditary gift to "read" human body language. Her father then heightened that ability via abusive Training from Hell to the point that her ability to read people is so strong that she appears to have Combat Clairvoyance. When fighting a group of federal agents, they mistakenly believe her to be a "metahuman" because of how effortlessly she dodged their gunfire.
+    -   Lady Shiva is a legendary martial artist (and biological mother of Cassandra Cain). She has an instinctive ability to read other people's body language, can copy any technique she sees even once, and possesses several other gifts and abilities that are incomprehensible to other people. She has _multiple_ cults dedicated to worshiping her as a goddess.
+    -   Batman invokes this during the _Batman: No Man's Land_ arc. One of the first things he does after returning to Gotham is intentionally draw gunfire so that he can keep walking after he gets hit, so that he can create the impression that he's unkillable, rather than armored and very determined.
+-   _Marville_: Al assumes that being a time-traveler also means he has super-powers. When a car stops just before it runs him over, he deduces that he has time-stopping abilities. The driver, Mickey, is quick to call him out on his stupidity.
+-   _PS238_: Tyler Marlocke still doesn't have any superpowers, unlike the rest of his family, but his Moon Shadow alter-ego is commonly believed to have a wide array of powers due to his creative use of gadgets and magic artifacts from other heroes.
+-   _Runaways_: In one story, the group is confronted by The Punisher; Molly slips under his guard and takes him out with one punch. She assumed from his costume he had super powers and is upset that she'd hurt him so badly; the rest of the group isn't terribly concerned about someone who'd just threatened them at gunpoint.
+-   In _Superboy 1949_ #5, when Lucy of Borgonia moves to Smallville, Superboy uses his powers stealthily to make people believe she is some kind of Supergirl.
+-   In one _The Incredible Hulk_ issue, a normal man relates a story of how he was once nearly assaulted in a public bathroom and managed to bluff the attackers into retreating by claiming that he was a superhero. This is actually a plausible claim in the Marvel Universe, so it's not that surprising that it worked.
+
+    Fan Works 
+
+-   _The Huntsman of Red V2_: Played for Laughs when Shirou Emiya communicates with Jaune Arc telepathically to give him advice during the Beacon Initiation. Even though they had previously met, Jaune doesn't recognize Shirou's voice and comes to the conclusion that he has awakened his Semblance that gives him a sort of guide in battle. Shirou gets really annoyed, but just lets him think that.
+
+    Films — Animation 
+
+-   _Bolt_: The main character, Bolt, is the star of his own TV show in which he plays a superpowered, heroic dog. However, he has no idea his life is a staged show, and is fully convinced that his powers and adventures are real, while the crew, who take Enforced Method Acting to its logical extreme, carefully hides anything that might reveal the truth. This leads to trouble when circumstances lead to him ending up outside the set in the real world.
+-   _Justice League: War_: Hal Jordan honestly believes Batman to be a vampire because of the things he's capable of doing, and is taken aback when he realizes he's on a Super Team with a Badass Normal.
+    
+    **Hal:** Can you fly?  
+    **Batman:** In a plane.  
+    **Hal:** Wait. You're not just some guy in a bat suit, are you? _\[Batman smirks\]_
+    
+-   In _Planet 51_, the inhabitants of the titular planet think that Chuck (a human astronaut) is every alien monster Science Fiction has ever written and that he was there to invade and enslave them (when really he had no idea that the planet was populated). Whenever something goes wrong for their military (either by their incompetence or just bad luck), they think that Chuck somehow used his alien powers to do it. If there is anyone who protests their methods or their Insane Troll Logic, well obviously he used his powers to brainwash them and the only sane solution is to remove their brains. Considering their culture is very similar to McCarthy-era America, this makes a lot of sense.
+-   Zigzag from _The Thief and the Cobbler_ makes claims of being an accomplished wizard capable of many great things, like conjuring demons, controlling animals and recreating the sacred balls protecting the Golden City, but it is obvious that his power is all Fake Wizardry used as a method of controlling those around him.
+-   _Toy Story_: The Buzz Lightyear toys are defective and genuinely believe that they are real space cadets wearing superpowered suits.
+    -   In the first film, Buzz's back is accidentally strapped to a toy airplane while his eyes are closed. When he lands back on the ground and opens his eyes, he proudly proclaims that he is capable of self-sustained flight. Later on, he attempts to fire laser blasts from his wrist, but says his suit must be out of charge when he fails.
+    -   In _Toy Story 2_, Utility Belt Buzz is climbing an elevator shaft, when the lift reaches his floor and lets him quickly ascend the passageway. Unaware of the platform right below him, he is convinced he is moving upwards thanks to his suit's anti-gravity function.
+
+    Films — Live-Action 
+
+-   _Kick-Ass_ opens with a shot of a man in a superhero costume jumping dramatically off a building... and crashing to his death. The protagonist's narration remarks the man was insane and inspired by "real-life superheroes" like himself; presumably he thought he could actually fly.
+-   Done by others in _Monty Python's Life of Brian_. Brian himself is desperately trying to convince everyone that he isn't the messiah, but the crowd of followers aren't having it, asking for miracles and signs. One asks for food because he and the rest of the "disciples" are hungry. Brian points to a nearby juniper bush that's been there the whole time, and the crowd think he miraculously made it appear and produce juniper berries. A blind man gets touched and loudly shrieks that he's been healed and can see (he can't), and the crowd erupt. An old hermit loudly complains that he hadn't spoken a word in eighteen years until Brian came along (he fails to note that it was because of a vow of silence, and the reason he broke it was because Brian accidentally stomped his foot while trying to jump into a hole the hermit was living in to hide from the mob of "disciples", causing him to shout out in pain), and the crowd believe he made the mute speak.
+-   _Vampire's Kiss:_ It's deliberately ambiguous whether Peter Loew is actually turning into a vampire, or he's just losing his mind — although there's quite a bit more evidence for the latter. After he does something particularly heinous, he has a brief moment of remorse and tries to kill himself with Alva's gun. Unknown to Peter, the gun is loaded with Hollywood Blanks. So when he's completely unharmed, he takes it as definitive proof that he's become a vampire.
+
+    Literature 
+
+-   Zigzagged in _Alice The Fairy_. The main character, Alice, is mostly just pretending to be a fairy, however, she does at one point think she might actually have powers and try unsuccessfully to make her dog levitate.
+-   In the _Dear Dumb Diary_ book "Okay, So Maybe I Do Have Superpowers", Jamie is bitten by a little kid named Fat Ricky. She becomes convinced that her being bitten gave her superpowers. Near the end, she finds out she doesn't have powers when she realizes she failed to notice that Hudson was trying to flirt with her.
+-   _Good Omens_: Shadwell confuses Aziraphale for a witch when he sees the enochian circle he drew to contact God. When Aziraphale accidentally steps into the circle and gets discorporated, Shadwell thinks that his exorcism vaporized a demonic entity and for the rest of the novel, he thinks that his finger is a Weapon of Mass Destruction, routinely threatening people with it when they get in his way.
+
+    Live-Action TV 
+
+-   _Castle_:
+    -   When the detectives are called to a crime scene, they find a man who was shot in the head. When the man inexplicably wakes up and he's fine, Castle thinks the man is a superhero.
+    -   One episode has a bullied girl seemingly developing telekinetic powers and use them to murder her primary bully. Tracking her movements, Beckett and Castle find she even went to see a con man out of desperation that he had answers for her. Turns out it was her friend using stage magic style special effects, hoping that the bullies would be scared off if they thought she had powers; he didn't think about the mental anguish he was giving her and he certainly didn't expect it to escalate to murder. One of the bully's friends took advantage of the incident to kill her and stage the crime scene and deflect suspicion.
+-   In the _Good Omens_ episode "Saturday Morning Funtime", Shadwell confuses Aziraphale for a witch when he sees the enochian circle he drew to contact God. When Aziraphale accidentally steps into the circle and gets discorporated, Shadwell thinks that his exorcism vaporized a demonic entity and for the rest of the series, he thinks that his finger is a Weapon of Mass Destruction, routinely threatening people with it when they get in his way.
+-   _Jonathan Creek_: "The Curious Tale of Mr Spearfish" revolves around a man who thinks he's gained supernatural powers after making a deal with the devil, and cites several incidents as evidence. Jonathan figures out that some of them were just coincidences and some were the work of a secret service protection detail that was only incidentally interested in Mr Spearfish himself.
+-   _Malcolm in the Middle_: When Reese is bending the limbs of an action figure, Hal (for totally unrelated reasons) screams in pain, leading Reese to believe he now has Godlike power over his father.
+-   _Star Trek_:
+    -   In the _Star Trek: The Next Generation_ episode "Who Watches the Watchers", an injured man from a primitive alien race is beamed onto the _Enterprise_ for treatment, with the plan being to wipe his memory of being on the ship after he has been treated. To the chagrin of the crew they discover after returning the man to his planet that the mind wipe didn't take, and the man, who saw Captain Picard giving orders to others during his time aboard the ship, has become convinced that Picard is a god who raised him from the dead, and begins preaching about Picard after being returned to his planet.
+    -   On _Star Trek: Voyager_, the ship gets stuck in orbit of a planet where time moves faster. From the point of view of the locals, it looks like a new star has entered the sky and caused the ground to shake. Their descendants spend centuries believing _Voyager_ is an angry god.
+-   On _Bewitched_, when Darren and Samantha's daughter Tabitha is born, certain events lead Darren to the conviction that Tabitha is using magic for her own personal profit. The Cravitzes buy Tabitha a share of stock in a diaper company and the stock promptly goes up. Then Tabitha appears to be pointing at the names of racing horses in the newspaper. Admittedly Darren has something of a point, as his wife is a witch and Tabitha could have inherited those abilities, but Samantha herself thinks he's being ridiculous, pointing out that "she's a tiny baby!" and they don't even know for sure yet if she actually has magic. Eventually Darren finds mundane explanations for the goings-on and concedes that Tabitha probably didn't do anything. Tabitha does turn out to be a witch, but it's still unlikely a _newborn_ was manipulating events regardless.
+-   The _The Orville_ episode "Mad Idolatry" combines the above two storylines by having Commander Kelly use an advanced medical device to instantly heal a minor cut on a native, not realising it was witnessed by other natives and the repercussions of her action: like with the Voyager example above, the planet perioidically phases between two universes and time passes much faster when it's in the other universe, letting her witness how she's now worshipped as a deity, her minor act of altruism is now referred to as the Great Healing and people now use her image to not only frighten children into obedience, but also to judge lawbreakers on whether they're innocent or not depending on whether they end up being miraculously healed in a similar manner and there's temples erected in her name led by powerful priests that claim Kelly will bless them if they do what they're told. She does her best to rectify the situation, but her efforts prove fruitless and it's not until the natives' society evolves enough that they're able to understand and see her for what she really is instead of a deity.
+
+    Music 
+
+-   _Ninja Sex Party_: In "Thunder and Lightning", Danny gets struck by lightning in the groin, wakes up, and assumes he now has "Power spheres from beyond the skies" with Super-Strength and Electric powers. He goes directly to the toughest gang in the city to take them down...only to get his ass kicked, after realizing that "being struck by lighting doesn't give you any powers". As he's lying in the street, he prays to the Gods...and they give him actual superpowers.
+
+    Video Games 
+
+-   _Black & White 2_: One Sidequest has you Invoke this on a wannabe Supernatural Martial Artist, covertly breaking the rock slabs he's punching towards to convince him he has Ki Manipulation powers.
+
+    Web Comics 
+
+-   In _Mob Psycho 100_, Ryou Shimazaki — one of the top enforcers of the esper supremacist organization Claw — has a technique that allows him to sense the auras of other espers, making him next to impossible to blindside (which is really bad news as he can avoid any attack he does see coming through Teleport Spam). When he is suddenly struck out of nowhere by a flurry of blows he **didn't** see coming, he has a massive Oh, Crap! moment, realizing that he stands no chance against an opponent skilled enough to pull off a feat as incredible as masking their aura, and immediately ducks out of the fight. Except, that's not what happened at all — the strikes came from Reigen, who has no powers and thus no aura for Shimazaki to read.
+-   In _One-Punch Man_, King is considered one of the strongest S-Class Heroes, and the sound of his "King Engine" is enough to trigger an Oh, Crap! out of every monster and villain in his vicinity and get them to clear out. In truth, he's a normal guy who just happens to be at the scene when Saitama effortlessly obliterates whatever he punches. His imposing appearances gets others to give him all the credit, and he ended up an S-Class Hero without doing anything. In fact, his King Engine is nothing more than the sound of his heart beating rapidly in terror.
+
+    Web Videos 
+
+-   In the Smosh video "MY MUTANT RASH!" Ian and Anthony start developing a weird rash after finding a mysterious meteor. They also begin to develop powers (which are actually just mundane tricks they blow out of proportion) like the ability to bend pencils (the Rubber Pencil Trick) and try to psychically control a random bystander (when really he just gets a brain freeze from his drink). The fact that The Men in Black come to their door to bother them only feeds into their delusions. By the end of the video, it is revealed that the meteor was a lump of calcified feces dumped from a space-station and the rash they got was a bad bacterial infection they got from eating (and eating off of) the "meteor".
+
+    Western Animation 
+
+-   _American Dad!_:
+    -   In "Joint Custody", the Smiths are trying to figure out where they left the keys to Francine's car, when Steve is electrocuted while hotwiring the vehicle. He is convinced that the accident must have given him psychic powers, and decides to use his "gift" to deduce where the keys are. As it's revealed later on, he was simply delirious, and his guesses that the keys were behind walls have only contributed to the family destroying much of the house.
+    -   In "Stan & Francine & Connie & Ted", a blind Roger accidentally kills a man by striking him with a cane, causing him to fall to the ground and snap his neck. The incident makes Roger believe that he has super senses, and he decides to become a crime fighter à la Daredevil. Later in the episode, he invades a drug-dealing gang's hideout and fights them in the dark. When the lights turn on, it's revealed that no criminals have been hurt, but Roger has somehow eviscerated himself.
+-   _Family Guy_:
+    -   In "No Meals on Wheels", Peter accidentally shocks Chris after rubbing his feet on the carpet. The old man concludes that he is actually Jesus, and starts calling himself Electric Man.
+    -   In "Extra Large Medium", Peter is convinced that he has psychic powers after he manages to guess incredibly mundane things, such as the fact that a random woman has a dead relative, or that there is a black man in a large crowd. His fame soon grows until he is hired by the police to deduce the location of a bomb. When he fails and it explodes, he nonchalantly explains that he might not be a medium after all.
+-   _Inspector Gadget_: Corporal Capeman's main character trait is that he's obsessed with the idea of flying, and believes that he'll spontaneously manifest the power at any time. Even the most tenuous suggestion (such as a crook grabbing and lifting him from behind, or him getting snagged on a rope) will convince him that it's finally happened and that he's now flying under his own power.
+-   In the _Little Princess_ episode "I Want to Do Magic", the Gardener demonstrates a magic trick on the Princess, who then thinks she can do literal magic. However, when the Queen goes for a walk without telling anyone, the Princess assumes she made her disappear (since she was angry at her earlier and said, "Make my mum go away!").
+-   _The Loud House_: In "Not a Loud", Lincoln and Clyde are wondering why the former's parents are being so cagey about his birth story. They wonder if he's actually half-eagle or an alien because of what his older sisters told them, so they check to see if he can fly or has telekinesis. He can't, and he doesn't.
+-   _Pet Alien_: "The Amazing Atomic Tommy" revolves around the aliens believing Tommy has superpowers after he performs a magic trick involving pulling a coin out of Dinko's nose, and subjecting him to several near-death experiences under the belief they're training him. One test involves dropping a safe on him (it misses, but the aliens believe Tommy dodged it using Super-Speed) and another has them trying to run him over with a truck (which Tommy barely outruns by using cotton candy to stick the truck in place; the aliens believe he used his "superpowers" to both outrun the truck and stop it).
+-   _Rugrats_: In "Baby Power", the babies try to make Dil stronger by putting baby powder on him, mistakenly thinking that it's called "baby _power_". However, a minor earthquake then hits, causing the babies to believe Dil is now a superpowered monster who caused the earthquake.
+    -   An earlier episode had Chuckie think that wearing a cape made him a superhero, and he was convinced that he had super strength.
+-   _The Simpsons_: In "Faith Off", Bart becomes convinced that he has Healing Hands after removing a bucket that had been glued to Homer's head. Despite Lisa's protests that this was a simple result of the glue expiring and the heat caused by the lights at the sermon making the bucket's metal expand, the boy sets up a church and promotes himself as a faith healer. One of his actions is to "cure" his best friend's myopia, which leads to Milhouse throwing away his glasses, mistakenly walking in the path of a car and getting seriously injured as a result. This horrific incident immediately causes Bart to retire.
+-   In the _South Park_ episode "The Biggest Douche in the Universe", Stan tries disproving John Edward's mentalist act as nothing more than a cheap trick by demonstrating it himself. Unfortunately, most people the series are gullible morons and seem to think that Stan being a real psychic is more plausible than the explanation he gives them, continuing to believe this no matter how hard Stan tries.
+-   _Teenage Mutant Ninja Turtles (1987)_: One episode has Irma get zapped with a device some criminals were stealing, while she was on her way to a costume party. This causes her costume to become magnetized, resulting in it repelling the guns the criminals pointed at her. As a result, she mistakenly starts to believe that she has Super-Strength and spends the rest of the episode trying to be a superhero before the effect on her costume wears off as she is fighting Shredder, requiring the turtles to save her.
+-   In _The Tick_ episode "Armless but Not Harmless", after supervillains Venus and Milo are accidentally defeated by an ordinary plumber, Venus starts thinking of him as her arch-nemesis, "Plunger Man". When he encounters them later while they are committing a different crime, his simple presence is enough to scare Venus into surrendering.
+-   Invoked in the _What's with Andy?_ episode "Scary Teri", where Andy deliberately pranks Teri into thinking she's telekinetic.
+
+___

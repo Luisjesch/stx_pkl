@@ -1,0 +1,135 @@
+**Aang:** When Azula shot me with lightning, my Seventh Chakra was blocked, cutting off my connection to all the cosmic energy in the universe.  
+**Toph:** You know what I just heard? Blah-blah, spiritual mumbo jumbo, blah-blah, something about space.
+
+Like Techno Babble, but about magic, typically Rule Magic. This is usually used in series where Magic A Is Magic A, and the rules are defined enough that you can't get away with invoking them in new ways without having to explain it first. See also Blah, Blah, Blah.
+
+___
+
+## Examples
+
+    open/close all folders 
+
+    Anime and Manga 
+
+-   _Fullmetal Alchemist_ frequently has Magi Babble, on the premise that "alchemy is a precise science, really!" The basic rules being that they can't create matter from nothing, leading to the principle of Equivalent Exchange, but the energy source for rearranging it is unknown to most people (it seems to come from the earth in various ways). If you want more than that, however, you need a Philosopher's Stone. It's essentially a free gift of ludicrous amounts of energy, which would be necessary to create matter from "scratch." Free, that is, in that someone had already paid the terrible price in advance. It required Father with Truth inside to even master _nuclear fusion_, let alone matter creation.
+    -   Played for Laughs towards the end, when Edward Elric attempts to use Magi Babble about Equivalent Exchange _as the basis for a Wacky Marriage Proposal_. It is exactly as dorky as it sounds. Luckily for Ed, Winry is also kind of a dork at heart, and says yes.
+-   _Naruto_ features extensive dialogue on how chakra is summoned and how it is used to walk on water, climb trees, increase damage, etc. Similarly anybody using advanced techniques will inevitably dialogue about how they use their powers to create this specific result. There's an entire arc devoted to Naruto learning one such technique in extreme detail. And that's not even getting into the an Elemental nature cycle.
+-   In _Negima! Magister Negi Magi_, there are training arcs just to describe the exact mechanic of Mid-Season Upgrade the heroes have to access, what kind of conditions they have to fulfill and drawbacks the techniques/spells will befall to the users, how the techniques are different between the users' elemental affinity or magic cultures, etc. And as if manga panels are not enough, each of the manga's volumes has its author note filled with nothing but pages of real life references of each spell or magic practice used in the manga.
+-   Usage of Nen in _Hunter × Hunter_ is very complicated, especially because once an individual chooses a power upon learning Nen basics, they are locked into it permanently, and purposely giving oneself additional rules and drawbacks boosts its potency. There is a story arc revolving mostly around one character's wish-granting powers, with various other characters—good, evil, neutral, and ambiguous—all trying to deduce those powers' rules, limitations, and drawbacks and discussing them with their allies. This arc's dialogue is one of the harder ones to follow.
+-   _The Irregular at Magic High School_'s manga adaptation had little indexes at the end of each book to explain things like Eidos and decomposition-type magic.
+-   A Season 3 episode of _Yu-Gi-Oh! GX_ features a villain and a hero briefly arguing about what exactly Duel Monsters cards are in relation to the monsters (in-universe, the images that appear during duels are theoretically holograms, but the monsters used in the game are actually real and live in a parallel dimension, with some people gifted with the ability to see and communicate with their spirits in our world). The villain, Giese, believes the cards are basically pokeballs that release the monsters contained in them. The hero, Johan, explains that the cards are actually portals that summon the monster from their world to the field when activated. He's proven right when playing his Sapphire Pegasus' card releases his pegasus from the Extranormal Prison the villain was holding him in.
+
+    Comic Books 
+
+-   In _Tooth and Claw_ #1 a group of wizards discusses dozens of complex-sounding spells that the reader has no idea the effects of.
+
+    Fan Works 
+
+-   The spell matrix in Sweetie Belle's notebook in _The Sweetie Chronicles: Fragments_ tends to be a source of large amounts of Magi Babble any time Sweetie Belle or Twilight Sparkle start talking about it.
+-   _Child of the Storm_:
+    -   Loki, usually, walks the line between Magi Babble and Techno Babble, and usually has to be reined in by his brother when he gets over-excited and goes into Motor Mouth mode.
+    -   Harry Dresden also does this - as per canon, he loves studying magic, and while his education was spotty to say the least, he's got a fairly wide if eclectic knowledge base.
+    -   Wanda frequently discusses magic along these lines with Loki, Albus Dumbledore, and her old mentor, Doctor Strange (who does this from time to time himself, when he actually deigns to explain anything).
+    -   And Thor, surprisingly, though usually when people least expect it. As he points out, he spent just over twenty years as a wizard in the form of James Potter, and spent the last 1,500 years as the brother of Loki. It's safe to say that he's picked up a few things.
+-   _Fate/Gag Order_ has "FGO Prequel: Gudao's Job Interview for Chaldea" which features how the protagonist was convinced to join Chaldea. The titular interview mostly consisted of Dr. Roman filling his dialogue with magecraft terminology and a partial Title Drop or two.
+-   Naruto coins the term "jutsubabble" when he fails to grasp most of Jiraiya's long-winded explanation of a complicated seal in _Naruto: the Secret Songs of the Ninja_.
+-   In _Opening Dangerous Gates_, Levy and Urahara have a discussion on how to take down a forcefield blocking the group's way. The other characters are incredibly confused by their magical terms and think they are talking in another language.
+-   _Fate Revelation Online_: More and more players slip into this as they are taught magecraft on a grand-scale. However, since they still think it's all just a game, they tend to mess up minor terms (such as using the term "magic" instead of "magecraft"). The _actual_ mages from the real world are easy to spot because their terminology is always perfect and even the advanced players can rarely keep up with what they're saying.
+-   The _Undertale_ Fan Fic _Visiontale_ utilizes extensive magibabble to explain how magic works. Monsters created their magibabble so they could discuss magic with equal rigor to humans discussing science on the surface.
+-   In _The Meaning of Harmony_ Twilight has a tendency to do this, usually when trying to explain how the Forges work. Sunset invokes that tendency at one point, when she name-drops a magical term knowing that Twilight would explain it to the others, so she herself wouldn't have to.
+
+    Literature 
+
+-   Subverted in _The Broken Earth Trilogy_. The obelisks and other magical artifacts created by the ancient precursor civilization are the product of Sufficiently Analyzed Magic. As such, characters who know a lot about magic describe them in technical terms rather than mystical.
+-   In Patricia C. Wrede's _Enchanted Forest Chronicles_ the magician Telemain speaks almost entirely in Magi babble when describing how various spells and enchanted objects work. He becomes irate when people tell him to explain things with less technical terminology, usually claiming he can't think of a simpler way to explain whatever he's talking about precisely. The only exceptions occur when he is asked to explain things normally by Kazul, the gigantic King of the Dragons, whose intimidating appearance inspires him to somehow find a perfect clear, much easier to understand explanation.
+    -   Morwen, who has a similar level of experience, naturally understands his terminology. But weirdly, Mendanbar also understands, despite having an intuitive grasp of magic sketchy with technicalities at best, while Cimorene, who is very magically literate and has invented or modified several spells, is always at sea with what he says.
+        -   Cimorene admitted her knowledge of magic was limited because her parents were quick to cut off her secret magic lessons. Besides, it's more that Telemain just talks really fast and only Mendanbar, who is used to it from his elf steward, can catch what he's saying, and he's also far more knowledgeable about all sorts of magic as the King of the Enchanted Forest is than Cimorene, whose talents tend to be more practical than magical.
+-   _Discworld_
+    -   Ponder Stibbons, a Magitek Geek, uses a combination of Magi Babble and Techno Babble to describe the devices created in the High Energy Magic Building (or more often, to hide the fact he's got no idea how they work, even though he built them). Wizards, and indeed some others, also use the catch all explanation of 'It's probably Quantum' or something being weird "'cos of Quantum" to explain anything significantly baffling. It appears to fullfil the same function as saying 'It's magic' in Real Life, though it is usually incorporated with other Magi Babble.
+    -   Eric, the demonology hacker in the book of the same name, uses Magi Babble that sounds suspiciously like computer babble. "You see, if you rewrite the source codex and, this is the difficult bit, you route it through a high-level..."
+    -   Computer babble is also used by the druids of _The Light Fantastic_, in reference to the ritual and astronomical functions of stone circles. ("It can't be software incompatibility, the Chant of the Trodden Spiral was _designed_ for concentric rings!")
+-   This is literally Bob's entire purpose in _The Dresden Files_. He knows the rules better than any mere mortal like Harry could ever know them, being a spirit of intellect centuries, if not millennia, old.
+    -   Additionally, the Archive, a single human whose purpose is to be the physical containment of the entirety of humankind's body of written knowledge. This includes everything that has been written about the usage of magic. While a normal human with no inherent gifts, she is still probably the most adept magic caster on Earth, knowledge that doubtlessly includes not only how to cast any spell, but how they work, and why they work.
+    -   Harry's no slouch at either, partly because he's a First-Person Smartass narrator who happens to be a powerful wizard who genuinely knows his stuff - this is shown best in _Turn Coat_ when he discusses magic with Morgan as an equal, despite the other man being around four times his age. He also shows on several occasions that he really does love studying magic, and will do so simply for the sake of it.
+    -   Butters, once he's introduced to Bob, quickly dives into this trope, mingling Magi Babble _with_ Techno Babble in an epic display of geekiness.
+-   This comes up quite often in the _Sword of Truth_ series. In the earlier books, the in-world magic system seems fairly standard for a fantasy series; i.e., one uses their "gift" to achieve the desired results. After perhaps the third or fourth book, the author does in the wizard with an ever-increasing amount of magispeech to explain an ever more convoluted system.
+    
+    -   Earlier, in a scene in _Blood of the Fold_, a character's Magi Babble is interrupted and it is explained (via more Magi Babble) that the character he's talking to already knew everything he was telling her.
+    
+    Warren sighed and at last nodded. "I guess I should tell you, but understand that this is a very old and obscure fork. The prophecies are clogged with false forks. This is doubly tainted, because of its age, and its rarity. That makes it suspect even if it weren't for the rest of it. There are crossovers and backfalls galore in tomes this old, and I can't verify them without months of work. Some of the links are occluded by triple forks. Back-tracing a triple fork squares false forks on the branches, and if any of them are tripled, well then, the enigma created by the geometric progressions you encounter because of the-"
+    
+    Verna put a hand to his forearm to silence him. "Warren, I know all that. I understand the degrees of progression and regression as they relate to random variables in bifurcations of a triple fork."
+    
+-   The Magi Babble in L.E. Modesitt, Jr.'s _Saga of Recluce_ is extremely convincing; it almost feels like real physics.
+-   Comes up often when Jeff Grubb gets his hands on franchise fiction. Notable works include the Warcraft novel _The Last Guardian_, and his _Magic: The Gathering_ novels set during The Brothers' War (the Antiquities and Urza's Saga sets) and the Ice Age. Seeing as how Grubb often produces some of the better novels in these franchises, his tendency towards magi babble is either forgivable or awesome, especially since the rules he sets down tend to make magic more consistent in later works by others.
+-   Taken to the logical extreme in _The Death Gate Cycle_ by Margaret Weis and Tracy Hickman: the magi babble is literally indistinguishable from Techno Babble and _almost makes sense_.
+-   Either Lampshaded or justified in the _Lord Darcy_ stories, in which Master Sean's attempts to explain the metaphysics of his spells regularly cause Darcy to remark that he'll have to take his associate's word for it, as such concepts are always baffling to non-sorcerers. Whether this is a lampshading or a justification depends on whether the _reader_, a non-sorcerer, got the gist of Sean's explanation!
+    -   As that world's leading expert in magical theory is established to have no magical talent at all himself, it's most likely simply meant to show the mutual respect and trust in their relationship.
+-   In _The Laundry Files_ by Charles Stross, the magic is based on mathematics and computer science—Alan Turing invented the local Magitek—and it reads like a cross between MIT's 6.001 and Abdul Alhazred.
+-   The _Harry Potter_ books have a fair bit, especially _Deathly Hallows_. In it, we learn that "food is the first of the five Principal Exceptions to Gamp's Law of Elemental Transfiguration". When Ron repeats this tidbit later on, others are amazed by his Sesquipedalian Loquaciousness.
+-   Shows up several times in the Witcher series. It sounds a bit like a professional slang sprinkled with mathematical and scientific terms.
+-   Rick Cook's _Wiz Biz_ books has a computer programmer brought into a fantasy world creating a magical programming language, with a spell compiler and other things. This leads to a lot of programmer-speak being used as Magibabble. It's done well, since the author actually is a computer programmer. It still manages to be mystifying to programmers in a lot of instances, since he also chose a very obscure programming language to base it on.
+-   Magic in _The Inheritance Cycle_ has a lot of rules which are explained in a fair amount of detail. It's vitally important for magicians in the series to know them because misuse of magic can easily be harmful or downright fatal.
+-   _Journey to Chaos_: Annala tries to explain magic theory or monster behavior to her friends, Revas and Oito, but because she always uses technical terms, they don't get it. Instead they rely on Eric for the Layman's Terms.
+-   _A Certain Magical Index_:
+    -   Touma Kamijou is often frustrated when Index or another magical character starts explaining things this way. In turn, the magical character often complains that Touma must be an idiot for not being able to understand something they have known since childhood.
+        
+        **Touma**: It feels like you're just throwing all this weird terminology at me.
+        
+    -   Touma has an advantage over the rest of the Science-side characters, since most of them don't even know magic exists. Whenever a magician tries to explain anything, they're inevitably mistaken for a weird esper who is insisting on using meaningless fantasy terminology for some random reason. Mikoto listens patiently to a burst of Magi Babble and then tries to translate it into scientific terms (causing the magician to just give up), and when Accelerator witnesses a necromancer cast a spell with Instant Runes, he wonders if she's using the historical symbolism to strengthen her Personal Reality.
+-   A common occurrence in _Magic for Liars_. Non-magic Ivy receives a lot while talking with magic-using Rahul as the latter is a high school teacher who doesn't know she doesn't have the background to understand.
+
+    Tabletop Games 
+
+-   _Ars Magica_: There are arts, mystery cult initiations, exotically named spells, different types of vis, and a dozen or more exotic traditions to speak about in character. The magic rules are so closely linked to the in-setting magic concepts that it becomes difficult not to talk in magi babble.
+-   _GURPS_: Thaumatology has a perk that allows your character to spout an endless amount of meaningless but authentic sounding nonsense at the drop of a hat.
+-   _Dragonlance_ _Dungeons & Dragons_ 3.5 sourcebooks explain the difference between High Sorcery and Primal Sorcery, and Clerical magic and Mysticism.
+-   _Exalted_ is rife with this whenever the setting's metaphysics are discussed. A lot of it has a sort of internal consistency but it can be so difficult to wrap one's head around that it starts sounding like utter nonsense before too long. The Shinma may be one of the worst examples, as principles/things/concepts that exist/not-exist in the Wyld and define everything by embodying their antithesis. One makes existence possible by embodying non-existence, and is thus technically not even there to do what it does and agggghh.
+-   _The Dark Eye_ loves to do this, often quite consciously.
+-   _TORG_ has a lot of this in its Aysle setting. It also features a spell design system which is heavily tied in to the in-setting magic concepts, leading to the same effect as for Ars Magica above, that players may find themselves speaking in magi babble.
+
+    Video Games 
+
+-   _Guilty Gear 2: Overture_ is almost _entirely_ this. Bet you never expected that from a Power of Rock fighting game, huh? Mostly spouted by the badass warrior-scientist protagonist to show off what a Genius Bruiser he is.
+-   This can reach excruciating levels in _Final Fantasy XIV_. Characters banging on, at length, over aetherial properties and such is frequently either a justification for how the Player Character is to solve the current problem by fighting it, or as an excuse to send the player off on quests to pad for time before the actual plot relevant fight
+-   _Castlevania_ avoided this for most of its history, with the nuts and bolts of Dracula's constant resurrections and his haunted castle elided or hand-waved, but then along comes _Castlevania: Aria of Sorrow_, and Genya (aka once-proud series hero Alucard) is largely there just to grease the plot with this stuff.
+-   _Touhou Project_ official manga _Silent Sinner in Blue_ has a number of the cast using _Shinto-Babble_ to power a three-stage rocket that will take them to the moon. The explanation of the three-stage rocket and its power source are very much in-character for the series: _real_ logic can go take a hike. While a cursory glance at other source material does imply there are certain rules to using magic in the _Touhou_ universe, Clap Your Hands If You Believe and What Do You Mean It's Not Symbolic seem to be the only things that really matter in the long run.
+-   In _Triangle Strategy_, Corentin wants to create never-melting ice so he can make weapons without needing iron (he hails from Hyzante, which has very little iron of its own). However, when he tries to explain how he made never-melting ice to Erador, it goes way over Erador's head, which forces Corentin to use Layman's Terms.
+-   The magical laws of physics on Auldrant are integral to the plot of _Tales of the Abyss_, so we get a lot of this from Jade and/or Tear as they explain why certain things have to be done a certain way, or can't be done at all. Expect to hear the word "Fonons" a _lot_.
+-   Small example from The Elder Scrolls IV: Oblivion, from a mage who has turned a whole village invisible:
+    
+    **Ancotar**: You're about to quote Vanto's Third Law... don't worry! I have not actually found a way to violate the Conservation of Perception!
+    
+    -   The same mage's journal also contains a referance to "Galerion's Ninth Law", which is apparently immutable.
+    -   _Liminal Bridges_ is an in-universe book which consists almost entirely of this. Funnily, if you look at the meanings behind the component words, most of it actually makes perfect sense; it explains why summoning spells are usually only temporary, and how sigil stones and Oblivion gates get around that.
+-   Sequel The Elder Scrolls V: Skyrim allows you to have a conversation with Riften's resident court mage Wylandriah about her investigation into a magical construct and a reagent that will allow said construct to maintain a field of permanent harmonic energy. Expressing interest in the topic results in a discussion on theoretical applied harmonics and Ralston's constant of universal inversion and how to apply them to hold magic fields in place while simultaniousely counteracting complete universal collapse (and observing the mysterious disappearance of calipers from Tamriel since the beginning of the 4th era)... If that doesn't make much sense to you, but you don't want to admit it, don't worry... you can talk your way out of it...
+-   Prepare for a whole lot of this if you want to know how magic works in _Ar tonelico_. The bulk of the really detailed stuff is only found in supplementary materials, though.
+-   In _Mabinogi_ if you start playing and _then_ decide to learn magic (instead of starting as an already-trained mage), the first teacher you'll come across is Lassar. Her teaching method involves lectures in mildly mind-numbing detail, book study, homework, and oral quizzes (and trying to get you - and everybody around - into school uniforms). As her lessons go on for a number of in-game days, many players skip over the lectures or take other routes to learning magic just to avoid the whole process. For those who don't, their content is entirely consistent and mostly relevant to an adventurer. Some find it a nice change from the usual MMO approach of just handing your character spells.
+-   _World of Warcraft_ has a bit here and there; some young mages wandering around Stormwind chat about their studies in magi-babble terms (and drop some Ghostbusters references in the process — bonus points also for their conversation being randomised, so you can be sure it doesn't mean anything since it can be in any order), while Kalecgos gives us the following during the Dragon Soul raid; what it actually _means_ is unclear, but it's a good excuse for another boss fight:
+    
+    **Kalecgos:** The Focusing Iris within the Eye of Eternity may allow us to converge the magical matrix contained within the Dragon Soul!
+    
+-   _BlazBlue_ uses this on some occasions, especially since it has a tendency to introduce terms early and then explain what they mean later. This does mean that the 'babble' effect decreases over time as the audience starts to get their head around what characters mean when they say certain things. To give an example, saying that the Takamagahara system can perform Phenomena Intervention to travel between the various alternate timelines created by the Continuum Shift event that happened when Noel lost control over her power as the Successor of the Azure, is a very complicated way of saying 'the bad guys can do Reality Warping by exploiting the heroine's Power Incontinence'.
+
+    Visual Novels 
+
+-   _Fate/stay night_ takes Magic A Is Magic A very seriously. The visual novel contains lengthy segments of exposition on how the rules of magic work and how summoning and Noble Phantasms are connected to it. In the end, the rules exist to be twisted, bent and broken.
+    -   This is underselling it a tad, frankly: if you took all the Magi Babble out, you would be left with a fairly short visual novel.
+    -   This also extended to the rest of the _Nasuverse_, like how people gain Mystic Eyes of Death Perception, why Akiha's power makes you feel hot even though it's not fire or heat-based, or why humanity goes extinct in the future if the Six Sisters ritual is done.
+    -   This is heavily combined with Techno Babble in _Fate/Grand Order_. Understandable, given the protagonists work for Chaldea Security Organisation, a UN-backed group that makes heavy use of Magitek to summon Servants and save the world through time travel. For example, SHEBA, the machine that they use to watch out for instabilities in the timeline, was created through a combination of King Solomon's magic, as well as the founder's astral magic. However, it's also connected to an impressive computer network manned by a group of Bridge Bunnies. The result is technicians or Mr. Exposition babbling on about magic in a way that sounds vaguely like computer science.
+    -   In _Fate/strange Fake_, whenever anyone speaks this way around Ayaka Sajyou, someone who didn't even know the supernatural was real until she was dragged into the Holy Grail War, she complains that she can't understand what they are saying.
+
+    Web Comics 
+
+    Web Original 
+
+-   Given the amount of Techno Babble in the Whateley Universe, it shouldn't be surprising that the authors let the wizards in the stories dump loads of Magi Babble too. Most of the stories that have one of the teachers from the Magical Arts Department have at least _some_ Magi Babble cropping up.
+
+    Western Animation 
+
+-   Parodied in _Avatar: The Last Airbender_, where Aang explains to Toph why he can no longer activate the Avatar state. She listens to his explanation, and the page quote ensues.
+-   In the _My Little Pony 'n Friends_ episode "Bright Lights," victims who have their shadow stolen become weak and sick. As Galaxy explains, "That makes sense. No doubt they feel empty and incomplete — the loss of their shadows being an outward sign of some loss of substance." Good luck trying to understand _that_ last sentence when you're 5-years-old.
+-   Used by pony!Twilight in _My Little Pony: Equestria Girls – Rainbow Rocks_ to explain how she was able to reopen the portal to the human world ahead of its regular Celestial Deadline. Apparently using Equestrian magic to travel between dimensions requires understanding advanced mathematics. The ponies don't get one letter of it, except for Pinkie Pie who is able to give a layman's explanation.
+-   In the _Rupert_ episode "Rupert In Timeland," Father Time explains to Rupert and Podgy that they weren't frozen when he stopped time because eating peppered pickles and sneezing at the same time as someone else while inside a tent protects you from the time freezing effect.
+
+___

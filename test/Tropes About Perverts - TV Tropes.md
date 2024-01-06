@@ -1,0 +1,125 @@
+An index for tropes about characters with varying degrees of perversion.
+
+Contrast Purity Personified.
+
+___
+
+**Tropes:**
+
+-   Abhorrent Admirer: Just a dogged (usually female) suitor, with the wrinkle that she's also (comically) unattractive. We can't have that.
+-   Accidental Pervert: Constantly winds up in situations where they wind up doing things that seem quite perverted without even meaning to.
+-   All Men Are Perverts: You're no Accidental Pervert. How do I know? You're male.
+    -   All Gays are Promiscuous: Even more true if you're gay!
+-   All Women Are Lustful: Women secretly want to have sex. No, scratch that, they're _desperate_ for it.
+-   Bad Girl Song: A lady shows how lustful she is through song.
+-   Bathe Her and Bring Her to Me: Especially if the villain likes to watch her being bathed...
+-   Bestiality Is Depraved: Has a little _too_ much interest in things four-legged and otherwise.
+-   Black Jezebel Stereotype: Black women being stereotypically associated with promiscuity and/or fixation on sex.
+-   Black Widow: A warning: there's a reason she's available...
+-   The Bluebeard: And there's a reason why he is as well....
+-   The Casanova: He loves 'em, then leaves 'em. The Master Swordsman of perverts, he's a predator whose only motivation is indulging his personal lusts and desires.
+-   Casanova Wannabe: Wants to be The Casanova, or at least a Kavorka Man, but fails miserably.
+-   The Chikan: He gropes women on the subway.
+-   Chivalrous Pervert: Yes, he's trying to imagine her naked, but he'll be the first to defend her should the villain be an actually dangerous pervert.
+-   Construction Catcalls: Construction workers love hassling women who pass by.
+-   Covert Pervert: You'd never guess this innocent character has a porn fetish.
+-   Creepy Gym Coach: Coaches and gym teachers that are perverted towards their students.
+-   Creepy Uncle: This guy likes his niece/nephew in all the wrong ways.
+-   Depraved Bisexual: Bisexual people portrayed as perverted and evil. Frequently used as a stereotype applying to every single bisexual in certain works. Unfortunate Implications are very frequent, but can be avoided by having non-evil bisexuals and making sure that the villain's bisexuality is not depicted as the reason why they are depraved.
+-   Depraved Homosexual: Evil gay people. Has the same possible implications and controversy as Depraved Bisexual. Also more likely to be used for rape jokes in cruder works.
+-   Dirty Kid: This child proves that perversion knows no age limit.
+-   Dirty Old Man: An older man with a fetish for young (wo)men; ranges from disgusting to a Lovable Rogue.
+-   Dirty Old Monk: This clergy member ignores the meaning of "vow of chastity".
+-   Dirty Old Woman: Distaff Counterpart of Dirty Old Man Played for Laughs.
+-   Double Standard Rape: Female on Male: Rape is completely normal if it is a female after a male; the roles reversed, on the other hand, is downright disgraceful.
+-   Ephebophile: Targeting children, except the character prefers them to have passed puberty.
+-   Ethical Slut: She's slutty, she knows it, and she doesn't see anything wrong with that.
+-   Executive Excess: More interested in sex and drugs than actually working, despite the lofty corporate position.
+-   Extreme Libido: They won't stop having sex until their libido calms down.
+-   Extreme Omnisexual: Will have sex with anything. And we do mean _anything_.
+-   Femme Fatale: She's hot, she knows it, and she's not above using it to further her aims.
+-   Fetish: Getting turned on by something that isn't really normal for one's culture. Many perverts have them.
+-   Fetishes Are Weird: If you have a fetish, you are a creepy weirdo.
+-   Fetishized Abuser: You are my plaything for me to abuse and molest to my heart's content. And don't act like you don't like it!
+    -   Kichiku: Anime Fanspeak for a male Fetishized Abuser.
+    -   Kichiku Megane: Anime Fanspeak for a male Fetishized Abuser who wears glasses to indicate that he is smart, sophisticated, and successful.
+-   Fiendish Fraternity: Commonly the place for a lot of perverts, and usually an extreme amount of sexual assault.
+-   Fille Fatale: Femme Fatale in training.
+-   Florence Nightingale Effect: "Nursing" a cute guy back to health is the perfect job for lusty ladies.
+-   Forgiving the Accidental Pervert: They understand the situation was an accident and won't hit them unjustly.
+-   Good Bad Girl: Distaff Counterpart of the Chivalrous Pervert, what to others is naughty is just part of the joy of life to her.
+-   Handsome Lech: a character whose looks and charm are just a veneer over a shallow or even abusive approach to relationships.
+-   The Hedonist: Pleasure is everything to them. Sexual pleasure? Even better!
+-   High-Class Call Girl: She speaks six languages, and is putting herself through law school... by any means necessary.
+-   Hooker with a Heart of Gold: She may act like a common streetwalker, but she's a Good Bad Girl deep down.
+-   Hormone-Addled Teenager: All teenagers, male and female alike, are complete and utter sex-fiends.
+-   Horny Bard: The Bard is portrayed as single-minded towards getting laid.
+-   I Have Boobs, You Must Obey!: Men kneel before my breasts! Mwahahaha!
+-   I Have You Now, My Pretty: To remind the audience (and the hero) that I'm the villain, I'll tie up his girlfriend and lick her ear (or even worse).
+-   I'm a Man; I Can't Help It: You'll just have to keep forgiving me, because All Men Are Perverts.
+-   I Love the Dead: Corpses... HOT!
+-   Immortality Promiscuity: Immortals really get around.
+-   Kavorka Man: Living proof that a man can be ugly, lecherous, and loved by the ladies anyway. The Casanova minus the good looks.
+-   KidAnova: The Casanova in training. Just because he'd barely hit puberty doesn't mean he can't be a serial dater.
+-   Lascivious Beauty Mark: A facial beauty mark is used to characterize someone as flirtatious, seductive, generally sexually forward (perversion included), and/or highly desired In-Universe.
+-   Lecherous Licking: I Have You Now, My Pretty! \*SLURP, SLURP, SLURP\*
+-   Lecherous Stepparent: A stepparent who is _too_ close to their stepchild.
+-   Lemon Stu: A (usually Self-Insert) fanfic character who can and will sleep with anyone he likes.
+-   Literal Man Eater: She may look like a snack, but _she's_ going to be the one devouring _you._
+-   Lovable Sex Maniac: The Draco in Leather Pants of perverts, he's an Anti-Hero whose love of all things pornographic is Played for Laughs.
+-   Lust Makes You Dumb: Some people are willing to do stupid things in the name of satisfying their libido.
+-   Man, I Feel Like a Woman: Wow! Are these breasts on my chest? Are they real? I need to check \*grope grope\*.
+-   A Man Is Always Eager: No matter what, men are always the ones asking for sex, not women.
+-   Masturbation Means Sexual Frustration: Masturbation is used to denote a character is sexually frustrated, perverted, or repressed.
+-   Memetic Molester: Whether canon or not, they "raep" people.
+-   Mrs. Robinson: Seasoned cougar female seeks fresh, young male.
+-   My Girl Is a Slut: Well, if you're a porn actress...
+-   Naughty Birdwatching: Using binoculars or other apparatus for voyeuristic purposes rather than birdwatching.
+-   Naughty Nuns: Just because they wear the cloth doesn't mean they don't have... needs.
+-   Nerds Are Pervs: Nerdy characters depicted as sex-obsessed, often with deviant preferences and lecherous instincts.
+-   Nightmare Fetishist: Even the most horrific things can get some people off. No exceptions.
+-   "No Peeking!" Request: A character has to warn another to turn away or not to peek while they undress.
+-   Obscene OB-GYN: Perverted gynecologists or urologists.
+-   Pædo Hunt: The apparent threat of child molestation, whether or not that threat is legitimate, becomes a cause for panic.
+-   Panty Thief: Someone who steals other people's underwear, almost always for sexual gratification.
+-   Pedophile Priest: A holy man with an entirely _un_holy interest in children.
+-   The Peeping Tom: A voyeur who gets their kicks from spying on members of their preferred gender without their knowledge or permission.
+-   Pervert Dad: His inappropriate interest in his daughter falls just shy of out-and-out Parental Incest.
+-   Perverted Drooling: When someone's so hot, your mouth waters just thinking about them.
+-   Perverted Pig: Pigs are portrayed as lecherous and/or perverted.
+-   Perverted Sniffing: Breathing in a Lust Object's scent. LOUDLY.
+-   Pervert Revenge Mode: Some people don't take kindly to being subjected to a pervert's attentions, and react quite violently.
+-   Pervy Patdown: Using a patdown as an excuse to feel someone up.
+-   Pink Is Erotic: The color pink represents eroticism and scenes of a sexual nature.
+-   The Pornomancer: This character is a living Deus Sex Machina magnet. He doesn't have to look for sex, sex goes looking for him.
+    -   Accidental Pornomancer: ...Even when he may not even _want it_.
+-   Power Perversion Potential: A character uses their powers to more easily get some sort of sexual gratification.
+-   Psycho Lesbian: Being a lesbian made her psychotic.
+-   Psychosexual Horror: A subgenre that explores psychosexual development as a subject matter, including themes of sexual development and sexual activities.
+-   Really Gets Around: I screwed the whole cast, extras included!
+-   Screw Yourself: Narcissism taken to the ultimate extreme.
+-   Sex God: They will give you mind-blowing ecstasy, perhaps even without going all the way.
+-   Sexiness Score: Ranking, rating or scoring a character's attractiveness and sexual desirability, which can often be considered gross and immature.
+-   Sex in a Shared Room: While this might not be inherently perverted, it often is and might involve The Peeping Tom.
+-   Sex Is Evil, and I Am Horny: Sex is for the depraved, despicable, and disgusting...but I still want it anyway.
+-   Sex Is Violence: I'm gonna fuck you up! Yes, _that_ way as well. It will look like I want to anyway!
+-   Sexual Deviance Is Evil: Nonstandard sexual behavior is associated with evil.
+-   Sick and Wrong: An understandable reaction to many of the disturbed things described on this index. Stupid goat... that was entrapment!
+-   Sleeps with Everyone but You: Really Gets Around, but won't have sex with this guy.
+-   Spies Are Lecherous: A secret agent is portrayed as The Casanova.
+-   Stalker with a Crush: I want YOU in the worst way possible! And "no" is NOT an answer.
+-   Succubi and Incubi: Succubi and Incubi are often portrayed as having an out of control desire for sex; the nastier the better.
+-   Super Sex Organs: My genitals give me SUPERPOWERS! No, really.
+-   Too Kinky to Torture: Hurt me harder! I SAID HURT ME HARDER!!
+-   Trans Chaser: A cis character has a fetish for transgender or gender-nonconforming people.
+-   Trans Equals Hypersexual: Transgender or gender-nonconforming characters are depicted as having an Extreme Libido, no sexual boundaries, bizarre kinks, or otherwise over-the-top sexual proclivities.
+-   Turn Your Head and Cough: Doctors instruct their male patients to do this as an excuse to ogle their testicles.
+-   Unprovoked Pervert Payback: When Pervert Revenge Mode gets employed against someone who didn't really do anything to deserve it.
+-   Unsexy Sadist: Wants to be a Romantic Abuser, but fails miserably.
+-   The Vamp: She's lusty and hot and she will seduce you... to your doom!
+-   Video Game Perversity Potential: Customizable video games usually don't end well.
+-   Watching the Reflection Undress: Using a reflective surface to spy on someone disrobing.
+-   Wife Husbandry: Some characters like to raise their future spouses.
+-   Yandere: The most twisted type of love.
+
+___

@@ -1,0 +1,1370 @@
+_"Look at us. Look at us! The Bullet Club! We're all champions! We're coming to Ring of Honor to beat the crap out of everyone who steps in our way!"_
+
+There is always strength in numbers. Professional Wrestling is no different. Someone who wants to get to, or stay on, the top of the game is best served to seek allies. Some wrestlers can rely on their family; others band together by virtue of similar character or common interests. Still others band together for one purpose, and one purpose only — to watch each others' backs, and better their own positions in the company. These wrestling mutual-aid societies are called power stables. While a staple of wrestling, it can occur elsewhere.
+
+Like in all fictional groups, the members of a Power Stable have a tendency to fit certain archetypes. Generally speaking, each stable will play host to at least three of the following core character types:
+
+-   **The Centerpiece**: The Leader of the gang. He considers himself the best in the world and will disagree violently with anybody who suggests otherwise. The stable's first and foremost priority is to keep the world championship belt around the waist of the Centerpiece; it is their crown jewel, serving as a powerful backstage bargaining platform as well as a display of the stable's power.
+-   **The Heir Apparent**: All but the most arrogant Centerpieces know that they won't be around forever, and plan for this eventuality. The Heir Apparent represents that plan in action. He is the Centerpiece's number-one disciple, being trained and groomed for the day that the Centerpiece will retire and he will thus take over the stable's legacy. Ironically, he's also usually the reason that the stable doesn't stay together long enough to _have_ a legacy for him to take over; most Heirs eventually find themselves ascending through the ranks faster than the Centerpiece likes and thus cause the breakup of the stable, either by him turning on the stable or the stable turning on him. Less commonly, the rest of the stable might side with the Heir Apparent instead of the Centerpiece when this conflict comes about, allowing the Heir Apparent to _successfully_ make himself the new Centerpiece. As long as the stable's together, though, the Heir Apparent will often find himself in contention for either the promotion's secondary singles title or the tag team championship, whichever is considered more prestigious. Also related to The Dragon and The Starscream tropes.
+-   **The Enforcer**: The Enforcer is the stable's "field general", so to speak. He is the team's strategist, planning such things as match run-ins, backstage attacks and the like in order to maximize the stable's effectiveness. He's usually a cagey veteran, and always the only person that the Centerpiece truly trusts. He's probably either a genuine friend of the Centerpiece or an older wrestler who's his Evil Mentor, explaining why he's willing to help Centerpiece grab the top spot in the company instead of seeking it himself. In the latter case, he frequently _was_ the top heel holding the world championship when he was younger, and sees the Power Stable as a way to ensure his Villainous Legacy survives even after he's gone. He will often seek whichever championship the Heir Apparent doesn't go after, in order to further solidify the stable's power base, often a tag team championship with the Muscle or the Heir Apparent, depending on whether the secondary singles title or the tag title is more prestigious. Related to The Smart Guy and Evil Genius if **The Manager** isn't already acting as one.
+-   **The Muscle**: The Muscle is the physical power of the team. He is big, bad, and dangerous to know; however, whether it's because of mental slowness or just general lack of drive, he just doesn't seem to do much on his own. With the right guidance, though, he is truly a force to be reckoned with, with the stable being more-than-willing to provide that guidance for the benefit of his strength. As befitting his nature, he most often finds himself teaming with another member of the stable, usually the Heir Apparent or the Enforcer and going for the Tag titles with the former or latter. If the stable survives once the inevitable Centerpiece vs Heir Apparent conflict plays out, whoever came out on top is likely to elevate the Muscle to be the new Heir Apparent...setting the stage for the same conflict to happen again when the newly-motivated Muscle decides just going up _one_ step in the hierarchy isn't enough for him. Related to The Big Guy and The Brute.
+
+In addition, the stable may include some of the following characters:
+
+-   **The Point Man**: This guy is usually found only in larger stables, although it's not unheard of for a smaller stable to have one of these instead of an Heir Apparent. The Point Man is pretty much what his name would indicate - he's the guy "on point", who the stable leader sends out to soften up the opponents. Frequently a charisma-deficient midcarder or a lower midcarder who's a good worker that just doesn't have what it takes to advance into the upper echelon of wrestling. Therefore, being associated with the stable and having some of its heat rub off on him is his best bet. Unlike the Heir Apparent, the Point Man is usually fairly loyal to the stable and its leader, although he can be goaded into a Heel–Face Turn if his stablemates lose respect for him and throw him into danger while they run away. Comparable to an Elite Mook.
+-   **The Manager**: The team's resident Evil Genius, the Manager is the "big picture guy". If the Centerpiece is not the leader, then the Manager is. He's always plotting, always scheming and always pulling strings to put his guys on top. While he deals mostly with the backstage politics and is not a wrestler himself, he's not afraid to get physically involved to help his team, whether it be a trip here, a well-placed attack with a foreign object there or what have you, but he will turn tail as a Dirty Coward the moment someone threatens him, making it all the better when a face being hounded by the stable for weeks gets his hands on the smarmy bastard.
+-   **The Hanger-On**: Much like the token girl of the Five-Man Band, he's the stable member with the least fixed role and the hardest to pin down. He's usually somebody's buddy and may not even be a wrestler; if he is, he's usually not in the same echelon with the rest of the stable, and it shows. However, he (or she - this role is frequently filled by a female character) does _something_ that the stable finds useful, and so his fortunes rise with the team's. His role may be anything from the Tagalong Kid, to Honorary True Companion, to The Sixth Ranger. Often, he will act radically different from the rest of the stable to lend flavor to the group. The more Hanger-Ons a stable has, the less likely any individual Hanger-On is to be a major contributor to the stable's success. This can also lead to a character getting a role that could be described as "Hanger-On Elite", promoting the Point Man to a full inner circle member as the Mook Lieutenant, designate two or three of the followers as the Point Man's B-Team and the rest as regular Hanger-On's.
+
+Note that most Power Stables are heels; it's not impossible for faces to form a stable, of course, but generally faces don't seek power to the degree that heels do; thus most face stables tend to be either gimmick stables or families. If they do form a Power Stable, it's generally because the promotion is so heavily factionalized or an already-existing heel stable is so dominant at the moment that grouping together is the only way to level the playing field, or because the stable itself has existed for so long that it's actually built up a legacy of greatness, rather than backbiting or infighting (see: the later incarnations of the Four Horsemen).
+
+Compare Five-Man Band, Power Trio, Legion of Doom and Opposing Sports Team.
+
+___
+
+## Power Stable Index
+
+This list is for groups with four or more wrestlers. For duos, check Tag Team. For trios, check Power Trio.
+
+-   Aces And Eights
+-   The Authority
+-   Azteca Underground
+-   The Beautiful People
+-   Blackpool Combat Club
+-   Damage CTRL
+-   Die Bruderschaft des Kreuzes
+-   Bullet Club
+-   CHAOS
+-   The Corporation
+-   Contra Unit
+-   The Dangerous Alliance
+-   The Dark Order
+-   D-Generation X (Both Mark-1 and DX Army incarnations)
+-   The Dudley Boys (ECW incarnation)
+-   Dungeon of Doom
+-   Evolution
+-   Fortune
+-   The Four Horsemen
+-   House of Black
+-   The Hurt Business
+-   Inner Circle
+-   Jericho Appreciation Society
+-   The J.O.B. Squad
+-   The Judgment Day
+-   The Kings of Wrestling (grew to a power stable in CHIKARA)
+-   The Kliq
+-   Los Ingobernables de Japon
+-   The Midnight Express
+-   Ministry of Darkness
+-   The Nation of Domination
+-   New World Order
+-   The Nexus
+-   The Oddities
+-   The Pinnacle
+-   Promociones Dorado
+-   Raven's Nest
+-   Right to Censor
+-   SAnitY
+-   Suzuki-gun
+-   Taguchi Japan
+-   The Undisputed Era
+-   The United Empire
+-   The Varsity Club
+-   The Wyatt Family
+
+___
+
+## Examples
+
+NWA/WCW
+
+-   The Trope Codifier would be the original Four Horsemen (1985-1991):
+    -   The Centerpiece: Ric Flair
+    -   The Heir Apparent: Tully Blanchard, Barry Windham
+        -   For a time Sting replaced Tully Blanchard, but was excommunicated for accepting a World Title match against Ric Flair.
+    -   The Enforcer: Arn Anderson, the Trope Namer for this role
+    -   The Muscle: Ole Anderson, Lex Luger, Barry Windham, Sid Vicious
+    -   The Manager: J.J. Dillon
+-   The Four Horsemen (1995)
+    -   The Centerpiece: Ric Flair
+    -   The Heir Apparent: Brian Pillman
+    -   The Enforcer: Arn Anderson
+    -   The Muscle: Chris Benoit
+-   The Four Horsemen (1996-1997)
+    -   The Centerpiece: Ric Flair
+    -   The Heir Apparent: Chris Benoit
+    -   The Enforcer: Arn Anderson (this "spot" infamously given to nWo mole Curt Hennig upon Anderson's retirement)
+    -   The Muscle: Steve "Mongo" McMichael
+    -   The Managers: Miss Elizabeth, Woman, and "The Queen of WCW" Debra McMichael, an entourage of women that were in individual relationships with Flair, Benoit, and Mongo respectively.
+    -   The Hanger-On: Jeff Jarrett, though he did end up stealing Debra away from Mongo when he finally got kicked to the curb.
+-   The Four Horsemen (1998-1999)
+    -   The Centerpiece: Ric Flair
+    -   The Heir Apparent: Chris Benoit
+    -   The Enforcer: Dean Malenko
+    -   The Muscle: Steve "Mongo" McMichael
+    -   The Manager: Arn Anderson
+    -   The Hanger-On: David Flair
+-   The Fabulous Freebirds:
+    -   The Centerpiece: Michael P.S. Hayes
+    -   The Enforcer/The Muscle: Terry "Bam Bam" Gordy
+    -   The Point Man: Buddy Roberts
+    -   The Hanger-on: Jimmy Garvin
+-   Skyscrapers
+    -   The Manager: Teddy Long
+    -   The Centerpiece: Dan Spivey
+    -   The Heir Apparent: Mean Mark
+    -   The Enforcer: Sid Vicious
+    -   The Point Man: Masked Skyscraper
+-   J-Tex Corporation
+    -   The Centerpiece / The Manager: "Playboy" Gary Hart. He didn't wrestle, but wanted it known that the stable was about _him_.
+    -   The Heir Apparent: The Great Muta
+    -   The Enforcer: "Mad Dog" Buzz Sawyer
+    -   The Muscle: The Dragonmaster
+-   The Dangerous Alliance
+    -   The Centerpiece: Rick Rude
+    -   The Heir Apparent: "Stunning" Steve Austin
+    -   The Enforcer: Arn Anderson
+    -   The Muscle: Larry Zbyszko & Bobby Eaton
+    -   The Hanger-On: Madusa
+    -   The Manager: Paul E. Dangerously
+-   Team Hogan (Fall 95)
+    -   The Centerpiece: Hulk Hogan
+    -   The Heir Apparent: Sting
+    -   The Enforcer: Randy Savage
+    -   The Muscle: Lex Luger
+    -   The Manager: Jimmy Hart
+    -   The Hanger-On: The Renegade
+-   nWo Formation in 96:
+    -   The Centerpiece: "Hollywood" Hulk Hogan
+    -   The Heir Apparent: Scott Hall and Kevin Nash
+    -   The Enforcers: Scott Hall and Kevin Nash
+    -   The Muscle: The Giant
+    -   The Manager: Ted DiBiase
+-   nWo in 97
+    -   The Centerpiece: "Hollywood" Hulk Hogan
+    -   The Heir Apparent: Curt Hennig
+    -   The Enforcer: Randy Savage
+    -   The Muscle: The Outsiders: Kevin Nash and Scott Hall
+    -   The Point Men: Syxx & Scott Norton. <sup>note&nbsp;</sup> 
+    -   The Manager: Eric Bischoff
+    -   The Hangers-On: Buff Bagwell, Mr. Wallstreet, Big Bubba Rogers, K-Dogg, Masahiro Chono, The Great Muta, Rick Rude, Elizabeth, Nick Patrick, Kyle Petty, Dennis Rodman
+    -   The Tag Along Kid: Vincent. Yes, even the non-wrestlers and assorted celebrities associated with the nWo outranked poor Vincent.
+-   Raven's Flock
+    -   The Centerpiece: Raven
+    -   The Enforcer: Sick Boy at first. When Kidman started getting popular, he was promoted to Enforcer and Sick Boy was demoted to Hanger-On.
+    -   The Muscle: Initially Hammer, replaced by Reese
+    -   The Hanger On: Riggs, Lodi, Stevie Richards, Kidman at first, later Sick Boy
+    -   The Heir Apparent: Originally Saturn (AKA Perry Saturn), when he left the group the spot was vacant for a bit, then Horace (who had Starscreamish tendencies) joined and got the spot. Towards the very end, Horace got demoted and Kanyon joined and got the spot.
+-   Misfits in Action
+    -   The Centerpiece: Hugh Morrus (General Rection) (AKA WWE's Bill DeMott).
+        -   For a time, Booker T joined the stable (as "G.I. Bro", one of his old indy personas), in order for some of his Main Eventer mojo to rub off on them, temporarily taking the role of Centerpiece. This was _very_ brief and he split off from the group after a few weeks.
+    -   The Heir Apparent: Lash LeRoux (Corporal Cajun); Gen. Rection, while Booker T was a part of the group.
+    -   The Enforcer: Chavo Guerrero Jr. (Lieutenant Loco)
+    -   The Muscle: Van Hammer (Major Stash), The Wall (Sergeant A-WOL)
+    -   The Hanger-On: Tylene Buck (Major Gunns)
+-   The First Family (WCW 2000)
+    -   The Centerpiece: Hugh Morrus
+    -   The Heir Apparent: Jerry Flynn
+    -   The Enforcer: Brian Knobbs
+    -   The Muscle: The Barbarian
+    -   The Manager: Jimmy Hart
+-   The Revolution:
+    -   The Centerpiece: Shane Douglas
+    -   The Heir Apparent: Chris Benoit
+    -   The Enforcer: Dean Malenko
+        -   The Enforcer/The Heir Apparent: When Benoit left
+    -   The Muscle: Perry Saturn & Asya
+-   The Filthy Animals:
+    -   The Centerpiece: Konnan
+    -   The Heir Apparent: Eddie Guerrero, Rey Mysterio
+    -   The Enforcer: Billy Kidman
+    -   The Point Men: Juventud Guerrera & Disqo
+    -   The Hanger-On: Torrie Wilson, Tygress
+-   Team Canada
+    -   The Centerpiece: Lance Storm
+    -   The Heir Apparent: Elix Skipper
+    -   The Enforcer: "Hacksaw" Jim Duggan
+    -   The Muscle: Mike Awesome
+    -   The Hanger-On: Major Gunns
+    -   The stable also include The Amazing French Canadians (Jacques Rougeau and Carl Ouelette), but they were only there for 1 and 3 shows respectively, not long enough for them to have a specific role in the group
+
+WWF/WWE
+
+-   The Heenan Family (1987-1988):
+    -   The Centerpiece: André the Giant
+    -   The Enforcer: Harley Race
+    -   The Heir Apparent: Paul Orndorff, later replaced by Rick Rude
+    -   The Muscle: King Kong Bundy, Hercules, The Islanders (Haku and Tama)
+    -   The Hangers-On: The Brain Busters (Arn Anderson and Tully Blanchard)
+    -   The Point Man: The Red Rooster
+-   The Heenan Family (1989-1990):
+    -   The Centerpiece: André the Giant, later Rick Rude after Andre left
+    -   The Heir Apparent: "Mr. Perfect" Curt Hennig
+    -   The Enforcer: Rick Rude, Haku
+    -   The Muscle: Haku, The Barbarian
+    -   The Point Man: Brooklyn Brawler, Arn Anderson, Tully Blanchard
+-   The (Original) Hart Foundation (1987-late winter 1988):
+    -   The Centerpiece: Honky Tonk Man
+    -   The Heir Apparent: Bret Hart
+    -   The Muscle and The Enforcer: Jim Neidhart
+    -   The Point Man: Danny Davis
+-   The New Hart Foundation:
+    -   The Centerpiece: Bret Hart
+    -   The Heir Apparent: Owen Hart
+    -   The Enforcer: Jim Neidhart
+    -   The Muscle: Davey Boy Smith
+    -   The Point Man: Brian Pillman
+-   D-Generation X
+    -   The original lineup:
+        -   The Centerpiece: Shawn Michaels
+        -   The Heir Apparent: Triple H
+        -   The Muscle: Chyna
+        -   The Manager: Rick Rude
+    -   The DX Army:
+        -   The Centerpiece: Triple H
+        -   The Heir Apparent: X-Pac
+        -   The Enforcers: The New Age Outlaws (Road Dogg, Billy Gunn)
+        -   The Muscle: Chyna
+-   The Nation of Domination:
+    -   Original lineup
+        -   The Centerpiece: Faarooq
+        -   The Heir Apparent: D'Lo Brown
+        -   The Enforcer: Savio Vega
+        -   The Muscle: Crush
+        -   The Hanger On: PG-13 (they were pretty much only there to rap The Nation's theme song; the one time Faarooq ordered them to wrestle, it was treated as an act of betrayal, and they got squashed)
+        -   The Manager: Clarence Mason
+    -   Gang Warz
+        -   The Centerpiece: Faarooq
+        -   The Heirs Apparent: Rocky Maivia and D'Lo Brown
+        -   The Enforcer: Kama Mustafa
+        -   The Muscle: Mark Henry
+    -   The Nation:
+        -   The Centerpiece: The Rock, Owen Hart (For a time, Owen Hart would be the co-leader of The Nation alongside the Rock).
+        -   The Heir Apparent: D'Lo Brown
+        -   The Enforcer: Kama Mustafa/The Godfather
+        -   The Muscle: Mark Henry
+-   The Corporation
+    -   The Centerpiece: The Rock
+    -   The Heir Apparent: Big Show<sup>note&nbsp;</sup> 
+    -   The Enforcer: The Big Bossman
+    -   The Muscle: Ken Shamrock, Kane, Mabel<sup>note&nbsp;</sup> 
+    -   The Point Man: Test
+    -   The Hangers-On: The Mean Street Posse (Joey Abs, Pete Gas and Rodney), The Stooges (Gerald Brisco, Pat Patterson and Sergeant Slaughter)
+    -   The Managers: Vince and Shane McMahon
+-   Ministry of Darkness
+    -   The Centerpiece: The Undertaker
+    -   The Enforcers: The Acolytes (Bradshaw & Faarooq
+    -   The Muscle: Viscera
+    -   The Point Man: Mideon
+    -   The Hangers-On: The Brood (Gangrel, Edge, & Christian)
+    -   The Manager: Paul Bearer
+-   The Corporate Ministry
+    -   The Centerpiece: The Undertaker
+    -   The Heir Apparent: Triple H
+    -   The Enforcer: The Big Boss Man, Chyna
+    -   The Muscle: Viscera
+    -   The Point Man: Mideon
+    -   The Hangers-On: The Mean Street Posse
+    -   The Managers: Vince and Shane McMahon
+-   The Union
+    -   The Centerpiece: Mankind
+    -   The Enforcer: Big Show
+    -   The Muscle: Ken Shamrock
+    -   The Heir Apparent: Test
+-   The Radicalz
+    -   The Centerpiece: Chris Benoit
+    -   The Enforcer/The Heir Apparent: Eddie Guerrero
+        -   The Manager: When he was injured
+        -   The Centerpiece: When they kicked Benoit out
+    -   The Point Man: Dean Malenko
+        -   The Enforcer: When they kicked Benoit out
+    -   The Muscle: Perry Saturn
+    -   The Hanger-On: Terri Runnels (2001 version)
+-   Right to Censor
+    -   The Centerpiece: Steven Richards
+    -   The Manager: Ivory
+    -   The Heir Apparent: Val Venis
+    -   The Enforcer: The Goodfather
+    -   The Muscle: Bull Buchanan
+-   The Alliance (the inner circle)
+    -   The Centerpiece: "Stone Cold" Steve Austin
+    -   The Heir Apparent: Rob Van Dam
+    -   The Enforcer/The Starscream: Kurt Angle
+    -   The Muscle: Booker T
+    -   The Managers: Shane and Stephanie McMahon, Paul Heyman
+-   The Un-Americans
+    -   The Centerpiece: Lance Storm
+    -   The Heir Apparent: Christian
+    -   The Enforcer: William Regal
+    -   The Muscle: Test
+-   Thuggin and Buggin Enterprises
+    -   The Manager: Theodore Long
+    -   The Centerpiece: Rodney Mack
+    -   The Heir Apparent: Mark Henry
+    -   The Enforcer: Chris Nowinski
+    -   The Hanger-On: Jazz
+-   Evolution:
+    -   The Centerpiece: Triple H
+    -   The Heir Apparent: Randy Orton, Batista (after Orton was kicked out)
+    -   The Enforcer: Ric Flair (usually doubles as The Manager as well)
+    -   The Muscle: Batista (initially)
+-   The Cabinet:
+    -   The Centerpiece: John "Bradshaw" Layfield
+    -   The Heir Apparent: "Chief of Staff" Orlando Jordan
+    -   The Muscle: "Secretaries of Defense" The Basham Brothers
+    -   The Manager: "Fixer" Jillian Hall
+    -   The Hanger-On: "Publicist" Amy Weber
+-   La Familia:
+    -   The Centerpiece: Edge
+    -   The Heirs Apparent: Curt Hawkins and Zack Ryder (they _think_ they are, anyway, though Edge tends to treat them more as Muscle or Hangers-On)
+    -   The Enforcer: Chavo Guerrero
+    -   The Muscle: Bam Neely
+    -   The Manager: Vickie Guerrero
+-   Legacy:
+    -   The Centerpiece: Randy Orton
+    -   The Point Man: Ted DiBiase Jr.
+    -   The Enforcer: Cody Rhodes (in retrospect became The Heir Apparent)
+    -   The Muscle: Manu
+-   Straight Edge Society
+    -   The Centerpiece: CM Punk
+    -   The Enforcer/The Muscle: Luke Gallows
+    -   The Point Man: Joseph Mercury
+    -   The Hanger-on: Serena
+-   The Nexus
+    -   The Centerpiece: Wade Barrett
+    -   The Heir Apparent/The Enforcer: Daniel Bryan at first, David Otunga
+    -   The Point Man: Justin Gabriel
+    -   The Muscle: Skip Sheffield & Heath Slater, Michael Tarver, John Cena (_unwillingly_)
+    -   The Hanger-On: Darren Young, Michael McGillicutty & Husky Harris
+-   The New Nexus
+    -   The Centerpiece: CM Punk
+    -   The Enforcer: David Otunga
+    -   The Muscle: Michael McGillicutty, Husky Harris, Mason Ryan
+-   The Corre
+    -   The Centerpiece: Wade Barrett
+    -   The Heir Apparent: Justin Gabriel
+    -   The Enforcer: Heath Slater
+    -   The Muscle: Ezekiel Jackson
+-   The Authority
+    -   The Centerpiece: Wrestling/Triple H
+    -   The Heir Apparent: Randy Orton (before he was replaced), Seth Rollins
+    -   The Enforcers: Randy Orton, The Shield (Seth Rollins, Dean Ambrose and Roman Reigns)
+    -   The Muscle: Big Show (temporarily and then he later reprises the role), The Shield (before being moved up)
+    -   The Manager: Stephanie McMahon, Kane
+-   The Wyatt Family
+    -   The Centerpiece: Bray Wyatt
+    -   The Enforcer: Luke Harper
+    -   The Point Man: Erick Rowan
+    -   The Muscle: Braun Strowman
+    -   The Hanger-On/Sixth Ranger Traitor: Daniel Bryan in 2013-2014, Randy Orton in 2016-2017
+-   The Undisputed Era
+    -   The Centerpiece: Adam Cole
+    -   The Heir Apparent: Roderick Strong (initially), Kyle O'Reilly (towards the end of the group's run)
+    -   The Enforcers: Bobby Fish, Kyle O'Reilly
+    -   The Hanger-On: Roderick Strong (alternates as The Enforcer and The Point-Man towards the end end of the group's run)
+-   SAnitY
+    -   The Centerpiece: Eric Young
+    -   The Heir Apparent: Nikki Cross
+    -   The Enforcer: Alexander Wolfe
+    -   The Muscle: Killian Dain
+-   The Bloodline
+    -   The Centerpiece: Roman Reigns
+    -   The Heir Apparent: Solo Sikoa (doubling as The Muscle)
+    -   The Enforcers: The Usos (with Jey having shades of The Heir Apparent)
+    -   The Manager: Paul Heyman
+    -   The Hanger-On: Sami Zayn
+-   Seth Rollins' unnamed faction
+    -   The Centerpiece: Seth Rollins
+    -   The Heir Apparent: Buddy Murphy
+    -   The Muscle: AOP
+    -   The Hanger-On: Austin Theory
+-   The Hurt Business
+    -   The Centerpiece: Bobby Lashley
+    -   The Heir Apparent: Cedric Alexander
+    -   The Enforcer: Shelton Benjamin
+    -   The Manager: MVP
+-   The Way
+    -   The Centerpiece: Johnny Gargano
+    -   The Heir Apparent: Candice LeRae
+    -   The Muscle: Austin Theory
+    -   The Hanger-On: Indi Hartwell
+-   Legado del Fantasma
+    -   The Centerpiece: Santos Escobar
+    -   The Heir Apparent: Raul Mendoza/Cruz del Toro
+    -   The Muscle: Joaquin Wilde
+    -   The Hanger-On: Elektra Lopez
+    -   The Manager: Zelina Vega
+-   Latino World Order
+    -   The Centerpiece: Rey Mysterio
+    -   The Heir Apparent: Santos Escobar
+    -   The Enforcer: Carlito
+    -   The Muscle: Cruz del Toro and Joaquin Wilde
+    -   The Manager: Zelina Vega
+-   The Diamond Mine
+    -   The Centerpiece: Roderick Strong
+    -   The Heir Apparent: Julius Creed
+    -   The Enforcers: Damon Kemp, Ivy Nile
+    -   The Muscle: Brutus Creed
+-   RETRIBUTION
+    -   The Centerpiece: Mustafa Ali
+    -   The Heir Apparent: T-BAR (Dominik Dijakovic)
+    -   The Enforcer: RECKONING (Mia Yim)
+    -   The Point Man: SLAPJACK (Shane Throne)
+    -   The Muscle: MACE (Dio Madden)
+-   The Judgment Day
+    -   The Centerpiece: Edge, then Finn Bálor, then Rhea Ripley
+    -   The Heir Apparent: Rhea Ripley, then Dominik Mysterio
+    -   The Enforcer: Finn Bálor
+    -   The Muscle: Damien Priest
+    -   The Hanger-On: JD McDonagh
+-   Damage CTRL
+    -   The Centerpiece: Bayley
+    -   The Heir Apparent: IYO SKY
+    -   The Hanger-On: Dakota Kai (acted as The Enforcer until her ACL injury, forcing her to be relegated as The Manager)
+    -   The Enforcer: Kairi Sane
+    -   The Muscle: Asuka.
+-   The Schism
+    -   The Centerpiece: Joe Gacy
+    -   The Heir Apparent: Ava Raine
+    -   The Muscle: The Dyad (Rip Fowler and Jagger Reid)
+-   The Meta-Four
+    -   The Centerpiece: Noam Dar
+    -   The Heir Apparent: Oro Mensah
+    -   The Hangers-On: Lash Legend and Jakara Jackson
+
+New Japan Pro-Wrestling
+
+-   Team 2000
+    -   The Centerpiece: Masahiro Chono
+    -   The Heir Apparent: Tencozy (Hiroyoshi Tenzan and Satoshi Kojima), Koji Kanemoto
+    -   The Enforcer: Don Frye, AKIRA, Scott Hall
+    -   The Muscle: Club 7 (Giant Singh and Giant Silva), Scott Norton
+    -   The Point Men: Mad Dogs (Tatsutoshi Goto and Michiyoshi Ohara), Jadō & Gedō
+    -   The Hanger-On: Super J
+-   Fighting Club G-EGGS
+    -   The Centerpiece: Yuji Nagata
+    -   The Heir Apparent: Manabu Nakanishi
+    -   The Enforcer: Brian Johnston
+    -   The Muscle: Yutaka Yoshie
+    -   The Point Man: Masakazu Fukuda
+-   BATT
+    -   The Centerpiece: Keiji Muto
+    -   The Heir Apparent: Shinjiro Otani
+    -   The Enforcer: Jinsei Shinzaki, Hiroshi Hase
+    -   The Muscle: Don Frye
+    -   The Point Man: Taiyo Kea
+-   Makai Club
+    -   The Centerpiece: Tadao Yasuda
+    -   The Heir Apparent: Kazunari Murakami, Bob Sapp
+    -   The Enforcer: Ken Shamrock
+    -   The Muscle: Ryushi Yanagisawa, Dai Majin
+    -   The Point Men: The Makai numbers
+    -   The Manager: Kantaro Hoshino
+    -   The Hangers-On: The Makai Majo Gundan
+-   Team JAPAN
+    -   The Centerpiece: Yuji Nagata
+    -   The Heir Apparent: Manabu Nakanishi
+    -   The Enforcer: Kendo Kashin
+    -   The Muscle: Kazuyuki Fujita
+-   Great Bash Heel
+    -   The Centerpiece: Hiroyoshi Tenzan, later Togi Makabe
+    -   The Heir Apparent: Togi Makabe, later Toru Yano
+    -   The Enforcer: Shiro Koshinaka, Jadō & Gedō
+    -   The Muscle: Toru Yano, Giant Bernard, Rick Fuller
+    -   The Point Men: Black Tiger, Karl Anderson, Val Venis
+    -   The Hangers-On: Tomohiro Ishii, Tomoaki Honma
+-   CHAOS (Nakamura era)
+    -   The Centerpiece: Shinsuke Nakamura
+    -   The Heir Apparent: Kazuchika Okada
+    -   The Enforcer: Kazushi Sakuraba, Tomohiro Ishii, Gedo and Jado
+    -   The Muscle: Rocky Romero, Giant Bernard
+    -   The Point Men: Baretta, Karl Anderson
+    -   The Hanger-On: YOSHI-HASHI
+-   CHAOS (Okada era)
+    -   The Centerpiece: Kazuchika Okada
+    -   The Heir Apparent: Hirooki Goto
+    -   The Enforcer: Kazushi Sakuraba, Tomohiro Ishii, Toru Yano, Gedo and Jado
+    -   The Muscle: Rocky Romero, Baretta, Chuckie T.
+    -   The Point Men: Jay and Mark Briscoe
+    -   The Hangers-On: Will Ospreay, YOSHI-HASHI, SHO and YOH, Jay White
+-   BULLET CLUB (Devitt era)
+    -   The Centerpiece: Prince Devitt
+    -   The Heir Apparent: Karl Anderson
+    -   The Enforcer: Tama Tonga
+    -   The Muscle: Doc Gallows, Bad Luck Fale
+    -   The Point Men: The Young Bucks
+-   BULLET CLUB (Styles era)
+    -   The Centerpiece: Karl Anderson
+    -   The Heir Apparent: AJ Styles
+    -   The Enforcers: Yujiro Takahashi, Kenny Omega
+    -   The Muscle: Doc Gallows, Bad Luck Fale
+    -   The Point Men: The Young Bucks, Tama Tonga
+    -   The Hangers-On: Cody Hall, Amber O'Neal
+-   BULLET CLUB (Omega era)
+    -   The Centerpiece: Kenny Omega
+    -   The Heir Apparent: Adam Cole, Cody Rhodes
+    -   The Enforcers: The Young Bucks, Yujiro Takahashi
+    -   The Muscle: Bad Luck Fale, Guerrillas of Destiny
+    -   The Point Men: Marty Scurll, Adam Page
+    -   The Hangers-On: Cody Hall, Chase Owens, Bone Soldier, Stephen Amell
+-   BULLET CLUB (White era)
+    -   The Centerpiece: Jay White
+    -   The Heir Apparent: KENTA, EVIL
+    -   The Enforcers: Tama Tonga, Tanga Loa, Taiji Ishimori, El Phantasmo, Dick Togo
+    -   The Muscle: Bad Luck Fale, Hikuleo
+    -   The Point Men: Jadō & Gedō, Chris Bey
+    -   The Hangers-On: Yujiro Takahashi, Chase Owens, Robbie Eagles, Gino Gambino, Ace Austin, Juice Robinson
+-   BULLET CLUB (Finlay era)
+    -   The Centerpiece: David Finlay
+    -   The Heir Apparent: KENTA, EVIL
+    -   The Enforcers: Gedo, Taiji Ishimori, Clark Connors, Dick Togo
+    -   The Muscle: Bad Luck Fale
+    -   The Point Men: Alex Coughlin, Gabriel Kidd, Chris Bey
+    -   The Hangers-On: Yujiro Takahashi, Chase Owens, Ace Austin, Sho
+-   Los Ingobernables de Japon
+    -   The Centerpiece: Tetsuya Naito
+    -   The Heir Apparent: Hiromu Takahashi
+    -   The Enforcers: SANADA, EVIL, Shingo Takagi
+    -   The Point Man: BUSHI
+    -   The Hangers On: Truth Martini, Jay Lethal
+-   Suzuki-gun
+    -   The Centerpiece: Minoru Suzuki
+    -   The Heir Apparent: Taichi
+    -   The Enforcers: Takashi Iizuka, Taka Michinoku
+    -   The Muscle: Davey Boy Smith Jr., Lance Archer, Yoshinobu Kanemaru
+    -   The Point Men: Zack Sabre Jr., El Desperado, Douki
+-   Taguchi Japan
+    -   The Centerpiece: Ryusuke Taguchi
+    -   The Heir Apparent: Hiroshi Tanahashi
+    -   The Enforcer: Manabu Nakanishi
+    -   The Muscle: Michael Elgin, David Finlay
+    -   The Point Men: Ricochet, KUSHIDA
+    -   The Hangers-On: Dragon Lee, Juice Robinson
+-   TMDK (The Mighty Don't Kneel)
+    -   The Centerpieces: Mikey Nicholls and Shane Haste
+    -   The Heir Apparent: Zack Sabre Jr.
+    -   The Enforcer, The Muscle: Bad Dude Tito
+    -   The Point Men: Robbie Eagles, Kosei Fujita
+
+All Japan Pro Wrestling
+
+-   RO&D
+    -   The Centerpiece: Taka Michinoku
+    -   The Heir Apparent: Taiyo Kea, The Gladiator
+    -   The Enforcer: Rico Constantino, Masahiro Chono
+    -   The Muscle: Jamal, RO'Z, Gigantes, Matt Morgan
+    -   The Point Men: Bull Buchanan and D'Lo Brown
+    -   The Hangers-On: PSYCHO, BLUE-K
+-   Voodoo Murders
+    -   The Centerpiece/The Manager: TARU
+    -   The Heir Apparent: Shuji Kondo, Kohei Suwama, Satoshi Kojima
+    -   The Enforcer: brother YASSHI, Silver King, Minoru, MAZADA
+    -   The Muscle: Giant Bernard, Chuck Palumbo and Johnny Stamboli, RO'Z, Big Daddy Voodoo
+    -   The Point Men: Bull Buchanan and D'Lo Brown, ZODIAC, Nobukazu Hirai, Toshizo, KENSO, KONO
+    -   The Hangers-On: Voodoo Mask, Naoki Tanizaki
+-   Partisan Forces
+    -   The Centerpiece: Minoru Suzuki
+    -   The Heir Apparent: Masakatsu Funaki
+    -   The Enforcer: Taiyo Kea
+    -   The Muscle: Akebono
+-   New Generation Force
+    -   The Centerpiece: Kohei Suwama
+    -   The Heir Apparent: Manabu Soya, Seiya Sanada
+    -   The Enforcer: Masayuki Kono
+    -   The Muscle: Ryota Hama
+-   Dark Kingdom
+    -   The Centerpiece: KENSO
+    -   The Heir Apparent: Mitsuya Nagai, Kengo Mashimo
+    -   The Enforcer: Takeshi Minamino, Kenichiro Arai
+    -   The Muscle: Bear Fukuda
+    -   The Point Men: D'Lo Brown and Bambi Killer
+
+ECW
+
+-   The Triple Threat:
+    -   The Centerpiece: Shane Douglas
+    -   The Heir Apparent: Chris Benoit, Chris Candido
+    -   The Enforcer: Dean Malenko, Lance Storm
+    -   The Muscle: Brian Lee, Bam Bam Bigelow
+    -   The Manager: Francine, Rick Rude, Tammy Sytch (AKA WWE's Sunny)
+-   Raven's Nest:
+    -   The Centerpiece: Raven
+    -   The Enforcer: Cactus Jack, The Dudley Family
+    -   The Muscle: Brian Lee, The Bruise Brothers Don and Ron
+    -   The Point Man: Stevie Richards
+    -   The Manager: Beulah McGillicutty, Kimona Wanalaya
+-   The Dudley Family:
+    -   The Centerpiece: Dudley Dudley, Bubba Ray Dudley & D-Von Dudley
+    -   The Muscle: Big Dick Dudley
+    -   The Hanger-On: Lil' Snot Dudley, Dances With Dudley, Chubby Dudley
+    -   The Manager: Sign Guy Dudley & "Studley Dudley" Joel Gertner
+
+Toryumon/Dragon Gate
+
+-   Crazy MAX (original lineup)
+    -   The Centerpiece: CIMA
+    -   The Heir Apparent: SUWA
+    -   The Muscle: Don Fujii
+    -   The Enforcer/The Manager: TARU
+-   Do FIXER (original lineup)
+    -   The Centerpiece: Magnum TOKYO
+    -   The Heir Apparent: Ryo Saito, Genki Horiguchi
+    -   The Enforcer: K-Ness
+    -   The Muscle: Susumu Yokosuka
+-   M2K (original lineup)
+    -   The Centerpiece: Masaaki Mochizuki
+    -   The Heir Apparent: Susumu Mochizuki
+    -   The Enforcer: Darkness Dragon
+    -   The Muscle: Yasushi Kanda
+    -   The Hanger-On: Chocoflake K-ICHI, Genki Horiguchi
+-   The Italian Connection
+    -   The Centerpiece: Milano Collection A.T.
+    -   The Heir Apparent: YOSSINO
+    -   The Enforcer: brother YASSINI
+    -   The Muscle: Condotti Shuji
+    -   The Point Man: Bakery/Pescatore Yagi
+    -   The Hanger-On: Berlinetta Boxer
+-   Hagure Gundam/Aagan Iisou
+    -   The Centerpiece: Masaaki Mochizuki in Hagure; he and Shuji Kondo couldn't agree on who was the centerpiece. Kondo got the stable to back him, kicked Mochi out and renamed it Aagan Iisou.
+    -   The Heir Apparent: Shuji Kondo in Hagure Gundam, Takuya Sugawara in Aagan Iisou
+    -   The Enforcer: brother YASSHI
+    -   The Muscle: Toru Owashi
+    -   The Point Man: Shogo Takagi
+-   Los Salseros Japoneses
+    -   The Centerpiece: Takeshi Minamino
+    -   The Heir Apparent: Pineapple Hanai
+    -   The Enforcer: Kesen Numajiro (after their alliance in Michinoku Pro Wrestling)
+    -   The Muscle: Mango Fukuda
+    -   The Point Men: Passion Hasegawa, Banana Senga
+-   Tokyo Gurentai
+    -   The Centerpiece: NOSAWA Rongai
+    -   The Heir Apparent: Minoru Suzuki (unofficial member)
+    -   The Enforcer: MAZADA, FUJITA
+    -   The Muscle: TAKEMURA, Yoshihiro Takayama (unofficial member)
+    -   The Hanger-On: KIKUZAWA
+-   Blood Generation
+    -   The Centerpiece: CIMA, Magnitude Kishiwada (yes, Blood Gen had two Centerpieces)
+    -   The Heir Apparent: Naruki Doi, Gamma
+    -   The Enforcer: Don Fuji
+    -   The Muscle: Shingo Takagi, Masato Yoshino
+-   Typhoon
+    -   The Centerpiece: CIMA
+    -   The Heir Apparent: Susumu Yokosuka
+    -   The Enforcers: Dragon Kid, Matt Sydal
+    -   The Muscle: BxB Hulk, Shingo Takagi, PAC
+    -   The Point Men: Ryo "Jimmy" Saito, Anthony W. Mori
+-   Tozawa-Juku
+    -   The Centerpiece: Akira Tozawa. In a subversion he was The Load, and the centerpiece In Name Only.
+    -   The Heir Apparent: Takayuki Mori until he "graduated", and then Taku Iwasa
+    -   The Enforcer: Keni'chiro Arai, who was acknowledged as the real leader of the stable
+    -   The Muscle: Originally Taku Iwasa. After Mori left, the spot was vacant except when El Generico was in town.
+    -   The Point Man: Shinobu
+    -   The Hanger On: Yuki Ono.
+-   Mad Blankey
+    -   The Centerpiece: YAMATO (originally Akira Tozawa, he got kicked out for being too Facey)
+    -   The Heir Apparent: Naruki Doi
+    -   The Enforcer: BxB Hulk until he ragequit the stable.
+    -   The Muscle: Cyber Kong, Uhaa Nation
+    -   The Point Man: Kzy
+    -   The Hangers On: Mondai Ryu, Christina Von Eerie
+-   Premier Athlete Brand
+    -   The Centerpiece: Anthony Nese
+    -   The Heir Apparent: Trent Baretta
+    -   The Enforcer: Mr. A
+    -   The Muscle: Brian Cage, Andrea
+    -   The Manager: Su Yung
+    -   The Point Man: Caleb Konley(DG branch only)
+-   The Jimmyz
+    -   The Centerpiece: Jimmy Susumu
+    -   The Heir Apparent: Jimmy Kagetora, pre-injury. When he eventually returned he ended up back in the midcard.
+    -   The Enforcer: Ryo "Jimmy" Saito, Jimmy Kagetora post-injury
+    -   The Muscle: Jimmy Kanda
+    -   The Point Man: Jimmy K-Ness J.K.S, Mr. Quu Quu Naoki Tanizaki Toyonaka Dolphin
+    -   The Heart: Genki Horiguchi H.A.Gee.Mee (the spiritual leader of the stable but far from the most formidable member)
+
+CZW
+
+-   BLK-OUT (CZW Branch)
+    -   The Centerpeice: Ruckus
+    -   The Heir Apparent: Eddie Kingston
+    -   The Enforcer: Sabian
+    -   The Muscle: Joker
+-   Drew Gulak's Campaign For A Better Combat Zone
+    -   The Centerpiece: Drew Gulak
+    -   The Heir Apparent: Alexander James
+    -   The Enforcer: Full Price Dewey Donovan
+    -   The Manager: Miss Kimber Lee
+    -   The Muscle: Mr. Tofiga
+-   The Front
+    -   The Centerpiece: Sozio
+    -   The Heir Apparent: Nicholas Kaye
+    -   The Enforcer: Biff Busick
+    -   The Muscle: Eric Corvis, Trooper Audubon and Ace Delic
+-   Ohio Is for Killers
+    -   The Centerpieces: Irish Airborne: Dave and Jake Crist
+    -   The Heir Apparent: Alex Colon
+    -   The Enforcers: Sami Callihan, Nevaeh
+    -   The Muscle: Gerome Philips, Jon Murray
+-   The Forgotten Ones
+    -   The Centerpiece: Drew Blood
+    -   The Heir Apparent: Ron Mathis
+    -   The Enforcer: Rory Mondo
+    -   The Muscle: The Bulldozer Matt Tremont
+-   The Nation of Intoxication
+    -   The Centerpiece: Devon Moore
+    -   The Heir Apparent: Connor Claxton
+    -   The Enforcer: Lucky 13
+    -   The Muscle: Danny Havoc
+-   Scarlet And Graves
+    -   The Centerpiece: Dave Crist
+    -   The Heir Apparent: Zachary Wentz
+    -   The Point Man: Dezmond Xavier
+    -   The Managers: JT Davidson
+    -   The Hanger On: Brittany Blake
+
+Ring of Honor
+
+-   The Christopher Street Connection (ROH Branch)
+    -   The Centerpieces: Mace and Buff E
+    -   The Heir Apparent: Japanese Pool Boy
+    -   The Enforcers: Allison Danger and Ariel
+    -   The Managers: Fun Athletic Guy and Jailbait
+-   The Prophecy
+    -   The Enforcer: Christopher Daniels
+    -   The Centerpiece: Xavier (Daniels ran the show but Xavier was the world champion)
+    -   The Heir Apparent: Donovan Morgan
+    -   The Manager: Simply Luscious, later Allison Danger
+    -   The Point Man: Mark Briscoe, later Dan Maff
+    -   The Hangers-On: Jim Cornette and Samoa Joe
+-   The Second City Saints
+    -   The Centerpiece: CM Punk
+    -   The Heir Apparent: Colt Cabana
+    -   The Enforcer: Ace Steel
+    -   The Managers: Lucy and Traci Brooks
+-   The Group
+    -   The Centerpiece: Mr. Wrestling Steve Corino
+    -   The Heir Apparent: Samoa Joe
+    -   The Enforcer: Michael Shane
+    -   The Manager: Simply Luscious
+    -   The Muscle: CW Anderson
+-   Special K
+    -   The Centerpieces: Dixie and Izzy vs Cheech and Cloudy
+    -   The Heir Apparent: Hydro
+    -   The Enforcer: Mikey Whipwreck
+    -   The Muscle: Abyss, Slugger
+    -   The Point Men: Lit, Mellow, Yeyo, Krazy K, Deranged, Hijinx, Angel Dust
+    -   The Managers: Becky Bayless vs Lacey
+    -   The Hangers-On: Slim J, Brian XL, Dana "Jailbait" Dameson, Jody Fleisch, Joey Matthews
+-   The Carnage Crew
+    -   The Centerpiece: Loc
+    -   The Heir Apparent: Masada
+    -   The Enforcer: Justin Credible
+    -   The Muscle: DeVito
+-   The Rottweilers (First incarnation)
+    -   The Centerpiece: Homicide
+    -   The Heir Apparent: Slugger
+    -   The Manager: Julius Smokes
+    -   The Muscle: Bison
+    -   The Point Men: Grim Reefer and Benny Blanco
+    -   The Hanger-On: Joker
+-   Generation Next
+    -   The Centerpiece: Alex Shelley, later replaced by Jack Evans
+    -   The Heir Apparent: Jack Evans, then Austin Aries
+    -   The Enforcer: Roderick Strong
+    -   The Point Man: Matt Sydal
+-   The Embassy (First incarnation)
+    -   The Managers: Prince Nana first and foremost, Angel Williams too for a while, then Daizee Haze
+    -   The Centerpiece: Jimmy Rave
+    -   The Heir Apparent: Alex Shelley
+    -   The Muscle: Abyss, The Outcast Killaz: Diablo Santiago and Oman Tortuga
+    -   The Enforcer: Xavier
+    -   The Point Men: Fast Eddie, Sal Rinauro, Mike Kruel, John Walters, Josh Daniels
+    -   The Hangers-On: Jade Chung, Puma
+-   The Rottweilers (Second incarnation)
+    -   The Centerpiece: Homicide
+    -   The Heir Apparent: Low Ki
+    -   The Manager: Julius Smokes
+    -   The Muscle: The Havana Pitbulls: Ricky Reyes and Rocky Romero
+    -   The Hangers-On: B-Boy and Monsta Mack
+-   Sweet 'n' Sour Inc. (First ROH incarnation)
+    -   The Manager: Larry Sweeney
+    -   The Centerpiece: Chris Hero
+    -   The Heir Apparent: Matt Sydal
+    -   The Enforcer: Sara Del Rey
+    -   The Muscle: Tank Toland
+    -   The Hanger-On: Bobby Dempsey
+-   Age of teh Fall (ROH Branch)
+    -   The Centerpiece: Jimmy Jacobs
+    -   The Heir Apparent: Tyler Black
+    -   The Enforcers: Necro Butcher, Delirious
+    -   The Muscle: Brodie Lee
+    -   The Manager: The Lovely Lacey
+    -   The Point Man: MsChif
+    -   The Hangers-On: Joey Matthews, Zack Gowen
+-   The Vulture Squad
+    -   The Centerpiece: Jack Evans
+    -   The Manager: Julius Smokes
+    -   The Enforcer: Jigsaw
+    -   The Muscle: Ruckus
+    -   The Point Man: Mercedes Martinez
+-   The Kings of Wrestling (ROH Branch)
+    -   The Centerpiece: Chris Hero
+    -   The Heir Apparent: Claudio Castagnoli
+    -   The Enforcer: Sara Del Rey
+    -   The Manager: Shane Hagadorn
+-   Sweet 'n' Sour Inc (Second ROH incarnation)
+    -   The Manager: Larry Sweeney
+    -   The Centerpiece: Adam Pearce
+    -   The Heirs Apparent: Chris Hero, The American Wolves:Davey Richards and Eddie Edwards
+    -   The Enforcer: Sara Del Rey
+    -   The Muscle: Tank Toland and Go Shiozaki
+    -   The Point Men: Bobby Dempsey, Brent Albright
+    -   The Hanger-On: Shane Hagadorn
+-   The Embassy (Second incarnation)
+    -   The Manager: Prince Nana
+    -   The Centerpiece: Necro Butcher
+    -   The Heir Apparent: Joey Ryan
+    -   The Enforcer: Claudio Castagnoli
+    -   The Muscle: Bison Smith, Erick Stevens
+    -   The Point Men: Shawn Daivari, Mr. Ernesto Osiris
+-   The House of Truth (first ROH incarnation)
+    -   The Managers: Truth Martini, his Hoopla Hotties: Scarlett Bordeaux, Valerie Malone, Kasey Ray, Seleziya Sparx
+    -   The Centerpiece: Roderick Strong, later Matt Taven
+    -   The Enforcer: Michael Elgin, Christopher Daniels
+    -   The Muscle: Rhino
+    -   The Pointmen: Christin Able, Josh Raymond
+    -   The Hanger-On: Zach Gowen
+-   The Embassy (Third incarnation)
+    -   The Managers: Prince Nana, RD Evans
+    -   The Centerpiece: Tommaso Ciampa
+    -   The Heir Apparent: Mr. Ernesto Osiris
+    -   The Muscle: Rhino
+    -   The Hanger-On: Mia Yim
+-   S.C.U.M.
+    -   The Centerpiece: Kevin Steen
+    -   The Heir Apparent: Matt Hardy (eventually ousted Steen and took over)
+    -   The Enforcers: Jimmy Jacobs, Steve Corino
+    -   The Muscle: Rhino, Cliff Compton
+    -   The Point Men: Jimmy Rave, Rhett Titus
+-   The Decade (First incarnation)
+    -   The Centerpiece: Jimmy Jacobs
+    -   The Heir Apparent: TaDarius Thomas
+    -   The Enforcer: Roderick Strong
+    -   The Muscle: B.J. Whitmer
+    -   The Point Man: Adam Page
+    -   The Hanger-On: Adam Pearce
+-   The Kingdom (First incarnation)
+    -   The Centerpiece: Adam Cole
+    -   The Heir Apparent: Mike Bennett
+    -   The Enforcer: Matt Hardy
+    -   The Manager: Maria Kanellis
+    -   The Point Man: Matt Taven
+-   The Kingdom (Second incarnation)
+    -   The Centerpiece: Matt Taven
+    -   The Heir Apparent: Vinny Marseglia
+    -   The Point Man: TK O'Ryan
+-   The House of Truth (Second ROH incarnation)
+    -   The Managers: Truth Martini, Seleziya Sparx, Taeler Hendrix
+    -   The Centerpiece: Jay Lethal
+    -   The Enforcer: J. Diesel
+    -   The Muscle: Donovan Dijak
+-   The Decade (Second incarnation)
+    -   The Centerpiece: B.J. Whitmer
+    -   The Heir Apparent: Adam Page
+    -   The Point Man: Colby Corino
+    -   The Hanger-On: Kelly Klein
+-   Search & Destroy
+    -   The Centerpieces: The Motor City Machine Guns: Alex Shelley and Chris Sabin
+    -   The Heir Apparent: Jay White
+    -   The Enforcer: Jonathan Gresham
+    -   The Muscle: Donovan Dijak
+    -   The Point Man: Lio Rush
+-   The Rebellion
+    -   The Centerpieces: The All Night Express: Kenny King and Rhett Titus
+    -   The Enforcer: Caprice Coleman
+    -   The Muscle: Shane Taylor
+-   The Allüre
+    -   The Centerpiece: Angelina Love
+    -   The Heir Apparent: Mandy Leon
+    -   The Manager: Velvet Sky
+-   Villain Enterprises
+    -   The Centerpiece: Marty Scurll
+    -   The Heir Apparent: Flip Gordon
+    -   The Enforcer: Brody King
+    -   The Muscle: PCO
+-   Lifeblood
+    -   The Centerpiece: Juice Robinson
+    -   The Heir Apparent: David Finlay
+    -   The Enforcer: Mark Haskins and Bandido
+    -   The Muscle: Tracy Williams
+    -   The Point Man: Tenille Dashwood
+-   The Righteous
+    -   The Centerpiece: Vincent (previously known as Vinny Marseglia)
+    -   The Enforcer: Bateman
+    -   The Muscle: Dutch
+    -   The Hanger-On: Vita Von Starr
+-   Shane Taylor Enterprises
+    -   The Centerpiece: Shane Taylor
+    -   The Heir Apparent: O'Shay Edwards
+    -   The Enforcers: Moses and Kaun
+-   La Facción Ingobernable
+    -   The Centerpiece: Rush
+    -   The Heir Apparent: Dragon Lee
+    -   The Enforcer: Kenny King
+    -   The Muscle: Bestia del Ring
+    -   The Manager: Amy Rose
+-   The Foundation
+    -   The Centerpieces: Jonathan Gresham and Jay Lethal
+    -   The Heir Apparent: Josh Woods
+    -   The Enforcer: Rhett Titus
+    -   The Point Man: Tracy Williams
+-   VLNCE UNLTD
+    -   The Centerpiece: Brody King
+    -   The Heir Apparent: Tony Deppen
+    -   The Enforcers: Homicide and Chris Dickinson
+
+TNA/Impact Wrestling
+
+-   The Gathering (First incarnation)
+    -   The Centerpiece: Raven
+    -   The Heir Apparent: CM Punk
+    -   The Point Men: Julio Dinero and Alexis Laree
+-   Planet Jarrett:
+    -   The Centerpiece: Jeff Jarrett
+    -   The Enforcers: America's Most Wanted: Chris Harris and James Storm, Scott Steiner
+    -   The Muscles: Monty Brown, Abyss, Rhino
+    -   The Hangers-On: Team Canada, Gail Kim, Jackie Gayda
+    -   The Managers: Scott D'Amore, James Mitchell
+-   Team Canada
+    -   The Centerpiece: Petey Williams
+    -   The Enforcer: Bobby Roode
+    -   The Muscle: A-1
+    -   The Point Man: Eric Young (played with during the final months of the stable's existence)
+    -   The Manager: Scott D'Amore
+    -   The Hangers-On: Tyson Dux (only appeared during World X Cups), Johnny Devine
+-   Christian's Coalition / The Angle Alliance:
+    -   The Centerpiece: Christian Cage (Coalition) / Kurt Angle (Alliance)
+    -   The Heir Apparent: AJ Styles
+    -   The Enforcer: Tomko (usually), Robert Roode (in the on- phases of his on-again, off-again role with the stable)
+    -   The Muscle: Tomko (whenever Roode worked with the stable), Scott Steiner and Abyss (Team Cage, Lockdown)
+    -   The Manager: James Mitchell, Karen Angle (Alliance only)
+-   The Main Event Mafia:
+    -   The Centerpiece: Sting
+    -   The Heir Apparent: Kurt Angle
+    -   The Enforcers: Booker T, Kevin Nash
+    -   The Muscle: Scott Steiner
+    -   The Hanger-On: Sharmell
+-   The Main Event Mafia v2:
+    -   The Centerpiece: Kurt Angle
+    -   The Heir Apparent: Booker T
+    -   The Enforcers: The Outsiders: Kevin Nash, Scott Steiner
+    -   The Muscle: Samoa Joe
+    -   The Hangers-On: Sharmell, Jenna Morasca, Taz
+-   The TNA Frontline:
+    -   The Centerpieces: Samoa Joe, AJ Styles
+    -   The Heirs Apparent: Jay Lethal, Consequences Creed
+    -   The Enforcers: Rhyno, Team 3-D
+    -   The Muscle: The Motor City Machineguns: Chris Sabin and Alex Shelley, O.D.B.
+    -   The Hanger-On: Eric Young
+-   World Elite
+    -   The Centerpiece: Eric Young
+    -   The Heir Apparent: Sheik Abdul Bashir
+    -   The Muscle: The British Invasion: Brutus Magnus, Douglas Williams and Rob Terry
+    -   The Point Man: Kiyoshi
+-   The Beautiful People
+    -   The Centerpiece: Angelina Love
+    -   The Enforcer: Velvet Sky
+    -   The Point Man: Madison Rayne
+    -   The Hangers-On: Cute Kip, Lacey Von Erich
+-   The Kongtourage
+    -   The Centerpiece: Awesome Kong
+    -   The Enforcer: Raisha Saeed
+    -   The Point Man: Sojourner Bolt
+    -   The Muscle: Rhaka Khan
+-   Immortal
+    -   The Centerpiece: Jeff Hardy (before rehab exile), Bully Ray
+    -   The Enforcer: Gunner (ascended from Muscle)
+    -   The Muscle: Abyss, Murphy, Rob Terry, Matt Hardy
+    -   The Managers: Hulk Hogan & Eric Bischoff
+    -   The Hanger-On: Jeff Jarrett
+-   Fourtune
+    -   The Centerpiece: AJ Styles
+    -   The Heir Apparent: Kazarian
+    -   The Enforcers: Beer Money
+    -   The Muscle: Matt Morgan
+    -   The Manager: Ric Flair
+    -   The Point Man: Douglas Williams
+    -   The Hanger-On: Desmond Wolfe
+-   Fortune (post-Immortal breakup)
+    -   The Centerpiece: AJ Styles
+    -   The Heir Apparent: Christopher Daniels
+    -   The Enforcer: Bobby Roode
+    -   The Muscle: James Storm
+    -   The Point Man: Kazarian
+-   Aces And Eights
+    -   The Centerpiece: Bully Ray
+    -   The Heir Apparent: Mr. Anderson
+    -   The Enforcer: Devon
+    -   The Muscle: D.O.C. and Knux
+    -   The Point Men: Wes Brisco and Garret Bischoff
+    -   The Manager: D'Lo Brown, Tito Ortiz
+    -   The Hangers-On: Taz and Brroke Tessmacher
+-   The New Main Event Mafia
+    -   The Centerpiece: Sting
+    -   The Heir Apparent: Magnus
+    -   The Enforcers: Kurt Angle and Samoa Joe
+    -   The Muscle: Quinton "Rampage" Jackson
+-   Dixieland
+    -   The Centerpiece: Magnus
+    -   The Heir Apparent: Ethan Carter III
+    -   The Enforcers: The BroMans: Robbie E and Jessie Godderz with DJ Zema Ion
+    -   The Manager: Dixie Carter
+    -   The Hanger-On: Rockstar Spud
+-   The Revolution
+    -   The Centerpiece: James Storm
+    -   The Heir Apparent: Seiya Sanada
+    -   The Enforcer: Manik
+    -   The Muscle: Abyss
+-   The Beat Down Clan
+    -   The Centerpiece: MVP
+    -   The Heir Apparent: Kenny King
+    -   The Enforcer: Low Ki
+    -   The Muscle: Samoa Joe
+    -   The Point Man: Homicide
+    -   The Hanger-On: Eric Young
+-   Decay (First incarnation)
+    -   The Centerpiece: Rosemary
+    -   The Enforcer: Crazzy Steve
+    -   The Muscle: Abyss
+-   Violent by Design
+    -   The Centerpiece: Eric Young
+    -   The Heir Apparent: Deaner
+    -   The Enforcer: Joe Doering
+    -   The Muscle: Rhyno
+-   Decay (Second incarnation)
+    -   The Centerpieces: Rosemary and Crazzy Steve
+    -   The Enforcer: Havok
+    -   The Muscle: Black Taurus
+-   The Influence
+    -   The Centerpiece: Tenille Dashwood
+    -   The Enforcer: Madison Rayne
+    -   The Manager: Kaleb With a K
+-   Honor No More
+    -   The Centerpiece: Eddie Edwards
+    -   The Enforcers: The OGK: Matt Taven and Mike Bennett
+    -   The Muscle: PCO
+    -   The Point Man: Kenny King
+    -   The Hanger-On: Vincent
+    -   The Manager: Maria Kanellis
+
+SHINE
+
+-   Valkyrie (First incarnation)
+    -   The Centerpiece: The Radiant Rain
+    -   The Heir Apparent: Ivelisse Vélez
+    -   The Muscle: Made In Sin: The AK47 Allysin Kay and Taylor Made
+    -   The Manager: The Insurance Policy April Hunter
+    -   The Hanger On: Sweet Saraya (was kept secret)
+-   Daffney's All Star Squad (First incarnation)
+    -   The Manager: Daffney Unger
+    -   The Centerpiece: Nikki Roxx
+    -   The Heir Apparent: Solo Darling
+    -   The Point Man: Kimberly
+-   Daffney's All Star Squad (Second incarnation)
+    -   The Manager: Daffney Unger
+    -   The Centerpieces: The Buddy System: Solo Darling and Heidi Lovelace
+    -   The Heir Apparent: Crazy Mary Dobson
+    -   The Point Man: Kimberly
+    -   The Muscle: Amazing Kong
+-   Valkyrie (Second incarnation)
+    -   The Centerpiece: Serena Deeb
+    -   The Heirs The Apparent: Allysin Kay and Taylor Made
+    -   The Point Man: Su Yung (The Muscle when she snaps)
+    -   The Manager: April Hunter
+    -   The Hanger On: Sweet Saraya, Tessa Blanchard
+-   Legendary
+    -   The Centerpieces: Malia Hosaka and Brandi Wine
+    -   The Manager: Leilani Kai
+    -   The Heir Apparent: Thunderkitty
+-   Valifornia
+    -   The Manager: SoCal Val
+    -   The Centerpiece: Nevaeh
+    -   The Heirs Apparent: Better Than You: Jayme Jameson and Marti Belle
+    -   The Muscle: Andrea
+-   VALkyrie
+    -   The Managers: SoCal Val, April Hunter
+    -   The Centerpiece: Taylor Made
+    -   The Heirs Apparent: Better Than You
+    -   The Muscle: Su Yung, Andrea
+    -   The Hanger On: Sweet Saraya, Tessa Blanchard
+-   Las Sicarias
+    -   The Centerpiece: Ivelisse Vélez
+    -   The Heir Apparent: Amanda Carolina Rodriguez
+    -   The Enforcer: La Rosa Negra
+    -   The Muscle: Mercedes Martinez
+    -   The Point Man: Thea Trinidad.
+-   C4
+    -   The Centerpiece: LuFisto
+    -   The Heir Apparent: Kennadi Brink
+    -   The Enforcer: Amber O'Neal
+    -   The Muscle: Andrea
+-   The Cutie Pie Club
+    -   The Centerpiece: Candy Cartwright
+    -   The Enforcer: Kiera Hogan
+    -   The Muscle: Dementia D'Rose
+    -   The Point Man: Aria Blake
+
+WhatCulture Pro Wrestling
+
+-   The Prestige
+    -   The Centerpiece: "The Prestigious One" Joe Hendry
+    -   The Muscle: "The Iron King" Joe Coffey, BT Gunn
+    -   The Point Man: "The Kiwi Buzzsaw" Travis Banks
+    -   The Hanger-On: "The Mexican Sensation" El Ligero
+
+All Elite Wrestling
+
+-   The Elite
+    -   The Centerpieces: Kenny Omega, Cody
+    -   The Heir Apparent: "Hangman" Adam Page
+    -   The Point Men: The Young Bucks
+    -   The Hangers-On: Dustin Rhodes, Matt Hardy
+-   The _Super_ Elite (post Face–Heel Turn)
+    -   The Centerpiece: Kenny Omega
+    -   The Heir Apparent: Adam Cole
+    -   The Enforcers: The Young Bucks
+    -   The Muscle: The Good Brothers (Luke Gallows and Karl Anderson)
+    -   The Point Men: reDRagon (Bobby Fish and Kyle O'Reilly)
+    -   The Manager: Don Callis
+    -   The Hangers-On: Brandon Cutler, Michael Nakazawa, Britt Baker
+-   The Inner Circle
+    -   The Centerpiece: Chris Jericho
+    -   The Heir Apparent: Sammy Guevara
+    -   The Enforcer: Jake Hager
+    -   The Point Men: Santana and Ortiz
+-   The Jericho Appreciation Society
+    -   The Centerpiece: Chris Jericho
+    -   The Heirs Apparent: Daniel Garcia and Sammy Guevara
+    -   The Muscle: Jake Hager
+    -   The Enforcers: 2point0
+    -   The Hangers-On: Anna Jay and Tay Melo<sup>note&nbsp;</sup> 
+-   House of Black
+    -   The Centerpiece: Malakai Black
+    -   The Enforcer: Buddy Matthews
+    -   The Muscle: Brody King
+    -   The Hanger-On: Julia Hart
+-   The Dark Order
+    -   The Centerpiece: Mr. Brodie Lee (even after his untimely passing)
+    -   The Heir Apparent: Evil Uno
+    -   The Enforcer: Stu Grayson, Anna Jay
+    -   The Point Men: 10 and 5
+    -   The Hangers-On: Alex Reynolds and John Silver, Colt Cabana, Tay Conti
+-   The Pinnacle
+    -   The Centerpiece: MJF
+    -   The Enforcers: FTR
+    -   The Muscle: Wardlow
+    -   The Point Man: Shawn Spears
+    -   The Manager: Tully Blanchard
+-   Andrade Family Office (originally Hardy Family Office, later Andrade Hardy Family Offics)
+    -   The Centerpiece: Originally Matt Hardy, now Andrade El Ídolo
+    -   The Heirs Apparent: Private Party, Jora Johl
+    -   The Enforcers: The Hybrid 2, later briefly joined by Matt Hardy
+    -   The Muscle: The Butcher and the Blade
+    -   The Hanger-On: Allie the Bunny
+-   Team Taz
+    -   The Centerpiece: Ricky Starks
+    -   The Heir Apparent: Hook
+    -   The Muscle: Powerhouse Hobbs
+    -   The Manager: Tazz
+    -   The Hanger-On: Danhausen
+-   Blackpool Combat Club
+    -   The Centerpieces: Bryan Danielson & Jon Moxley
+    -   The Heir Apparent: Wheeler Yuta
+    -   The Muscle: Claudio Castagnoli
+    -   The Manager: William Regal
+-   Bullet Club Gold
+    -   The Centerpiece: Jay White
+    -   The Heir Apparent: Juice Robinson
+    -   The Enforcers: Austin & Colten Gunn
+    -   The Hanger-On: Cardblade
+-   The Firm
+    -   The Centerpiece: Ethan Page
+    -   The Heir Apparent: Lee Moriarty
+    -   The Muscle: W. Morrissey
+    -   The Manager: Stokely Hathaway
+-   Triple J
+    -   The Centerpiece: Jeff Jarrett
+    -   The Heir Apparent: Jay Lethal
+    -   The Muscle: Satnam Singh
+    -   The Manager: Sonjay Dutt
+    -   The Hanger-On: Karen Jarrett
+-   QTV
+    -   The Centerpiece: Q. T. Marshall
+    -   The Heir Apparent: Johnny TV
+    -   The Muscle: Powerhouse Hobbs
+    -   The Point Man: Aaron Solo
+    -   The Hanger-On: Harley Cameron
+-   Mogul Embassy (Fourth incarnation of The Embassy)
+    -   The Manager: Prince Nana
+    -   The Centerpiece: Swerve Strickland
+    -   The Heir Apparent: AR Fox
+    -   The Enforcer: Brian Cage
+    -   The Muscles: Toa Liona and Kaun
+-   The Don Callis Family
+    -   The Centerpiece: Don Callis (doubles as The Manager)
+    -   The Heir Apparent: Konosuke Takeshita
+    -   The Enforcers: Sammy Guevara & Will Ospreay
+    -   The Muscle: Powerhouse Hobbs
+    -   The Point Man: Kyle Fletcher
+
+Non-Wrestling Examples
+
+-   _Kinnikuman_, being a wrestling manga/anime, has more than a few:
+    -   The Seven Devil Chojin:
+        -   The Centerpiece: Buffaloman
+        -   The Heir Apparent:Springman
+        -   The Enforcer: Black Hole
+        -   The Muscle: The Mountain
+        -   The Point Man: SteCase King
+        -   The Manager: Mister Khamen
+        -   The Hanger-On: Atlantis
+    -   The Six Devil Knights:
+        -   The Centerpiece: Sunshine
+        -   The Heir Apparent: Asuraman
+        -   The Enforcer: Planetman
+        -   The Muscle: Junkman
+        -   The Point Man: Sneagator
+        -   The Manager: Akuma Shogun
+        -   The Hanger-On: The Ninja
+    -   The Perfect Chojin
+        -   The Centerpiece: Neptuneman actually Neptune King
+        -   The Heir Apparent: Neptuneman
+        -   The Muscle: Big Budo (actually the Centerpiece) and Kendaman
+        -   The Point Man: Screw Kid
+        -   The Hangers-On: Sunshine and Asuraman <sup>note&nbsp;</sup> 
+-   In the Survival for the Throne arc (which deserves separate mention because it got a separate Animated Adaptation, _Kinnikuman: Scramble for the Throne_), the tournament set up is between teams of five, meaning that there are _six_ in total, two heroic, three villainous, and one neutral:
+    -   Team Phoenix
+        -   The Centerpiece: Kinnikuman Super Phoenix
+        -   The Heir Apparent: The Omegaman
+        -   The Enforcer: Satan Cross and Prisman
+        -   The Muscle: Mammothman
+    -   Team Mariposa
+        -   The Centerpiece: Kinnikuman Mariposa
+        -   The Enforcer: Mixer Taitei
+        -   The Muscle: King the 100-Ton
+        -   The Point Man: The Hawkman and Mr. VTR
+    -   Team Zebra:
+        -   The Centerpiece: Kinnikuman Zebra
+        -   The Heir Apparent: Parthenon
+        -   The Enforcer: Motorman
+        -   The Muscle: Bikeman
+        -   The Point Man: The Vice
+    -   Team Kinnikuman <sup>note&nbsp;</sup> :
+        -   The Centerpiece: Kinnikuman
+        -   The Heir Apparent: Terryman
+        -   The Enforcer: Robin Mask
+        -   The Muscle: Warsman initially; later replaced by The Samurai (who's really Neptuneman)
+        -   The Manager: Meat
+        -   The Point Man: Geronimo (by virtue of suffering from The Worf Effect)
+        -   The Hanger-On: Ramenman
+    -   The Chojin Blood Oath Army:
+        -   The Centerpiece: Kinnikuman Soldier (really Kinnikuman's brother Ataru)
+        -   The Heir Apparent: Asuraman
+        -   The Enforcer: Brocken Jr.
+        -   The Muscle: Buffaloman
+        -   The Hanger-On:The Ninja
+    -   Team Big Body is harder to place because while the Centerpiece is obviously Kinnikuman Big Body, all of his teammates were beaten by Mammothman before they could receive much characterization.
+-   The 2012 revival of the manga has three, two with the same leader, who just so happens to be the Greater-Scope Villain to most of the above stables.
+    -   The Perfect Large Numbers:
+        -   The Centerpiece: Strong Budo, a.k.a. The Man, Chojin Enma, and the Merciful God
+        -   The Heir Apparent: Nemesis
+        -   The Enforcers: Turboman, Marlinman and Marvelous
+        -   The Muscles: Crushman, Jack Tea, and Polarman
+        -   The Point Man: Max Radial
+        -   The Managers: Dalmatiman and Grim Reaper
+        -   The Hanger-On: Peek-A-Boo
+    -   The Perfect Origin:
+        -   The Centerpiece: The Man
+        -   The Heir Apparent: Justiceman, the God of Justice
+        -   The Enforcers: Painman and Ganman
+        -   The Muscles: Abyssman and Thingman
+        -   The Point Man: Crowman
+        -   The Manager: Psychoman
+        -   The Hangers-On: Goldman and Silverman
+    -   The Omega Centauri's Six Spears:
+        -   The Centerpiece: Omegaman Aristeria
+        -   The Heir Apparent: Mariquitaman
+        -   The Enforcer: Hailman
+        -   The Muscle: Gear Master
+        -   The Point Man: Rouknight
+        -   The Manager: Satan
+        -   The Hanger-On: Pirateman
+    -   The Choshin:
+        -   The Centerpiece: The God of Harmony
+        -   The Enforcer: The Natural
+        -   The Muscles: Bicorn, Caucususman and The Notorious
+        -   The Manager: Ideaman
+        -   The Point Man: Rampageman
+-   The above series' sequel, _Ultimate Muscle_, also has some:
+    -   The dMp (a blatant parody of the above nWo):
+        -   The Centerpiece: Kevin Mask, prior to his Heel–Face Turn
+        -   The Heir Apparent: Scarface, a.k.a. Eskara, a.k.a. Mars
+        -   The Enforcer: Checkmate
+        -   The Muscles: Pumpinator and Tyrannoclaw
+        -   The Point Men: Dial Bolic, Addversarius and Boa Conda
+        -   The Manager: Sunshine
+    -   Generation X:
+        -   The Centerpiece: Scarface/Eskara
+        -   The Heir Apparent: Jade/Jeager
+        -   The Enforcer: Dead Signal/Road Rage
+        -   The Muscle: Clioneman/Hydrazoa
+    -   Team AHO serves as a protagonist example:
+        -   The Centerpiece: Kinniku Mantaro/Kid Muscle
+        -   The Heir Apparent: Terry the Kid/Terry Kenyon and later Kevin Mask
+        -   The Enforcer: Checkmate
+        -   The Muscle: Seiuchin/Wally Tusket
+        -   The Point Man: Gazelleman/Dik Dik van Dick, later Jade
+        -   The Hanger-On: Gazelleman, after Jade joins.
+    -   The Poison Six Pack
+        -   The Centerpiece: Baron Maximillian
+        -   The Heir Apparent: The Cyborg/Jagg-Ed
+        -   The Enforcer: Dazzle/Dazz\-Ling
+        -   The Muscle: Protector
+        -   The Point Man: El Kaerun/Mister French<sup>note&nbsp;</sup> 
+        -   The Hanger-On: Puripuriman/Monsieur Cheeks
+    -   The Demon Seed:
+        -   The Centerpiece: Asuraman
+        -   The Heir Apparent: Voltman
+        -   The Enforcer: Tattooman
+        -   The Muscle: Meltdown and Gepparland
+        -   The Point Man: Constellation
+    -   The Idol Chojin are another heroic example, being made entirely of former villains:
+        -   The Centerpiece: Kevin Mask
+        -   The Heir Apparent: Scarface
+        -   The Enforcer: Barrierfreeman
+        -   The Muscle: Hanzo
+        -   The Point Man: Ilkhouine/Comrade Turbinski
+    -   The Time Warp Eight is a heroic Subversion. Although it's a combination of Team AHO and the Idol Chojin, the gang splits up into tag teams and goes their separate ways almost immediately on going to the past.
+        -   The Centerpiece: Kid Muscle
+        -   The Heir Apparent: Terry Kenyon
+        -   The Enforcers: Checkmate and Barrierfreeman
+        -   The Muscles: Mars and Wally Tusket
+        -   The Point Men: Jeager and Comrade Turbinski
+        -   The Hanger-On: Wally Tusket
+    -   The Time Chojin and Perfect Chojin
+        -   The Centerpiece: Lightning
+        -   The Heir Apparent: Thunder
+        -   The Enforcer: Neptuneman
+        -   The Muscle: Wally Tusket, later replaced by Mammothman
+-   _Wrestle Angels_, despite being a game about wrestling, has only ever rarely dabbled with this trope:
+    -   The NJWP Revolutionary Army (_Wrestle Angels V1_):
+        -   The Centerpiece: Mighty Yukiko
+        -   The Heir Apparent: Riyu Kikuchi
+        -   The Enforcer: Toshimi Minami
+        -   The Muscle: Bomber Kishima
+    -   Honeyverse (_Bishoujo Wrestler Retsuden_):
+        -   The Centerpiece: Blade Uehara
+        -   The Heir Apparent: The chosen protagonist, should the player join.
+        -   The Enforcer: Yumi Shouji
+        -   The Muscle: Kanako Komatsu
+
+___

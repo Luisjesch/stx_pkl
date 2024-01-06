@@ -1,0 +1,160 @@
+_"This week on BBC3: When a mysterious alien force compels a beautiful woman to have sex with any male that catches her eye, Torchwood investigates why this plot has appeared in every sci-fi series ever made."_
+
+— Posted on TrekBBS
+
+One sign that someone's been possessed, cloned, body-swapped, replaced with a lifelike android, etc. is when they start behaving in a strange way romantically or sexually. Or they may become way better or way worse at sex than they were before.
+
+This typically means they're far more sexual than usual. Cue Fanservice.
+
+Another variation that crops up when evil clones or evil body doubles appears is that the copy is generally a really bad kisser, giving a clue to their true identity.
+
+See also Showing Off the New Body and Living Aphrodisiac. Compare Sexual Karma (because being more sexually agressive than normal is a sign of villainy).
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   _Negima! Magister Negi Magi_ has several versions of this:
+    -   First, Negi accidentally creates a bunch of magical duplicates of himself. Naturally, they start hitting on his students.
+    -   Later, during the Kyoto arc, the girls use a bunch of the same magical duplicates to take their places while they visit Konoka's temple complex. When they get back, the duplicates are doing a striptease.
+    -   Even later, Haruna uses her artifact to make a "dark" copy of Nodoka. Everyone notices that she's not as subtle as before. The real Nodoka showed up and hit Haruna with a book right before "Ero Nodoka" could also be created. Shame, really.
+    -   Even _later_, she creates a duplicate of Negi for the purpose of "practice pactio kisses". Naturally, the results are disastrous. Poor Akira...
+-   When a vengeful spirit doll in _Ranma ½_ trades places with Akane's soul in her body (leaving Akane herself trapped as a doll) she attempts increasingly seductive approaches to get Ranma to lower his guard... so she can kill him. All but one have unforeseen interruptions.
+-   Done in _Fushigi Yuugi_, though to a much tamer extent. On their way to Taiitsu-kun's place, Miaka ends up stuck in a mirror and a mirror-version of herself steps out. This Miaka is much more open about her feelings, openly embracing Hotohori and not minding the surprised looks.
+    -   Attempted again. Tomo uses his illusion-creating powers to make fellow-Seiyuu Senshi Soi look like Miaka to Tamahome. "Miaka" brings Tamahome to a room to cool down and begins to seduce him, although Tamahome stops himself before sleeping with her, because even though he really wants to, she hasn't summoned Suzaku yet. But when "Miaka" points out that she was raped by Nakago, Tamahome admits that he isn't 100% sure that it's true and, even if there's only a tiny chance that she is still pure, he won't ruin it.
+-   In _Ah! My Goddess_, Belldandy once unknowingly drank an enhanced love potion that caused her to practically throw herself at Keiichi and beg him to take her. Keiichi resisted her advances because he could tell that something was making her not act like herself.
+-   Happens twice in _High School D×D_:
+    -   Early on, Rias appears naked in Issei's bed, desperately trying to climb him. The keyword is "desperate" as even Issei, total horndog he is, can tell something's not right and has to be talked into it, which takes long enough for Rias's Cool Big Sis to show up and stop things. It turns out Rias was trying to find a way out of her Arranged Marriage, nothing more, and Issei privately narrates he's glad he hesitated long enough to not hurt Rias by going through with it.
+    -   Later on, Akeno does much the same thing, crawling on Issei seeking Sex for Solace. Issei, having matured a bit in the meantime, can instantly tell this isn't like her normal frequent attempts to seduce him and gets her talking instead (well, technically he communicates with her boobs - It Makes Sense in Context), getting her to admit to her Daddy Issues. Having the character to refuse her, and then helping with said issues, takes Akeno from idle attraction to genuinely in love with him.
+
+    Comic Books 
+
+-   Inverted by Peter Milligan's _Shade, the Changing Man_, who possessed the body of a serial killer who murdered his girlfriend's parents and ex-boyfriend. Unfortunately the body still possesses the killer's _mind_, which is able to possess the body right back. Kathy isn't clued by Shade's performance in bed because they hadn't had sex before, but when they do, she remarks on how different and 'gentle' it is. She says, unconvincingly, "But this can still be good..."
+-   _Teen Titans_ When Starfire was temporarily replaced by a shapeshifter from an alternate universe (or so she was at the time), the shapeshifter was much more sexually aggressive than her boyfriend Nightwing was used to. Nightwing didn't suspect anything, mostly because they'd been having problems and he was just happy that the problems seemed to have evaporated.
+-   _Iznogoud_: A guy who can impersonate others (he changes his face whenever he puts on one of his magical masks). Subverted because the wife of the real guy actually prefers him.
+-   _Empowered_: Variant. Emp's suit is a sentient hypermembrane that has bonded with her on a cellular level. One of the minor powers it gives her (and the only one we know of that works when she's not wearing the suit) is a massively increased libido. Considering that Emp's superheroics leave her constantly defeated, trussed up, and derided by the super community, Emp's boyfriend theorizes that the libido is a gift from the suit, a way of giving Emp _something_ unambiguously good out of the whole deal. Of course, due to Emp's horrible self-esteem issues, she manages to get embarrassed anyway.
+
+    Fan Works 
+
+-   In _One-Punch Man_ NSFW fanfic _Mirror Mirror_ the first thing that alternate future Saitama does is seduce Genos. Genos thought that the alternate Saitama's passion was very uncharacteristic but goes along with it thinking that Saitama shared Genos' feelings for him. They both get really into it... until the actual Saitama interrupts them.
+-   In The Changeling of the Guard, after Queen Chrysalis does something to his mind to keep him from interfering with her invasion, the normally asexual Idol Hooves misses the entire Canterlot Wedding Incident because he is having multiple days of sex with Topaz Showers.
+
+    Film — Animated 
+
+-   _Shrek 2_: Although it never reaches a point of being sexual, Princess Fiona's reaction to Prince Charming, while he is pretending to be the yet-to-be-seen now human appearing Shrek, is constantly being off-put by his overly romantic behavior, knowing it is out of Shrek's usual character.
+
+    Film — Live Action 
+
+-   _The Last Starfighter_. While Alex Rogan was away from Earth, he was replaced by an android Beta Unit without the knowledge of his girlfriend Maggie. When he returns and meets her:
+    
+    **Alex Rogan:** Maggie! You're never going to believe this!  
+    **Maggie:** _(angrily slaps him)_ I told you, Alex! Me and my, how did you put it, "strange sexual urges" aren't talking to you anymore!
+    
+    -   The novelization went into some detail; the android and Maggie met up with some other couples on a beach date, where the android was distracted from Maggie, the blanket they were sharing, and cuddling by noticing the distant assassin setting up for a sniper shot. Due to it being more efficient to get them back to the car and out of there then to explain _why_ and convince Maggie this was real, their date didn't go so well.
+-   In _Ghostbusters (1984)_, Dr. Venkman is very interested in the team's client Dana. After she gets possessed by Zuul and starts to heavily come on to him, he quickly realizes that something is wrong. (Granted, this also qualifies as a case of obliviousness at first, as the demon isn't even trying to pretend to be Dana.)
+-   In _Face/Off_, cop Sean Archer and crook Castor Troy exchange faces and lives; they immediately go about resolving each other's family problems in their own ways. Castor, however, uses the situation to his sexual advantage. Sean's wife, Eve, thinks his romantic behavior is odd, but doesn't see through it until the switch is actually revealed.
+-   When a man in the movie _Slither_ is possessed, one of the first things he does is have sex with his wife. The wife found it a little strange he was acting so horny, but nevertheless enjoyed the sex, saying something to the effect "He was like a child, exploring my body for the first time."
+-   Gor from _The Brain from Planet Arous_ is a Sense Freak. One of the senses he wants to exploit is... you guessed it. His host being engaged is to him a bonus, since he can _also_ tap into the man's feelings for his fiance. This being the fifties, she's put off by her fiance's sudden forcefulness.
+-   In _X2: X-Men United_, Mystique disguises herself as Jean Gray to seduce Wolverine. Wolverine doesn't seem to realize until he touches the scars he gave Mystique in the previous movie.
+-   In the movie _Dave_, the President's wife figures out that her husband has been replaced with a double because he looked at her legs, while the actual president has long since succumbed to the Coolidge Effect. When Dave finds out she knows, his first thought is that she figured it out after seeing him in the shower.
+-   In the film _The Broken_, the main character begins to suspect that something's wrong with her boyfriend when he's unusually aggressive in bed. The sight of his scary orgasm face will haunt you forever.
+-   _The Assignment_ (1997). Annibal Ramirez, a Cuban-American Doppelgänger of Carlos the Jackal, is trained to impersonate the notorious terrorist. To avert this trope a former lover of Carlos instructs Ramirez in how Carlos has sex. It works well enough to fool a current lover of Carlos, but Ramirez's wife becomes suspicious that he's cheating on her because he's changed his bedroom habits.
+-   _The Saint (1997)_. In one scene Simon Templar disguises himself as the Big Bad Ivan Tretiak, and trolls him by claiming that the most difficult part of the disguise was pretending to be so lousy in bed.
+
+    Literature 
+
+-   In Jewish folklore, one story tells of the demon king, Asmodeus impersonating King Solomon. While in this guise, he propositions all of Solomon's many wives (and in some tellings succeeds in sleeping with all of them). The first clue to him not being the real Solomon is that he approaches them when they were menstruating, a major taboo. His impersonation is revealed when he tries to seduce "his" mother, Bathsheba.
+-   In _Journey to the West_ the king of Wuji was killed and replaced by a shapeshifting demon. It was a perfect imitation, except he never slept with any of his wives or concubines, which eventually contributed to his being found out.
+-   Inverted in one of Roald Dahl's adult stories, where the Manipulative Bastard narrator manages to convince his neighbor to swap wives for a night (the neighbor ends up thinking it was his own idea). He doesn't care what his wife feels, as they abandoned sex a long time ago as she's apparently incapable of achieving orgasm, but has an unhealthy obsession with the neighbor's wife. The plan goes off without a hitch, but in the morning the narrator notices his wife is happier than she's been in years, and that's due to the great and above all different sex they had last night. What the neighbor's wife thinks we don't know, but it's implied this trope is played straight.
+-   In Daphne du Maurier's novel _The Scapegoat_, two Identical Strangers switch identities. One of them goes to bed with the other's mistress. She later tells him that she couldn't tell he wasn't her lover by look or voice, but "A woman would have to be a great fool not to distinguish between one man and another, making love." She didn't say anything about it at the time, though, because she liked the new guy (he's nice). Ultimately she decided that it was the original guy she was in love with and stuck with him.
+-   In Parke Godwin's Hugo-nominated story "The Fire When It Comes" (title story of the collection of the same name), the existence of the ghost is revealed when she takes over the body of the (sexually repressed) wife during sex.
+-   Subverted in Robert Sheckley's _Immortality, Inc._ The protagonist is in the body of another man (quite legally — long story) and is afraid that lingering traces of that man's personality are taking over his own. When he meets the ex-girlfriend of that man, they have sex, and the protagonist is disturbed by his unusually rough behaviour. Subversion comes then in the morning the woman says that the previous owner of the body used to be very gentle in bed.
+-   In the second book of _Codex Alera_, Max has temporarily replaced the incapacitated First Lord, Gaius Sextus, in order to keep up his public appearance and ends up seducing the First Lady to distract her from Spotting the Thread. He doesn't get caught, though the First Lord does have words with Max about that when he recovers. An older man used to an arranged and loveless marriage, the real Gaius nearly had a heart attack when his wife decided to join him in the bath the next morning.
+-   In the _James Bond_ novel _DoubleShot_, Margareta Piel is able to see through the ruse of Bond replacing his Evil Knockoff Peredur Glyn through the sex they had in the night before.
+-   Subverted in _The Dresden Files_: when Captain Luccio accidentally ends up in a much younger body, she finds that the hormone chemistry of the body reawakens her libido, resulting in a relationship with Harry. Double Subverted later when it's revealed that she _was_ mind-controlled, very subtly, into a relationship with Harry.
+-   _Night Probe!_ by Clive Cussler. The sociopathic Master of Disguise Foss Gly sleeps with Henry Villon's mistress and co-conspirator. She notices something is off about his behaviour (mainly because 'Villon' is harsher than usual) but when she complains to the real Villon later he brushes it off, assuming that he was in a bad mood at the time. He gets a shock when he's finally confronted by his doppelganger, who reveals he's been sleeping with both Villon's mistress _and_ his wife (the latter is more shocking to Villon).
+-   subverted in Irving Wallace's novel _The Second Lady._ The President's wife has been kidnapped and replaced with a body double by the Russians. The real First Lady, Billie, is seduced by her captor so he can give her impersonator notes on how to act in bed with the President, but she deduces his motives and behaves very aggressively to give him the wrong impression. Unfortunately she is so bad at playing a vamp that he figures out she is faking, and tells the imposter, Vera, to be as vanilla as possible. The President never suspects a thing.
+-   A variation in _The Mandarin Cypher_ by Adam Hall. Quiller sleeps with the widow of a British scientist who died in an accident, and puts her coy behaviour down to inexperience from being a Sexless Marriage. Then he discovers her husband faked his death so he could defect to China and realises she's not having an affair—she's having an _extra-marital_ affair and he should have known right then that her husband was still alive.
+
+    Live Action TV 
+
+-   In _My Own Worst Enemy_, sex machine Edward makes love with alter ego Henry's wife. He's much better in bed than Henry is, leading to an affectionate Angie in the morning. On the other hand, Edward is the original owner of the body. Henry is the cover personality created to hide Edward's identity, although Henry's marriage is real.
+-   _Smallville_: This seemingly happens every other episode...
+    -   For example, when Lana becomes a vampire.
+    -   Bizarro acts this way when he steals Clark's identity. Clark is pissed when he comes back and finds that no one, except Chloe, noticed anything suspicious. This is rather odd, because Clark hadn't been able to sleep with her because of his superpowers. One would think Lana would have noticed this, unless she just didn't care...
+-   _Buffy the Vampire Slayer_:
+    -   When Faith ends up in Buffy's body, she sexually taunts Spike and then aggressively seduces Riley. And then has the trope turn around and backfire on her when Riley tries to actually _make love_ with her instead of just getting freaky; the intimacy of the act is too much for her to handle and she flips out.
+    -   Giles takes Jenny Calendar home after she gets knocked out, where she starts acting aggressively sexual. He thinks it's maybe due to her earlier injury but he's not on his game just then, and doesn't realize it's an early stage of demonic possession.
+    -   Xander, down in the dumps after Cordelia breaks up with him (and a love spell of his seems to have fizzled), is surprised when, palling around with Buffy and making a joke about "lap dancing", he finds her up for it — between being slow on the uptake and a case of wishful thinking, he doesn't realize the love spell has affected her until he realises that every other woman in the school (except Cordelia) is suddenly smitten with him.
+-   In the _Angel_ episode "Carpe Noctem", an elderly magic-user does a "Freaky Friday" Flip with Angel. The rest of Angel Investigations notice he's acting weirder than usual, but don't realize he's an impostor until Fred catches him making out with Lilah on Wesley's desk.
+-   _The 10th Kingdom_. Virginia is so mesmerized by the addictive invisibility shoes that she almost seems willing to seduce Wolf to get them. The fact he doesn't take advantage despite his own dogged attempts to woo her is one of the first indications of his Hidden Depths.
+-   In the _Stargate SG-1_ episode "The Broca Divide", O'Neill realises that Carter has been infected when she jumps him in the locker room.
+-   In the _Stargate Atlantis_ episode "Identity", Dr. Keller gets inadvertently body-swapped with an evil Adventurer Archaeologist. The latter in the former's body (as a visual cue, the scenes have the latter's actress in, although it's clearly implied that the former is the one everyone is seeing) boards a jumper and proposes clearly to Rodney that they go to the mainland for al fresco sex, which isn't Jennifer at all. It might just be the real Keller being much less forward than the impostor was (which didn't stop her from suggesting they join the Mile-High Club two episodes prior). She heavily implied that she wanted to go out with Rodney, just not that suddenly, or obviously, implying wanting to go to the mainland at the end of the episode.
+-   In _Alias_, it's implied a woman realises her boyfriend is actually someone else who has been genetically altered to look like him as he acts differently in bed.
+-   _The X-Files_:
+    -   In the episode "Dreamland", Mulder gets body-swapped with an Area 51 agent. One of the behavior changes that convinces Scully that something is seriously wrong is that "Mulder" starts coming on to her. She exploits this to force him to cooperate in putting things right.
+    -   Same thing happens in "Small Potatoes," where the shapeshifting suspect traps Mulder in a basement and takes his form. In this case, though, while Scully suspects something's up, she goes along with the seduction until Mulder shows up and faces down the shapeshifter. Scully's shocked reaction on seeing the shapeshifter change back into himself could indicate she was fooled, or that it was the changing itself that startled her. Plus Mulder is somewhat miffed that the shapeshifter got further with Scully than he ever did (at that point in the series).
+-   In _Farscape_ episode 'John Quixote' there was a sweeter version where John realised that what was happening wasn't real when the fake Aeryn told him they should leave together and abandon everyone else. "Listen - John - I came back for you. Nothing else matters. I just - want to be with you." "_Something's wrong_."
+-   _Heroes_:
+    -   Matt Parkman's body is taken over by Sylar, who promptly uses it to seduce/rape Matt's wife. She loves it (or Sylar used Matt's powers to force her to). An earlier, non-sexual example is when Sylar uses his shapeshifting powers to impersonate Sandra Bennett and file for divorce with Noah.
+    -   Parkman himself used his mind reading powers to set up the perfect date with his wife earlier in the series.
+-   In the _Star Trek: The Original Series_ episode _The Enemy Within_, one of the first things Kirk's "evil" half does is try to rape Yeoman Rand.
+    -   In one of the _Sex Trek_ porn parodies, a female alien Body Surfs into Captain Kirk and has sex with a Bridge Bunny, who when asked if there was anything different about the captain says he was now a lot better at eating pussy.
+-   _Star Trek: Enterprise_. In "The Crossing" non-corporeal aliens take over various crewmembers, and stuck-up Brit Malcolm Reed starts hitting on T'Pol in a sinister manner, instantly alerting her that something is wrong.
+-   _Star Trek: The Next Generation_:
+    -   There was an episode where Troi is being tricked into telepathically taking on all the negative emotions and turmoil of her new romantic interest. One of the manifestations of this condition involved seducing and then casting aside a young crewman (much to Riker's dismay).
+    -   Another example kicked off the series-spanning running gag of Troi's mother aggressively pursuing a mate. Of course, for Betazoid women this is perfectly natural: their sex-drive is known to double (or even quadruple) when they reach a "mature" age.
+    -   The one where Tasha Yar is infected by some sort of hedonistic virus which leads her to experiment on whether the android Data is "fully functional". (He is.)
+-   Lwaxana Troi's second guest appearance on _Star Trek: Deep Space Nine_ involved an unusual complication of this condition when she started "infecting" people around her with her own amorous mood. The result was an episode that launched a thousand 'ships, as any character with even a latent attraction to another suddenly had their libido kicked into overdrive. Specifically: Bareil (who was dating Kira) pursuing Dax, Dax pursuing Sisko, Jake pursuing Kira, Kira and Bashir pursuing each other (including a heavy make-out session where they desperately beg to pulled apart before they have sex), and Quark pursuing Keiko. All while Odo tries to fend off Lwaxana Troi's advances.
+-   _House_:
+    -   In a non-supernatural/science fictional example, House has one of his clinic patients develop hypersexuality. Played realistically straight in that he warns a family member that the 80+ year old woman in question has had a sudden, unexplained change in behavior and needs to be examined. Good thing, too, because it turns out she has neurosyphilis.
+    -   There's also the early season episode where Cameron was exposed to blood from an HIV+ patient and is awaiting results from her blood test. She shows up at Chase's place and seduces him (hopefully they at least used protection). Turns out the fear and stress prompted her to take some Ecstasy and try to live it up a bit.
+-   _Fringe_: Alternate universe Olivia smooches Peter so he won't see the blood trickling across the floor from the murdered man in the bathroom.
+-   _Doctor Who_: When Rose Tyler gets possessed by Lady Cassandra, she surprises the Doctor with a passionate snog, likely a result of being suddenly dumped into a body full of teenage hormones. Hilariously, the Doctor's first reaction isn't "something is really wrong here", but "Yep...still got it."
+-   In _Barney Miller_ a woman comes in to the police station because she thinks her husband of 25 years is a replacement body, essentially because all of a sudden he did things to her he's never done before. One of the police officers taking her report, pretending to take her seriously, and doing a Shout-Out to _Invasion of the Body Snatchers_, asks her, "Did you check for pods?" It turned out her husband had done some reading and discovered women love oral sex. He had never had any idea, and did it for her for the first time in her life.
+-   An episode of _The Outer Limits (1995)_, "Caught in the Act", featured Alyssa Milano as a pure, virginal teenage girl...who is possessed by an alien entity that feeds by seducing and devouring men.
+-   And _Torchwood_ used the same plot in its second episode. The alien in that case was using 'orgasmic energy' as a Fantastic Drug.
+-   In _Orphan Black_, Paul begins to suspect that something is up with his girlfriend and test subject Beth when she starts acting very sexually aggressive. In reality, Beth committed suicide in the first episode and her clone Sarah stole her identity. In fact, the only reason Sarah was being sexually aggressive is to keep Paul from asking too many questions.
+-   In a Sherlock Holmes TV movie _The Case of the Silk Stocking_, an aristocratic woman is using her footman for sex, but he has an Evil Twin who's a Serial Killer. Apparently they swapped positions from time to time. She's in serious denial as Watson tries to get her to open up about the affair, pointing out that her woman's instinct must have told her there was something wrong about her lover.
+-   _Get Smart_: When Max rescues girl-in-distress Carol Burnett from a KAOS laboratory, they go through some rooms with an experimental drug that induces fear and lust, but only in women. First, she freaks out with shrieking horror, then, in the next room she's gone all sultry and overaffectionate, freaking _him_ out. Then Agent 99 bursts in, and...
+    -   In a late-entry episode (the last of the series in fact) Max is hypnotized by KAOS, who try it out by making him a suave lady's man - he meets Agent 99 (his wife at this point) with a cool appraising stare, some sexy sweet talk, and strong kissing. She knows something isn't right...but she's okay with it.
+-   _Seven Days_: Olga, who is usually resisting Frank's advances, suddenly decides to marry Frank and sleep with him. He doesn't suspect anything at first, but it's eventually revealed that she's not Olga at all but her crazy Identical Stranger Galina.
+-   After _All My Children_'s Janet Green kidnaps her sister Natalie and takes over her life, she later confesses to a friend that it was after they were "intimate" that her husband Trevor realized what was going on (it's not clear if this means she was a better or worse lover than her sister).
+-   On _As the World Turns_, after Rose unwillingly has to take over for her twin sister Lily, she avoids sleeping with her husband Holden until she can't come up with anymore excuses. Although Holden notices the difference, it's not enough to tell him that it's not his wife that he's bedding, especially since he's _pleased_ by the change—when Lily returns, Rose taunts her thus:
+    
+    "He said he'd never had it so good!"
+    
+-   _Misfits_: The superpower of Alisha, one of the original five characters, explores this trope. If she touches someone, they will be compelled to have sex with her. The early series explores how this affects her relationships and consent, and at one point the power is stolen by someone who explicitly aims to use the power to exploit women for sex.
+-   Inverted in _BrainDead (2016)_. One of the symptoms of infestation by the Space Bugs is an uncharacteristic aversion to sex.
+
+    Tabletop Games 
+
+-   _Chronicles of Darkness: Inferno_: A favourite tactic of the Rider in Shameful Dreams, a demon that embodies Sex Is Evil, and I Am Horny, is to possess a sexually repressed victim, go on a sex spree in their body while they're unconscious, and leave them to face the aftermath.
+
+    Video Games 
+
+-   Meryl in _Metal Gear Solid_, despite earlier stating that she'd been conditioned to not feel sexual desire as part of her supersoldier training, practically throws herself at Snake and begs him to take her. It turns out she's being mind-controlled by Psycho Mantis.
+-   Subverted in _Eat Lead: The Return of Matt Hazard_, Matt Hazard, a sentient, video-game character, is helped in his fight for survival by mousy female programmer named QA, whose in-game avatar is colored blue. She berates Matt for both his old one-liners and for hitting on her. Later, QA reappears colored red, and comparatively sassy. After a few mess-ups, blue QA finally reappears, and red QA tells Matt he has to figure which one is real. Matt, being experienced with several game genres and is, by consequence, incredibly genre-savvy, makes a comment to red QA to the effect "Oh come on. I knew you were the evil twin a long time ago."
+-   _Red Earth_: In Tessa's bad ending, the alien lifeform she chose to take to the lab for study turns out to be playing merry hell with her mind. The last we see is Tessa, naked, embracing its container, eagerly waiting for it to "grow up".
+-   In _Tales from the Borderlands_ if you've made certain decisions, Handsome Jack's AI will possess Rhys and act flirtatious around Fiona and Sasha, calling Fiona pet names like "sweetie" and "baby" and slapping Sasha on the butt, leading everyone else to wonder what the hell is wrong with him.
+
+    Webcomics 
+
+-   In _It's Walky!_, Joyce's "evil" clone is easily identified by the fact that she merrily seduces whichever member of the male cast is available (the resident Jerkass, as it turns out). Joyce's response... ain't pretty. Or survivable.
+-   The usual variant is inverted in _Paradox_, when Tommy is possessed by a soul-eating demon. Dake realises something is off because Tommy's reaction to an offer of sex is 'maybe later,' after he'd been trying to get into Dake's pants for the last couple of chapters.
+-   In _The Order of the Stick_, the evil twin variant is used when Elan, a good-natured naive bard is framed and swapped with his evil twin brother Nale, who proceeds to attempt to woo Haley, with aims to murder her at the height of passion, since she, up to this point, had a hidden crush on Elan. Haley notices the startling change in behavior, including the initiative he takes in arranging a romantic date, but ignores her instincts (and that of her inner personalities).
+
+    Western Animation 
+
+-   In the infamous _Justice League Unlimited_ episode "The Great Brain Robbery", a notable scene occurs where Tala seduces Lex Luthor, not knowing that he's recently switched bodies with The Flash. After the situation is reversed, Tala is actually _disappointed_. Her exact words were that she wasn't used to him being so "gentle", "caring" or "enthusiastic."
+-   _The Simpsons_:
+    -   When Homer Simpson was kidnapped and replaced by a lookalike with an obvious German accent and no understanding of Homer's personality in extended Parody of _The Prisoner_, it's squickily implied that his offer of "efficient German sex" is what keeps Marge from realizing anything is amiss for _several months_.
+    -   Spoofed in the parody of _The Island of Doctor Moreau_ from "Treehouse of Horror XIV": Marge gets turned into a literal catwoman by Dr. Hibbert and gets intimate with Homer. The next morning he finally notices her change when she jumps out the window to chase a bird, remarking "I had no idea! ...Though I suspected something during the sex." Note that he is _covered in claw marks._
+-   In _The Boondocks_ episode "Stinkmeaner Strikes Back", the ghost of Colonel H. Stinkmeaner possesses Tom DuBois. When Tom comes home late at night to hug his wife Sarah, Stinkmeaner takes control of him again. Stinkmeaner exploits this moment by declaring that he wants to have sex with Sarah. Both of them enjoy it, especially Sarah (whose sex life with her husband isn't very good).
+-   _Fantastic Four: World's Greatest Heroes_: In the episode "Doomed", Doctor Doom swaps bodies with Reed; one of the signs that things are off is that "Reed" flirts with Sue, who he's not involved with in this adaptation.
+
+___

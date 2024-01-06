@@ -1,0 +1,41 @@
+In most works, you'd have a Wide-Eyed Idealist who believes that things can be easily solved with a clearly idealist solution, bad guys can be redeemed and everyone will Earn Your Happy Ending. Usually, this guy would be talked down, called naive or stupid for such an outlook, especially if they live in a Crapsack World or Dystopia. Therefore, they take the more realistic, more complex solutions while the "naive" one is left in the dust, but then, everything does not go as planned and actually made things far worse. Maybe someone on the bad guy side of whom they killed was Good All Along, or vice versa. Or a fault in the "real solution" makes the whole plan crumble. Or all attempts to sacrifice a few to save the many (or as many as they can) only sacrificed more lives or bring the whole human race into extinction. Now with all the presumed heroes on their knees, it's left to only the same person who they scoffed at in the first place. Even if he's the one who saves the world, is killed, or crosses the Despair Event Horizon, they finally surrender to the fact that the naive guy wasn't so stupid after all.
+
+This would come with the message that choosing the "real" or "usual" solutions is the problem and there's always a better way. May cross with the The Cuckoolander Was Right, or for a more extreme case, The Extremist Was Right.
+
+See also the Sliding Scale of Idealism vs. Cynicism and Romanticism Versus Enlightenment.
+
+___
+
+## Examples include:
+
+Anime And Manga
+
+-   The titular character of _Naruto_, refused to grow up or accept reality until he managed to bring back Sasuke. For most of Shippuden, characters like Sakura and Kakashi kept telling him to give up on it. In the end, he succeeds.
+-   Kamina in _Tengen Toppa Gurren Lagann_. His brother (and successor) Simon was already considered this until the Anti-Spirals came and invoked him to believe that he and Kamina have caused humanity's doom. Rossiu took advantage of this with the more real plan after incarcerating the one proclaimed hero of humanity and went to Shoot the Dog several times. He would have caused humanity's extinction if not for Simon coming back in time. This is a deconstruction since Rossiu, even after being proven wrong, still refuses to accept the more optimistic outlook and is Driven to Suicide. Fortuantely, Simon snaps him out of it.
+-   _Now and Then, Here and There_ has Shu, an extremely optimistic person who is set into a hellhole where he experiences war, poverty and torture. Yet, despite everything he goes through, it pays off when Lala Ru is convinced there is still good in her world and goes through a Heroic Sacrifice to help restore it.
+-   _Sailor Moon_ repeatedly disproves Sailor Uranus and Neptune of their pragmaticism and skepticism, starting with not needing to sacrifice themselves and saving Hotaru from Mistress 9.
+-   _Strike Witches_ has Yoshika, the happy-go-lucky protagonist who hates fighting, even against alien warplanes that are out killing everyone, and goes as far as trying to communicate with them. Unfortunately, she's in a military wing who view the Neuroi as complete enemies and for good reason. It doesn't help that her first time to communicate nearly gets her commanding officer killed and the second results in a dishonorable discharge of the entire 501st Wing. Then the Warlock incident happens, which is exactly what Yoshika found upon interacting with the Neuroi. The end result: the Warlock goes out of control, destroys the Akagi, and likely claimed a number of lives along with the capital ship. While negotiating with Neuroi still highly unlikely, Minna (who also knew Mio's near-death came from near expenditure as a Witch) laments how the whole crisis would've been averted if they just listened to Yoshika in the first place.
+
+Film - Live Action
+
+-   _Captain America: The Winter Soldier_ has the classic American hero adapting to the contemporary world, which has grown cynical, especially in the world of S.H.I.E.L.D., an intelligence organization that "takes that world as it is, not as \[they'd\] like it to be". But that changes when they learn that their agency is run by the Captain's primary enemy, who are responsible for creating the cynical world in the first place. And Project Insight was their plan to Take Over the World. The Captain then gives a speech to do the right thing, no matter what the price is. Everyone, including the World Security Council, then decides to stand up against HYDRA.
+
+Literature
+
+-   At the end of _Roadside Picnic_, the main character realizes that his late Wide-Eyed Idealist of a partner on their Quest for a Wish, for all his naivety, had been the only one with a wish worth asking an omnipotent being for (namely, happiness for everyone in the world, with no strings attached).
+
+Live Action TV
+
+-   In _Halt and Catch Fire_, every time Donna and Gordon go against one of Cameron's seemingly absurd stances, it usually ends poorly.
+    -   In season 1, she adamantly insists on the Giant retaining the programming she wrote for it, even though it's more expensive, but they strip it out in order to cut down on costs, and the Giant ends up being a failure.
+    -   In season 2, she fights to keep Mutiny independent, but Donna and Gordon force her to make an agreement with Joe; Joe ends up stealing their network out from under them.
+    -   In season 3, she threatens to quit if Donna takes the company public, arguing that Mutiny is not ready and will get eaten alive in the financial sector. Donna bullies the other shareholders and gets a vote to go public; the company tanks in the stock market, and ends up dead within two years.
+-   _Parks and Recreation_ doesn't start like this, but develops into it over the first few seasons. It can be viewed most obviously in Leslie's love interests: first she's given Mark, a carefree playboy who served as a Foil to her high-strung Pollyanna personality and often acted as Only Sane Man pointing out how her ideas wouldn't work, often with the implication that she's more concerned with her own delusional impression of herself than reality. Two episodes before he departs the show, Ben arrives, and while he's also initially sceptical of her eternal optimism, by the end of the season he's clearly impressed by how much she's been able to achieve due to sheer drive and willpower, and it's then revealed that he himself used to be as dorky and optimistic as her before a string of mistakes left him cynical. After that, while characters might roll their eyes at Leslie's quirkier aspects, it's never doubted that she's a genuine force for good in Pawnee or that her hard work will pay off eventually.
+-   _Supernatural_ introduces Kelly Kline in Season 12. She's a fundamentally decent woman who happens to be carrying the ultra-powerful spawn of Lucifer in her womb. She gradually comes to believe that her son is not evil will make the world a better place, even convincing Castiel to adopt him since she will not survive the birth. It turns out that Jack is the ultimate Big Good of the whole series.
+
+Western Animation
+
+-   The final arc of _Avatar: The Last Airbender_ has Aang, a devout pacifist, confronting the fact that he may very well have to kill Fire Lord Ozai in order to save the world. Unable to deal with the thought of taking a life, he searches desperately for a solution, even as everyone he talks to (even a previous life who was also a pacifist) tells him that his responsibilities as the Avatar are much larger than his personal beliefs. In the end, he discovers a lost technique that allows him to more or less painlessly strip Ozai of his firebending, neutralizing him as a threat without the need to kill him.
+-   A recurring theme on _Wander over Yonder_. Wander strongly believes in The Power of Friendship and uses non-violent methods, while his more cynical best friend Sylvia tries to make him reconsider, telling him that not every problem can be solved with hugs. However, Wander usually wins out, with his kind acts rewarding him time and again.
+
+___

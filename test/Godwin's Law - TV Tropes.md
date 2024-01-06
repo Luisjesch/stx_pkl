@@ -1,0 +1,37 @@
+_"The word fascism has now no meaning except in so far as it signifies 'something not desirable.'"_
+
+— **George Orwell**, "Politics and the English Language", 1946
+
+Godwin's Law, also known as "Godwin's Rule of Nazi Analogies," is an "Internet law" describing the tendency of people on the Internet to say outrageous things to win arguments. Originated by Richard Sexton, it's named after Mike Godwin, longtime attorney for the Electronic Frontier Foundation (and at one time for the Wikimedia Foundation as well), who popularized the law in 1990 in this form:
+
+_As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches one._
+
+Godwin based this on his observation of behavior on Usenet. Net.Legends FAQs "Usenet Rule #4" later reformulated it to read:
+
+_Any off-topic mention of Hitler or Nazis will cause the thread it is mentioned in to come to an irrelevant and off-topic end very soon; every thread on Usenet has a constantly-increasing probability to contain such a mention._
+
+In the end, it's a simple observation, by now generally accepted across the Internet: whoever is the first to play the "Hitler card" has lost not only the argument, but whatever trace of respect they may have had. If you have to resort to comparing your adversary to the most infamous mass-murdering dictator in history, that generally means you've run out of _better_ arguments. Thus, once such a comparison is made, the thread can be presumed finished. The original "Godwin's Law" only spoke of Internet users' tendency to make frivolous Nazi comparisons, but the utter failure of those comparisons to work is now also enshrined in "Internet law".
+
+Note that there's an important distinction — the comparison to Nazis must be _frivolous_. The law is not supposed to apply to serious discussions of Nazi Germany or its policies on the Internet; Mike Godwin has long lamented frivolous invocation of his "law" to stifle such discussion, and has also lamented having to even clarify this aspect of the law. For example: following the infamous "Unite the Right" white supremacist rally in Charlottesville, Virginia in August 2017, he went on record saying that comparing the participants to Nazis was absolutely valid, and openly took aim at people who cited his law to discredit people who made such comparisons. This led to the creation of a corollary known as "Henderson's Law", an observation by Joel Henderson that the Internet's awareness of the law has resulted in its invocation at any comparison to Hitler or Nazis, no matter how accurate or on-point.
+
+The Internet being a place where no one is allowed to concede an argument, users have tried to find various workarounds where they can use their desperate rhetorical devices without violating Godwin's Law. They've tried:
+
+-   Not mentioning Hitler or Nazis directly (_e.g._ "you know who _else_ got rejected by an art school?"), thinking the law is about invoking Nazis' names rather than their ideas.
+-   Referencing other mass-murdering dictators, often Communists like Joseph Stalin, Mao Zedong, or Pol Pot. This doesn't even really avoid a Nazi comparison because the thinking is the same that leads to the Commie Nazis trope. In fact, the invocation of a communist leader in this sense is _itself_ worthy of a Nazi comparison, given how right-wing extremists are very prone to comparing their opponents to evil communists in a technique known as "red-baiting". If you don't want communists, you could try terrorists like al-Qaeda or Daesh.
+-   Referencing one's _own_ community's wrongdoings; for instance, American commenters (who seem to be the majority of the Internet) might invoke atrocities committed by the U.S. such as its history of slavery or the atomic bombings of Hiroshima and Nagasaki. The latter was so prevalent in the online _Harry Potter_ community that Fandom Wank coined the "Pacific Theatre Corollary" to refer to this strategy.
+-   Straining for a "legitimate" comparison to Nazi ideology, which tends to fail because Hitler Ate Sugar; something isn't wrong because the Nazis did it, but rather the Nazis are evil because some of the things they did were evil. (If you _actually_ have a legitimate comparison, that's when Henderson's Law applies.)
+
+But the Internet being what it is, invocation of Godwin's Law isn't always going to end the argument in your favour either:
+
+-   You can't just use Godwin's Law to shut down an actual pertinent comparison to Hitler. In some cases, discussion of Hitler and Nazism is absolutely necessary, especially where people clearly seem to like its worst policies; John Oliver once noted the need for a "reverse Godwin's Law" stating that if you _fail_ to address Hitler or Nazism when you need to, you _lose_ the debate. This is especially true when discussing genocide, as The Holocaust is generally considered the standard against which to measure other genocides.
+-   You also can't use Godwin's Law just because Hitler happened to be mentioned (the above-stated "Henderson's Law"). It ties in with the idea that you can't mention Hitler's name because he's so evil (and you can't invoke Hitler's desire to be remembered forever as a reason to never mention him again).
+-   "Quirk's Exception" states that attempting to invoke Godwin's Law _intentionally_ in order to force-terminate a thread rarely works. (All the same, shouting "Hitler!" is a fun way to express your opinion that a thread should be put to rest.)
+-   It's considered poor form to try to bait your opponent into mentioning Nazis so that you can use Godwin's Law against them.
+
+A real invocation of Godwin's Law is really an accusation of poor debating, as it amounts to accusing your opponent of comparing you to an atrocity so evil as to be non-debatable, which is not only _very_ rarely a fair comparison, but also is very insensitive to real-life victims and their descendants. Usually, it's seen as an act of desperation, in the sense that you've run out of better arguments, but for some people, it reflects a sincere belief (for instance, theists often claim that all morality comes from religion, so if you don't believe in God there's nothing stopping you from being as bad as Hitler — even though whether Hitler himself was really an atheist is a complicated question).
+
+The trope has been around even before the Nazis took power albeit taking a different form. Prior to World War II, the go-to villains were generally Biblical, such as the Nepharious Pharaoh (often thought to be Ramses II) from the Book of Exodus, and Pontius Pilate and Judas Iscariot from The Four Gospels. Attila the Hun was also often used, leading to the appellation of the Germans as "Huns" during World War I for their supposed savagery. But it shifted to Hitler almost as soon as the Nazis had been defeated; George Orwell observed the phenomenon as early as 1946 in his essay "Politics and the English Language", and ethical philosopher Leo Strauss coined the term _reductio ad Hitlerum_ to refer to it in 1953. Mike Godwin just observed how it went down on the Internet.
+
+See also Demonization (the broad rhetorical device) and Abomination Accusation Attack. Not to be confused with Godwin's Law of Time Travel, which has to do with Hitler's ability to win World War II because you went back in time, regardless of whether anything you did had anything to do with Hitler.
+
+___

@@ -1,0 +1,10 @@
+Please don't list this on a work's page as a trope.  
+Examples can go on the work's YMMV tab.
+
+Catharsis exists in all media — the term "catharsis" as applied to art comes from Aristotle's _Poetics_<sup>note&nbsp;</sup>  — but for most of history, most people had to watch others suffer and triumph, and they had to use empathy to connect the dots.
+
+Sometimes, the audience of a work finds a part satisfying and stress-relieving, such as, but not limited to, if a character they dislike has something bad happen to them, but perhaps the reaction comes from an event viewers find awesome for a different reason. However, this is subjective — stress relief for one viewer can be frustration for another, even on things that people agree are calming.
+
+Note that, in Real Life, most psychology experiments suggest that catharsis is not as cut-and-dried as popularly supposed. While cathartic events _do_ make you feel better at the time — hence their popular appeal — they don't really make you less tense or angry and they don't actually let you "vent off" emotion, especially when you stop doing them and go back to whatever it was you _were_ doing in the first place. Experiencing such reactions regularly or frequently will more often than not make you even _more_ prone to stress and anger fits, since it becomes a habit that gets readily associated with tense situations. In other words, if you punch a pillow to deal with stress, you are more likely to hit something at an inopportune time when stressed.
+
+See also Stress-Relieving Gameplay, for when catharsis comes from actions performed in video games. Not to be confused with In-Universe Catharsis, though overlap is certainly possible. Or the webcomic _Catharsis_, for that matter. See also: Percussive Therapy or The Villain Must Be Punished.

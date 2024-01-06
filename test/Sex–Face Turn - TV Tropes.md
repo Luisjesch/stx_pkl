@@ -1,0 +1,130 @@
+_"She wasn't enough to turn you, eh? Were you enough to turn her?"_
+
+It's hard to tell what does it exactly. Maybe it's the tendency of good guys to have larger Johnsons than their evil counterparts. Perhaps it's the realization that heroes tend to be Sex Gods while villains are the opposite. But for some reason or other, sending an evil woman to seduce a hero has a surprisingly high turnover rate. There's a very good chance that's she'll just decide to bat for the other team (moral team, that is) rather than stick to the original plan. The sexier the hero, the more likely this will work.
+
+To make some sense out of this trope, look at this way. Sex Equals Love right? And Love Redeems, right? So sex redeems. If you're a woman, anyway—this is rarely used with female heroes, making this something of a sexy Double Standard.
+
+The trope may have a foot on reality's ground, for less than intuitive reasons: usually the villain is a villain for _everyone_, including his or her female agents (who may get it even worse in their own camp compared with other minions of the Big Bad, for being at the same time female, spies _and_ whores). If the good guys prove their own goodness in bed, but at the same time in their manners, way of acting and treating her, this may be the last straw to convince her it's the proper time to switch boats.
+
+The trope can also be gender inverted, with a male (usually the protagonist) suddenly being a _lot_ more interested in helping some group after sleeping with a woman who's in the group.
+
+For more wordplay on related tropes, think of this as Sex Equals Redemption as opposed to Redemption Equals Sex. Here, the redemption comes after the sexual encounter instead of before.
+
+May or may not be a part of a High-Heel–Face Turn, In Love with the Mark or Romantic Fake–Real Turn. Very common as a result of Go Seduce My Archnemesis, markedly less so in a Honey Trap. If the sex itself doesn't cause redemption, but she gets knocked up and that _does_, it's Deliver Us from Evil. Also see Villainesses Want Heroes which is basically the same except she doesn't succeed. If initiated by a female character, she is always a Heroic Seductress.
+
+For a darker relative, see Rape Portrayed as Redemption. Related to Sex Is Good. May overlap with Defecting for Love if the connection is emotional as well as physical.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+     Anime and Manga  
+
+-   Okiku from _Afro Samurai_. It helps that she and Afro were Childhood Friends.
+-   Used as a gag <sup>note&nbsp;</sup>  in the third episode of _Fuuun Ishin Dai Shogun_: Houkoin's minion/sex slave Tsubaki is sent to keep Kirikou at bay from the main fight, so that the protagonist will be unable to fully use his Onigami. Kirino defeats her by using a ninja-technique to grope her into an orgasm and later pretty much feels her up to interrogate her. At the end of the episode, as Kirino is walking away, a blushing Tsubaki can be seen behind a tree, glaring adoringly at her.
+-   This is subverted/played around with in _GUN×SWORD_. Michael Garret performs a Face–Heel Turn and got along well with Fasalina. Eventually at one point, Fasalina opts to have sex with Michael, and while they still do not make their Heel–Face Turn officially, that event was a turning point that they do love each other and have other important thing between each other aside of serving The Claw. In the ending, it almost looked like they could stop being evil, until their relationship came to a rather rocky end. However, this granted them enough sympathy points that in _Super Robot Wars K_, they survive that event and finally perform their Heel–Face Turn there (provided that certain steps are taken).
+-   In the h-manga anthology _How to Conquer Monster Girls_, the first three chapters are dedicated to the story "Omnivore Hero," which shows The Hero, accompanied by his Sidekick (who has a crush on him) going on a quest to defeat the Demon Lord. The first two chapters mention that the Hero has such an Extreme Libido that human women were not enough to satisfy him, so he started going after monster women, and during his quest, while he slew the male monsters that were sent after him, the numerous female monster-assassins that were hired to kill him and monster-tribe leaders allied to the Demon Lord, he offered them the chance to have sex with him in exchange for sparing their lives or forming an alliance with him. The second chapter ends with the Hero having bested in bed the Demon Lord's most powerful underlings, and is disappointed to find out the Demon Lord is a male, and thus can't fornicate his way to victory. The third chapter begins with peace being restored to the realm after the Demon Lord surrendered right before the Final Battle at the sight of all his former allies siding with the Hero. Since the Hero couldn't just go out an seduce monster girls anymore, as they were banished to their respective realms, the Sidekick's mentor told her that he's becoming extremely sexually frustrated, and if his lust isn't satiated, he could become corrupted and become the new Demon Lord. To prevent that from happening, the mentor tells the Sidekick she has to satisfy the Hero's sexual urges, and they spend Their First Time together, where after several passionate romps, they confess their feelings for each other. The Distant Finale shows them married and with a daughter that they just put to bed, right before they go back to their bedchamber to start doing it again.
+-   Subverted in _JoJo's Bizarre Adventure_. Polnareff gets the idea of making Jotaro seduce Midler into sparing them after the woman in question admits having a Villainous Crush. Unfortunately, while a Chick Magnet he may be, Jotaro has No Social Skills and is even worse with romance.
+-   Satan becomes an angel again after being "purified" by Michael in _My Balls_, complete with The Immodest Orgasm and a Pillar of Light. It's that kind of series.
+-   In the h-manga, _My Sex-Crazed Life With the Insatiable Demon Queen_, a young man is transported into another world, to become The Hero that defeats the Demon Queen who offers him the chance to join forces and dominate the realm alongside her in their Final Battle, but he and his traveling party vanquishes her, as she swears she'll see him again. Back at the royal palace, the princess and the Hero says their goodbyes, as he was only there to defeat the Demon Queen, although the princess swears she'll find a way to summon him back so they can finally be together. Back in his world, the young man refuses his friend's offers to hook him up, saying he already likes someone else, and when he answers the door one day, he's surprised to see the Demon Queen, who tells him that her offer to join forces meant she wanted to bear his child, who would be the most powerful being in existence and she uses her magic powers to force herself on him. However, after living together for some time, the Demon Queen comments that instead of trying to Take Over the World, she should just open a restaurant when she learned to cook using modern appliances, and she and the young man become a loving couple. Meanwhile, in the other realm, the princess tells her head mage that enough time has passed and preparations are ready for her to lead an invasion into the hero's world, kill the Demon Queen, and "rescue" her beloved Hero. The ending narrating text is a journal entry written by the head mage, which mentions that the princess' actions led to an inter-dimensional war that devasted both worlds for generations.
+-   In _YuYu Hakusho_, after a female human doctor healed the demon Raizen, he intended to devour her. She calmly retorted that her body was saturated with deadly poisons she had ingested to produce primitive vaccines in her own blood, enough that even a demon would be killed. Raizen, mesmerized by her fearlessness made love with her and departed the next morning. Having spent his life killing, Raizen felt unworthy of her and refused to eat humans from that day on, even after her Death by Childbirth, starving to death over several centuries while hoping he would meet her reincarnation.
+
+     Comic Books 
+
+-   The original, 1940s Golden Age _Airboy_ series. Kissing the titular protagonist didn't turn Valkyrie, a Nazi air ace, against her superiors - finding out that her subordinates were about to be executed did. Unfortunately, many fans of the later 1980s incarnation of the series didn't have an opportunity to read the original stories, so they assumed that this was an example of the trope.
+-   Gender-flipped in _Ultimate X-Men_, in which Wolverine is sent by the Brotherhood of Mutants to infiltrate the X-Men and assassinate Xavier, but defects for real after entering a sexual relationship with Jean Grey. She is _not_ happy when she finds out.
+
+     Fanfic 
+
+-   Gender inverted in _Undocumented Features: Symphony of the Sword_, where Brainwashed and Crazy Saiyonji is redeemed by Azalynn having sex with him. Of course, for her, it's a religious ritual, and was also accompanied by talking him out of his craziness.
+
+-   In the _Death Note_ Slash Fic _A Cure for Love_ once Light becomes Kira again he's much more reluctant to kill L now that they've been sleeping together.
+-   Likewise in _Fever Dreams_, after having sex with L, Light decides he doesn't want to kill him and so he has to quickly rethink his strategy in order to negate the traps he'd set and cover his (and Misa's) tracks.
+-   Subverted in the _Kung Fu Panda_ fanfic _The Vow_: after Lord Shen forgives his former fiancée Lady Lianne of the betrayal she never did thirty years earlier, they rekindle their love and copulate. However, Shen stays true to his canon goals, telling to the shocked Lianne that nothing else than their relationship has changed. However, after he marries and subsequently releases her, he cheats death and is forced to live as his wife's secret prisoner, but still with her and their son.
+
+     Film 
+
+-   _Austin Powers: The Spy Who Shagged Me_. Ivonna Humpalot and Austin Powers.
+-   A major reason for Jake going native in _Avatar_ is the fact that he's boinking a very hot alien chick. The Colonel even calls him out on it.
+    
+    **Quaritch**: "So, what, you find yourself some local tail... and then you completely forget what team you're on?"
+    
+-   Lili Von Shtupp from _Blazing Saddles_ pulls this after being surprised and overjoyed at how big the black Sheriff Bart turns out to be. "_It's twue, it's twue!_" Had the censors and / or executives not objected, this was to have been played with for parody; Bart's next line after this was to have been to politely point out that Lili was, in fact, sucking on his elbow. ...which is very interesting, because as written it subverts and mocks the stereotype, but as played it reinforces it, making it more _bigoted_—-showing where the executives' priorities were.
+-   A Gender Flipped version occurs in _The Crimson Pirate_, with Vallo (the title character) agreeing to kidnap rebel leader El Libre and sell him to British authorities, until he falls in love with El Libre's daughter Consuelo.
+-   The _James Bond_ franchise might as well be the epitome of this trope, as most of the female antagonists shown in the franchise end up turning good after making out with 007. Examples include:
+    -   Tatiana Romanova in _From Russia with Love_. She is assigned to seduce Bond in the first place as part of a Honey Trap but really falls in love with him after she is successful.
+    -   Pussy Galore in _Goldfinger_, which is a turn in more ways than one; it's implied in the film that Ms. Galore is a lesbian before her encounter with Bond (that's explicitly the case in Ian Fleming's novel). This is one of the less convincing versions, so it's likely this was why the trope was averted in the following movie:
+    -   Lampshaded and mocked spectacularly in _Thunderball_ by nasty girl Fiona:
+        
+        \[she steps on Bond's foot\]
+        
+        **Fiona:** ... but not this one!
+        
+        -   Bond lampshades it himself immediately before this:
+    -   Tiffany Case in _Diamonds Are Forever_ is an ambiguous case. She's openly impressed with Bond but she's also playing the odds of which side is likely to win.
+    -   _Live and Let Die_. Solitaire switches sides after Bond sleeps with her, but it was clear she held at least some grudge against Kananga already, sending Bond a covert warning that a fellow agent was treacherous. When Bond tells Solitaire that he stacked the deck of cards predicting they would become lovers, she's neither upset nor surprised.
+    -   Averted in _A View to a Kill_. Bond does sleep with Zorin's main henchwoman (and lover) May Day, but when she eventually turns against her boss, it's because Zorin knowingly left her to her death, not because she's smitten with Bond's manly ways. In fact, May Day could be said to be manlier than Bond himself.
+    -   Averted in _Die Another Day_, in which Miranda Frost has sex with Bond to distract him so that she can convince him she is still on his side and sabotage his gun.
+-   Played with in _North By Northwest_. Eve clearly falls in love with protagonist Roger when she is ordered to seduce him by her boyfriend Vandamm, but shows no sign of actually leaving Vandamm for him. Then it turns out she's actually The Mole for the federal government and is staying with Vandamm so she can keep providing information for them, subverting the trope entirely.
+-   Gila in _Our Man Flint_, with Derek Flint.
+-   In _The Pink Panther Strikes Again_, the same effect is achieved not by the antagonistic woman actually seducing Clouseau, but by having her sleep with someone she _thought_ was him when it was in fact another member of the same multi-national Carnival of Killers as her. This leaves Clouseau very confused when she suddenly appears naked in his bed professing her undying love for him.
+-   _Revenge of the Nerds_: Betty is more of the Alpha Bitch than an actual enemy, but she IS the Alpha Beta leader's girlfriend until Lewis Skolnick covertly has sex with (i.e. rapes) her in the Moon Room during the Carnival.
+    
+    **Lewis**: Jocks only think about sports. We \[nerds\] only think about sex.
+    
+-   Averted with Loretta in _The Sting_. She sleeps with Johnny Hooker because she's the hitman "Salino" who's been hired to kill him. Somewhat played with because the character the audience thinks is the hitman is actually a bodyguard hired by Gondorff for Johnny's protection. It doesn't hurt that up until the very last second, the audience thinks that the only person who would help Johnny has just been shot by the 'man' gunning for him.
+-   Achilles in _Troy_ with Briseis. He gains a heart and purpose from there on.
+-   _Undercover Brother_. White She Devil and the title character.
+-   Sorsha from _Willow_ with Madmartigan.
+
+     Literature 
+
+-   In _Dragon Bones_, nobleman Garranon sleeps with the king, and _does_ get to keep his lands, even though his part of the country was involved in a revolution, and most other nobles whose parents were involved in the rebellion got their land taken away. However, in an subversion, the king is just as much of a greedy bastard as ever, and doesn't even dream of giving independence to Garranon's homeland. Even though trying to invoke this trope is the _only_ reason why Garranon consents to have sex with him in the first place.
+-   Used in _The Epic of Gilgamesh_, making this Older Than Dirt. (Except in this case, it's less "Good vs. Evil" and more "Order vs. Chaos.") Enkidu starts off as a wild man, and then he has sex with Shamhat, a temple prostitute over the course of a week. By the end of the week, he is civilized. (It's not clear whether this was a _direct_ result of the sex, or whether Shamhat used sex as a reward for appropriate behavior, thus "training" Enkidu.)
+-   Happens to half the women Golan Trevize meets in Isaac Asimov's _Foundation_ series, two examples being Hiroko in Alpha Centauri and the transport minister in Comporellon.
+-   This occurs at least twice in the _Incarnations of Immortality_ series. Incidentally, the series also includes a Sex _Heel_ Turn. However, the Go Seduce My Archnemesis plan worked a little _too_ well, and the newly minted Anti-Villain comes out on top of the ensuing Evil Versus Evil struggle.
+-   Tahiri Veila in _Legacy of the Force_. Subverted in that she doesn't actually have sex with Ben. Oh, and Ben's 14 and she's 28, making this an example of Squick. Of course, much Fanon says his father did the same to his mother, making this trope (and just about everything else a Skywalker does) In the Blood. Also subverted, in that instead of the 'sex face turn' working, he converts _her_ later on.
+-   In _Kushiel's Dart_ two different characters Quincel de Mortbahn and Eamonn of the Dalrida serve as major obstacles to Phèdre's quest to journey to Alba and help Drustan regain his throne so he can bring aid to Ysandre and are persuaded to become more helpful with the promise of a night with Phèdre. In the sequel, _Kushiel's Chosen_, we have Severio Stregazza, who's a complete Jerkass and generally unpleasant to everyone at court—again, until he becomes Phèdre's first patron, at which point he becomes a pleasant, kind, and helpful ally.
+-   An Invoked Trope in _Do Androids Dream of Electric Sheep?_. Androids have been seducing the bounty hunters hunting them to create empathy and thus a reluctance to kill them.
+-   In _Shadow of the Conqueror,_ this is a tenet of the Matriology religion, and the source of one of their largest disputes with Lightseekers. Daylen takes the opportunity to make some quips about the Matrian "Cleansing Ordinance" when he's in Frey, among the Matrians.
+-   _InCryptid_: Dominic's Belligerent Sexual Tension with Verity leads to them hooking up, after which he starts questioning his Covenant beliefs and seeing cryptids as people. He ends up Defecting for Love after the Covenant kidnaps Verity.
+
+     Live-Action TV 
+
+-   Kind of played with in _Angel_ at the end of Season 3, where Lilah tries to recruit the abandoned Wesley, even claiming he shouldn't pretend he is too good to work for Wolfram & Hart since he betrayed Team Angel. They end up having sex and develop very quirky feelings for each other, even to the degree of relationship-like behaviour. Well, she was rather turned Face than Wesley Heel. What are the odds ...
+    -   On _Buffy_, the opposite happened. Angel literally lost his soul and turned evil when he had sex with Buffy, because of a moment of true happiness. Granted, he was kinda cursed to that fate. Spike plays the trope straight-ish, though.
+-   Season 1 of _Battlestar Galactica_ has Caprica-Sharon pulling one of these after a night with Helo. Ironically, Boomer's sex with Helo, in season 4, only sets up her Moral Event Horizon. A meta-subversion of this trope occurs in the opening moments of the Season 3 premiere: Ellen Tigh is seen sleeping with Cavil, to release Saul Tigh from Detention. Subversion because Cavil ain't one of the good guys and meta because while we can presume this is not her first selfless act, it is the first one the audience sees, and so serves as an inadvertent representation of our increased sympathy for her.
+-   Cole Turner of _Charmed (1998)_ is a half-human demon sent to bring the Charmed Ones down by posing as a boyfriend of Phoebe's. Naturally, he begins to fall in love with her for real, and is therefore conflicted about his mission. While he initially hides from his feelings, Phoebe pursues him and they share a passionate night together. It's after that that Cole's Heel–Face Turn properly begins.
+-   _Daredevil_: In the midst of learning about Matt's nighttime activities, Foggy has a one-night stand with ex-girlfriend Marci Stahl. By the end of the season 1 finale, Foggy reminds Marci of what he said to her in her first episode that "she used to have a soul," and convinces her to help Nelson & Murdock dismantle Wilson Fisk's organization. Subsequently, Foggy and Marci's relationship rebuilds itself. They are both working at Hogarth, Chao & Benowitz by the end of season 2, they are back to full-time dating by the start of _TheDefenders_, and by _Daredevil_ season 3, they are shown to be living together and considering marriage.
+-   _Game of Thrones_. Wildling girl Ygritte works out that Jon Snow is a Fake Defector, but hopes to turn him to their side via this trope. It sort of works, although Ygritte gets killed: Jon doesn't leave the Watch but he does become an advocate for them. To the point of being assassinated for his advocacy. Also, the only time he is ever shown lying is to save Mance Rayder and his remaining followers from execution by Stannis Baratheon. Though the Heel–Face Turn isn't so much on the part of Jon as it is on the part of the other Watch members: notably Samwell Tarly. Jon already respected the wildlings, it was the other Watch members who treated them badly. Also, Ygritte misreads his awkwardness as meaning he's a virgin. Actually, it's because he has some hang-ups about sex due to being a bastard. when they get to a nice warm spot, she starts to tease him with her catchphrase "you know nothing Jon Snow" while disrobing, only to be interrupted as he proves that this the one thing he _does_ know about.<sup>note&nbsp;</sup> 
+-   Nearly happened in season four of _Gossip Girl_. Juliet's main goal is to destroy Serena, but begins to turn away from that plan after she jumps into bed with Nate. Then Vanessa convinces her to go back to the dark side.
+-   On _Hercules: The Legendary Journeys_ however, everyone the Hercster slept with went from unpleasant or downright evil to virtuous and demure. His strength was apparently not his only divine ability.
+-   Averted in season 3 of _Heroes_. The viewers are led to believe this is going to happen when it looks like Sylar is falling for Elle. (Admittedly, Elle isn't exactly a shining paragon of White Morality, but any influence she can have at this point can't help but be for the better.) They end up on a beach alone at night, and just as Elle and the viewers think he's going to tell her how she saved him and they're going to sleep together... Sylar whispers that they're both "damaged goods" and can never change, and then he brutally murders her.
+-   _House_, the season 6 premiere. Kind of. He's still a sociopath afterward, but at least he's not a crazy sociopath.
+-   On an episode of _Wings_, after Brian reports the improbable-but-true circumstances of his house burning down, a tough insurance inspector arrives to investigate him for fraud. She mercilessly builds her case against Brian, refusing to even consider his innocence... until she and Antonio have a wild passionate hook-up, and in the course of doing so accidentally start a fire that's comedically similar to the circumstances around Brian's house fire. The episode ends with the inspector unceremoniously dropping the case.
+-   Cruelly subverted in _American Gothic (1995)_, in which Dr. Billy's attempt to seduce Lucas's girlfriend Selena to the path of good ends up with her trying to kill Lucas for entirely selfish reasons and framing Billy for it. This was the result of Writer Revolt on the part of the entire writing team, who had been forced to create Billy by Executive Meddling demands for a conventionally macho hero to be introduced, and took it out on the character.
+
+     Mythology 
+
+-   In _The Epic of Gilgamesh_, Enkidu starts off as wild and uncivilized, but then has sex with a temple prostitute named Shamhat over the course of a week. (Perhaps she was using sex as a reward for desirable behavior on Enkidu's part?) By the end of the week, Enkidu is civilized, and no longer roams around with animal companions in the forest, but rather befriends Gilgamesh. Enkidu _does_ blame Shamhat for his death and curses her, however, because if it weren't for her, he would have remained a wild man and not gotten caught up in all the mess he and Gilgamesh did. The sun god reminds him that he is better off because of her, and Enkidu takes back the curse he put on her.
+
+     Professional Wrestling 
+
+-   Beulah McGillicutty turned face in ECW after sleeping with Tommy Dreamer
+-   The Lovely Lacey gradually turned face in Ring of Honor after sleeping with Austin Aries
+
+     Video Games 
+
+-   Can be done in _Liberal Crime Squad_: high seduction can convert CIA agents, and even the corporate CEO.
+-   Eva had simple orders in _Metal Gear Solid 3: Snake Eater_: seduce Naked Snake, steal the Philosopher's Legacy from him, and kill him. In the end, she does steal the Legacy, but leaves him alive with a recording explaining her involvement, and her connection to The Boss. They meet again with much plot relevance before _Metal Gear Solid 4: Guns of the Patriots_. Possibly subverted when Eva claims that it wasn't her feelings for Snake that stopped her from killing him, but the respect she had for the Boss, who made Eva promise she would let him live.
+-   Possibly gender inverted in the _Neverwinter Nights_ mod _A Dance with Rogues_, where having sex with Vico in the second chapter leads you down a path in which he is a somewhat nicer person than your other options in that scene. Played straight in _The Bastard of Kosigan_, in the first module with the female mercenary in the forest north of Cologne. Having sex with her is an optional part of her Heel–Face Turn, though.
+-   Early in _Sengoku Rance_, Suzume is dispatched by Inukai of Iga to seduce and kill Rance. She chooses to defect to Oda after having sex with him. Since when is Rance a good guy? When the plot calls for it. Relatively speaking.
+
+     Web Original 
+
+-   The _Evil Overlord List_, #19. Stick to the list and you shall succeed.
+-   Leather from _Interviewing Leather_, has some _really_ nasty things to say about "heroes" who think they can redeem a supervillainess by sleeping with her.
+
+___

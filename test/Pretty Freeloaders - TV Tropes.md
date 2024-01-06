@@ -1,0 +1,162 @@
+_"Now you don't need money when you look like that, do ya honey?"_
+
+— **Jet**, "Are You Gonna Be My Girl"
+
+Pretty Freeloaders are a common Harem Genre archetype, and occasionally show up in other genres too: They are girls (or sometimes guys), who move in with the protagonist and just stay there, without actually doing anything (or anyone, mostly), or paying for anything. However, unlike many such freeloaders this type usually manages to get away with it by virtue of being sufficiently good looking and sexy.
+
+Related to "Friends" Rent Control, as the characters' ability to do this is frequently handwaved as one of the characters having a rich family, the main character won a giant house and commodities in a contest, etc., and the plot point is promptly forgotten for the rest of the series. If this behavior is tolerated or encouraged, it may be due to Favors for the Sexy. If someone gets sick of them, usually roommates who are Not Distracted by the Sexy and just want them out, it usually turns into The Thing That Would Not Leave.
+
+See also the Gold Digger, who may turn into a non-platonic version of this trope once they've got their hooks into a suitably wealthy sugar-daddy/mommy. Related to, but distinct from Beauty Breeds Laziness, which involves a character using their looks to coast through life in general.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   Inverted in _Air Gear_, where _the main character_ Itsuki/Ikki is the one freeloading from his childhood friends, the beautiful and quite badass Noyamano sisters. (With one of them being his Unlucky Childhood Friend Ringo though she _may_ not be that unlucky now in the manga.) They make him "pay" via pretty much having him as their busboy.
+-   A rather disturbing example is used in one Junji Ito story, _The Bizarre Hikizuri Siblings - Second Daughter's Lover_. The protagonist is contacted by a pretty classmate who's threatening suicide because she can't stand living with her creepy, weird siblings anymore. He stops her attempt, takes pity on her, and lets her live with him. From then on, all she does is laze around the house while he works to support both of them. Every time he suggests she get a job or go live somewhere else, she starts accusing him of not wanting her at all and threatening to kill herself. She's taken back by her siblings and seemingly goes through with Self-Immolation, which leads to her siblings blaming the protagonist for her death and forcing him to spend the night with her charcoal-like remains. After he dies of a heart attack from the stress of it, it turns out she's alive as well and fakes suicide constantly.
+-   In _Bleach_, any shinigami stationed for an extended period in the living world ends up freeloading off someone. The most notable is Rukia, who spends months at a time living in Ichigo's closet and later rooms temporarily with his sisters Yuzu and Karin. (Oddly, Renji is called a freeloader, even though he stays with Urahara, who makes him earn his keep with chores.) Meanwhile Rangiku and Hitsugaya stay with Orihime, and Ikkaku and Yumichika stay with Keigo. (Mostly because Keigo's sister Mizuho has a crush on Ikkaku. Or better said, she likes him because she has a thing for bald guys.)
+-   _Code Geass_:
+    -   C.C. showed up at Lelouch's house (after he thought she was killed) and quickly settled in, taking his bed for her own ("A gentleman would sleep on the floor") and ordering pizza on his dime. As she points out, this kind of _has_ to happen, since she's a fugitive from Britannia, and they're partners thanks to his Geass contract, but that doesn't exactly cheer him up. At the very least, she helps take care of Nunnally, Lelouch's blind and parapalegic younger sister.
+    -   To complicate this, Lelouch and Nunnally were in some sense freeloading off the Ashfords, who let them stay there. Surely Lelouch's gambling was not the only thing paying for all the food that he, Nunnally, and C.C. ate. (An audio drama suggests that Lord Ashford's motives for taking Lelouch and Nunnally in were not selfless.) The Ashfords even sent one of their maids (formerly Milly's) to help take care of Nunnally.
+-   Not part of a harem, but Faye Valentine from _Cowboy Bebop_ invites herself over to the Bebop, seems to do much less work than the other three and eats and complains a lot. The others even openly wonder a few times why they let her do that, but the viewer can imagine.
+-   Deconstructed with Misaki in _Domestic Girlfriend._ She ends up being a drug runner and both she and Natsuo end up kidnapped by gangsters and nearly killed after they catch her stealing some of the supply for her own personal use.
+-   In _Dragon Ball_ Oolong kidnaps several young girls hoping they will take care of his house. Instead they end up becoming this.
+-   The entire cast of _Happy Lesson_, who tend to annoy Chitose at the worst possible times, and were once kicked out of his house as a result. This makes the pseudo-Last Minute Hook Up plotline involving one of the teachers all the more unusual. The freeloader part may be subverted, considering all the mothers are full-time teachers or a nurse. It's implied they pay the food bill, since they once ask how much Hazuki spends on eating.
+-   _Heaven's Lost Property_ : Justified, because angeloids were designed to only follow a master's orders and cannot provide for theselves. The protagonist complains many times on how this is hurting his finances. Now he can't even afford to buy a DVD. Later, Astraea turning out to be a Big Eater doesn't help (He and Nymph are reluctant in accepting her staying at their house). This leads to a new medical angeloid, Oregano, being given away to a rich Yakuza Princess (and being used as a weapon, only Played for Laughs). Later, the protagonist ends up trying to kick all of the angeloids out of his house in a comedy scene. Subverted Trope: in a spin-off manga, Ikaros is seen working as a waitress.
+-   Austria does this to Germany in _Hetalia: Axis Powers_, although it is justified seeing as Germany did force him to come under his rule.
+-   Justified in _Kaguya-sama: Love Is War_. Hayasaka becomes a NEET after graduation as having worked for the Shinomiya family ever since she was seven has left her with a strong desire to just relax, helped by the fact that her decade of service left her with a sizable savings to draw from. She alternates her time between traveling the world and lazing about at Fujiwara's apartment (she was originally staying with Kaguya, but was kicked out after only three days).
+-   In another hentai manga called _Maid Bride_, the first chapters concern a girl who blackmails her next-door neighbor into letting her stay with him as a maid who does nothing by telling him she knows what he does at night alone.
+-   _Miss Kobayashi's Dragon Maid_:
+    -   Kanna never contributes to Kobayashi's household, though it's justified by the fact that she's a young child who wouldn't be able to legally hold a job. Her father does offer Kobayashi financial compensation for looking after her when he first shows up, but its unknown if that ever came to pass.
+    -   Discussed when Lucoa moves in with Shouta and Tohru points out that she can't just stay there for free. Lucoa does offer several gifts (up to and including sexual favors) but Shouta turns them all down. She eventually gets a job in her spin-off, working as the new nurse at Shouta's elementary school.
+    -   Ilulu initially just kind of hangs out at Kobayashi's apartment following her Heel–Face Turn, but after a while Tohru forces her to get a job and she starts working part-time at a candy store.
+    -   Fanfir is never mentioned to be paying Takiya any sort of rent, though it wouldn't be out of reason to assume that he's giving him funds from his Dragon Hoard.
+-   _Monster Musume_: Initially played straight, but the girls gradually realize that they couldn't rely on Kimihito all the time and have to take care of themselves. As of Chapter 43, with the exceptions of Papi and Suu, who are too mentally immature to hold a job (not to mention that Suu, as a slime girl, is an open secret and not actually covered by the interspecies exchange program), and Lala, all of the girls living at Kimihito's house have a job, are actively seeking one, or have personal wealth to make it up; even Rachnera, who gets frequent requests for her silk from various laboratories.
+-   In _My Bride is a Mermaid_, San, Maki, and Lunar all end up living in Nagasumi's house. In San's case it's justified, as she and Nagasumi are engaged, but Maki and Lunar just sort of moved in on their own. Maki tries to justify herself as being Sun's bodyguard, and she's often shown waking up Nagasume every morning by trying to kill him. (She is an assassin after all). Lunar moved in just so she can keep watch over her newly self-appointed man-servant. It is subverted later on, when Sun and Lunar's fathers (who are yakuza bosses) pay for the damage that they and their daughters cause to the house.
+-   _My Hero Academia: Vigilantes_: Pop Step and Knuckleduster just show up at Koichi's place after they stop their first crime together. They ignore all his attempts to remind them that it's his house and they can't just barge in. While they don't sleep there (and they both have their own places), they spend all the rest of their time there, with Pop even putting up a curtain and claiming a good chunk of the square footage as hers.
+-   _Nagasarete Airantou_ gender-inverts this, with The Hero Ikuto living under the same roof as the female lead Suzu. Neither of them, however, is willing to capitalize on the situation (even under the urging of Suzu's great-grandmother), seeing as Suzu is an Innocent Fanservice Girl that is _very_ Oblivious to Love and Ikuto is a Celibate Hero.
+-   The eponymous Niea from _Niea\_7_ is an alien girl who decides to live in Mayuko's closet, eating her food and generally being a nuisance with her boisterous attitude.
+-   Around halfway through _Noein_ Haruka takes advantage of her mom's Parental Obliviousness to let Karasu and the other Dragon Knights crash at her place. She tells her mom they are bird watchers.
+-   Aisha and Suzuka from _Outlaw Star_. Technically, they're not freeloading as Aisha takes menial jobs to pay her way and both usually end up working the same job as Gene (he's too afraid of Suzuka to actually charge her rent). They're more like unusual roommates. Also, they _do_ occupy useful positions in Grappler One/Outlaw Star's crew, so they definitely earn their keep.
+-   _Puni Puni☆Poemi_ has the titular character take this role after she "loses" her family.
+-   _The Quintessential Quintuplets_: After a huge spat causes Nino and Itsuki to run away from home, the latter ends up staying at Fuutarou's home. She chose this place because, one, she ran away without money because she left her wallet, and two, she's the only one who knows where Fuutarou lives, so the others won't be able to find her there.
+-   Inverted in _Ranma ½_, where the object of the Unwanted Harem's affections stays and eats at one of the girls' houses 24/7.
+-   A sizable portion of the cast of _Read or Die_ ends up living in Nenene's apartment by the end of the TV series. Any incidental earnings from their detective jobs is mostly squandered on their bibliophile habits.
+-   _Reborn! (2004)_:
+    -   Tsuna has this problem. Reborn, Bianchi, I-Pin, and Lambo tended to be the more permanent moochers in his house (at least in the first half). However, Gokudera, Yamamoto, and Haru also fit this trope every now and then, at certain points in the story. (And even though Gokudera and Yamamoto are _supposed_ to have the job of protecting Tsuna, Tsuna has shown numerous times that he doesn't actually _need_ their protection all that much).
+    -   On the other hand, Sayoko's scheme _does_ pay off in the end, so it's not really fruitless mooching. And Satoru definitely gets his money worth in other departments.
+-   Jun's living doll troupe in _Rozen Maiden_. Justified, in that they are dolls and could not work for a living anyway.
+-   Primarily subverted in _Sekirei_. Minato's harem are expected to earn their keep, as Miya makes it clear that those that don't contribute won't eat. Hikari and Hibiki likewise earn their keep, working a variety of odd jobs to (barely) survive. Shiina takes up a domestic role, cooking and cleaning for Yukari. On the other hand, Mikogami's army of Sekirei play it absolutely straight, living off his parents' wealth and hanging around his Big Fancy House.
+-   Anna from _Shaman King_, who takes advantage of her engagement to Yoh in order to do nothing that hasn't been paid for by someone else, usually Yoh or Manta. In the dubbed version of Trey (Horohoro)'s intro episode, she actually tells him "No freeloaders". In Anna's defense she not only is Yoh's girlfriend but she considers the Training from Hell menus she organizes for him (and making sure that he follows them) as payment — and since Yoh _does_ become stronger, she's right.
+-   _Tenchi Muyo!_'s treatment of the group as this versus a harem fluctuates depending on continuity. Ironically, Kiyone is the only character who is (consistently) _embarrassed_ at being a literal pretty freeloader, as she's initially forced to mooch off the cast after being stranded on Earth with Mihoshi.
+    -   This was addressed a little in the Spinoff manga. Mihoshi does give part of her paycheck to pay for rent and all the damage she causes. Of course, given that Mihoshi comes from one of the richest families in the known universe, she probably doesn't even notice her paycheck.
+        -   Note that a _part_ of a GalPol officer paycheck is enough for Seina's family in _GXP_ to afford a Big Fancy House. Even if Seina does the most extreme job in the Galaxy Police (as essentially glorified bait/bounty hunter combo and with his "luck", he has netted more pirates than anyone else), which translates into quite a large income, the Yamadas move out _before_ he starts doing this, and is still just a cadet.
+    -   In the OVA continuity, especially later on, when it moved from its original Rule of Funny\-driven action comedy premise into a more straightforward Space Opera setting, it was implied that all Earth!Masakis' financial problems, whether real or imaginary, are little more than Masquerade, as their family is actually _much richer_ than the Kuramitsu clan. They are, after all, members of the Jurai royal family...and nowhere near as isolated from Jurai as they let on.
+    -   However, Tenchi quit attending school and started farming for carrots for feeding Ryouki. That at least showed that they have had issues regarding fuel or spaceships...
+-   The four Pretty Boys from _The Wallflower_ desire to be this so badly that they accept their landlady's deal of turning her niece, Sunako, into a lady and thus win free rent, essentially setting up the plot of the entire series.
+-   Elsea from _The World God Only Knows_ manages to move in with Keima and his mother... by telling the latter that she's _the illegitimate daughter of her husband_. Although she does help out in their coffee shop quite a bit, doing most of the cleaning that Keima's too busy gaming to do.
+-   _Yuuutsu-kun to Succubus-san_: Inverted. Sakuma calls herself a freeloader, but she's the one who works to bring in money. She takes on the obligation after making Yuu leave his job due to how it overworked him to the point of intense depression. They're able to get by on what she makes on top of Yuu's severance/retirement pay.
+
+    Comedy 
+
+-   In _The Unfinished Spelling Errors of Bolkien_, Elrond hangs out in Théoden's tent. Théoden gets a bit tired of it.
+
+    Fan Works 
+
+-   Gender-flipped in _All You Need Is Love_ with Light, L, and Matsuda crashing at Naomi's place.
+-   Rai the main character of _Code Geass: Colorless Memories_ though a Downplayed example. Like Lelouch and Nunnally, Rai is staying in the school clubhouse thanks to Milly being one of the Ashford's and thus having a lot of pull at the school. Rai at least feels guilt about this (despite Milly's assurances) and helps out at the student council regularly to make up for it.
+-   _Fate/Harem Antics_: As should be expected, given the premise and the use of this trope in canon. After Sakura's house gets blown up during Rider's Summoning Ritual, Rider encourages her to move in with Shirou. Saber, of course, is also living with Shirou since she's his Servant. Rin and her Servant Archer also start spending all their time there once Rin allies with Shirou and Sakura. Ayako and Assassin, while not officially allied, also start hanging out at the house a lot. Kirei (who is secretly the Big Bad) has to deal with the magical Enforcer Bazett (who he tried to murder, but she didn't notice) and her Servant Lancer, as well as Caren (his long-lost daughter who hates him) and her Servant Shielder, all living with him.
+-   When Keitaro first arrives in _Love Hina: Like It Could Have Been_, Kitsune hasn't paid her rent in two months. After he refuses to take over, Haruka steps up and informs her that she'll have to come up with the money before the next month is up, or else she'll be evicted.
+    -   Similarly, she has to face the consequences of this in _An Alternate Keitaro Urashima_.
+-   Subverted in _A Necromancer's Wild Card_ with a male example, Minato Arisato. He makes food sometimes while living in Ayumu's home.
+
+    Literature 
+
+-   _A Certain Magical Index_: Index, and by the end of the first Story Arc Touma doesn't even remember why! At one point, Touma finally gets sick of it and tells her to clean the bathroom and make herself useful, and she ends up pouring detergent into the bathtub heater and nearly starts a fire.
+-   The short story "Even a Loser Can Win" features a severely downplayed version: Lara moves into the narrator's home without asking, but she's gainfully employed, pays all her own expenses (with the possible exception of rent), and is a positive, pro-social influence on the unemployed, alcoholic narrator. This turns out to be part of a scheme to manipulate him into parting with his lottery winnings, implying that her long-term goal was to play this trope completely straight.
+-   _High School D×D_ starts straightforward, then plays with this a bit. At first, it's just Asia living in the Hyoudou house's spare room — it was this or homelessness, and Issei and his parents were hardly going to kick her out. Then Rias moves in as well, and she could very easily pay her own way. Then when the rest of the harem moves in, it gets completely flipped and averted in one move — the house is renovated into a palatial mansion overnight, and it's all but outright stated that Rias is footing the bills now. She tolerates Issei's parents, since she treats them as future in-laws anyway (and they could be paying doctored bills without noticing), almost all the rest of the residents are members of her Peerage and do Devil work for her, and the one exception is effectively a VIP diplomat.
+    -   Later the house acquires two more straight examples: Le Fey, who lives unobtrusively in a room in the basement, and Kuroka, who's been after Issei's genes from day one and so just offers to make her cohabitation less innocent whenever rent is mentioned.
+        -   They can be considered to be contributing (somewhat) in their own way in the later volumes. Kuroka is helping Koneko and Gasper train. Her training helped Koneko unlock Shirone Mode thus increasing Team Rias' firepower. Le Fey on the other hand becomes Issei's magician contractor, so she may likely contribute in the future.
+-   In _Is This A Zombie?_, Ayumu Aikawa is forced to house and feed Necromancer Eucliwood, Magical Garment Girl Haruna, and Seraphim, a Vampire Ninja. Hilarity Ensues. Although they do help out in the house later except Eucliwood. Averted with Maelstrom, who doesn't live with Ayumu despite being married to him.
+-   Zigzagged in _Nyaruko: Crawling with Love!_ with Nyarko, Cuuko, and Hasta insinuating themselves into the Yasaka household. All three of them have steady jobs (Nyarko's apparently pays well enough that she can splurge on Otaku goods), but for the most part they just go to high school with Mahiro and laze about the house all day. On occasion they'll offer to help out (Nyarko moreso than the others), but since her cooking is almost always iffy and their idea of cleaning house only makes it messier, it's probably better that they don't.
+-   _The Rising of the Shield Hero_: Motoyasu's party consists solely of women who cheer him on from the sidelines. Justified in that Malty both wants to enjoy the benefits of being in the party and doesn't want anyone to outshine her. As such she used her status and other underhanded methods to quietly drive off everyone except for other parasites like herself, and she only tolerates them because they defer to her.
+
+    Live-Action TV 
+
+-   _The Big Bang Theory_:
+    -   Penny is a relatively mild version of this. She doesn't live with the guys, but she eats their food whenever they get takeout (most nights) and uses their wi-fi since she refuses to pay for her own. This is lampshaded many times: Sheldon complains about it and frequently changes the wi-fi password ("Penny already eats our food; she can pay for Wi-Fi. No spaces."), only for Leonard to promptly inform her of the change. Sheldon even changes the wi-fi password to "Penny is a freeloader" and Penny accepts it without seeming to care. Howard and Raj wonder why Leonard allows her to do this, even when they're not dating. That said, a number of times she does take their criticism to heart and tries to give a token meal or gift to the guys for their generosity.
+        
+        **Leonard:** _(to Penny)_ How can you walk around with no money?  
+        **Penny:** I'm cute, I get by.
+        
+    -   Sheldon lampshades it in "The Earworm Reverberation" while recording his messages to his future self:
+        
+        This is Penny. She is your friend. If she offers you food, it's safe to take it. You probably paid for it anyway.
+        
+    -   Katie from the unaired pilot was shown running out to parties in the middle of the night and coming back completely hammered. She even went as far as saying that the apartment was the only place she could stay rent free without having to sleep with anyone.
+-   Lynn from _Girlfriends_, who in the pilot episode gets kicked out of Toni's place, and has been a squatter at one time or another in Joan's house, Joan's yard, Maya's spare room, William's house and William's yard.
+-   Robin from _How I Met Your Mother_ has apparently never paid for coffee, food or _rent_ in New York until she got engaged.
+-   Kelly Bundy from _Married... with Children_, who makes no effort to apply herself at high school so she can pursue a successful career later on and become self-sufficient. She instead relies upon other men and teenage boys, including her father Al, to supply her with all of life's most basic essentials such as food and housing.
+
+    Music 
+
+-   Hinted at in Julie Brown's "'Cause I'm a Blond" (from _Earth Girls Are Easy_):
+    
+    "When I see people working, it just makes me giggle.  
+    'cause I don't have to work, I just have to jiggle!"
+    
+-   The Offspring's "Why Don't You Get a Job?" is about either a Pretty Freeloader or an Unwanted Spouse. The last verse also contains a Spear Counterpart version, a man mooching off his girlfriend.
+
+    Video Games 
+
+-   In _Devil May Cry_, Trish and Lady often loiter around the Devil May Cry office a lot. Most of it is for business reasons since they're Dante's demon-hunting partners, but they do have the habit of lazing around there for no reason as well, often mooching off his pizza and other resources, or making him pay their shopping bills. Granted, they're strictly Platonic Life-Partners with him, and all three are fine trading all the snark in the world with each other.
+-   _Fantasy Life_: After deciding she wants to stay in Reveria permanently, Yuelia ends up just living with the player and hanging around her usual spot in butterfly form. Since an important gameplay mechanic is tied to her and finishing the story unlocks her true form as one of the more useful combat allies, it's best to not think too much of the contradiction between the situation and one of the game's messages(e.g. "getting a job is one of the most wonderful things you can do.").
+-   In _Under Night In-Birth_, Hyde ends up with Linne and Vatista living in his apartment. Obviously neither of them are gainfully employed, but at least like that he can keep an eye on them, which is why this arrangement was his suggestion. Unfortunately, Linne is nearly always accompanied by her hulking bodyguard Waldstein, who eats all of his food.
+
+    Visual Novels 
+
+-   _Fate Series_:
+    -   Over the course of the three routes of _Fate/stay night_, the Emiya household sees a wide variety of temporary residents, a large amount of whom were never actually invited:
+        -   While Taiga doesn't sleep at Shirou's house, she does spend a lot of time and take all her meals there, leading Shirou to think of her like this. She's a subversion, however: The house actually belongs to a Yakuza clan that lets Shirou live there to repay HUGE favors that his father Kiritsugu did for them... and the leader of the clan _happens_ to be Taiga's grandfather. So in a way, Shirou's house is technically _Taiga's_ to begin with.
+        -   Played hilariously with Rin, who has a large home of her own and is implied to be the only resident there. She moves in anyways to help Shirou during the Grail War and ends up staying. She even offers a totally made-up line to Taiga about her place being renovated and thus she can't stay there, to gain her approval.
+        -   Sakura started to hang out at Shirou's house and help out with chores when she was in middle school by virtue of being Shinji's little sister. Justified, as it later turns out she's being abused at the Matou household and being with her crush makes her feel safer and happier.
+        -   The biggest freeloader and least welcome guest, Illya, wins Taiga over effortlessly, then later does the same to Taiga's mobster father so completely that he'll shelter her over his own daughter.That Illya is actually Shirou's elder adoptive sister (he's the adopted one, she's Kiritsugu's biological daughter) justifies her "freeloading" at what is also by all rights her home.
+        -   _Today's Menu for the Emiya Family_ has the "Emiya Family" consist of about two-thirds of the _Fate/stay night_ cast, even though only three of those people are technically a part of the Emiya family. None of them do much except stay at his house and eat Shirou's food.
+    -   _Fate/hollow ataraxia_:
+        -   The only one actually called a freeloader is Saber, who, admittedly, doesn't do much but eat.
+        -   At the very end, Bazett likewise invites herself in.
+-   Makoto Sawatari in _Kanon_ starts out as a Pretty Freeloader before becoming a Haremette. A little more justified in her case since she's a girl afflicted with Laser-Guided Amnesia and that's why Akiko took her in. Specially considering that she's not even human to begin with.
+-   Subverted with the title character of _Melody_ when she crashes at the protagonist's apartment. While the stay ramps up the sexual tension between the two, Melody only stays at his place for one night before going to Sophia's place. However, it can be played straight when Melody gets to Sophia’s house. At one point, Sophia starts coming on to Melody, and the player will have a choice of whether to stop it or let it go on.
+
+    Webcomics 
+
+-   Helle Belle from _Devilbear_. She's the Daiva of Sloth, and more than lives up to the title. Normally seen planted firmly on the sofa. She's also ridiculously hot<small>◊</small> for a couch potato.
+-   _Go Get a Roomie!_: The titular Roomie is this, it's even how she got her nickname. Though unlike most versions of this trope she does pitch in by doing things like housework and cooking.
+-   Rumisiel and Vashiel are _Misfile's_ male equivalents.
+    -   Vash, at least, is happy to do housework in thanks for room and board. Rumisiel… is not.
+    -   Vashiel also gets a job at Dr. Upton's clinic, handling appointment scheduling, since his tendency to get nosebleeds just from _mentioning_ or _hearing_ any gynecological terms is a downright terminal condition. If the poor fellow wasn't immortal, he would probably die of blood loss if he accidentally walked into a Hooters.
+-   In _Ow, my sanity_, Nancy, Shubby and the various other Eldritch Abominations who have taken the form of women, and are drawn to David, are a creepier-than-normal version of this.
+-   _Ronin Galaxy_: Taylor is taken onboard Cecil and Giancarlo’s ship, despite not having any discernable talents. Cecil also proclaims her “his maid” though she is never shown cleaning anything. Not to mention she almost got them both killed in the first chapter.
+-   The squirrel girls from _Sequential Art_, who are useless at best and destructive at worst, having nearly got the main cast killed on two occasions. Strangely, they are in fact capable of amazing technical feats, which they could make lots of money off of were it not for their lack of common sense. It doesn't help that three of them are agoraphobic, and due to their Hive Mind they can barely even function individually.
+-   In the webcomic _Sparkling Generation Valkyrie Yuuki_, Norse gods Thor, Hermod, and Loki play this role (for certain values of "pretty," anyway) in Yuuki's home. Admittedly, Thor and Hermod are there to prepare Yuuki to be a valkyrie, but Loki hangs around just to spy on Yuuki and act like an all-around pervert. Later in the series, valkyries Otsana and Shebi force their way into a random Japanese guy's house while they search for Yuuki. They do this by alternately invoking Sacred Hospitality and sheer terror (which the gods also used). They make their freeloader status explicit here
+
+    Web Animation 
+
+-   _MoniRobo_:
+-   _Sekai No Fushigi_: Saya always leaves her friends to pay claiming that she doesn't have any money or that she forgot her wallet. Her friends eventually got sick of it since she doesn't pay them back. When Saya ate at an expensive cafe which she couldn't pay for, she tried to get her friends to pay for her but they refused resulting in the owner calling the cops on her.
+
+    Western Animation 
+
+-   In the _6teen_ episode "Cheapskates", Jen dates a guy named Griffin who is a cheapskate and has her pay for things for him. She wasn't happy when it turned out he was rich the whole time.
+-   _Harley Quinn (2019)_: Ivy puts up with a lot from Harley whose she's taken in after Harley broke up with Joker. Harley destroys 9 televisions in two weeks and smashes so many of coffee tables that Ivy even accepts that at some point it's her fault for still putting them out. When Harley finally starts bringing in cash from heists, she still manages to get Ivy evicted when the Shark Man member of her crew triggers the no pets clause on Ivy's lease.
+-   In _Steven Universe_, after kicking Marty out of his van and going back to Rose, Greg Universe, then a Long-Haired Pretty Boy rock star in his early 20s, was left jobless and moneyless. Meaning he tended to eat out of the trash, play his guitar for change, and freeload off Vidalia (a one-night stand of Marty's whom he quickly befriended). He eventually realized what he was doing, so he got a job at "It's a Wash", a car wash that he now owns in the present day. That said, he still lives out of his van, not seeing the point in owning his own place since Steven doesn't live with him.
+
+    Real Life 
+
+-   The white elephant in Southeast Asia. Considered both beautiful and sacred, white elephants were auspicious gifts and considered a sign that a ruler would have a peaceful and prosperous reign. However, they were just as expensive to keep as regular elephants, were protected by law from doing any work and could not be given away (except by the king, who would punish courtiers by offering one as a gift that would drain their coffers).
+
+___

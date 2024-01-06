@@ -1,0 +1,172 @@
+**John Klein:** What do you look like?  
+**Indrid Cold:** It depends on who is looking.
+
+Some characters Lie to the Beholder, appearing selectively different to one or two people than they appear to anyone else.
+
+Other characters appear differently to anybody who sees them. One man will view them as a tall blonde woman, where another will see a short black man. Obviously, this makes tracking the character down by description difficult. Such an ability is almost always mystical in nature, although scientific or pseudoscientific explanations like "psychic resonance" or "nanotechnology" are often used in science-fiction settings. Keep in mind that when Appearance Is In The Eye of The Beholder, that means that the entity involved looks different to multiple people _at the same time._
+
+A common variant of this in settings with multiple species is to have an entity which appears different depending on the species of the beholder, most often as a member of the same species.
+
+A Form You Are Comfortable With and You Cannot Grasp the True Form are often forms of this. Compare Lie to the Beholder, which generally causes the same illusion to all affected viewers. Compare an Empathic Shapeshifter, who physically changes, while this trope is more often an illusion. Often employed by a Master of Illusion.
+
+___
+
+## Examples
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   _Ayakashi Triangle_: During a moon-viewing, ayakashi from the moon visit Matsuri's house. He sees them as humanoids in traditional Japanese clothing because he was afraid they'd come to take Suzu away. When Suzu explains they just came for an offering, Matsuri instead sees them as Moon Rabbits.
+-   The Illusion from _Cardcaptor Sakura_ in Episode 6 appears as whatever each person is expecting to see so Sakura and her friends cannot settle on what they saw, like Tomoyo picturing a nikuman since she was hungry and Sakura picturing Nadeshiko since it was their birthday. However, this is ultimately exploited by Sakura, as she expects Nadeshiko, and comes to seal the card after realizing that her mother would never let her fall of a cliff.
+-   _Doraemon_: In one of _The Doraemons Special_ story, Nobita, Doraemon and Doranichov want to investigate a UFO that has crashed near Russia. They are accompanied by a mysterious girl called Alice who takes the appearance of the main characters' love interests (Shizuka for Nobita, Mii-chan for Doraemon, and Nina for Doranichov). They later find the UFO, but it is guarded by a monster whose appearance reflects the characters' greatest fear (a giant mammoth for Nobita, a giant rat for Doraemon, and a T-Rex for Doranichov).
+-   The Truth in _Fullmetal Alchemist_ takes the form of a silhouette of the one talking to it, because what everyone is actually seeing is their personal "truth" connecting them to all other life in the world.
+-   In _Noragami_, Izanami takes A Form You Are Comfortable With to whomever looks upon her, as part of her way to make them stay longer with her in the Underworld. To Yato, she looked like Hiyori. To Ebisu, she took the form of the old woman who owned his favorite restaurant.
+-   In _Sayonara, Zetsubou-Sensei_, Kafuka Fuura only appears in front of those who she had gave up her organs to. Other people will only see the host bodies she possesses at the time, which are basically almost the entirety of the class 2-He and the same people she had gave up her organs to.
+-   In the second _Space Battleship Yamato 2199_ movie _Ark of the Stars_, an away team from the Yamato find themselves trapped in a hotel with a group of Gamilon soldiers. However as one of them soon finds out, what _they're_ seeing is not necessarily the same as what the Gamilons are seeing. The most obvious clue came when two of them were looking at a book — while Mikage (one of the Yamato's away team members) sees a biography of Helen Keller, the Gamilon instead sees a Gamilon children's book.
+-   In _Space Patrol Luluco,_ the villain Kill \*\* Killian is an Emotion Eater who operates a Lotus-Eater Machine. Everybody sees him as their favorite person; since we see him from Luluco's perspective, he looks like her Love Interest Nova (except wearing a COVER). His location likewise takes the form of their stolen hometown, Ogikubo.
+-   _Zombie Land Saga_: How the zombies are depicted changes on how they're perceived by whoever sees them. Amongst each other, the zombies look like normal girls, albeit with greenish-blue skin and the occasional bandages or Scary Stitches. However, when people are frightened by their appearance—including each other when they realize their makeup washed off in public—their putrefied complexions, sunken features, and bulging red eyes become apparent, reminding the viewer that they're still walking corpses.
+
+    Audio Plays 
+
+-   _The Sandman (2020)_: Like in the comics, the Endless appear differently to whoever sees them. Morpheus's "default" form is a tall, skinny Eerie Pale-Skinned Brunette, but to the ancient African queen Nada he appears as an African man. This is translated to the audio medium as his voice changing drastically; Morpheus is normally voiced by Scotsman James McAvoy, but his voice changes to that of Black British Jason Forbes when speaking to Nada.
+
+    Comic Books 
+
+-   The _Demo_ story "Girl You Want" combines this with Involuntary Shapeshifting: The main character automatically shapeshifts into whatever the person who looks at her wants to see. The events involves her happening upon the one and only person who doesn't cause her to do this.
+-   _Fantastic Four_: This is why Galactus looks to us humans like a human with a funny hat and the letter G on his belt buckle. To the Stone Men from Saturn, he looks like a Stone Man, to Toad Men, he looks like a Toad Man, etc. One appearance<small>◊</small> consists of an entire page showing Galactus as he is normally shown, overlaid with dozens of smaller images of how he appears to every other alien species in the room.
+-   _The Flash_: When Max Mercury and Jessie Quick reappear in _Flash_ #759, they look like zombies. At the beginning of the next issue, they zap Barry, and suddenly look like they did in life. Max explains that Barry's guilt was causing him to see them like that.
+-   The _JLA (1997)_ story dealing with the aftermath of _Day of Judgment_ sees The Spectre having this applying to Hal Jordan when he took over as its host, making it hard to convince the Justice League that he was who he said he was.
+-   In _Marville_ — just as the comic takes a very odd turn for the philosophical — Al and Mickey use their Time Machine to find out the meaning of life at the very beginning of time, where they encounter "a man who may or may not be God". At first, Mickey sees a traditional bearded old man in white robes, while Al sees him as _a superhero_ (Al claims he's a dead-ringer to Superman, though his colors are different and he has a letter J as his logo). After the two squabble about the "true" appearance of God, he quickly realizes that appearing that what they _want_ God to look like is causing problems, so he instead takes the shared appearance of an unassuming black man, insisting that the two simply call him "Jack" as he begins his revelations.
+-   This is the method that Harry Vanderspeigle, the alien protagonist of _Resident Alien_, uses to telepathically disguise himself as a normal human being. However, about 1 in a million people can see through it.
+-   A key concept in the French comic book trilogy _Reine Beauté_<sup>note&nbsp;</sup>  (or Beauty): the main character is blessed with being the most beautiful person in the world to whoever is looking at her. In an extra comic, an ambassador from very far away begs to see her, and is only granted the right to take a painting of her home, where she is immediately described as plain by locals with beauty standards very different from the painter's.
+-   This is explicitly shown several times in _The Sandman (1989)_, where Morpheus (as his name implies) always appears like a member of the observer's own species and culture, or like what the observer would expect the God of Dreams to resemble. He usually appears as a gaunt pale-skinned and raven-haired human man, but Martian Manhunter sees a giant skull wreathed in black flames, a Kitsune perceives a great fox coalescing from the night sky, and an ordinary cat sees a big black cat.
+    -   It also extends to speech; everyone hears him speak in their native language. This makes one person realize that Morpheus is who he claims to be when he realizes that he's hearing him speak in English even though his father-in-law (who doesn't know English) is conversing with Morpheus in Greek at the same time.
+-   In _Sonic the Hedgehog (Archie Comics)_, the goddess Aurora looks like an echidna to Knuckles but different to anyone else, saying "people see me how they imagine me."
+-   Man-Thing in _Thunderbolts_ has the "Ear of the Beholder" version: when he's Suddenly Speaking, everyone hears the accent, sentence structure, and terminology they associate with authority, whether that means a wise master or a crime boss. This is because he's actually speaking the Universal Language.
+
+    Comic Strips 
+
+-   Thanks to Word of God, this could describe how in _Calvin and Hobbes_, Calvin sees Hobbes differently from everyone else.
+
+    Fan Works 
+
+-   _The Mountain and the Wolf_: In the first chapter, the Wolf summons his longship with a demonic call that sounds different to the Westeros natives who hear it. While they of course have no reference for it (which becomes something of a recurring theme), it's obvious they're symbolic of the different Chaos gods.
+    
+    Later none could agree to what exactly the noise was, one lord swore it was something like a hound's bark and the blast of a warhorn, another heard a snake's hiss and his lover's voice, an old man the buzzing of flies and the bubbling of a cauldron, a clerk heard the harsh croak of a raven and the sound of a dagger entering a man's back.
+    
+-   In the _Captain Carrot and His Amazing Zoo Crew!_ fanfic "The Sinister Selfies", the Zoo Crew all see the god Zeu in a different form, based on their own species and personality. To Rubberduck he's a shining swan with the personality of a Golden Age of Follywood star; to Pig Iron he's an incredibly tough working-class warthog; and to Alley-Cat-Abra he's a mystical cat made of shadows.
+
+    Film — Live-Action 
+
+-   The entity haunting the Ayres family in _The Little Stranger_ manifests itself differently depending on what scares each family member the most. To the son, badly burned in a plane crash, it shows itself as fire. To the mother, it shows itself as her dead daughter, Suki. To the daughter, it shows its more or less true form, which is the monstrous version of her former fiancé Dr. Faraday.
+-   The entity Indrid Cold of _The Mothman Prophecies_ claims that his appearance is dependent on whoever is looking at him.
+-   _Shallow Hal_ is based on this. The main character can only see "inner beauty," so he sees people according to what they look like inside. He is attracted to Rosemary's inner beauty, and can't see her not-traditionally-attractive, overweight appearance. This holds true for several outwardly-ugly people in the film, including Ralph and the Littlest Cancer Patient child burn victims in the hospital ward. It also holds true for the outwardly-hot woman his friend is dating, who appears as a not-traditionally-attractive old crone to Hal, because that's what she looks like inside. When the POV switches to another character, we see the "ugly" outward appearances through their eyes.
+
+    Literature 
+
+-   _Animorphs_: The Ellimist regularly appears to the animorphs in different shapes, though he takes a form they'd be inclined to trust, such as a Grandpa God. To Tobias, he takes the form of a mashup of every bird of prey, while in one story he freezes time and takes the appearance of a girl sitting not far away. Strangely, although he more or less created the Andalites, he doesn't appear as one to Ax.
+-   _The Bartimaeus Trilogy_ has a variant: demons can take on human form, but in the "higher planes" they still look like themselves; Bartimaeus will sometimes comment that a character looks like a chef to a human, but _he_ can also see a tentacled spirit. Wizards can see a few of these planes with special contact lenses; Bartimaeus can see seven, and insists that anyone who claims to see more is just being a braggart.
+-   In Fred Saberhagen's _Book of Swords_ series, Sightblinder will cause its wielder to appear either as someone the viewer knows and trusts/loves, or someone the viewer fears.
+-   _Ciaphas Cain_: In _The Traitor's Hand_, the Slaaneshi sorceress Cain and a squad encounter has the ability to appear as the person each viewer cares the most for. Cain sees her as Amberley (and is about to shoot another Guardsman for looking at her with the same expression and calling her by a different name)... until Jurgen shows up, breaking the spell and revealing her as a homely middle-aged woman.
+-   In _The Camp Half-Blood Series,_ Aphrodite looks like a person's ideal of beauty, meaning that she's different for each person and can even change while you're talking to her. When Percy first meets her, he thinks that she looks like a cross between Annabeth (for whom he's recently had a Love Epiphany) and an unnamed TV actress whom he used to have a crush on. At other times (particularly, it seems, while she's appearing to heterosexual women) the exact details seem to be constantly in flux.
+    -   The Sirens seem to have something like this, too. When Percy (who can't hear them) sees them, their human heads are shifting to all the people he most wants to see, though their mouths are always greasy and disgusting. Meanwhile Annabeth (who's under their spell) sees their island an idealized version of New York with all the people she loves together and happy.
+-   There's an interesting variation in the _Dragaera_ series: the goddess Verra is not described as appearing differently to everyone who beholds her, but it becomes clear that when she speaks, everyone hears something different, effectively holding multiple different conversations simultaneously. Descriptions of godhood elsewhere in the series imply that this is a result of one of the defining characteristics of deities and demons in the Dragaera-verse.
+-   In _The End of Mr. Y_, everything in the Troposphere is dependent on the eye of the beholder.
+-   The Philip K. Dick story "Faith of Our Fathers" uses a variation on this. A True Believer in a future dystopia attempts to watch a televised speech by the all-powerful leader while under the influence of a hallucinogenic drug, and sees the leader transform into a hideous Eldritch Abomination. He is then informed that what he took was not a hallucinogen, but an _antidote_ to the hallucinogens that are in every citizen's rations... The leader is in fact an alien monster, but no one can grasp his true form because he has a whole handful of different appearances — which one you see ostensibly depends on your personality.
+-   The _Franny K. Stein_ book _The Frandidate_ had Franny create a living suit that would change its appearance based on the interests of whoever looked at it. For example, Franny's dog Igor sees the suit turn into the hostess of his favorite TV show, while one of the girls at Franny's school sees the suit take on the form of a bunny wearing a dress decorated with penguin patterns.
+-   In _Harry Potter and the Philosopher's Stone,_ the Mirror of Erised shows a person whatever their greatest desire is, but nobody else can see it. Harry sees his dead family and tries to show them to Ron, but Ron sees himself, having matched all of his older brothers' accomplishments. This is important for the climax, as the mirror shows Harry how to get the MacGuffin while the villain can't see it.
+-   Yvonnel in _Homecoming_ has several artists of Mezoberranzan draw her portrait, telling them that they should only draw exactly what they see. She ends up with a hall full of very different paintings (some even with multi-colored hair), because she appears to everyone as their ideal of beauty.
+-   In the sequel to _The Hundred and One Dalmatians_, _The Starlight Barking_, when Sirius the Dog Star appears to the dogs, Pongo and Missis see a Dalmatian ... and then hear the General exclaiming in surprise that Sirius is a sheepdog. It becomes apparent that every dog sees Sirius as their own breed.
+-   In Stephen King's _IT_, when the heroes go to the villain's lair, the sign above the door of the lair is like this: each character sees it differently. The appearance of IT, as well, varies depending on what scares the beholder/victim the most.
+-   Ghosts in _John Dies at the End_ appear different depending on the expectations and desires of the person seeing them. A female ghost might conform to the beholder's standards of beauty, for example. This is the way that they are spotted, when different people disagree on the details of their appearance (hair color, skin color, etc).
+-   In the _Nightside_ books, the succubus Pretty Poison looks like whatever you find most attractive.
+-   _Thursday Next_: In _The Well of Lost Plots_, the Grand Panjandarum resembles the beholder when they appear at the end of the book.
+-   _What The Hell Did I Just Read_
+    -   Mister Nymph takes the form of what you most fear.
+    -   The NON agents, who give their names to a crowd of three people who hear three different versions.
+    -   The appearance of the extra-dimensional door.
+-   In the _Young Wizards_ series the Powers That Be can manifest in multiple ways. In one particular form of manifestation<sup>note&nbsp;</sup>  they look different to every mortal who sees them. The main character perceives the Lone Power to be a handsome faced man with red hair, and the Archangel Michael to be a glowing seven foot tall woman wearing sweats and sneakers.
+
+    Live-Action TV 
+
+-   _Angel_: The second Conduit. In "A Hole in the World", it reverts to Gunn's shape after Gunn unknowingly arranges the death of Fred.
+-   In _Babylon 5_, the character Kosh (once outside of his encounter suit) appears to a member of any given starfaring race as that race's version of an "angel"—except to Londo. To him, he's invisible.
+-   The maid in _American Horror Story: Murder House_ appeared young and beautiful to the husband, but middle-aged to the wife.
+-   The sisters (and Leo) use a spell to this effect in season eight of _Charmed (1998)_. Having faked their deaths during the Series Fauxnale, but finding traditional magical disguises too confusing (particularly for Wyatt and Chris), they came up with a glamour that would make them appear as themselves only to "those \[they\] call family," while everyone else would see a pre-selected alternative appearance.
+-   In _Jupiter's Legacy_, the being who grants the original members of the Union their powers appears differently to most of the members. For Sheldon and Walter, it's their father. For Fitz, it's his grandmother. For Grace, it's her uncle. For George, it's his mother. And for Richard, it's his best friend.
+-   Subverted in _The Middleman_ when Wendy and the Middleman visit the Underworld.
+    
+    **Wendy:** This is the Underworld? So all those temp jobs really were hell on earth.  
+    **Middleman:** What do you mean?  
+    **Wendy:** It was a joke. You know, because this is supposed to be the Underworld, but instead it looks just like a boring old office building.  
+    **Middleman:** Sands of Zanzibar! You see an office building?  
+    **Wendy:** Yeah. You don't?  
+    **Middleman:** I see a field. Wild. Overgrown. Barbaric. Look, over there! A feral rabbit.  
+    **Wendy:** Seriously?  
+    **Middleman:** No. I see an office building.  
+    **Wendy:** Wow. Somebody's funny in the Underworld.
+    
+-   _The Outer Limits (1995)_: In "First Anniversary", Dennis can see his wife Barbara in her true form, that of a repulsive aquatic alien, while his best friend Norman Glass sees her in the new form that she has assumed to trick him. This is because Dennis has developed a resistance to Barbara's ability to fool his senses after a year of close contact. Later, when the same thing happens to Norman, he sees his own wife Ady as she truly is while the paramedics who are taking him to hospital see her as the beautiful woman whose form she assumed when she first met Norman.
+-   _Red Dwarf_:
+    -   Pleasure GELFs can appear to any onlooker as their perfect mate, despite looking like disgusting green blobs in their natural form. This results in a confusing conversation when Kryten and Lister meet one named Cammile without knowing what she is and Kryten can't understand why Lister finds her so attractive, because he's aware that the fem android he's seeing doesn't fit human standards of beauty. Cat is so vain and egotistical that when he goes to meet the GELF, he ends up having a cheerful conversation with a copy of himself.
+    -   Also Psirens, whose true form is some sort of giant beetle thing.
+-   _The Sandman (2022)_: Morpheus, the Anthropomorphic Personification of Dream, appears differently to different people. Usually, the audience sees him in a default Eerie Pale-Skinned Brunette form, but when he meets his African ex Nada in "A Hope in Hell", we briefly see him as she does, as an African warrior, and when a cat visits the Dreaming in "A Dream of a Thousand Cats", she sees him as an impressively large black cat.
+-   The Humanoid Abomination known as the Shape in _Sapphire and Steel_ supposedly looks different to anyone who looks at him, although they could only afford two actors. When he's seen in any shot which isn't supposedly from another character's point of view, he's The Blank.
+-   _Star Trek: The Original Series_: Early in the episode "The Man Trap", the salt vampire makes itself appear differently to three different people simultaneously. It looks like a young Nancy Crater to McCoy, an older Nancy Crater to Kirk, and to crewman Darnell it was a young blonde woman who looked nothing like Nancy Crater. Later in the episode, it changes methods, appearing to all comers as an older Nancy Crater, and making use of a different trope.
+
+    Tabletop Games 
+
+-   _Ars Magica_: The magi of the faerie-aligned House Merinita are based out of Irencillia, a community deep in an Enchanted Forest. It and its faerie staff look exactly like you expect them to, whether it's a simple hamlet, a Big Fancy Castle, or, if you don't know the place exists, an uninhabited forest. No one knows what its true form is, or even if it has one.
+-   _Dungeons & Dragons_:
+    -   The dream larva appears as every one of its enemies' worst nightmares at once to kill them from fright. It's not an illusion; it truly becomes whatever observers fear most, even if multiple people look at it simultaneously. Misbegotten children of the gods can do that sort of thing.
+    -   The spell _reflective disguise_ causes anyone looking at the caster to see them as a member of the same race and gender as themselves, which could easily lead to Pronoun Trouble in group interactions.
+    -   Beholders, giant floating monstrous heads studded with eyestalks, view other creatures as inferior, but are insanely, violently xenophobic towards their own kind. This is because each beholder regards itself as the epitome of beholderkind, which by definition means that every other beholder looks "wrong" and must be destroyed. Their deity, the Great Mother, embodies true beholder perfection, so her manifestation ought to settle which is the "correct" beholder appearance... except any beholder who looks upon her sees a larger, grander version of themselves.
+-   Members of the demonic race of gilmyne in _Exalted_ appear to all viewers as members of their own species - a human would see a gilmyne as a human, an elemental would see it as an elemental, etc.
+-   _New World of Darkness_:
+    -   Any member of the Romancer Kith from _Changeling: The Lost_ always appears as the beholder's perfect ideal of beauty.
+    -   The Obfuscate Discipline power "The Familiar Stranger" from _Vampire: The Requiem_ has an effect somewhere between this and The Nondescript.
+-   The _Rogue Trader_ (2009 RPG) _Warpstorm_ trilogy has a character called Karrad Vall "The Faceless Lord" who not only looks different to each player character, but also has different in-game mechanics and behavior similar to the observing character.
+-   _Warhammer 40,000_: The Emperor of Mankind is sometimes depicted this way: even when he's not consciously using his psychic powers to disguise himself, his passive psychic abilities are so powerful that they affect other people's perception of him. Most humans see him as a shining god-like being, warriors see him as a man of tremendous stature and strength, while intellectuals see him as a wise man, and so forth. It's suggested that extremely powerful psykers, or just people with very strong wills (such as his bodyguards and Malcador the Sigillite) could see past the illusion and see him as simply an ordinary man.
+
+    Video Games 
+
+-   _Catherine_: Supplementary reading material like the novelization of the game shows that succubi like Catherine take on a form of whatever appeals to the current target they are wooing. She's a dark-skinned, blackhaired Hispanic woman<small>◊</small> for Orlando, and looking similar to Katherine<small>◊</small> to Johnny, due to his unrequited love for her, and Steve saw her as a freckled Asian woman<small>◊</small>.
+-   Bramimond of _Fire Emblem: The Blazing Blade_ delved so deeply into dark magic that it utterly erased his sense of self. Now, he — or rather it — acts as a mirror of whomever it speaks to, copying their voice and mannerisms. The implication is that its cloaked, hooded appearance is likewise only how the Tactician sees it.
+-   _Ib_: The dolls you see before Garry is separated from Ib and Mary. Ib sees them as adorable bunnies, but Garry sees them as disturbing dolls and is appropriately creeped out.
+    -   This comes up again when Ib and Garry are wandering the storybook section and only Ib and the player see a doll version of Ib hanging from the ceiling.
+-   In _Kingdom Hearts: 358/2 Days_, this is The Reveal for Xion. She is a being made out of memories siphoned off from Sora, and her appearance is different to many people when they look at her. Who they see is mainly dependent on the individual's relationship to her or to those connected to Sora. Roxas, Axel, Riku, Naminé, and a few others see her as a black-haired girl with Kairi's face - this is the appearance Xion also sees herself as. Axel writes a report that indicates he may have initially seen her as Naminé, although it's unclear if he was merely commenting on their resemblance; Xigbar sees her as Ventus. Xemnas sees her as Sora. Saix sees her as a faceless puppet, which is part of the reason why he calls her "it" and can't understand why Axel cares about her. In the manga adaption of _Days_ Riku and Naminé occasionally would see Xion as Kairi, while in the novel adaption it's implied Riku sees her, very briefly, as Sora when he finds her at the Destiny Islands.<sup>note&nbsp;</sup>  Towards the end of the story, Xion's appearance becomes very unstable and starts to oscillate between looking one particular way, to looking like Sora to everyone, even to those who would see her as someone else.
+-   According to Fi's description of him in _The Legend of Zelda: Skyward Sword_, Demise appears differently in each epoch and to each person who lays eyes on him, though this is an Informed Attribute as her description of this is the only hint that it is the case.
+-   _Shin Megami Tensei_: Implied to be the case with Lucifer. His avatars' variance from game to game might seem like either Shapeshifting or Depending on the Artist. However, he casually tells Raidou that the Mushibito call him "Beelzeboo" because they see him as a fly. Note that he rarely appears in person with more than one person watching and the player presumably shares the main character's POV.... Case in point, he appears as his usual six-winged demon form through much of SMT V, but at the very end, he takes on the form of a twelve-winged metallic angel, complete with brilliant shine.
+    
+    _With the power you now possess, you should be able to see my true form. Look upon me._
+    
+-   Happens to the entire town of _Silent Hill_, which changes appearance and content depending upon the psychology of the person viewing it, and is implied to almost never be seen the same way by any two people.
+-   THE END from _Sonic Frontiers_, according to Word of God, has no true form, instead appearing differently based on the viewer's perception of death. The purple moon from its boss fight is merely how the player sees it, due to a possible combination of several real-life religions and in-universe symbolism. Meanwhile, what Sonic and Sage saw is currently unknown.
+-   _Touhou Project_: Nue Houjuu's ability is to conceal the true nature of objects, including herself. With the object's identity obscured, it will appear as different things to different people as their minds try to fill in the blanks to explain what they're seeing.
+-   This is used as a handwave in the bonus chapter of _The World Ends with You_, explaining why a character who logically should look different in this timeline still has the same appearance—Neku knows the character one way, and is incapable of perceiving otherwise. (When he challenges this, the real explanation breaks the fourth wall: why bother making a new appearance for a character who will only show up once?)
+
+    Webcomics 
+
+-   Cubi clan leader Diamanika in _Dan and Mab's Furry Adventures_ always appears to people as the last person that they were thinking about so she initially appears to Dan as his mother. She suggests he try imagining someone he doesn't know, which lets him see what she really looks like.
+-   In _El Goonish Shive_, Tedd's dad leaves his son a note on their refrigerator, but his handwriting is so inscrutable that only he can read the original message. To everyone else, the note opens, "Dear Tedd," and then imparts a message the reader needed to hear. This is never explained.
+-   In _Gosu_, when Hwan Sa the Spirit Lord comes into the tavern-at-the-fork, four different customers see him as a scarred brutish man, a young pretty man, an old man with a white beard and a noble lady respectively. The readers simply see him as a regular looking man (although his face is completely shaded out).
+-   _Gunnerkrigg Court_:
+    -   The Realm of the Dead appears different to everyone. For Antimony and Mort, it appears (or so we're told) to be a majestic underworld, filled with enormous libraries, labyrinthine mazes, and enormous creatures of glory. For Kat, the devoted skeptic - as well as the audience - it appears to be nothing more than a cheap haunted house run by guys in dollar-store costumes.
+    -   The last page of that chapter shows that what looked like pasty guy in plastic green monster gloves to Kat looked, to the others, like this... thing.
+    -   The next chapter is from Mort's and Antimony's perspectives. Curiously, even though they both seemed to be seeing the same things in the previous chapter, Mort's "case worker" looked like a guy wearing a cheesy vampire costume (possibly because we see it much earlier, moments after his death), while to Antimony it's a hideous emaciated vampire, mouth drenched in gore. And then he pulls his mask off, and explains that it's all "smoke and mirrors", but the Ether makes it real.
+    -   The Norns appear to Annie, Kat and Anja as themselves at three different ages. This seems to be relative to their current age, so for the teenaged Annie and Kat, Skuld is a child and Urðr is an adult, but to the adult Anja, Skuld is a teenager and Urðr is an old woman. (Verðandi is them at their current age, of course.)
+-   The _Kevin & Kell_ version of the story of Jesus' birth has the baby Jesus seen as being the same species of whoever looks at him.
+-   Played With in _The Order of the Stick:_ everyone can see the Oracle as he really is (a bad-tempered kobold), but when they leave his valley, they magically forget everything that happened there, except for whatever prophecies he "officially" gave them. As such, their memories will just fill in the blanks with what they expected/wanted him to be like: Vaarsuvius remembers a wise elf, Elan remembers a nice woman who looked like his mom, etc.
+-   In _Unsounded_, perceptive glamours let a spellwright cloak themselves in abstract traits to this effect; Duane goes incognito by borrowing the unobtrusive pleasantness of autumn leaves. The disadvantage is that every viewer interprets a perceptive glamour according to their own preconceptions, so it quickly falls apart if people start comparing notes.
+
+    Web Original 
+
+    Western Animation 
+
+-   The Contemelia of _Ben 10: Omniverse_ are fifth-dimensional beings who cannot be seen in their true forms, so everyone sees them as the thing or person they care for the most. Ben sees the Mr. Smoothy mascot, Rook sees his father and Maltruant sees... himself.
+-   The Weird Sisters of _Gargoyles_ take several forms, always identical except for their hair color. In one scene, they appear to Macbeth and Demona as old women, but while Macbeth sees _human_ women, Demona sees them as gargoyles. In the present day, Goliath and Xanatos see them as a trio of creepy children. Their form when no one else is around is a trio of gorgeous young women, which seems to be as close as viewers can get to seeing their actual appearances.
+-   _Legend Quest_: Alebrije's true form is a brightly colored and cartoony dinosaur or dragon-like creature however only ghosts and Leo can see him for what he truly is, humans see him as purple and yellow versions of normal animals like goats, pigeons and dogs while supernatural beings (witches and trolls for example) see him as magical creatures like imps and triplecorns.
+-   Season two of _Young Justice (2010)_ has Artemis using a magical amulet that casts an illusory disguise. The only people who can see through it are Wally, Robin, and Aqualad, also the only ones who know that they're a Double Agent.
+
+___

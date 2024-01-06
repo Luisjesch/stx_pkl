@@ -1,0 +1,1436 @@
+Running The Empire is hard work. No Dark Lord, no matter how powerful and feared, can manage everything on his own and a military-style hierarchy is usually the best of delegating tasks to the various henchmen and minions. As a result, if the heroes wind up having to topple The Empire, they'll end up going against a Standard Evil Empire Hierarchy.
+
+A Standard Evil Empire Hierarchy is defined by the roles they have within a larger Imperial hierarchy. Each member will be encountered individually, either with their assembled mooks or by themselves. In addition, the members rarely deal with each other unless the Emperor calls them for a joint meeting. Infighting is common as they all attempt to assert their authority and it's not unheard-of for one boss to aid the heroes, only to turn on them afterward.
+
+One of the hallmarks of the hierarchy is that there is often no clear-cut Dragon role, as all of the bosses answer directly to the Emperor himself. The hierarchy usually consists of:
+
+-   The Emperor: The Big Bad himself. Although he might not be an actual Emperor, he is the undisputed ruler of The Empire and the heroes won't reach him until very late in the game, if not the very end. His Imperial Majesty will very rarely do much himself, putting things in the hands of his generals and various subordinates. Is very likely to be The Chessmaster and Evil Overlord, naturally.
+-   The Right Hand: Commonly the Emperor's bodyguard, the Right Hand will often exist outside of the official military and police structure. While his position makes him most likely to be a clear-cut Dragon, it's also possible for him to be dumb muscle that's sent to calm down a particularly troublesome situation. A common device is for him to face the heroes mid-way through, sometimes winning, and then pop up again right before the Emperor. If he is The Dragon, having his own agenda or plans to take over will be much more likely due to his more independent nature. When The Emperor is literally an emperor, this trope's position can be filled by the Battle Butler, or his Empress.
+-   The General: Leader of the Empire's military. Most likely to be portrayed sympathetically, The General could very well be a Worthy Opponent, though a General Ripper is also common if the setting runs on Black-and-White Morality. A Mook Lieutenant is rare, as The General is usually portrayed as being competent, morality aside. Common for him to be The Dragon, The Brute and The Strategist rolled into one, though never an Evil Genius since his smarts come from his strategical and tactical abilities. In settings with more than one military branch (army, navy, air force) there can be more than one General.
+-   The Guard: In contrast to The General, who is in command of the field armies, The Guard is in command of a high-profile prison, fortress or other stationary strong-point. They will likely contrast with The General and be portrayed far less sympathetically, sitting back in their comfy, well-protected stronghold. Expect him to be any combination of Ax-Crazy, a Dirty Coward or simply incompetent. They will usually be encountered and defeated early on, to make it clear that The Empire is evil before the heroes encounter a more sympathetic member of the hierarchy. Often serves as a Threshold Guardian, both literally (in the "gatekeeper" sense) and metaphorically.
+-   The Security Officer: Is in charge of the State Sec and its Doom Troops, stamping out internal dissent and rebellion in the Empire. Often he is also in charge of spies and commandos, one of whom is likely to be the next character on this list. Often he is also The Guard or The Oddball.
+-   The Evil Counterpart: Whether he's a Rival Turned Evil, Sixth Ranger Traitor, Turncoat or simply someone who happens to have similar powers and abilities, he's someone with similar powers and abilities as the heroes, often times creating a Mirror Match. Could fall under any of the other slots depending on the setting, but most commonly The Right Hand or The Oddball.
+-   The Oddball: If The Right Hand or The Evil Counterpart don't fall under this, expect The Oddball to be a Perky Female Minion or Evil Genius, wielding powers far different from the others, either dark magic or science. They will have their own agenda and they will be unpredictable, even for their own allies. Alternatively, they could be a mercenary or other form of lowlife hired to track down the heroes, in which case they'll employ the standard weaponry but use unconventional tactics. Either way, the emphasis is that they're connected to The Empire but different.
+-   The Man Behind the Man: If The Emperor really isn't the Big Bad, expect this one to be. Often times The Man Behind the Man will be allied with The Emperor, promising dark powers and victory if The Empire aids him in his quest to recover an Artifact of Doom or unlock some Sealed Evil in a Can. The Man Behind the Man is far more common if The Empire is shown to be in command of forces that would be outside what's considered mundane by the standards of the setting.
+
+Compare and contrast with the Standard Evil Organization Squad and Power Stable.
+
+___
+
+## Examples
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   _Akame ga Kill!_
+    -   The Emperor: Emperor Makoto
+    -   The Right Hand / The Man Behind the Man: Prime Minister Honest
+    -   The General: General Esdeath
+    -   The Guard: Captain Ogre
+    -   Security Officer: Commander-in-chief Budou
+    -   The Oddball: The Jaegers
+-   Marley in _Attack on Titan_
+    -   The Emperor: Willy Tybur, Lord of the Tybur Family and _de facto_ ruler of Marley.
+    -   The Right Hand: Lara Tybur, Willy's sister and the holder of the War Hammer Titan.
+    -   The General: General Calvi, commander-in-chief of both the Marleyan army and navy.
+    -   The Guard: Sergeant Major Gross, a Public Security Bureau officer in charge of the Liberio Ghetto.
+    -   The Oddball: Zeke, who heads the "Warrior Unit" of Eldian Titan-Shifters sent to besiege Paradis.
+-   _Bakugan_
+    -   Vestal and Vexos
+        -   The Emperor: King Zenoheld
+        -   The Right Hand: Prince Hydron
+        -   The General: Spectra Phantom
+        -   The Oddball: Clay Fermin
+    -   Gundalia and the Twelve Orders
+        -   The Emperor: Emperor Barodius
+        -   The Right Hand: Prime Minister Nurzak
+        -   The General: Gill
+        -   The Guard: Airzel
+-   The Spade Kingdom under the Dark Triad in _Black Clover_.
+    -   The Emperor: Dante Zogratis
+    -   The Right Hand/General: Zenon and Vanica Zogratis
+    -   The Oddball: The Dark Disciples
+    -   The Man Behind the Man: Lucius Zogratis aka Julius Novachrono
+-   _Bleach_: The Vandenreich
+    -   The Emperor: Emperor Yhwach, The leader of the Vandenreich and progenator of all Quincies.
+    -   The Right Hand: Lille Barro, leader of the Schutzstaffel, Yhwach's Elite Guard.
+    -   The General: Jugram Haschwalth, Grand Master of the Sternritter, Yhwach's main army, and second in command.
+    -   The Guard/Security Officer: Quilge Opie, Executive Hunting Captain of the Jugdarmee Division, who hunts down and locks up Hollows, and entrusted to stall Ichigo.
+-   Britannia of _Code Geass_
+    -   The Emperor: Charles zi Britannia
+    -   The Right Hand: Marianne vi Britannia, later Bismarck Waldstein
+    -   The General: Schneizel el Britannia (Evil Counterpart to Lelouch)
+    -   The Guard: Clovis la Britannia
+    -   The Security Officer: Cornelia li Britannia
+    -   The Oddball: Suzaku Kururugi
+    -   The Man Behind the Man: V.V.
+-   _Cyborg 009_: Black Ghost in the 2001 anime.
+    -   The Emperor: Skull.
+    -   The Right Hand: Van Vogt, Skull's second-in-command.
+    -   The General: Commander Farej.
+    -   The Guard: Commander Skarr, who heads a Black Ghost factory.
+    -   The Oddball: Dr. Gaia and Dr. Gamo Whisky, as well as the other 00 Cyborg Assassins.
+    -   The Man Behind the Man: The Demon Statue, or rather, the three brains within it that are the "true form" of Black Ghost.
+-   The D-Reaper from _Digimon Tamers_
+    -   The Emperor: Mother D-Reaper
+    -   The Right Hand: ADR-01
+    -   The Guard: ADR-09
+    -   The General: ADR-06 & ADR-08
+    -   The Oddball: ADR-07
+    -   The Man Behind the Man: Cable Reaper
+-   _Dragon Ball_:
+    -   The Red Ribbon Army in _Dragon Ball_
+        -   The Emperor: Commander Red
+        -   The Right Hand: Staff Officer Black
+        -   The General: General Blue
+        -   The Guard: General White
+        -   The Oddball: Tao Pai Pai
+    -   The Planet Trade Organization in _Dragon Ball Z_
+        -   The Emperor: Lord Frieza
+        -   The Right Hand: Captain Ginyu
+        -   The General: Zarbon
+        -   The Guard: Dodoria
+        -   The Security Officer: Sorbet
+        -   The Oddball: Vegeta
+        -   The Man Behind the Man: King Cold
+    -   The Machine Mutants in _Dragon Ball GT_
+        -   The Emperor: Dr. Myuu
+        -   The Right Hand: The Sigma Force
+        -   The General: General Rilldo
+        -   The Guard: Dolltaki and Cardinal Mutchy Mutchy
+        -   The Oddball: Baby
+        -   The Man Behind the Man: Baby
+-   The Nero Empire in _EDENS ZERO_
+    -   The Emperor: Emperor Poseidon Nero
+    -   The Right Hand/General: Prince Poseidon Shura
+    -   The Guard: Oceans 6
+    -   The Evil Counterpart (for Jinn): Callum
+    -   The Oddball/Evil Counterpart (for Laguna): Ijuna
+    -   The Man Behind the Man: Cure
+-   _Fairy Tail_
+    -   Kingdom of Edolas
+        -   The Emperor: King Faust
+        -   The Right Hand: Byro
+        -   The General: Panther Lily
+        -   The Security Officer/ Evil Counterpart: Erza Knightwalker
+        -   Oddball: Coco
+    -   The Alvarez Empire in
+        -   The Emperor: Emperor Spriggan/Zeref.
+        -   The Right Hand: Chief of Staff Invel Yura.
+        -   The General: August, General of the Spiggan 12.
+        -   The Oddball: Brandish μ.
+-   Amestris in _Fullmetal Alchemist_.
+    -   The Emperor: Führer King Bradley.
+    -   The General: Central Command.
+    -   The Guard: Lt. General Raven.
+    -   The Security Officer: Solf J. Kimblee.
+    -   The Oddball: Gold-Toothed Doctor.
+    -   The Man Behind the Man: Father and the Homunculi.
+-   _GoLion_: The Galra Empire
+    -   The Emperor: Emperor Daibazaal later Prince Sincline
+    -   The Right Hand: Honerva
+    -   The General: Sadak later Prince Sincline
+    -   The Evil Counterpart/Oddball Prince Sincline
+-   _Hellsing_:
+    -   The Iscariot Organization
+        -   The Emperor: Enrico Maxwell.
+        -   The Right Hand: Renaldo, Maxwell's advisor.
+        -   The General: Alexander Anderson, Badass Preacher and Maxwell's trump card who commands their forces in the field.
+        -   The Oddball: Heinkel Wolfe and Yumiko "Yumie" Takagi, Maxwell's apprentices.
+        -   The Man Behind the Man: The Vatican, of which Iscariot is a secret division of.
+    -   The Millennium Organization, while much smaller than an actual empire, still fill the hierarchy pretty well.
+        -   The Emperor: The Major.
+        -   The Right Hand: The Doktor, the Major's advisor and chief scientist who created their vampire army.
+        -   The General: The Captain, who going by his rank should be the one second after the Major in command of their army.
+        -   The Guard: Rip Van Winkle, who takes over an aircraft carrier to lure Alucard out, and Zorin Blitz, who commands one of the three Zeppelins Millennium uses to carry out their assault.
+        -   The Oddball: Schrodinger.
+        -   Evil Counterpart: Millennium has two answers to Alucard. The first being the Captain and the second being Walter C. Dornez, at least after his vampire conversion.
+        -   The Man Behind the Man: Technically their superiors in the Third Reich, but almost all of them are long dead and the one who isn't is quickly killed off by the Major.
+-   _Hunter × Hunter_
+    -   The Chimera Ants
+        -   The Emperor: Chimera Ant King Meruem
+        -   The Right Hand: Shaiapouf
+        -   The General: Menthuthuyoupi
+        -   The Security Officer: Neferpitou 
+        -   The Oddball: The Squadron Leaders
+    -   Kakin Empire
+        -   The Emperor: King Nasubi Hui Guo Rou 
+        -   The General: Prince Benjamin Hui Guo Rou 
+        -   The Oddball: Prince Halkenburg Hui Guo Rou
+-   _Izetta: The Last Witch_: The Germanian Empire.
+    -   The Emperor: Kaiser Otto.
+    -   The Right Hand: Elliot, Otto's Honest Advisor.
+    -   The General / The Guard: Lieutenant General Grosskopf.
+    -   Security Officer: Special Unit commander Arnold Berkman.
+    -   The Oddball: Elisabeth, who heads the army's Design Division.
+    -   Evil Counterpart: Sophie, a witch whose purpose is to combat Izetta.
+-   _Kill la Kill_: Honnouji Academy’s Student Council.
+    -   The Emperor: Satsuki Kiryuin
+    -   The Right Hand: Ira Gamagoori
+    -   The General: Uzu Sanageyama 
+    -   The Guard: Nonon Jakuzure
+    -   The Security Officer: Houka Inumuta 
+    -   The Man Behind the Man: Ragyo Kiryuin
+-   _Legend of the Galactic Heroes_ actually subverts some of the roles, as The Empire is not all that evil
+    -   The Emperor: Reinhard von Lohengramm (who goes into battle quite frequently)
+    -   The Right Hand: Siegfried Kircheis (who is completely loyal)
+    -   The General: Wolfgang Mittermeyer and Oskar von Reuenthal
+    -   The Oddball: Paul von Oberstein
+-   _Mobile Suit Gundam_: The Principality of Zeon
+    -   The Emperor: Degwin Zabi, Sovereign of Zeon, though he leaves the running of the war effort to his eldest son, Gihren
+    -   The Right-Hand/The General: Gihren Zabi, Commander-In-Chief of the military and _de facto_ ruler of Zeon
+    -   The Guard: Dozle Zabi, commander of Solomon Base
+    -   Security Officer: Kycilia Zabi, one of Zeon's best admirals who oversees a number of internal affairs and R&D projects.
+    -   The Oddball: M'Quve, Kycilia's right-hand, and more notably Char Aznable, Zeon's mysterious ace pilot.
+-   _Mobile Suit Zeta Gundam_: The Titans, despite being State Sec for the Earth Federation, fit this pretty well
+    -   The Emperor: Jamitov Hymem, supreme commander of the Titans.
+    -   The Right Hand: Jerid Messa, Jamitov's bodyguard and enforcer, as well as his Bastard Understudy.
+    -   The General: Bask Om, field leader of the Titans and Number Two to Jamitov.
+    -   The Guard: Jamaican Deringhan, Titans fleet commander and captain of the _Alexandria_. Later succeeded by Gady Kinsey.
+    -   Security Officer: Ben Wooder, at least for the Titans forces on Earth.
+    -   The Oddball: Four Murasame, a Cyber-Newtype groomed to be a Super-Soldier for the Titans and to pilot the Psyco Gundam. This role could also be filled by the other Cyber-Newtypes like Rosamia and Gates.
+    -   The Man Behind the Man: Paptimus Scirocco, who later supplants Jamitov as commander of the Titans.
+-   _Mobile Suit Victory Gundam_: The Zanscare Empire.
+    -   The Emperor: Prime Minister Fonse Kagatie. Queen Maria Pia Armonia nominally holds this role, but she is little more than just a Puppet Queen for Fonse, who has an iron grip around the Zanscare political system.
+    -   The Right Hand: Chronicle Asher, Ace Pilot and brother to the Queen.
+    -   The General: Tassilo Vago, the Zanscare fleet commander in charge of overseeing the construction of the Keilas Guille superweapon, and later the Angel Halo.
+    -   The Guard: Fuala Griffon, commander of Largaine Base on Earth.
+    -   The Oddball: Motorad squadron commander Duker Iq as well as Katejina Loos after she defects. Really, a lot of Zanscare officers are wacky enough to fall under this.
+-   _Mobile Suit Gundam Wing_: Romefeller Foundation
+    -   The Emperor: Duke Dermail
+    -   The Right Hand: Dorothy Catalonia, Dermail's granddaughter and attendant.
+    -   The General: Treize Khushrenada, commander of OZ, Romefeller's military wing
+    -   The Guard: Chief Engineer Tsubarov, commander of Lunar Base
+    -   The Oddball: Zechs Merquise, "Lightning Baron" and Ace Pilot of Romefeller
+-   _Mobile Suit Gundam SEED_
+    -   ZAFT
+        -   The Emperor: Chairman Patrick Zala
+        -   The Right Hand: Ezalia Joule, Zala's chief ally and strongest supporter among the PLANT Supreme Council
+        -   The General: Rau Le Creuset, leader of the Le Creuset Team and one of the lead commanders of ZAFT. Also the Evil Counterpart to both Kira Yamato and Mu La Flaga.
+        -   The Guard: Andrew Waltfield, commander of the ZAFT forces in the Libya Desert.
+        -   The Oddball: Athrun Zala, Ace Pilot and The Rival. Another Evil Counterpart to Kira.
+    -   Earth Alliance
+        -   The Emperor: Muruta Azrael, head of Blue Cosmos and wirepuller behind the Earth Alliance
+        -   The Right Hand/The Guard: General Staff Officer William Sutherland, Muruta's key ally among the Earth Alliance military and the one in charge of the Cyclops System.
+        -   The General: Natarle Badgiruel, stern officer and The Captain of the _Dominion_
+        -   The Oddball: Clotho Bauer, Orga Sabnak, and Shani Andras, a trio of Biological CPUs fed drugs to enhance their performance on the level of Coordinators
+        -   The Man Behind the Man: Rau Le Creuset, to both ZAFT _and_ the Earth Alliance, whom he manipulated into furthering humanity's destruction.
+-   _Mobile Suit Gundam SEED Destiny_
+    -   ZAFT
+        -   The Emperor: Chairman Gilbert Durandal
+        -   The Right Hand: Rey Za Burrel, Durandal's loyal enforcer
+        -   The General: Talia Gladys, The Captain of the _Minerva_
+        -   The Oddball: Shinn Asuka. Also Meer Campbell, a Lacus Clyne impersonator used by Durandal to gain support for his actions.
+    -   Earth Alliance under Blue Cosmos / LOGOS
+        -   The Emperor: Lord Djibril
+        -   The Right Hand: Joseph Copeland, President of the Atlantic Federation and political pawn of Djibril's
+        -   The General: Neo Roanoke, commander of Phantom Pain, LOGOS's private military force
+        -   The Oddball: Stella Loussier, Sting Oakley and Auel Neider, Phantom Pain's Extended pilot trio.
+        -   The Man Behind the Man: Strongly implied to be Durandal, who used LOGOS' atrocities as justification to further his own plan.
+-   _Mobile Suit Gundam 00_: The A-Laws in the second season
+    -   The Emperor: Homer Katagiri, commander-in-chief of the A-Laws
+    -   The Right Hand: Graham Aker/Mr. Bushido, the A-Laws' most skilled Ace Pilot
+    -   The General: Arthur Goodman, Katagiri's Number Two and field commander of the A-Laws
+    -   The Guard: Aber Lindt, commander of the Orbital Elevator defense force
+    -   The Oddball: Louise Halevy, the A-Laws' financier.
+    -   The Man Behind the Man: Ribbons Almark and the Innovators, the string pullers behind the A-Laws.
+-   _Mobile Suit Gundam: Iron-Blooded Orphans_: Gjallarhorn
+    -   The Emperor: The Seven Stars, the aristocratic ruling council of Gjallarhorn
+    -   The Right Hand: Carta Issue, commander of the (mostly ceremonial) Outer Earth Orbit Joint Regulatory Fleet
+    -   The General: Rustal Elion, supreme commander of the Arianrhod Fleet, Gjallarhorn's largest military force
+    -   The Guard: Coral Conrad, the head of Gjallarhorn's Mars Branch
+    -   Security Officer: Inspectors Gaelio Bauduin and McGillis Fareed
+    -   The Oddball: Ein Dalton, a low-ranked Gjallarhorn officer who joins Gaelio's team and later becomes the test subject for the Ayaku-Shiki.
+-   Hellywood in _Now and Then, Here and There_.
+    -   The Emperor: King Hamdo.
+    -   The Right Hand/General: Abelia.
+    -   The Oddball: Nabuca.
+-   _One Piece_:
+    -   The World Government:
+        -   The Emperor: The Five Elders, the leaders of the World Government. Five old rulers and Celestial Dragons who have mysterious reasons for wiping out those who would discover the secrets of the Void Century, which led to the foundation of the World Government.
+        -   The Right Hand: Commander-in-Chief Kong, a former Fleet Admiral who serves directly under the Five Elder Stars, as head of all World Government forces, including the ones shown below.
+        -   The General: Fleet Admiral Sengoku, and later Sakazuki. The Fleet Admiral of the Marines is the head of the World Government's naval forces. Notable forces includes the Three Admirals, one of the two Superpowers of the World Government, and Vice-Admirals, who engage in island destroying bombardments known as Buster Calls.
+        -   The Guard: Chief Warden Magellan, the warden of an inescapable government prison known as Impel Down. Later replaced by Hannyabal, his vice warden.
+        -   The Security Officers: Cipher Pol, a secret intelligence agency of the World Government, whose various branches handle different tasks, such as espionage, assassinations, and catering to the World Nobles. Notable members include Spandine and Spandam, the directors of their branches, and Rob Lucci, Spandam's strongest assassin of his branch. Also, the Holy Knights stationed in Mary Geoise and which can be dispatched to liberated or unaffiliated nations, and led by Saint Figarland Garling, the only Celestial Dragon who can judge and execute other Celestial Dragons.
+        -   The Oddballs: The Seven Warlords of the Sea, a group of seven government protected pirates that serves as one of the two Superpowers of the World Government to combat an enemy superpower: the Four Emperors. Also, head scientist Dr. Vegapunk, who has developed various creations for the World Government and even disagreed with some of their ideas and methods, to the point of even trying to reform the Marines from the inside.
+        -   The Evil Counterpart (or rather, Lawful Counterpart): Various Marines and the Seven Warlords; Commodore Smoker and Tashigi, and Coby and Helmeppo to Luffy and Zoro (A Fruit-user and a swordswoman, and a _Haki_\-user and a Kukri-wielder to a Haki- _and_ Fruit-user and a swordsman). Mihawk to Zoro.
+        -   The Man Behind the Man: The Celestial Dragons, also known as the World Nobles. They are descendants of 20 Kingdoms who founded the World Government, and because of this, they see themselves as gods over humanity, and have gotten away with murder, torture, and slavery, among other things. They hold complete power and influence over the Admirals and the Five Elders even if the latter ones are Celestial Dragons themselves. Imu, the one who sits on "the empty throne" —said to never be used to symbolize unity between the twenty kingdoms- and before whom even the Five Elders prostrate to, being the true ruler of the world only very few people are aware of.
+    -   The Big Mom Pirates:
+        -   The Emperor: **Charlotte Linlin,** aka Big Mom. Captain of the Big Mom Pirates, one of the Four Emperors, and the Queen of Totto Land, and with over 80 offspring acting as crewmembers, and legions of subordinates.
+        -   The Right Hands: **The Sweet Commanders.** Top members of the crew who are most powerful and dangerous and ensure that no outsider enters Big Mom's territory. Charlotte Katakuri, Charlotte Smoothie, and Charlotte Cracker are the three Sweet Commanders. Charlotte Snack was demoted for his failure, showing that Big Mom does not trust them as much as her homies.
+        -   The Evil Counterpart: **Charlotte Katakuri,** the strongest of the Sweet Commanders, whose skillset is very similar to that of Luffy, with seemingly contrasting demeanors.
+        -   The Guards: **Napoleon, Zeus, and Prometheus.** Three sentient soul fragments of Big Mom (called homies), who inhabit a Bicorne Hat, a Cloud, and a Miniature Sun. Unlike her offspring, she trusts them completely, and they serve and guard her 24/7; acting as her personal firepower and weapons.
+        -   The General: **Charlotte Perospero.** The eldest sibling that is among the most powerful fighters, and a strategist that is privy to Big Mom's personal plans, ensuring that they are carried out. When Big Mom is overcome by her eating disorder, he organizes their battle forces in the climax, guiding Big Mom towards her enemies, and is seen giving orders to some of the Sweet Commanders.
+        -   The Security Officer/The Guard: "Scribe" **Charlotte Mont-D'Or.** A family member who uses his power over books to entrap creatures for Big Mom's collection, as well as jailing any intruders. He also acts as a strategist among the crew, and organizes counter-offensives and family meetings to discuss events.
+        -   The Oddballs: Pekoms, Tamago, Bobbin, Capone Bege, four non-family members who are prominent and important combatants among the crew.
+        -   The Man Behind the Man: **Head Chef Streusen.** Linlin's surrogate father, and Co-founder of the Big Mom pirates.
+    -   The Beast Pirates:
+        -   The Emperor: **Kaido**, Leader of the Beast Pirates, and one of the Four Emperors.
+        -   The Right Hand: **King the Wildfire**, the most trusted All-Star of the crew, who personally prevented the Big Mom Pirates from invading.
+        -   The General: **Jack the Drought**, an All-Star entrusted with strike forces against the Mink Tribe, and the heavy formations of the Marines to retrieve their ally.
+        -   The Guard: **Queen the Plague**, the All Star in charge of Headliners in the Prison mines in the Udon region, creating weapons for the crew, and breaking the spirits of prisoners.
+        -   The Security Officer: **Shogun Kurozumi** Orochi, an oppressive tyrant who rules over Wano, and is allied with Kaido.
+        -   The Oddball: **Joker, aka: Donquixote Doflamingo**, who supplied the Beast Pirates with artificial Devil Fruits.
+-   Demon Card from _Rave Master_.
+    -   The Emperor: King aka Gale Raregroove \*\*later Lucia Raregroove
+    -   The Right Hand: Haja
+    -   The General: The Oracion Seis
+    -   The Guard: L'Tiangle
+    -   The Security Officer: Deep Snow
+-   _Robot Romance Trilogy_:
+    -   _Choudenji Robo Combattler V_ The Campbellians:
+        -   The Emperor: Oreana later Empress Janera.
+        -   The Right Hand: Great General Garuda.
+        -   The General: General Dungele.
+        -   The Guard: Warchimedes.
+    -   _Choudenji Machine Voltes V_: The Boazanian Empire.
+        -   The Emperor: Emperor Zambajil.
+        -   The Right Hand: Prince Heinel.
+        -   The General: Jangal Rui.
+        -   The Guard: Zuhl.
+        -   The Security Officer: Marquis Zaki.
+    -   _Toushou Daimos_ The Baam/Balm Empire:
+        -   The Emperor: King/Emperor Olban.
+        -   The Right Hand: Prince Richter.
+        -   The General: General Balbas.
+-   _Space Battleship Yamato 2199_.
+    -   Great Garmillas Empire.
+        -   The Emperor: Eternal Leader Abelt Dessler.
+        -   The Right Hand: Redof Hiss.
+        -   The General: Inspector General Herm Zoellik.
+        -   The Security Officer: Imperial Guard Director General Hydom Gimleh.
+    -   Gatlantis Empire.
+        -   The Emperor: Great Emperor Zworder.
+        -   The Right Hand: Prime Minister Shifual Sabera.
+        -   The General: Goland.
+        -   The Guard: Mazert.
+        -   The Security Officer: Goran Dagam.
+        -   The Oddball: Abelt Dessler.
+-   The villains from the first half of _Tengen Toppa Gurren Lagann_
+    -   The Emperor/The Evil Counterpart of Simon: Lordgenome (well, more Well-Intentioned Extremist than evil)
+    -   The Right Hand/The Evil Counterpart of _Boota_: Guame
+    -   The General: Adiane
+    -   The Guard: Tymilph
+    -   The Security Officer: Cytomander
+    -   The Oddball/The Evil Counterpart of Kamina: Viral (not really evil, only racist; eventual Heel–Face Turn)
+    -   The Man Behind the Man: the Anti-Spiral (again, a Well-Intentioned Extremist)
+
+    Comic Books 
+
+-   _Amulet_: The Elves
+    -   The Emperor: The Elf King. As his title suggests, he's the leader of the elves.
+    -   The Right Hand: Gabilan, a bounty hunter employed by the king to carry out various missions for him. Also has his own agenda to take over.
+    -   The General: Max Griffin
+    -   The Guard: Luger
+    -   The Oddball: Logi, the Elf King's personal servant. Not really all that evil. Could also swap positions with Gabilan.
+    -   The Man Behind the Man: The Voice, who is influencing both the Elf King and Max Griffin to achieve its own mysterious goals.
+-   _New Gods_ : Apokolips
+    -   The Emperor: Darkseid
+    -   The Right Hand: Desaad
+    -   The General: Steppenwolf
+    -   The Guard: Granny Goodness
+    -   The Oddball: Kanto
+    -   The Evil Counterpart: Kalibak
+-   _Transformers: Generation 2_: The Cybertronian Empire
+    -   The Emperor: Liege Maximo, the very first Decepticon
+    -   The Right Hand: Rook
+    -   The General: Jhiaxus
+    -   The Guard: Mindset
+    -   The Oddball: Starscream
+-   _V for Vendetta_: The Norsefire Government
+    -   The Emperor: Adam Susan
+    -   The Right Hand / The General: The head of the Finger, Derek Almond. Later replaced by Peter Creedy.
+    -   The Guard: Lewis Prothero, the commander of the Larkhill concentration camp prior to becoming a radio personality.
+    -   Security Officer: Conrad Heyer, head of the Eye.
+    -   The Oddball: Roger Dascombe, head of the Mouth.
+
+    Fanfiction 
+
+-   _Hottie 3: The Best Fan Fic in the World_
+    -   The Emperor: Emperor Vakudos. Later replaced by his daughter, Princess Lotora
+    -   The Right Hand: Juicer
+    -   The General: Carmen St. Cloud
+    -   The Oddball: Dr. Madmind
+    -   Evil Counterpart: Lucy
+-   _The Fall of the Fire Empire_
+    -   The Emperor: Dragon Empress Azula
+    -   The Right Hand: The Mistress of the Chosen
+    -   The General: High General Xia
+    -   The Guard: High Admiral Yuan
+    -   The Oddball: High Minister Qing Xi
+-   Charlotte's organization in _The Horsewomen Of Las Vegas_:
+    -   The Emperor: Charlotte Flair
+    -   The Right Hand: Dana Brooke, her personal assistant
+    -   The General: Samoa Joe, her driver and head of security
+    -   Security Officer: Nia Jax, her personal bodyguard
+    -   Mook Lieutenants: Akam and Rezar
+        -   After an attempted Decapitation Strike by the Bullet Club resulted in many of her top people getting killed, the lineup became:
+    -   The Emperor: Charlotte Flair
+    -   The Right Hand: Dana Brooke
+    -   The General: Ethan Carter III
+    -   Security Officer: Beth Phoenix
+    -   Mook Lieutenants: Tyson Tomko and Albert
+    -   The Oddball: Becky Lynch
+-   _Star Wars vs Warhammer 40K_: The Xek-Tek Sector Forces of the Imperium of Man prior to the formation of the Imperial Council in Season 3.
+    -   The Emperor: Orion Phatris, Chapter Master of the Skywatch and overall leader of the Xek-Tek Imperials.
+    -   The Right Hand: Aurelian Teks, Captain of the Skywatch's 3rd Company who is taken under Orion's wing and spends most of his time by his side.
+    -   The General: Davik Thune and Rollah Sendurran; Thune is the Chapter Master of the Crimson Razors and the one spearheading the invasion of the _Star Wars_ galaxy, while Rollah is the Lord Admiral leading the Imperial Navy's forces.
+    -   The Guard: Marshal Doven, the initial commander of the Imperial-occupied Axum/New Cadia. Later gets replaced by Ishtara Ordane, a Canoness Superior who commands the Adepta Sororitas from the Basilica of Salvation, the Imperium's most important stronghold on Axum.
+    -   The Security Officer: The Inquisitorial/Xek-Tek Triumvirate, a trio of powerful Inquisitors who function as the local Secret Police of the Xek-Tek Sector. Their job is to root out heretics and xenos from the Imperial population as well as spy on and sabotage rebel groups.
+    -   The Evil Counterpart: Tahr Whyler, an Inquisitor Lord with his own agenda who schemes behind the backs of the other Imperials. Like the Jedi, he's has strong Psychic Powers, wields a Cool Sword, and dresses in a cloak. His status as an Inquisitor makes him one of the Elite Agents Above the Law within the Imperium, similar to the status held by the Jedi Order within the Republic.
+    -   The Oddball: The Council of Vigilants, a secretive group of Astartes psykers that dabbles in Warp magic and answers only to Orion.
+    -   The Man Behind the Man: The God-Emperor of Mankind, who the Xek-Tek Imperials worship and occasionally receive a Divine Intervention from.
+
+    Films — Animated 
+
+-   _The Super Mario Bros. Movie_ The Dark Lands.
+    -   The Emperor: Bowser
+    -   The Right Hand: Kamek
+    -   The General: Koopa General
+-   _Robin Hood (1973)_
+    -   The Emperor: Prince John
+    -   The Right Hand: Sir Hiss
+    -   The General: Captain Crocodile
+    -   The Security Officer: Sheriff of Nottingham
+    -   The Guard: Nutsy and Trigger
+-   _Toy Story 3_: Sunnyside Daycare
+    -   The Emperor: Lotso
+    -   The Right Hand: Big Baby
+    -   The General: Ken
+    -   The Guard: The Monkey
+    -   The Oddball: Buzz Lightyear
+
+    Films — Live-Action 
+
+-   _Aquaman (2018)_: The Alliance Orm hopes to create.
+    -   The Emperor: Orm, King of Atlantis who seeks the title of Ocean Master to launch a war on the surface world.
+    -   The Right Hand: Murk, Orm's main enforcer and captain of his guard.
+    -   The General: King Nereus, who provides most of Orm's military might.
+    -   The Security Officer: Nuidis Vulko, Orm's vizier. Also The Mole who is undermining Orm.
+    -   The Oddball: Black Manta, a human mercenary who provides a submarine for Orm to fight off and allies with him for revenge on Aquaman.
+-   _Braveheart_:
+    -   The Emperor: King Edward the Longshanks.
+    -   The Right Hand: Prince Edward, his son and nominal successor.
+    -   The General: Cheltham, a commander in the English forces sent to defeat Wallace's army.
+    -   The Guard: The Magistrate of Lanark.
+    -   The Oddball: Phillip.
+-   _The Godfather_ features the criminal equivalent.
+    -   The Corleone Family under Vito.
+        -   The Emperor: Don Vito Corleone
+        -   The Right Hand: Genco Abbandando, Vito's consigliere. Later succeeded by Tom Hagen.
+        -   The General: Sonny Corleone, underboss to his father and the "general" to the family's soldiers.
+        -   The Guard: Salvatore Tessio and Peter Clemenza, caporegimes who oversee different spheres of the Corleone criminal empire.
+        -   The Oddball: Luca Brasi, Vito's personal hitman.
+    -   The Corleone Family under Michael.
+        -   The Emperor: Don Michael Corleone, having succeeded his father as Godfather.
+        -   The Right Hand: Tom Hagen, filling the same role of consigliere and family lawyer he did under Vito.
+        -   The General: Al Neri, Michael's underboss who commands the Corleone Family's goons.
+        -   The Guard: Rocco Lampone and Frank Petangeli, the caporegimes.
+        -   The Oddball: Fredo Corleone, whom the rest of the family views as The Load.
+-   _John Wick_
+    -   The Mafiya in the first movie.
+        -   The Emperor: Viggo Tarasov.
+        -   The Right Hand: Iosef Tarasov, his idiot son.
+        -   The General: Kirill, the Mook Lieutenant who leads the goons.
+        -   The Guard: Abram Tarasov, who is Viggo's brother and runs a chop shop. Unusually, he's actually the last member of the family to be confronted, appearing in the second movie.
+        -   The Oddball: Avi, Viggo's lawyer and consigliere.
+    -   The Marquis' forces in _John Wick: Chapter 4_.
+        -   The Emperor: The Marquis, who is put in charge of killing John Wick.
+        -   The Right Hand: The Harbinger, who acts as the Marquis' advisor and the High Table's liaison.
+        -   The General: Chidi, who leads the Marquis' personal Elite Mooks.
+        -   The Guard: Killa, a German crime boss who runs a nightclub and handles assassinations.
+        -   The Oddball / Evil Counterpart: Caine.
+        -   The Man Behind the Man: The 12 unseen heads of the High Table.
+-   _Kamen Rider 555: Paradise Lost_: The Smart Brain world government.
+    -   The Emperor: Kyoji Murakami
+    -   The Right Hand: Smart Lady
+    -   The General: Leo/Kamen Rider Psyga, the commander of Smart Brain's Riotrooper corps.
+    -   The Oddball: The Elasmotherium Orphnoch
+    -   Evil Counterpart: Yuji Kiba/Kamen Rider Orga
+    -   The Man Behind the Man: The Wirepullers of Smart Brain
+-   _The Lord of the Rings_:
+    -   The Emperor: Sauron
+    -   The Right Hand: The Witch-King
+    -   The Guard: The Mouth Of Sauron
+    -   The General: Gothmog
+    -   The Oddball / Evil Counterpart: Saruman
+-   _Mad Max: Fury Road_:
+    -   The Emperor: Immortan Joe
+    -   The Right Hand: Rictus Erectus
+    -   The General: The Prime Imperator
+    -   The Guard: The Bullet Farmer and the People Eater
+    -   The Oddball: The Coma Doof Warrior
+-   _Pirates of the Caribbean_: The East India Trading Company, while a business, has many traits of an empire, including the hierarchy:
+    -   The Emperor: Lord Cutler Beckett
+    -   The Right Hand: Davy Jones
+    -   The Guard: Agent Mercer
+    -   The General: Admiral James Norrington
+    -   The Oddball: Sao Feng
+    -   Interestingly lacks the Evil Counterpart, as Jack Sparrow's Evil Counterpart is Barbossa, who's actually allied with him in opposing the EITC.
+-   Several different sets of characters fill these roles throughout the _Star Wars_ film series:
+    -   The Empire of the original trilogy:
+        -   The Emperor: Emperor Palpatine/Darth Sidious
+        -   The Right Hand/The Evil Counterpart: Darth Vader
+        -   The Guard: Grand Moff Tarkin
+        -   The General: Admiral Piett
+        -   The Oddball: Boba Fett
+    -   In _The Phantom Menace_ there was the Trade Federation:
+        -   The Emperor: Viceroy Nute Gunray
+        -   The Right Hand: Rune Haako
+        -   The General: OOM-9
+        -   The Guard: Daultay Dofine
+        -   The Oddball/The Evil Counterpart: Darth Maul
+        -   The Man Behind the Man: Darth Sidious
+    -   _Attack of the Clones_ and _Revenge of the Sith_ gave us:
+        -   The Emperor: Darth Sidious
+        -   The Right Hand/The Evil Counterpart: Count Dooku, who publicly plays The Emperor's part.
+        -   The General: General Grievous
+        -   The Guard: Poggle the Lesser. Viceroy Nute Gunray, as the cowardly Starter Villain, might fit in a larger scale.
+        -   The Oddball: Jango Fett
+    -   The sequel trilogy's First Order:
+        -   The Emperor: Supreme Leader Snoke
+        -   The Right Hand/The Evil Counterpart: Kylo Ren and the Knights of Ren
+        -   The General: Allegiant General Pride
+        -   The Guard: General Hux
+        -   The Security Officer: Captain Phasma
+        -   The Oddball: DJ
+        -   The Man Behind the Man: Emperor Palpatine/Darth Sidious with the Sith Eternal.
+-   _TRON: Legacy_
+    -   The Emperor / The General / Evil Counterpart — Clu
+    -   The Right Hand — Rinzler
+    -   The Guard — Jarvis
+    -   The Oddball — Castor
+-   _You Only Live Twice_: SPECTRE's Japanese branch.
+    -   The Emperor: Ernst Stavro Blofeld
+    -   The Right Hand: Hans
+    -   The Guard: Osato
+    -   The Oddball: Helga Brandt
+    -   The Man Behind the Man: Red China (Strongly implied.)
+
+    Literature 
+
+-   _The Silmarillion_:
+    -   The Emperor: Morgoth, also Evil Counterpart to Manwë
+    -   The Right Hand: Glaurung, a literal Dragon
+    -   The General: Gothmog, leader of the Balrogs and High-Captain of Angband
+    -   The Guard: Sauron, Saruman being the same position for Sauron later is intentional.
+    -   The Oddball: Ungoliant, ancestor of Shelob
+    -   Evil Counterpart: Carcharoth to Huan (But one could argue all Tolkien villains are evil Counterparts to someone)
+-   _Animorphs_
+    -   The Emperor: The Yeerk Emperor
+    -   The Right Hand: The Council of Thirteen.
+    -   The General: The Vissers in general, but especially Visser One, though Visser Three is the one who directly opposes our heroes, and later gets formally promoted to Visser One.
+    -   The Guard: Visser Four
+    -   The Evil Counterpart: David, briefly.
+    -   The Oddball: Taylor, in two books at least.
+    -   The Man Behind the Man: Crayak
+-   The Belgariad: Angarak Kingdoms
+    -   The Emperor: Torak
+    -   The Right Hand/The Guard: Ctuchik
+    -   The General: Split between Zakath and Taur Urgas
+    -   The Evil Counterpart/The Oddball: Zedar
+    -   The Man Behind the Man: The Dark Prophecy (or rather, the cosmic entity represented by aforementioned Prophecy)
+-   Belisarius Series
+    -   The Emperor: Skandagupta
+    -   The Right Hand: Venandakatra the Vile
+    -   The Guard: Possibly Nanda Lal
+    -   The General: Damodara and Rana Sanga
+    -   The Man Behind the Man: Link
+    -   The Oddball: Narses
+-   _Dune_: The Galactic Padishah Empire
+    -   The Emperor: Shaddam Corino IV
+    -   The Right Hand: Count Hasimir Fenring
+    -   The Guard: Baron Vladimir Harkonnen
+    -   The Evil Counterpart: Feyd-Rautha Harkonnen
+    -   The Oddball: The Bene Gesserit Sisterhood
+    -   The Man Behind the Man: The Spacing Guild
+-   The Elenium
+    -   The Emperor: Azash
+    -   The Right Hand: Emperor Otha
+    -   The Guard: Primate Annias
+    -   The General / The Evil Counterpart: Martel
+    -   The Odball: Princess Arissa and Prince Lycheas
+-   _Harry Potter_
+    -   Voldemort's Inner Circle of Death Eaters
+        -   The Emperor: Lord Voldemort. The Dark Wizard who wants to take over Britain, gain more power and immortality, and kill Harry Potter once and for all.
+        -   The Right Hand: Bellatrix Lestrange. Chief enforcer of the Death Eaters, whom Voldemort does value over the others for her devotion, cruelty, and power, even entrusting her with his Horcrux. Before Bellatrix's release, there was Voldemort's most competent and faithful Death Eater, Barty Crouch Jr., who was instrumental in the success of Voldemort's rebirth.
+        -   The General: Severus Snape. Voldemort's official second in command, even over his favorite Bellatrix. Snape is entrusted to lead missions Voldemort wouldn't trust to anyone else, and after orchestrating Dumbledore's death, he makes Snape headmaster of Hogwarts, in order to supply a new generation of followers in Voldemort's army. Although he was on Dumbledore's side all along
+        -   The Guard: Lucius Malfoy. The first Death Eater that gives Harry Potter trouble throughout the stories, and was initially Voldemort's number two before a disgraceful defeat. His only role after that is to provide a hideout for Voldemort, and keep watch over prisoners.
+        -   The Security Officer: Corban Yaxley. A Death Eater who helped Voldemort overthrow the Ministry Of Magic, and controls a puppet Minister to impose Voldemort's new regime. Yaxley's role was using the Ministry to purge the wizarding population of muggleborns, and hunt down Voldemort's enemies.
+        -   The Oddball: Fenrir Greyback. A vicious werewolf who acts as a mercenary to Voldemort's Death Eaters, and leads a gang of mercs. Wormtail is a cowardly turncoat who, despite also being responsible for Voldemort's return, is given very menial tasks, and is treated like garbage by everyone.
+        -   The Evil Counterpart: Draco Malfoy, towards Harry Potter. A Slytherin student who was made a Death Eater, but ultimately nowhere near as evil as his older comrades.
+-   _John Devil_ (1862) by Paul Féval. Henri Belcamp intends to create an Empire
+    -   The Emperor: Henri Belcamp (Evil Counterpart to Temple)
+    -   The Right Hand: Sarah O'Neil
+    -   The General: Robert Surisy
+    -   The Oddball: Ned Knob, who is his go between with London's Criminal Underworld
+    -   Man Behind the Man: Napoléon Bonaparte who he intends to free from St. Helena, but Henri's no mere Puppet.
+-   _The Lord of the Rings_:
+    -   The Emperor: Sauron the Great, the Lord of the Rings.
+    -   The Right Hand: The Mouth of Sauron
+    -   The General: The Witch-King, the leader of the Nazgûl and commander of Sauron's armies
+    -   The Guard: Saruman, who commands forces from the Tower of Orthanc in Isengard (though he thinks himself Sauron's equal and seeks to overthrow him)
+    -   The Oddball: Shelob
+    -   The Man Behind the Man: Implied to be Morgoth, whose will Sauron is still serving if he knows it or not.
+-   _Masks of Aygrima_:
+    -   The Emperor: The Autarch
+    -   The Right Hand: Shrela, the Mistress of magic, the Autarch's most powerful magic using subject.
+    -   The Guard: The Warden of the Magic Mine.
+    -   The General: Stank The Guardian of Security, who is in charge of all watchers.
+    -   The Oddball: The Palace Healer, The Master Masker, and the Master Maskmaker.
+-   _New Jedi Order_: The Yuuzhan Vong, circa _The Unifying Force_
+    -   The Emperor: Onimi<sup>note&nbsp;</sup> 
+    -   The Right Hand: Shimrra <sup>note&nbsp;</sup> 
+    -   The General: Nas Choka
+    -   The Guard: High Prefect Drathul and High Priest Jakan
+    -   The Oddball: Nom Anor
+    -   The Evil Counterpart: The Slayers collectively, to the Jedi.
+-   _The Radiant Dawn_: The worshipers of Tyadrig:
+    -   The Emperor: Aaron Murphy, the warrior "king" of the undead armies.
+    -   The Right Hand: Stacie Murphy, wife of Aaron and the leading spellcaster.
+    -   The General: Olaf Falkenskold, commander of northern forces. He also leads the expedition to recover Ondesverd.
+    -   The Security Officer: Roger Wellington, the death knight in command of the Australian detachment. They are tasked with eradicating all the plants and and animals to ensure the holdouts starve to death.
+    -   The Oddball: Kgosi, the African warlord turned death knight commander.
+    -   The Man Behind the Man: Tyadrig, the demon lord that all the evil leaders worship.
+-   _Romance of the Three Kingdoms_
+    -   The Kingdom of Wei
+        -   The Emperor: Cao Cao
+        -   The Right Hand: Sima Yi
+        -   The General: Zhang Liao, as well as Xiahou Dun
+        -   The Guard: Cao Ren
+        -   The Oddball: Dian Wei
+    -   Before the rise of Cao Cao, we have Dong Zhuo's forces
+        -   The Emperor: Dong Zhuo
+        -   The Right Hand: Li Ru, adviser to Dong Zhuo
+        -   The General: Lü Bu
+        -   The Guard: Hua Xiong
+        -   The Oddball: Diaochan
+-   _A Song of Ice and Fire_
+    -   Joffrey's regime in A Clash of Kings:
+        -   The Emperor: Joffrey Baratheon
+        -   The Right Hand: Sandor "the Hound" Clegane
+        -   The General: Tyrion Lannister
+        -   The Guard: Gregor "the Mountain" Clegane at Harrenhall
+        -   The Security Officer: Varys
+        -   The Oddball: Vargo Hoat
+        -   The Man Behind the Man: Tywin Lannister
+-   _The Sundering_
+    -   The Emperor: Satoris
+    -   General: Tanaros Caveros
+    -   Guard: Vorax
+    -   Oddball: Ushahin
+-   _Timeline-191_: The Confederate States of America after the Freedom Party takes control.
+    -   The Emperor: Jake Featherston.
+    -   The Right Hand: Don Partridge.
+    -   The General: George S. Patton.
+    -   The Guard: Jefferson Pinkard, who runs the Camp Dependable death camp
+    -   Security Officer: Ferdinand Koenig, Attorney General of the CSA and the one in charge of it's State Sec.
+    -   The Oddball: Clarence Potter, head of Confederate Intelligence.
+-   _The Wheel Oftime_: The Shadow as of the Last Battle
+    -   The Emperor: The Dark One
+    -   The Right Hand: Moridin
+    -   The General: Demandred
+    -   The Guard: Mazrim Taim
+    -   Evil Counterpart: Slayer for Perrin. All of the above characters also pull double-duty as someone's Evil Counterpart: the Dark One for the Creator, Moridin for Rand, Demandred for Mat, and Taim for Egwene _and_ Logain.
+    -   The Oddball: Shaidar Haran and Lanfear, albeit for vastly different reasons <sup>note&nbsp;</sup> 
+    -   Of course, considering how vast WOT's cast is, even for just one faction, there are lots of other minions of the Shadow who don't fit into this configuration due to either being less important or simply focusing more on undermining the Dark One's enemies than leading the Shadow's forces.
+
+    Live Action TV 
+
+-   _Chouseishin Series_:
+    -   _Chouseishin Gransazer_: Cosmic Alliance Warp Monarch.
+        -   The Emperor: The Will of Warp Monarch
+        -   The Right Hand: The High Council, who based on the references we get seem to be directly below the Will.
+        -   The General: Belzeus, the commander of the Earth invasion force.
+        -   The Guard: The Bisil aliens, who guard the building where the dimensional transfer system is.
+        -   The Oddball: The Akelon spy posing as Karin Saeki.
+        -   Evil Counterpart: The Impactors, with their leader Logia being The Rival of Sazer Tarious.
+        -   The Man Behind the Man: Belzeus, as the one who manipulated the Warp Monarch into invading Earth for his own ends.
+    -   _Genseishin Justiriser_: The Hades Army.
+        -   The Emperor: Kaiser Hades.
+        -   The Right Hand / Evil Counterpart: Shiro Jinno / Demon Knight.
+        -   The General: General Bachuss, the army's top commander.
+        -   The Guard: Doctor Zora, who coordinates the Army's initial invasion from Kamishiro Mountain.
+        -   The Oddball: The Death Commandos, Kaiser Hades's elite guard.
+        -   The Man Behind the Man: Majin Daruga, Kaiser Hades's older brother.
+    -   _Chousei Kantai Sazer X_: Neo Descal.
+        -   The Emperor: King Neo Descal.
+        -   The Right Hand: Barreda, Neo Descal's top aide and right-hand woman.
+        -   The General / The Guard: Garade, fleet commander and captain of the Galeo Rogue.
+        -   The Oddball: Grouza, the top scientist of the Neo Descal.
+        -   Evil Counterpart: Jackall, Commander Shark's arch-nemesis and rival.
+-   _Doctor Who_:
+    -   The Dalek Empire
+        -   The Emperor: The Dalek Emperor.
+        -   The Right Hand: The Cult of Skaro, a team of four Daleks formed personally by the Emperor to counter the Time Lords.
+        -   The General / The Guard: The Supreme Daleks, which lead the Dalek forces into battle and usually control individual operations and outposts.
+        -   The Oddball: Non-Dalek collaborators such as Mavic Chen and The Master, although the Daleks almost always end up double crossing them.
+    -   The Cybermen.
+        -   The Emperor: The Cyber-Controller, the absolute leader of the Cybermen.
+        -   The Right Hand: Cyber-Planner, supercomputers used by the Cybermen to plan strategies (and occasionally command operations themselves)
+        -   The General: Cyber-Leaders, who act as field commanders for the Cybermen.
+        -   The Oddball: Human collaborators such as Klieg and Tobias Vaughn, as well as The Master whenever they are allied with them.
+-   _Game of Thrones_:
+    -   The regime at King's Landing for the first half of the series.
+        -   The Emperor: King Joffrey Baratheon.
+        -   The Right Hand: Cersei Lannister, the Queen Regent.
+        -   The General: Jaime Lannister.
+        -   The Guard: Ser Gregor "The Mountain" Clegane, head of the prison camps at Harrenhal. Roose Bolton as well after being named Warden of the North.
+        -   Security Officer: Varys, the Master of Whispers.
+        -   The Oddball: Grand Maester Pycelle, Littlefinger as Master of Coin, and Sandor "The Hound" Clegane.
+        -   The Man Behind the Man: Tywin Lanniser, Hand of the King and real power behind the throne.
+    -   The Boltons have their own hierarchy when they usurp the Starks as rulers of the North.
+        -   The Emperor: Roose Bolton.
+        -   The Right Hand: Locke, Roose's master-at-arms.
+        -   The General: Harald Karstark, the chief vassal pledged to House Bolton.
+        -   The Guard: Ramsay Bolton, as lord of the Dreadfort.
+        -   The Oddball: Walder Frey.
+        -   The Man Behind the Man: The Lannisters, as they're the ones backing the Boltons' claim to the North.
+    -   When Cersei becomes the queen her regime fits it perfectly:
+        -   The Emperor: Cersei Lannister
+        -   The Right Hand/Security Officer: Qyburn, Cersei's Hand of the Queen and spymaster
+        -   The Guard: Euron Greyjoy, Lord of the Iron Islands who brings the Iron Fleet to support Cersei and likes needling the rest.
+        -   The General: Jaime Lannister, replaced by Harry Strickland after Jaime's defection at the end of Season 7
+        -   The Oddball: Gregor Clegane, Cersei's lead bodyguard
+-   _Inazuman_: The Despar Army.
+    -   The Emperor: Führer Geisel.
+    -   The Right Hand: Sadespar.
+    -   The General: Udespar, field commander of the army.
+    -   The Guard: Sadespar again, as mayor of Despar City.
+    -   The Oddball: One Shot villains Miss One and Red Queen.
+-   _Kamen Rider V3_: Destron.
+    -   The Emperor: The Destron Leader.
+    -   The Right Hand: Joji Yuki, whom the Great Leader groomed to be Destron's top scientist.
+    -   The General: Marshal Yoroi, who commands the Armored Kaijin Division and is one of the organization's top executives.
+    -   The Guard: Doktor G, head of Destron's German division before being transferred to head up the Japanese division.
+    -   The Oddball: Baron Kiba and Archbishop Tsubasa, by virtue of being the Destron executives with the strangest motifs.
+-   _Kamen Rider Kiva_: The Fangire elites.
+    -   The Emperor / Evil Counterpart: King / Dark Kiva.
+    -   The Right Hand: Bishop, King's advisor and right-hand man.
+    -   The General: Rook, the One-Man Army who helmed the genocide of the Wolfen race.
+    -   The Guard: Castle Doran (okay, it's a living building but it technically counts)
+    -   The Oddball: Queen, King's consort and the one in charge of executing traitors.
+-   Dai-Shocker in _Kamen Rider Decade_
+    -   The Emperor: The Great Leader of Dai-Shocker aka Tsukasa Kadoya. Later Shadow Moon when he usurps control in _All Riders Vs Dai-Shocker_.
+    -   The Right Hand: Nobuhiko Tsukikage/Shadow Moon in _All Riders Vs Dai-Shocker_. Sayo Kadoya / High Priestess Bishium fills this role when Shadow Moon takes command of the organization.
+    -   The General: Ambassador Hell, who commands Dai-Shocker's army in the World of Decade.
+    -   The Guard: Ten Faced Demon Llumu Qhimil, who rules the A.R. World of Amazon with backing from Dai-Shocker.
+    -   Security Officer: Chief of Security Apollo Geist
+    -   The Oddball: Schwarian
+-   The Overlord Inves in _Kamen Rider Gaim_
+    -   The Emperor: Rosyuo, the Man of the Beginning and ruler of the Overlord Inves
+    -   The Right Hand: DJ Sagara, acting as something of an adviser to Rosyuo
+    -   The General: Redyue, the Overlord in charge of the invasion of Earth
+    -   The Guard: Demushu, who leads the initial incursion on Zawame City
+    -   The Oddball: Mitsuzane Kureshima, by virtue of being a human allied with the Overlords.
+    -   The Man Behind the Man: Helheim Forest
+-   The Roidmudes in _Kamen Rider Drive_ form a loose one.
+    -   The Emperor: The Freeze Roidmude, albeit a behind-the-scenes version as he views Heart as more fit to spearhead the Roidmude uprising.
+    -   The Right Hand: The Brain Roidmude, who plays advisor to Heart and then Freeze.
+    -   The General: The Heart Roidmude, who publicly leads the Roidmudes and plans out their strategies, including supporting the criminal operations of individual Roidmudes.
+    -   The Guard: Roidmude 006, who handles overseas operations for the Roidmudes.
+    -   Security Officer: The Medic Roidmude, after she forms Reaper Legion to stamp out any dissenting Roidmudes.
+    -   The Oddball / Evil Counterpart: Mashin Chaser, the Rider-like rival to both Drive and Mach.
+    -   The Man Behind the Man: Tenjuro Banno, who both built the Roidmudes and corrupted them so they'd go rogue.
+-   The Ganma in _Kamen Rider Ghost_:
+    -   The Emperor: Adonis, the Grand Imperial Majesty. Later usurped by Adel.
+    -   The Right Hand: Edith, the grand magistrate.
+    -   The General: Alain/Kamen Rider Necrom, the one initially in charge of Ganma's incursion into Earth.
+    -   The Guard: Igor, who uses the Deep Connect company as a front for the Gamma's plans.
+    -   The Oddball: Chikara Saionji, a human allied with the Gamma.
+    -   Evil Counterpart: Makoto Fukami / Kamen Rider Specter.
+    -   The Man Behind the Man: The Gammaizers.
+-   Seito in _Kamen Rider Build_.
+    -   The Emperor: Juzaburo Namba, who uses his MegaCorp's influence to pull the strings behind Seito's government.
+    -   The Right Hand: Nariaki Utsumi, Namba's assistant and chief engineer.
+    -   The General: Kamen Rider Rogue, lead commander of Seito's military forces.
+    -   The Guard: Masakuni Mido, Prime Minister of Seito and Namba's puppet ruler.
+    -   The Oddball: Fu and Rai Washio, a pair of Laser Guided Tyke Bombs assigned to assist Rogue.
+    -   The Man Behind the Man: Blood Stalk, who is just manipulating everyone towards his real goal of constructing the Pandora Tower.
+-   _Kikaider_: World Crime Organization SHADOW
+    -   The Emperor: Big Shadow.
+    -   The Right Hand: Zadam, Big Shadow's top advisor and strategist.
+    -   The General: Shadow Knight, the main field commander of the organization.
+    -   The Oddball: Waruder, a robot samurai assassin-for-hire.
+    -   Evil Counterpart: Hakaider, and briefly Bijinder.
+-   _Metal Heroes_
+    -   _Space Sheriff Shaider_: The Fuuma
+        -   The Emperor: Great Emperor Kubilai.
+        -   The Right Hand: Priest Poe.
+        -   The General: Commander Hessler
+        -   The Oddball: The Girls Army
+    -   _Kyojuu Tokusou Juspion_: The Megabeast Empire.
+        -   The Emperor: Satan Gorth.
+        -   The Right Hand: Gilza and Gilmarza, witch sisters who personally answer to Satan Gorth.
+        -   The General: Mad Gallant, son of Satan Gorth and field commander of the empire.
+        -   The Guard: The Sakura Satellite, an AI satellite corrupted by Satan Gorth and instated as ruler of Planet Peace.
+        -   The Oddball: The Evil Four Deva Kings, a quartet of mercenaries employed by Mad Gallant. As well as Gilmarza's Five Space Ninja bodyguards.
+    -   _Jikuu Senshi Spielban_: The Waller Empire
+        -   The Emperor: Queen Pandora, who communes with Waller and gives commands to the empire.
+        -   The Right Hand: Emperor Guillotine.
+        -   The General: General Deathzero, commander of the Waller Empire's Machine Army.
+        -   The Oddball: Doctor Bio, Rikki, and Shadow and Gasher.
+        -   Evil Counterpart: Hellvira
+        -   The Man Behind the Man: Waller, the deity the Waller Empire worship for protection. Or not, it's actually an illusion created by Queen Pandora.
+    -   _Kidou Keiji Jiban_: Criminal Syndicate Bioron.
+        -   The Emperor: Doctor Giba.
+        -   The Right Hand: Marsha and Karsha, Giba’s secretaries.
+        -   The General / Evil Counterpart: Mad Garbo, Bioron field commander and Jiban Cyborg Killer.
+        -   The Guard: The commanders of Bioron’s various other cells seen in #35.
+        -   The Oddball: Bubi and Muku, the Team Pets.
+-   _Power Rangers_:
+    -   _Power Rangers in Space_: The United Alliance of Evil
+        -   The Emperor: Dark Specter.
+        -   The Right Hand: Astronema.
+        -   The General: Ecliptor.
+        -   The Guard: Rita Repulsa, Lord Zedd, Master Vile, The Royal House of Gadgetry, Divatox and General Havoc, who all were in charge of their own operations under the league.
+        -   The Oddball: Darkonda, a Psycho for Hire under Dark Specter's personal employ.
+        -   Evil Counterpart: The Psycho Rangers
+    -   _Power Rangers S.P.D._: The Troobian Empire
+        -   The Emperor: Emperor Gruumm.
+        -   The Right Hand: Mora/Morgana, a Creepy Child who acts as Gruumm's Maker of Monsters.
+        -   The General: General Benaag, high-ranking commander who's led many conquests for the empire.
+        -   The Oddball: Broodwing, the empire's Arms Dealer.
+        -   Evil Counterpart: A-Squad Power Rangers.
+        -   The Man Behind the Man: Omni.
+    -   _Power Rangers RPM_: The Venjix Computer Network.
+        -   The Emperor: Venjix.
+        -   The Right Hand: Kilobyte.
+        -   The General: General Crunch and General Shifter.
+        -   The Guard: Professor Cog.
+        -   The Oddball: Tenaya 7.
+    -   _Power Rangers Megaforce_:
+        -   The Warstar / Insectoids
+        -   The Emperor: Admiral Malkor.
+        -   The Right Hand: Vrak, alien prince who acts as Malkor's advisor and tactician.
+        -   The General: Creepox, the main field commander of the Insectoids.
+        -   The Guard: Metal Alice, who runs the underwater base the Warstar robots are manufactured in.
+        -   The Oddball: Bigs and Bluefur, two Muck Monsters from Earth recruited by the Warstar.
+        -   The Man Behind the Man: The Armada.
+-   _Seigi No Symbol Condorman_:
+    -   The Monster Clan
+        -   The Emperor: King Monster.
+        -   The Right Hand: Mad Scienter, King Monster's Evil Genius assistant.
+        -   The General: Smogton, Gomigon and Hedoranger, the "Three Great Executives"
+        -   The Guard: Salamander, director of the Monster Clan's Far East branch. Later replaced by Oil Snake.
+        -   The Oddball: Zeni Crazy and Satan Gametsku.
+    -   Salamander's operation also has this on a smaller scale.
+        -   The Emperor: Salamander.
+        -   The Right Hand: Gemsler, his secretary.
+        -   The General: Zeni Crazy, who ranks directly below Salamander as direct manager of their operation.
+        -   The Guard: Satan Gametsku, who runs the Kimon Company as a front.
+        -   The Oddball: Red Bat.
+        -   The Man Behind the Man: King Monster.
+-   _Seven Star Fighting God Guyferd_: Crown
+    -   The Emperor: Zodiac.
+    -   The Right Hand: Kuzan, Zodiac's top researcher.
+    -   The General: Metal Master, the organization's top field officer.
+    -   The Guard: Mister Bicross, who runs the Mutian Labs and acts as Crown's front man.
+    -   The Oddball: Shion, head of Crown's Fallah research.
+    -   Evil Counterpart: Deathferd, who serves as a counter to Guyferd.
+-   _Star Fleet_: The Imperial Alliance
+    -   The Emperor: The Imperial Master
+    -   The Right Hand: The Imperial Council
+    -   The General: Commander Makara
+    -   The Guard: Captain Orion
+    -   The Oddball: Caliban
+    -   Evil Counterpart: Captain Carter
+
+    Newspaper Comics 
+
+-   _The Wizard of Id_
+    -   The Emperor: King of Id
+    -   The Right Hand: Duke
+    -   The General: Rodney
+    -   The Guard: Turnkey
+    -   The Oddball: Wizard
+
+    Tabletop Games 
+
+-   Interestingly, despite being the protagonists of the Warhammer 40,000 setting, the central figures of the Imperium of Man during the days of the Great Crusade mostly fit into this mold. Of course, the xenophobic and totalitarian Imperium of Man would be considered villains by most objective measures of the term.
+    -   The Emperor: The Emperor of Mankind.
+    -   The Right Hand: Malcador the Sigillite and Constantin Valdor both fit this role. Being the Emperor's closest confidants and the closest he had to friends.
+    -   The General: The Primarchs in general fill this role, but Horus especially in his role as Warmaster. At least before he got his heresy on.
+    -   The Security Officer: Leman Russ in his role as "The Emperor's Executioner". Malcador, being the founder of the Inquisition and the first Grand Master of Assassins also fits this.
+    -   The Oddball: Alpharius/Omegon
+
+    Video Games 
+
+-   _Advance Wars_: Black Hole as seen in _Dual Strike_.
+    -   The Emperor: Von Bolt.
+    -   The Right Hand: Kindle, Von Bolt's right-hand woman and second-in-command of the Bolt Guard.
+    -   The General: Hawke.
+    -   The Guard: Koal and Jugger, the COs helming Black Hole's early advent into Omega Land.
+    -   The Oddball: Lash.
+-   _Advance Wars: Days of Ruin_: The New Rubinelle Army (and their allies):
+    -   The Emperor: Admiral Greyfield
+    -   The Right Hand: Waylon
+    -   The General: Captain Brenner technically fills this role for the missions where the 12th Battalion is under New Rubinelle. Otherwise it's vacant.
+    -   The Guard: Davis
+    -   The Oddball: Tabitha and Penny
+    -   The Man Behind the Man: Caulder
+-   _Baten Kaitos_: The Alfard Empire.
+    -   The Emperor: Geldoblame
+    -   The Right Hand: Giacomo, the empire's top official.
+    -   The General: Fadroh, supreme leader of the Alfard Army.
+    -   The Oddball: Georg, the imperial top scientist who eventually defected by faking his death in a Freak Lab Accident after being forced to conduct experiments on living beings.
+    -   The Man Behind the Man: Melodia, corrupted avatar of Malpercio
+-   _BioShock_: The Government of Rapture.
+    -   The Emperor: Andrew Ryan
+    -   The Right Hand: Bill McDonagh
+    -   The General: Sulivan (technically, Rapture doesn't have an army, but Sullivan heads its security police)
+    -   The Guard: Augustus Sinclair (Owner and manager of Persephone Detention Facility)
+    -   The Oddball: Sander Cohen
+    -   The Man Behind the Man: Frank Fontaine, AKA Atlas
+-   The Rapture Family, in _BioShock 2_
+    -   The Emperor: Sofia Lamb
+    -   The Right Hand: Eleanor Lamb (or at least, a Right Hand in training)
+    -   The General: Father Simon Wales
+    -   The Guard: Grace Holloway
+    -   The Evil Counterpart: Augustus Sinclair — after his unwilling conversion into an Alpha Series Big Daddy
+    -   The Oddball: Dr Gilbert Alexander
+-   The Founders in _BioShock Infinite_
+    -   The Emperor: Zachary Hale Comstock
+    -   The Right Hand: Elizabeth Comstock
+    -   The General: Cornelius Slate
+    -   The Guard: The Songbird
+    -   The Evil Counterpart: Zachary Hale Comstock
+    -   The Oddball: Jeremiah Fink
+    -   The Man Behind the Man: Robert and Rosalind Lutece
+-   Crash Bandicoot:
+    -   Dr. Cortex attempted to build one in the first game, but failed after Crash had Gone Horribly Wrong.
+        -   The Emperor: Dr. Neo Cortex
+        -   The Right Hand: Dr. N. Brio
+        -   The General: Crash bandicoot was intended to be this, but he'd Gone Horribly Wrong.
+        -   The Guard: Pinstripe Potoroo
+        -   The Oddball: Papu-papu
+    -   Dr. Cortex eventually succeeded in creating one in Mind Over Mutant.
+        -   The Emperor: Dr. Neo Cortex
+        -   The Right Hand: Dr. N. Brio
+        -   The General: The Titan Heroes
+        -   The Guard: The Yuktopus
+        -   The Oddball: Dr. N. Gin
+-   Loghain's regime from _Dragon Age: Origins_
+    -   The Emperor: Loghain Mac Tir
+    -   The Right Hand: He's too paranoid to have one.
+    -   The General: Ser Cauthrien
+    -   The Guard: Arl Rendon Howe
+    -   The Oddball: Uldred
+-   The Elder One's Venatori from _Dragon Age: Inquisition_
+    -   The Emperor: Corypheus
+    -   The Right Hand: The Red Lyrium Dragon
+    -   The General: Samson or Calpernia
+    -   The Guard: Nightmare, Alexius, and Erimond
+    -   The Security Officer: Envy Demon
+    -   The Oddball: Grand Duchess Florianne, Imshael
+    -   The Man Behind the Man: Inadvertently, Solas
+-   The Almenga Empire from _Exit Fate_
+    -   The Emperor: Siegfried
+    -   The Right Hand: Brunhild
+    -   The General: Gudrun
+    -   The Guard: Ash
+    -   The Evil Counterpart: Leonius
+    -   The Oddball: Trevor and Sick
+-   Caesar's Legion from _Fallout: New Vegas_
+    -   The Emperor: Caesar
+    -   The Right Hand: Lucius
+    -   The General: Legate Lanius
+    -   The Guard: Aurelius of Phoenix, Dead Sea
+    -   The Oddball and The Security Officer: Vulpes Inculta
+-   _Final Fantasy IV_
+    -   The Emperor: Golbez, although in public he plays the General and has Cagnazzo of the Archfiends pose as the King.
+    -   The Right Hand: The Elemental Archfiends
+    -   The General: Kain Highwind, commander of the Dragoons
+    -   The Guard: Dr. Lugae, who oversees the Tower of Babil for Golbez
+    -   The Oddball: Baigan
+    -   The Man Behind the Man: Zemus
+-   The Empire from _Final Fantasy VI_
+    -   The Emperor: Emperor Gestahl
+    -   The Right Hand/The Guard: Kefka
+    -   The General: Leo
+    -   The Evil Counterpart: Celes (though more of a Capulet Counterpart than an evil one)
+    -   The Oddball: Ultros
+-   Shinra Electric Power Company in _Final Fantasy VII_
+    -   The Emperor: President Shinra, later succeeded by his son Rufus.
+    -   The Right Hand: Scarlet
+    -   The General: Heidegger.
+    -   Security Officer: The Turks
+    -   The Oddball: Profesor Hojo
+    -   The Man Behind the Man: Jenova
+-   The Kingdom of Alexandria from _Final Fantasy IX_
+    -   The Emperor: Queen Brahne
+    -   The Right Hand: Kuja
+    -   The General: Beatrix
+    -   The Guard: Steiner
+    -   The Evil Counterpart: The Black Waltz
+    -   The Oddballs / Security Officers: Zorn and Thorn
+    -   The Man Behind the Man: Garland
+-   The Archadian Empire from _Final Fantasy XII_
+    -   The Emperor: Vayne
+    -   The Right Hand/The Oddball: Cid
+    -   The General: Zargabaath
+    -   The Guards: Bergan, Ghis
+    -   The Evil Counterpart: Gabranth
+    -   The Man Behind the Man: Venat
+-   The Empire of Niflheim from _Final Fantasy XV_
+    -   The Emperor: Iedolas Aldercapt
+    -   The Right Hand/The Man Behind the Man/The Evil Counterpart: Ardyn Izunia
+    -   The Generals: Glauca, Ravus Nox Fleuret
+    -   The Guards: Caligo Ulldor, Loqi Tummelt
+    -   The Oddballs: Verstael Besithia, Aranea Highwind
+-   _Fire Emblem: The Sacred Stones_
+    -   The Emperor: Vigarde, Who is actually a reanimated corpse controlled by his son Prince Lyon.
+    -   The Right Hand: Selena
+    -   The General: Duessel (who later pulls a Heel–Face Turn), Glen (who suffers a Heel–Face Door-Slam) and Valter
+    -   The Guard: Tirado
+    -   The Oddball: Caellach and Riev, who are both more concerned with personal vendettas than the overall war
+    -   The Man Behind the Man: Fomortiis, The Demon King
+-   The Kingdom of Daein in _Fire Emblem: Path of Radiance_
+    -   The Emperor: Ashnard
+    -   The Right Hand: The Black Knight
+    -   The General: Petrine, Bryce
+    -   The Guard: Bertram (fought later than most, but he doesn't have much of a role beyond guarding one castle)
+    -   The Oddball: Ena and Nasir, both of whom are Good All Along
+    -   The Evil Counterpart and The Man Behind the Man: The Black Knight
+-   The Begnion Empire in _Fire Emblem: Radiant Dawn_
+    -   The Emperor: Lekain (Begnion's literal Empress is on your side, but she never held any real power)
+    -   The Right Hand: Hetzel
+    -   The General: Zelgius
+    -   The Guard: Jarod
+    -   The Oddball: Oliver, who operates on bizarre Blue-and-Orange Morality regarding beauty.
+    -   The Evil Counterpart: The Black Knight again, a.k.a Zelgius
+    -   The Man Behind the Man: Sephiran
+-   The Kingdom of Nohr in _Fire Emblem Fates_, when they're antagonists.
+    -   The Emperor: Garon
+    -   The Right Hand: Xander
+    -   The General: Hans
+    -   The Guard: Zola
+    -   The Security Officer: Iago
+    -   The Oddball: Kotaro, being a traitorous Hoshidan.
+    -   The Man Behind the Man: Anankos, and by extension the Garon we know, as the real Garon is Dead All Along and Anankos is possessing his corpse
+-   The Covenant from the _Halo_ universe
+    -   The Emperor: The High Prophets (especially the High Prophet of Truth)
+    -   The Right Hand: The Arbiter, or whomever is filling the position at the time. Ripa 'Moramee is the Arbiter during the events of _Halo Wars_ and Thel 'Vadamee gets bestowed the position in _Halo 2_
+    -   The General: Tartarus, chieftain of the Brutes. Supreme Commander Thel 'Vadamee as well, prior to his promotion to Arbiter.
+    -   The Guard: The unnamed Elite Field Marshal in _Halo: Reach_
+    -   The Evil Counterpart: Tartarus to Thel 'Vadam post-Heel–Face Turn
+    -   The Oddball: 343 Guilty Spark
+-   The Covenant remnant from _Halo 4_ has a new leadership
+    -   The Emperor: The Ur-Didact
+    -   The Right Hand: Jul 'Mdama
+    -   The General: Gek 'Lhar
+    -   The Guard: Parg 'Vol
+    -   The Oddball: Dr Catherine Elizabeth Halsey
+-   The Banished as seen in _Halo Infinite_.
+    -   The Emperor: Atriox
+    -   The Right Hand: Jeda 'Rdonmai, commander of the Hand of Atriox under Escharum.
+    -   The General: Escharum, who becomes acting leader of the Banished when Atriox goes MIA.
+    -   The Guard: Chak 'Lok, who runs the interrogation tower.
+    -   The Oddball: Adjutant Reflex, the sub-monitor for Installation 07.
+    -   The Man Behind the Man: Harbinger, who is allied with the Banished and using them as part of her plan to free the Endless.
+-   _House of the Dead 2_
+    -   The Emperor — The Emperor
+    -   The Right Hand — The Magician
+    -   The General — The Hierophant
+    -   The Guard - Judgement & Strength
+    -   The Oddball — The Tower
+    -   The Man Behind the Monsters — Goldman
+-   _Iconoclasts_: One Concern
+    -   The Emperor: Mother
+    -   The Right Hand: Mother’s Corners, her elite bodyguards.
+    -   The General: General Chrome, who leads the One Concern’s Army.
+    -   The Guard: Emmet Darland, Corrupt Corporate Executive and head of the “Suits” who administrate the different regions under One Concern’s control.
+    -   The Security Officer: Agent Black, the top ranked Agent charged with stamping out dissent.
+    -   The Oddball: Royal, who is Mother’s progeny and anointed successor, but is incidental to the One Concern hierarchy apart from that.
+    -   Evil Counterpart: Definitely Agent Black, who serves as Robin’s most personal foe throughout the game.
+    -   The Man Behind the Man: “Him” aka the Starworm, whom Mother claims to be the Medium of. Actually a subversion. The Starworm doesn’t know or care about the One Concern and Mother is acting entirely on her own.
+-   _Knights of the Old Republic_
+    -   The Emperor: Darth Malak
+    -   The Right Hand: Darth Bandon
+    -   The General: Saul Karath
+    -   The Evil Counterpart: Bastilla
+    -   The Oddball: Calo Nord
+    -   The Man Behind the Man: The Sith Emperor
+-   _Jade Empire_'s Empire:
+    -   The Emperor: Emperor Sun Hai
+    -   The Right Hand: Death's Hand
+    -   The General: Sun Li, the Glorious Strategist, until his Heel–Face Turn before the game began.
+    -   The Security Officer: Grand Inquisitor Jia, head of the Lotus Assassins. Also the Guard of the Lotus Assassin Fortress.
+    -   The Evil Counterpart: Sun Li again, as the Spirit Monk's teacher
+    -   The Man Behind the Man: Death's Hand is controlling the Emperor and corrupting the Empire. Not. He's being set up to look like that to conceal the Emperor's status as the Big Bad.
+-   _The Legend of Dragoon_ has one for the first disc
+    -   The Emperor: Doel, the Disc-One Final Boss
+    -   The Right Hand: Kongol
+    -   The General: The nameless Sandora Commander
+    -   The Guard: Fruegal
+    -   The Evil Counterpart: Greham
+    -   The Man Behind the Man: Lloyd, who himself is The Dragon for Emperor Diaz
+-   The main villains of _Legend of Legaia_:
+    -   The Emperor<sup>*&nbsp;</sup> : Cort
+    -   The Right Hand: Jette
+    -   The General / The Guard: Zeto and Dohati both play a mixture of both roles
+    -   The Oddball: Zora
+    -   The Evil Counterpart / Rival Turned Evil: Songi
+-   _The Legend of Zelda: Twilight Princess_:
+    -   The Emperor: Zant.
+    -   The Right Hand: Phantom Zant.
+    -   The General: King Bulblin, who leads the Bulblin army in carrying out Zant's will.
+    -   The Guard: Stallord.
+    -   The Oddball: Argorok.
+    -   The Man Behind the Man: Who else but Ganondorf?
+-   Cerberus from _Mass Effect_
+    -   The Emperor: The Illusive Man
+    -   The Right Hand: Miranda Lawson (_Mass Effect 2_), Kai Leng (_Mass Effect 3_)
+    -   The General: Oleg Petrovsky
+    -   The Guard: Eva Core
+    -   The Evil Counterpart: Kai Leng
+    -   The Oddball: Dr Gavin Archer (_Mass Effect 2_), Henry Lawson (_Mass Effect 3_)
+    -   The Man Behind the Man: the Reapers
+-   Desperado Enforcement LLC from _Metal Gear Rising: Revengeance_
+    -   The Emperor: Senator Steven Armstrong
+    -   The Right Hands: The Winds of Destruction (Mistral, Monsoon, & Sundowner)
+    -   The General: Sundowner
+    -   The Guard : Metal Gear Ray, Khamsin
+    -   The Oddball: Jetstream Sam & the Desperado Scientist
+-   _Metal Slug_: The Rebel Army gets one in _Metal Slug Attack_.
+    -   The Emperor: General Donald Morden, supreme commander of the Army.
+    -   The Right Hand: Sergeant Allen O'Neil, Morden's most trusted soldier.
+    -   The General: Abigail, a high-ranking officer who gives orders to most of the other officials in the army.
+    -   The Guard: Izabella, warden of the Rebel Army's prison system.
+    -   The Oddball: Beatriz, Abigail's younger sister and the "idol" of the army.
+-   The original Outworld Army from _Mortal Kombat_
+    -   The Emperor: Shao Kahn, an otherworldly ruler who wants Earth.
+    -   The Right Hand: Shang Tsung, Kahn's chief sorcerer who unfairly runs the MK tournament.
+    -   The General: Goro governs and leads Kahn's strongest army, the Shokan.
+    -   The Guard: Sheeva, a female Shokan, is Kahn's head jailer.
+    -   The Security Officer: Baraka leads Shao Kahn's shock troops, the Tarkata.
+    -   The Evil Counterpart: Kano, Kahn's weapons dealer. He's human, like the heroes, and favors tech over magic.
+    -   The Oddball: Mileena is Kahn's assassin, a Literal Maneater with issues.
+-   The Nightmare Before Christmas: Oogie's Revenge:
+    -   The Emperor / Evil Counterpart: Oogie Boogie
+    -   The Right Hand: Oogie Boogie's shadow
+    -   The General: Lock, Shock and Barrel
+    -   The Guard: Mega Spider
+    -   The Oddball: Dr. Finklestein
+-   The Cipher Syndicate from _Pokémon Colosseum_
+    -   The Emperor: Nascour
+    -   The Right Hand: Gonzap
+    -   The General: Dakim
+    -   The Guard: Venus/Ein
+    -   The Evil Counterpart: Skrub/Fein
+    -   The Oddball: Miror B
+    -   The Man Behind the Man: Evice
+-   The Cipher Syndicate from _Pokémon XD_
+    -   The Emperor: Master Greevil, the true leader of Cipher.
+    -   The Right Hands: Ardos and Eldes, the two bodyguards for Master Greevil.
+    -   The General: Evice, as it turns out, functioned as this, leading Cipher's Orre branch in the previous game.
+    -   The Guards: Lovrina and Gorigan, two Cipher admins in charge of Cipher's Shadow Pokemon facilities.
+    -   The Security Officer: Snattle, an admin who led an attack on Pyrite town's ONBS news station and Phenac city.
+    -   The Oddball: XD001, the Shadow Lugia that acts as the flagship Shadow Pokemon of Cipher.
+-   Los Illuminados from _Resident Evil 4_
+    -   The Emperor: Osmund Saddler
+    -   The Right Hand/The Evil Counterpart/The Oddball: Jack Krauser
+    -   The Guard: Ramon Salazar
+    -   The General: Bitores Mendez
+-   TRICELL from _Resident Evil 5_:
+    -   The Emperor: Albert Wesker.
+    -   The Right Hand: Excella Gione, who's technically CEO but defers to Wesker.
+    -   The Guard: Ricardo Irving.
+    -   The Oddball: Jessica Sherawat, their mole in the BSAA.
+-   _Shining Force_
+    -   The Emperor: Ramladu
+    -   The Right Hand: Kane
+    -   The General: Elliot
+    -   The Guard: Balbazak
+    -   The Oddball: Mishaela
+    -   The Man Behind the Man: Darksol
+-   _Star Wars: The Old Republic_:
+    -   The Sith Empire from the original game.
+        -   The Emperor: The Dark Council. While the Sith Emperor is the true ruler of the Empire, the Dark Council serves as its legislative branch, and holds the day-to-day task of governing the Empire.
+        -   The Right Hand: The Emperor's Wrath, who serves as the Sith Emperor's personal top enforcer.
+        -   The General: Darth Malgus, the spearhead of the Imperial military for much of the game, as well as General Arkos Rakton, one of the Empire's greatest strategists and military commanders.
+        -   The Guard: Darth Angral, who is in charge of the Desolator superweapon and the main foe of the first chapter of the Jedi Knight storyline.
+        -   Security Officer: Darth Jadus, head of the Sphere of Imperial Intelligence.
+        -   The Oddball: Mandalore the Vindicated, the original Havoc Squad that defected to the Empire, and the Dread Masters.
+        -   Evil Counterpart: The Dark Council to the Jedi Council, Darth Malgus to Satele Shan, The Sith Warrior to the Jedi Knight, the Imperial Agent to the Republic Trooper, and the Bounty Hunter to the Smuggler.
+        -   The Man Behind the Man: The Sith Emperor, the true leader of the Empire and the one who a majority of the game's plot can be traced back to.
+    -   The Eternal Empire from the _Knights Of The Fallen Empire/Eternal Throne_ expansions.
+        -   The Emperor: Valkorion aka Vitiate/The Sith Emperor. He is later usurped by his son Arcann who is in turn later usurped by his sister Vaylin.
+        -   The Right Hand: Arcann. At least until he usurps his father. After Vaylin takes over, SCORPIO serves this role.
+        -   The General: Vaylin, leader of the Knights of Zakuul who later takes over as The Empress.
+        -   Evil Counterpart: The Knights of Zakuul, who are the Eternal Empire's equivalent to the Jedi Knights and Sith Lords.
+-   House Godwin from _Suikoden V_:
+    -   The Emperor: Gizel Godwin (Lymsleia is a puppet queen who actually supports the rebels)
+    -   The Right Hand: Dolph
+    -   The General: Bahram Luger, Dilber Novum
+    -   The Guard: Zahhak, Alenia, Childerich
+    -   The Oddball: Miakis, Galleon later Sialeeds.
+    -   The Man Behind the Man: Marscal Godwin, though he doesn't mind letting his son Gizel run the show.
+    -   The Evil Counterpart: Almost everyone: Gizel is the Prince's, Dolph is Lyon's, Bahram Luger is Raja's, Dilber Novum is Boz Wilde's, Zahhak is Kyle's, Alenia is Miakis'.
+-   The Subspace Army from the _The Subspace Emissary_ story mode in _Super Smash Bros. Brawl_
+    -   The Emperor: Master Hand
+    -   The Right Hand: Ganondorf and Bowser
+    -   The General: The Ancient Minister
+    -   The Guard: Mr. Game and Watch
+    -   The Oddball: Wario
+    -   The Man Behind the Man: Tabuu
+-   _Super Mario Bros._:
+    -   The Koopa Kingdom in _New Super Mario Bros. Wii_ and _New Super Mario Bros. U_.
+        -   The Emperor: Bowser, natch.
+        -   The Right Hand: Bowser Jr.
+        -   The General: Kamek, the chief Koopa Evil Sorcerer.
+        -   The Guard: The Koopalings, who guard the fortresses in each world.
+        -   The Oddball: Boom Boom.
+    -   _Super Mario RPG_: The Smithy Gang.
+        -   The Emperor: Mr. Smithy
+        -   The Right Hand: Exor, the giant sword which acts as Smithy's gateway between worlds.
+        -   The General: The Factory Chief, who is in charge of making minions for Smithy.
+        -   The Guard: Mack, Bowyer and Yaridovich, who each guard different checkpoints for the Gang.
+        -   The Oddball: The Axem Rangers.
+    -   _Paper Mario: The Thousand-Year Door_: The Secret Society of X-Nauts.
+        -   The Emperor: Sir Grodus, leader of the Society.
+        -   The Right Hand: Beldam, leader of the Shadow Sirens and Grodus's advisor on specific aspects of his plan.
+        -   The General: Lord Crump, field commander of the X-Nauts.
+        -   The Guard: TEC-XX, the supercomputer which runs the X-Naut Fortress.
+        -   The Oddball: Marilyn and Vivian, the other two Shadow Sirens under Beldam.
+        -   Evil Counterpart: Doopliss fills this role once he joins the Shadow Sirens, given his shape-shifting powers.
+        -   The Man Behind the Man: The Shadow Queen, who Grodus and Beldam are working to free and who manipulated the events of the entire game.
+    -   _Super Paper Mario_: Count Bleck's forces.
+        -   The Emperor: Count Bleck, the ringleader of the plan to use the Chaos Heart to remake everything.
+        -   The Right Hand: Nastasia, Count Bleck's assistant.
+        -   The General: O'Chunks, who in the series lore originally was a general before falling in with Count Bleck.
+        -   The Guard: Mimi, who takes over Merlee's mansion and tries to keep the protagonists trapped there.
+        -   The Oddball: Dimentio, the strangest and most mysterious of Count Bleck's minions.
+        -   Evil Counterpart: Mr. L, who is definitely not a brainwashed Luigi.
+        -   The Man Behind the Man: Dimentio, who is manipulating Bleck so he can take the Chaos Heart for himself.
+-   _Touhou Project_:
+    -   _Embodiment of Scarlet Devil_: The Scarlet Devil Mansion crew.
+        -   The Emperor: Remilia Scarlet, mistress of the mansion.
+        -   The Right Hand: Patchouli Knowledge, Remilia’s close friend and the one in charge of the mansion’s library.
+        -   The General: Sakuya Izayoi, head of the mansion’s maid corps.
+        -   The Guard: Hong Meiling, who guards the gate.
+        -   The Oddball: Flandre Scarlet, Remilia’s younger sister who is confined to the basement due to her destructive power.
+    -   _Imperishable Night_: The Lunarian exiles at Eientei.
+        -   The Emperor: Kaguya Houraisan.
+        -   The Right Hand: Eirin Yagokoro.
+        -   The General / The Guard: Tewi Inaba, head of the Eientei rabbits and the one allowing the Lunarians to reside on the land.
+        -   The Oddball: Reisen Udongein Inaba.
+    -   _Mountain of Faith_: The Moriya Shrine
+        -   The Emperor: Kanako Yasaka.
+        -   The Right Hand: Sanae Kochiya, wind priestess of the shrine.
+        -   The General / The Guard: Momiji Inubashiri, the white wolf tengu who guards the Youkai Mountain.
+        -   The Woman Behind The Woman: Suwako Moriya, co-goddess of the shrine with Kanako.
+    -   _Undefined Fantastic Object_: The Myouren Temple Buddhists (although they definitely aren't evil)
+        -   The Emperor: Shou Toramaru, the head of the effort to revive Byakuren.
+        -   The Right Hand: Nazrin, Shou’s servant.
+        -   The General / The Guard: Minamitsu Murasa, Captain of the Palanquin Ship
+        -   The Oddball: Ichirin Kumoi and Unzan.
+        -   The Woman Behind The Woman: Byakuren Hijiri, whom they are looking to revive.
+-   In _Tyranny_, there's Kyros' empire, and possibly the player's own realm.
+    -   The Emperor: Kyros. Utterly Shrouded in Myth, they are never seen, and even their gender is unknown, but Sirin can confirm they exist, and the game's events clearly prove they are possessed of _incredible_ magical power. The Fatebinder, naturally, holds the same role if they rebel against Kyros.
+    -   The Right Hand: The Fatebinder is both Tunon's chief agent and the Mouth of Sauron who is sent to enact Kyros' Edicts. Eb can also take on this role if she's loyal.
+    -   The General: Two of them, ever-bickering and barely able to stand one another. General Graven Ashe, Archon of War, is leader of the most Elite Mooks of Kyros' army. The Voices of Nerat, Archon of Secrets, leads the raving hordes of the Scarlet Chorus. One of them may potentially serve as this to the Fatebinder as well. And if Verse is loyal enough, she'll form her own army/mercenary band and frequently serve the Fatebinder's conquests.
+    -   Security Officer: Two of them.
+        -   Tunon, the Archon of Law, is the eldest of Kyros' servants and executes their law ruthlessly and impartially, holding responsibility for the administration of the official legal system in conquered territories. They may also become this to the Fatebinder instead, if convinced that the Fatebinder understands Law better than Kyros.
+        -   Bleden Mark personally dispatches potential threats to Kyros' realm before they can become a threat. Usually before they're ever heard of. He may be convinced to serve the Fatebinder in the same capacity.
+    -   The Oddball: Sirin, Archon of Song, though her title is a formality and she's mostly deployed as a Person of Mass Destruction. When the Fatebinder revolts and starts their own realm, most of the rest of the party qualifies.
+-   _Valkyria Chronicles_:
+    -   The Emperor: Prince Maximillian
+    -   The Right Hand: Selvaria Bles
+    -   The General: Berthold Gregor
+    -   The Guard: Giorgios Geld
+    -   The Evil Counterpart: The Enemy Aces
+    -   The Oddball: Radi Jaeger
+-   _Valkyria Chronicles III_: Same as the above, plus a few new characters.
+    -   The Evil Counterpart: Adds Zig and Gusurg to the list.
+    -   The Oddball: Adds Dahau to the list.
+
+    Web Animation 
+
+-   _RWBY_
+    -   The White Fang
+        -   The Emperor: High Leader Sienna Khan. Later Adam Taurus after he usurps her.
+        -   The Right Hand: Fennec and Corsac Albain, who act as messengers and advisors for the White Fang's leadership.
+        -   The General: Adam Taurus, a high-ranking member of the organization who heads its sect in Vale.
+        -   The Guard: The unnamed White Fang Lieutenant, who appears early on and heads a White Fang compound with Roman Torchwick.
+        -   The Oddball: Roman Torchwick, a human criminal allied with the group.
+        -   The Man Behind the Man: Cinder Fall, another human allied with the group who appears to be using them for her own ends. And, by extension, Cinder's master Salem as well.
+    -   Salem Faction
+        -   The Emperor: Salem
+        -   The Right Hand: Dr. Arthur Watts later Cinder Fall.
+        -   The General: Cinder Fall.
+        -   The Oddball: Roman, Neo, Emerald, and Mercury.
+    -   The Kingdom of Atlas
+        -   The Emperor/General: General James Ironwood.
+        -   The Right Hand: Winter Schnee.
+        -   The Guard: Caroline Cordovin
+        -   The Security Officer: Clover Ebi.
+        -   The Oddball/ Evil Counterpart: The Ace-Ops.
+        -   The Man Behind the Man: Dr. Arthur Watts who like Cinder works for Salem.
+
+    Webcomics 
+
+-   Nightmare Enterprises in _Chilly's Dreamland_
+    -   The Emperor: Nightmare
+    -   The Right Hand: Butterfingers
+    -   The General: Biospark
+    -   The Guard: Capsule J, head of the Rock Star P.O.W. camp
+    -   The Security Officer: Simirror
+    -   The Evil Counterpart: Snowcrimson
+    -   The Oddball: Lightning Molly
+    -   The Man Behind the Man: Nothing Twice / 02
+-   _The Order of the Stick_:
+    -   Team Evil
+        -   The Emperor: Xykon
+        -   The Right Hand/The General: Red Cloak
+        -   The Security Officer: Tsukiko. Also one of Haley's many Evil Counterparts.
+        -   The Oddball: The Monster in the Darkness
+        -   The Evil Counterpart: The Linear Guild to the Order, though they only work for Xykon briefly in the first arc.
+    -   Empire of Blood
+        -   The Emperor: Empress of Blood
+        -   The General: Tarquin
+        -   The Guard: Malack
+        -   The Security Officer: KilKil
+        -   The Man Behind the Man: The Vector Legion which includes Tarquin and Malack, but not the Empress
+-   The Souballo Empire in _Our Little Adventure_:
+    -   The Emperor: Brian Souballo, arch-wizard and Magitek researcher extraordinaire.
+    -   Co-emperor: Angelo Souballo, Brian's husband, master of divine and arcane magic, founder of the Cult of Personality/Path of Inspiration Angelo's Kids, which is _totally not an Imperial hit squad of course,_ and collector of souls. Possibly a monster.
+    -   The Right Hand: Janice Jamison, head of magical research, grudging master tactician, high-level wizard, and mean old crone.
+        -   Also, Paula Meng, cleric of Law, administrator of a clone training facility, and current aide-de-camp to Angelo. One of the very few who might know what he really _is_, which doesn't look good for Janice.
+    -   The General: Bruce Moriatos, Blackguard of Tyranny, head of melee combat and training, devoted family man, and deliverer of shortbread.
+    -   The Guard: Martin Galespy, wizard, director of magical training and augmentation, and amoral vat-grown sociopath.
+    -   The Evil Counterpart: Umbria, formerly the fiendish assassin Zaedalkaah, reformed into a Mirror Self of protagonist Julie by a powerful curse, now employed as a bard and combat trainer.
+    -   The Oddball: Exillon, floating beeping Living Polyhedron, private consultant to the Souballos for reasons unknown.
+-   The Wulfenbach Empire in _Girl Genius_.
+    -   The Emperor: Baron Klaus Wulfenbach.
+    -   Right Hand: Boris Dolokhov.
+    -   The General: Bangladesh DuPree.
+
+    Web Original 
+
+-   The Antagonists in _To Boldly Flee_
+    -   The Emperor/ The Man Behind the Man: The Executor
+    -   The Right Hand: Darth Snob
+    -   The General: General Zodd and General Ferdinand von Turrell
+    -   The Guard: Lame R. Prick
+    -   The Evil Counterpart: Most of them counts: Turrell (to The Nostalgia Critic), The Executor (to Oancitizen), Darth Snob (to Luke Mochrie), Mechakara (to Linkara), Seven-of-Eleven (to Obscurus Lupa), and Ma-Ti (to Film Brain)
+    -   The Oddball: Mechakara
+
+    Western Animation 
+
+-   The Fire Nation in _Avatar: The Last Airbender_
+    -   The Emperor: Fire Lord Ozai
+    -   The Right Hand: Princess Azula
+    -   The General: Zhao
+    -   The Guard: Boiling Rock's warden
+    -   The Evil Counterpart: Prince Zuko
+    -   The Oddball: Mai and Ty Lee
+-   _The Legend of Korra_: The Earth Empire
+    -   The Emperor: Kuvira
+    -   The Right Hand: Baatar Jr.
+    -   The Guard: Commander Guan 
+    -   The Oddball: Varrick and Bolin
+-   The Toad Empire in _Bucky O'Hare and the Toad Wars!_
+    -   The Emperor: KOMPLEX
+    -   The Right Hand: Toadborg
+    -   The General: Toad Air Marshall
+    -   The Oddball: Al Negator
+-   _Craig of the Creek_ The Other Side of the Creek
+    -   The Emperor: King Xavier
+    -   The Right Hand: Maya
+    -   The General: The Champions
+    -   The Oddball: The Honeysuckle Rangers
+-   The Neosapien Commonwealth in _Exosquad_:
+    -   The Emperor: Phaeton, being an obvious Hitler expy
+    -   The Right Hand: Livia, Phaeton's most trusted general and advisor always at his side, almost bordering on Girl Friday and Unholy Matrimony<sup>note&nbsp;</sup> 
+    -   The General: Shiva, the most brilliant and loyal Neosapien general, who is also the only top-rank presented as a Worthy Opponent to the Terrans
+    -   The Guards: Draconis and Typhonus, governor-generals of the Neosapien-occupied Venus and Mars, respectively, noted for their cruelty and repeated treachery attempts
+    -   The Security Officer: Livanus, the One-Episode Wonder chief of security on the Neosapien-occupied Earth who uses his telepathy to track La Résistance members
+    -   The Evil Counterparts: Thrax, a Neosapien Ace Pilot frequently pitted against Able Squad's own hotshot ace, Kaz Takagi; also, Amanda Connor, a Terran collaborationist in charge of Neosapien propaganda and the Rebel Leader Sean Napier's ex-wife
+    -   The Oddballs: Xenobius and Praetorius, the Neosapien Mad Scientists, the latter of which additionally genetically engineered the Evil Genius race of Neo Megas, who also serve as Oddballs within Phaeton's regime
+-   COBRA in _G.I. Joe_
+    -   The Emperor: Cobra Commander
+    -   The Right Hand: Storm Shadow, a ninja who specializes in assassinations and Cobra Commander's bodyguard, and Destro, COBRA's weapons dealer who also acts as The Dragon to Cobra Commander
+    -   The General: Major Bludd, head of COBRA's Infantry Deployment
+    -   Security Officer: The Baroness, head of COBRA's intelligence and espionage
+    -   The Evil Counterpart: Storm Shadow to Snake Eyes.
+    -   The Oddball: Dr. Mindbender, COBRA's top scientist, Tomax and Xamot, head of COBRA's economic affairs and the Crimson Guard, Zartan, a shapeshifter who leads the Dreadnoks and Firefly, who is contracted by Cobra Commander to perform sabotage missions.
+    -   The Man Behind the Man: Golobulos and the Cobra-La, at least in the movie
+-   The Irken Empire in _Invader Zim_
+    -   The Emperor: The Almighty Tallests, the rulers of the empire whose position was given to them because they were the tallest
+    -   The Right Hand: The Control Brains, who handle judiciary matters, as well as evaluate who gets to be Invaders. Their decisions even have to be accepted by the Tallests, making them the true rulers of the empire.
+    -   The General: The Tallests again, as they appear to be in charge of the empire's military and are the ones who send Invaders to conquer planets
+    -   The Guard: Sizz-Lorr, who runs a restaurant on the planet Foodcourtia
+    -   The Oddball: The titular Invader Zim
+-   The Boiling Isles' leadership in _The Owl House_
+    -   The Emperor: Emperor Belos, the most powerful being on the Isles
+    -   The Right Hand: The Golden Guard.
+    -   The General: Lilith Clawthorne, until she defects.
+    -   The Guard: Warden Wrath, administrator of the Conformatorium.
+    -   The Oddball: Kikimora, the Emperor's majordomo and vizier.
+-   _She-Ra and the Princesses of Power_ The Horde.
+    -   The Emperor: Hordak
+    -   The Right Hand: Shadow Weaver later Catra
+    -   The General: Catra
+    -   The Oddball: Scorpia
+    -   The Man Behind the Man: Horde Prime
+-   Darth Maul's Shadow Collective, though an underworld empire, still fits.
+    -   The Emperor: Darth Maul. At least until his power reveals his location to Sidious... Comes back for the series finale.
+    -   The Right Hand: Savage Oppress.
+    -   The General: Pre Vizsla. Ends up trying to assert himself as the leader. A silent grunt takes his place. Gets replaced later by Gar Saxon for the finale.
+    -   The Guard: Almec. The leaders of various crime organizations also qualify, of which the Pykes are seen.
+    -   The Evil Counterpart: Mandalorian Supercommandoes in general play this part to Death Watch loyalists and the Clones.
+    -   The Oddball: Bo-Katan Kryze.
+-   The Confederacy of Independent Systems in _Star Wars: Clone Wars_
+    -   The Emperor: Count Dooku, the leader of separatist senate.
+    -   The Right Hand: Asajj Ventress. Savage Oppress was intended to replace her in the role.
+    -   The General: General Grievous
+    -   The Guard: Osi Sobeck
+    -   The Oddball: A lot of CIS-aligned minor villains fall to this category having very different abilities, but mostly being no match for the heroes, particularily the Jedi and the clones in sheer combat prowess.
+    -   The Man behind the Man: Darth Sidious.
+    -   The Evil Counterpart: All over the place:
+        -   Grievous is a lightsaber wielding cyborg implied to have wanted to be a Jedi and Dooku is a former Jedi. Both act as Evil Counterparts to the various Jedi in the show, particularily Obi-Wan Kenobi.
+        -   Ventress begins as one to Anakin Skywalker: Ventress was a secret padawan found and trained by a traveling Jedi who got killed shortly thereafter. Ventress was turned sith assassin and apprentice for Dooku much like Anakin remains largely independent former apprentice to Obi-Wan.
+        -   A bit ironic to mention in the context of a hierarchy, but both Ventress and Ahsoka end up leaving their respective organizations and become independent operators.
+        -   Dooku performing a function similar to Palpatine in their respective senates.
+        -   Palpatine himself is the Big Bad Sith Master to Yoda's Big Good Jedi Grand Master
+-   The Galactic Empire in _Star Wars Rebels_
+    -   The Emperor
+    -   The Right Hand: Darth Vader, Grand Moff Tarkin
+    -   The General: Grand Admiral Thrawn
+    -   The Guard: The Grand Inquisitor fills the tropes role as the first arc villain and Knight of Cerebus, while Governor Pryce assumes the command of Lothal from Season 3 onward. Various minor imperials in command of outposts, garrisons and important ships.
+    -   The Security Officer: Agent Kallus, the various Inquisitors.
+    -   The Oddball: Minister Maketh Tua, the only civil servant among the baddies. Gar Saxon the leader of Vichy Mandalorians. Baron Valen Rudolf and Various imperial collaborators.
+    -   The Evil Counterpart: Vader to Ahsoka, Gar Saxon to Sabine, Agent Kallus to Zeb, Vult Skerris to Hera, the Inquisitors to Kanan and Ezra.
+-   The Diamond Authority in _Steven Universe_
+    -   The Emperess: White Diamond, the supreme authority over all of Homeworld, and a godly being who is feared by the other Diamonds.
+    -   The Right Hand: White Pearl, a proxy of White Diamond, who can countermand the authority of the younger Diamonds.
+    -   The General: Yellow Diamond, a ruthless commander of the army of Homeworld.
+    -   The Guard: Blue Diamond, the most diplomatic of the Diamonds, the one acting as judge of the trial, and the first Diamond to personally engage the Crystal Gems.
+    -   The Oddball: Pink Diamond, the youngest, and lowest ranking of the Diamonds, who is one of the biggest mysteries in the setting.
+    -   The Evil Counterpart: Jasper, perhaps the most powerful gem working for the Diamond Authority, who antagonizes the Crystal Gems. Archenemy of Rose Quartz.
+-   _Storm Hawks_: Cyclonia.
+    -   The Emperor: Master Cyclonis.
+    -   The Right Hand: The Dark Ace, the right-hand and closest servant to Master Cyclonis.
+    -   The General: Ravess and Snipe, two high-ranking Cyclonia commanders.
+    -   The Guard: Mr. Moss, warden of Cyclonia's Zartacla prison.
+    -   The Oddball: The Raptors, whenever they're working under Cyclonis.
+    -   Evil Counterpart: Master Cyclonis to Piper and the Dark Ace to Aerrow.
+-   ’’Teenage Mutant Ninja Turtles (2012)’’ The Triceraton Empire
+    -   The Emperor: Emperor Zanmoran 
+    -   The Right Hand/General: Captain Mozar 
+    -   The Oddball: Zog
+-   The Decepticons in _Transformers: Prime_.
+    -   The Emperor: Megatron.
+    -   The Right Hand: Soundwave. While other 'Cons might nominally hold the role of Megatron's Number Two, Soundwave is Megatron's closest ally and most useful follower.
+    -   The General: Starscream, the head military officer. During the time when Starscream was AWOL, this role was held by Airachnid and then Dreadwing.
+    -   The Guard: Shockwave, who ran a lab on Cybertron's surface and is later put in charge of the facility for engineering the Decepticons' Predacon army.
+    -   The Oddball: Knock Out, the Decepticon medic. Also Predaking after he becomes sapient.
+-   The Galra Empire in _Voltron: Legendary Defender_:
+    -   The Emperor: Emperor Zarkon later Prince Lotor
+    -   The Right Hand: High Priestess Haggar 
+    -   The General: Commander Sendak
+    -   The Evil Counterpart/Oddball: Prince Lotor
+
+___

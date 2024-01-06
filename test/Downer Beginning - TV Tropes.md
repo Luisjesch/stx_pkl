@@ -1,0 +1,311 @@
+_"And so the tale begins..._  
+_As a tragedy."_
+
+Most stories that involve disasters, genocide, rape, murder or whatever horror imaginable _wait_ a little bit before things turn totally awful. Let the plot develop for a while and show some signs that things are about to turn nasty. Some works, however, prefer to kickstart the action by letting whatever unspeakable horror the story is about take place in the very first scene. Better to get the really bad stuff over with quickly, right? It can only go up from there.
+
+Alternatively, the beginning can make the work look very dark and depressing — but it gets better pretty quick and it turns out that the story is not at all as dark as the beginning would have us believe.
+
+Likely to lead to Back from the Brink... But if the story is truly depressing or takes place in a true Crapsack World, the Downer Beginning will lead to a Downer Ending, as all hope of solving the problem has been crushed (or going From Bad to Worse), making the beginning a Foregone Conclusion.
+
+Backstory counts only if it is shown rather than merely mentioned, and only if it's at the beginning of the actual story.
+
+An After the End story may begin by showing the horrible event(s) of the apocalypse that began it.
+
+Compare Start to Corpse, which in itself is _not_ a subtrope of this, because in many cases neither the characters nor the audience get any chance to develop a sympathy for the victim. Also compare You Can't Thwart Stage One, which can be jumpstarted by this trope. See also R-Rated Opening, where a work opens with something gruesome or inappropriate, which may overlap with this, for example if it involves a good guy dying horribly.
+
+**Warning: Unmarked spoilers ahead - some spoilers are marked, but having a work on this list can be a spoiler in itself.**
+
+___
+
+## Example subpages
+
+-   Anime & Manga
+-   Fan Works
+-   Film
+-   Video Games
+
+___
+
+## Other examples:
+
+    open/close all folders 
+
+    Multiple Media 
+
+-   _Batman_: Every version of Batman's origin begins with his parents being shot dead in front of him.
+-   All versions of _The Hitchhiker's Guide to the Galaxy_ begin with Earth destroyed by a Vogon constructor fleet.
+-   MonsterVerse:
+    -   _Godzilla (2014)_: Within the first 15 minutes, a giant monster has hatched in the Philippines and escaped into the ocean, and the tremors it causes at a Japanese power plant forces the husband and father played by Bryan Cranston to heartbreakingly lock his own wife inside an irradiated chamber to certainly die, whilst the entire city is evacuated and promptly becomes Japanese Chernobyl.
+    -   _Godzilla: King of the Monsters (2019)_: The film opens with Monarch on trial by the government, Godzilla's heroism at the end of the previous film largely overlooked, and the world paranoid about the implications that there might be more monsters besides Godzilla and the MUTOs slumbering out there.
+    -   _Godzilla vs. Kong_: The film's opening establishes that Skull Island has been destroyed, depriving Kong of a home and meaning that all of his indigenous charges except Jia are dead. Meanwhile, Godzilla, who was the hero of the previous films, suddenly charges into Pensacola and causes localized destruction with his atomic breath for mysterious reasons, leading the world to believe that he's turned on humanity.
+    -   _Skull Island (2023)_: The first episode that kicks off the series ends with a giant tentacled sea monster attacking the cast's boat, brutally killing Mike's father and Cap's friend Hiro in front of Mike. The boat goes down and all the non-major characters onboard are massacred, with the main cast washing up on the shores of Skull Island, with Charlie Mike separated from Cap and Annie.
+-   _Spider-Man_: _Almost_ all versions of Spider-Man's origin start with his uncle's death, and it's _always_ because he neglected to stop the killer when he could have.
+-   _Star Trek_:
+    -   _Star Trek: Deep Space Nine_ begins with the Battle of Wolf 359, and Jennifer Sisko's death along the way.
+    -   _Star Trek (2009)_ starts with the destruction of the U.S.S. _Kelvin_ and the Heroic Sacrifice of Acting Captain George Kirk (though his wife and newborn son James survive).
+    -   _Star Trek: Discovery_: The first four or so episodes of the show are probably the most unrelievedly grim run in the whole of TV _Trek_. Our protagonist launches an unsuccessful mutiny against her former mentor, sees those events lead to said mentor's death and everything that she feared would happen taking place, and gets sentenced to life imprisonment. Then she's let out of jail into a bloody war, on a top-secret science vessel that dumps Starfleet's usual Mildly Military atmosphere completely, and is run by a sinister and amoral but highly charismatic captain whose "win by any means necessary" approach might even be approved of by the show. Then things lighten up, and by the end of the show the Federation has won the war without losing its soul, and the captain in question has turned out to be unambiguously a Not-So-Well-Intentioned Extremist who was Evil All Along, and deservedly died.
+-   _Star Wars_; _all of them_ to various degrees of "downer". Let's take them in canonical chronological order:
+    -   _The Phantom Menace_: The greedy Trade Federation is behind a blockade of Naboo, but as few know, there's a far-more sinister motive in the works.
+    -   _Attack of the Clones_: As the scrolling text says, _"There is unrest in the Galactic Senate. Several thousand solar systems have declared their intentions to leave the Republic"_ Most of this due to Palpatine's underhanded work. The film itself the opens by Padme's ship being blown up.
+    -   _Revenge of the Sith_: The film starts with the Clone Wars at their worst and no end in sight. "The Republic is crumbling", as the text says.
+    -   _Star Wars: Legacy_ begins with the Sith allying with the Fel Empire, successfully defeating the Galactic Alliance and carrying out the first Jedi Purge since Order 66, with the remaining Jedi once again being sent into hiding. Afterwards the Sith betray the new Empire, resulting in a three-way war in the galaxy.
+    -   _Solo_: The teenaged Han Solo is trying to escape gangsters after his job failed.
+    -   _Rogue One_: The Empire finds Jyn Erso's family, killing her mother and kidnapping her father. The first time we see Jyn as an adult, she's waking up in an Imperial prison.
+    -   _A New Hope_: Despite the name of the movie, little actual hope exists, with the Empire's new super-weapon almost complete, the Tantive IV being overrun by the Empire, Darth Vader making a personal appearance, and Princess Leia, the leader of the Rebellion, being captured.
+    -   _The Empire Strikes Back_: The scrolling text does not mince words. "It is a dark time for the Rebellion" for sure, as they're on the defensive with the Empire in hot pursuit.
+    -   _Return of the Jedi_: The disaster carried over from the previous film sees Han Solo a prisoner of Jabba the Hutt, and a new Death Star being built, although the scrolling text is more optimistic.
+    -   _The Force Awakens_: Luke has disappeared during the Time Skip, and the First Order is threatening to become as bad as the Empire was.
+    -   _The Last Jedi_: The rebel base on D'Qar is evacuated before being bombed by First Order fleet and their Dreadnought.
+    -   _The Rise of Skywalker_: Emperor Sheev Palpatine is alive thanks to cloning techniques preserving his remains on the Sith homeworld of Exegol, and gives Kylo Ren a fleet of starships, each one armed with the full destructive power of the Death Star, with the intent to wipe out the Resistance once and for all.
+-   _Superman_: All versions of Superman's origin begin with an infant Kal-El being sent to Earth as his home planet Krypton is destroyed.
+-   _Transformers_:
+    -   _Transformers: Generation 1_: In the beginning, the Decepticons have dominated Cybertron, run it low on energon, and the Autobots are struggling to survive by building the Ark to escape the planet.
+        -   _Transformers: The Movie_ starts after a Time Skip where the Decepticons have conquered Cybertron over the interim. It's not a nice place, to say the least. The opening act of the movie also contains many battles where beloved characters from the cartoon are Killed Off for Real in brutal ways.
+    -   _The Transformers: All Hail Megatron_ starts in New York during a nice day. Then the Constructicons show up and explain how their here to spread peace and happiness, having apparently turned over a new leaf.... Then Scrapper and Hook laugh evilly before promptly starting a massive all out Decepticon attack on New York. The first two issues is pretty much made up of the Decepticons slaughtering their way through the hundreds of civilians and U.S. soldiers trying to survive or maybe fight back.
+
+    Asian Animation 
+
+-   Season 2 episode 30 of _Happy Heroes_ begins with the Superstar School being destroyed by a storm, thus throwing thousands of children out of their education and, naturally, leaving the school's principle Headmaster Tele devastated.
+
+    Audio Play 
+
+-   _Sonic and Tails R_ begins with Eggman using a tractor beam to try and steal the Chaos Emeralds from Sonic, with the ensuing struggle causing them to shatter and disperse across the world.
+
+    Comic Books 
+
+-   The story of _All Fall Down_ begins with heroes and villains dropping out of the sky to their deaths.
+-   _Amulet_ starts with Emily and Navin's father dying in a rather traumatic car accident. Additionally, the first volume ends with their mother badly poisoned and on the verge of death as they search for a cure.
+-   _Doomsday Clock_ shows that after seven years of worldwide peace, tensions between the United States and Russia have throttled back up again thanks to a news gazette publishing Rorschach's Journal containing significant evidence in Ozymandias's scheme in New York. The conditions became so bad that Ozymandias thinks finding Doctor Manhattan in another universe will solve the consequences of achieving his idyllic 'peace'.
+-   In Issue #1 of _Future Quest_, we watch as the man who would become Space Ghost is the last survivor of a galactic space team who stopped an incursion through a Heroic Sacrifice.
+-   _Identity Crisis (2004)_ begins with Sue Dibny dying at the hands of Jean Loring, the latter which gave Captain Boomerang a mission to kill Jack Drake, the father of Tim Drake.
+-   _Irredeemable_ begins with the Plutonian going on an unstoppable murderous rampage. More specifically, it opens with him brutally murdering his teammate and best friend the Hornet (and his family, kids included), with the story behind his Face–Heel Turn being told in flashbacks over the course of the series.
+-   _Kick-Ass_ starts off like this (though it's an introduction to a flashback that explains How We Got Here), with Kick-Ass getting his testes electrocuted.
+-   _Midnight Nation_ starts out with the hero getting killed. And then it goes downhill from there, as he discovers that the devil has taken his soul and that his guardian angel REALLY hates her job.
+-   The first issue of the _Power of the Atom_ series began with the Morlaidhan tribe Ray Palmer was living with throughout the _Sword of the Atom_ storyline killed by government agents posing as loggers. Ray escaped, but ended up trapped at three feet tall for a time.
+-   Kathryn Immonen's run on _Runaways_ opens with most of the team in such bad moods that Nico is organizing a party to try and cheer them up, and even that falls apart when Karolina starts hitting on Chase. And then something attacks the house, killing Old Lace and driving Klara into such a panic that she traps everyone inside the house. Things rapidly deteriorate from there.
+-   Every _Sin City_ story starts out rather bleak but the best example is probably _The Hard Goodbye_, which opens with protagonist Marv having the night of his life, only for Goldie, the lady he was with, to be killed after the second page and the cops moving in loaded for bear to frame him for the murder.
+-   The _Superman_ storyline "The Fall of Metropolis" is not only a Downer Ending for the storyline that immediately preceeded it, "The Battle For Metropolis", but a Downer Beginning, with Project Cadmus and the entirety of Metropolis ravaged by Lex Luthor, though the latter was done by one of Luthor's lackeys having a Villainous Breakdown.
+-   _Ultimate Galactus Trilogy_: A weird recording of aliens dying is seen in all the media. Then we find out what is it all about.
+-   Issue #1 of _Y: The Last Man_ has all but two male mammals on the planet die a sudden, horrific, and bloody death.
+
+    Literature 
+
+-   _American Dirt_ begins with the slaughter of protagonist Lydia's entire family, including her beloved husband, her mother, her fifteen-year-old niece, and her eight-year-old nephew. The only survivors are herself and her eight-year-old son Luca, but as the cartel who killed their family has eyes in the entire city of Acapulco, the two are forced to leave everything they've ever known to El Norte in hopes of sanctuary.
+-   _Animorphs_: In the very first book, 43 pages in, the kids watch Elfangor get Eaten Alive by Visser Three. By the end of the book, Tobias is trapped as a hawk. It goes downhill from there.
+-   Rashel goes through a major Trauma Conga Line at the start of _The Chosen (1997)_. She witnesses a vampire murdering her mother and best friend, and no one believes her. She's sent to live with her aunt Corinne, who is killed when the vampire returns and sets fire to her house in an attempt to kill Rashel, who gets put into the foster system. Her trauma compels her to become a vampire hunter and it's mentioned she started killing vampires at the age of _twelve_.
+-   _The Broken Earth Trilogy_ starts with both The End of the World as We Know It and the protagonist Essun's three-year-old son being killed by her husband.
+-   _Carry On_:
+    -   _Wayward Son_, the second book of the series, starts a year after the events of the previous entry. The book ended with Simon and Baz happy in a relationship together and looking forward to their life after school with Simon going to therapy and recovering from the book's events. The second book begins with their relationship in a rut due to Simon blowing off college and therapy due to a deep bout of depression, readying himself to break up with Baz to not bring his boyfriend into his downward spiral with him.
+    -   Agatha ends the first book finally leaving the world of mages behind to start a normal life in California, only to realize she doesn't fit there either.
+-   _Chronicles of Ancient Darkness_ begins with the protagonist Torak's father dying after a bear attack. Then he has to survive on his own in the forest, with only a wolf cub for companionship.
+-   _The Chronicles of Thomas Covenant_ start with the protagonist somehow catching leprosy. Doctors show him the horrible fate that awaits him, another man with the same disease seriously advise him to commit suicide, his wife and daughter leave, his friends and family reject him, his neighbours avoid him, and nobody wants to have anything to do with him. _Then_ he is abducted by a powerful evil deity from another universe who intends to use him to fulfil his agenda. Thomas is, quite understandably, a bit crazy, paranoid and hopeless after all of that, and it takes him a _long_ time (during which he commits some really despicable acts of his own) to start recovering.
+-   The first chapter of the first book of _Circle of Magic_ is _not_ fun. It tells the stories of four children in terrible situations: a neglected girl being ruthlessly bullied, a young street rat being sent to a life of hard-labour for his crimes, another girl who's marooned out in the ocean after her ship went down in a storm, killing everyone on board, and another girl who was locked in a supply closet in the hopes of protecting her from the plague that killed her parents, but now cannot escape. Even though they're all rescued, its tough.
+-   The first book in the _Demonata_ series has the protagonist find his family horribly murdered in the second chapter. The third has him in an asylum dealing with both the grief of the mentioned tragedy and with the knowledge that demons exist.
+-   Taylor Anderson's _Destroyermen_ series starts with the Second Battle of the Java Sea, where the remaining Allied warships near Java are being curb-stomped by the heavily-armed Japanese fleet. Then two of the American destroyers suddenly find themselves in a parallel world, where evolution took a completely different course. Humans never evolved on this world. Instead, a race of peaceful (some of them, at least) descendants of giant lemurs from Madagascar prowl the seas of the East Indies on giant wooden ships. The Lemurians reveal that they are being hunted to extinction by a race of velociraptor-descended Lizard Folk called the Grik, who sail in three-masted ships remarkably similar to British East Indiamen and hail from Africa. The Americans agree to help the Lemurians, and the outdated destroyers, which are cannon fodder in their own world, become the most powerful warships in this one. Then things get worse, especially when it's discovered that the Grik have an armada of hundreds of ships, and they are being aided by a Japanese battlecruiser. In fact, most novels in the series start on this note.
+-   _The Divine Comedy_ starts with middle-aged Dante lost in the woods with no place in life, unable to get anywhere due to the heinous beasts who block his way. Metaphorically, the beasts represents the sins that plague our hero and the dark forest he's in is suspiciously similar to the forest where suicides spend eternity. It's a good thing Virgil comes in to bring Dante to a better place: Hell.
+-   _Doctor Zhivago_ begins with the funeral of Marya Nikolayevna Zhivago, the mother of Yuri Zhivago, which leaves the ten-year-old living with his Uncle Kolya. The opening chapter also has his deadbeat father Driven to Suicide without any of the main characters finding out until much later.
+-   _Dragon Age: The Stolen Throne_ starts with the nation of Ferelden in the middle of the Orlesian Occupation, with the Usurper-King Meghren being a typical Caligula. The protagonist, Prince Maric has just witnessed his mother Queen Moira betrayed and murdered by her former subjects and is running for his life. On the other hand, since this is a prequel, any player should already know how it ends.
+-   Some of the trilogies from _Dragons of Requiem_ begin with tragedy. _Dragonlore_, for one, starts with Prince Orin's death, followed by her younger sister, Mori, getting raped, and Queen Solina ready to attack Requiem with her army of phoenixes. Also Mori's pet mouse dies.
+-   _Earth's Children_:
+    -   _The Clan of the Cave Bear_ begins with five year-old Ayla losing her family in an earthquake and getting lost in wilderness, nearly being killed by a cave lion and eventually collapsing, near-death due to infection, dehydration and hunger. She's found Iza as her clan are searching for a new home, as their cave was destroyed in the earthquake. Luckily, Iza is able to save Ayla's life and Ayla manages to find a new cave for the clan to live, after which Iza formally adopts her. It's not the end of Ayla's troubles, though, as living amongst the Clan isn't easy for her.
+    -   _The Valley of Horses_ is another Downer Beginning for Ayla. She's completely alone in the wilderness, with no home, cut off from her family, friends and people and with no idea of where she's going or what she should do. She actually briefly contemplates _suicide_, but ultimately determines to push on and survive no matter what. Things gradually start getting better for her once she finds her cave in the Valley of Horses.
+-   The first book of _The Ember War Saga_ has the civilian and Atlantic Union fleet unexpectedly find themselves sent to 30 years in the future (technically, they've been placed in stasis) and learn that the rest of humanity has been wiped out by a vast alien armada. They are all that's left, the embers of humanity.
+-   _Felicity Floo Visits the Zoo_ begins with all the animals sick and the hyenas crying.
+-   _The Genocides_, set in a world where aliens are turning the Earth into a Garden of Evil, shown from the beginning that life is not great in Tassel, one of the last human communities. The work of gathering sap is tedious and straining and its difficult to tell the time because the alien’s Plants block out the sun. To make matters worse, Jimmie Lee, Anderson's youngest and most beloved son, is murdered by the Incinerators when he goes out to chase the town's runaway cows. All but one of the cows, the pregnant Gracie, are burnt to a crisp.
+-   Michael Connelly novel _The Gods of Guilt_ starts by revealing that Mickey Haller's campaign to be DA, the Sequel Hook at the end of previous novel _The Fifth Witness_, ended with humiliating defeat. A client that Mickey got off of a DUI charge killed two people in another DUI. Not only did this wreck his political career, and badly damage his legal practice, it turns out that it estranged him from his daughter, who was a classmate of one of the two people killed.
+-   _Gone_ starts the instant after all the adults disappear, leaving the teens and children to fend for themselves.
+-   _The Graveyard Book_ begins with the murder of Bod's family.
+-   _Harry Potter_:
+    -   _Harry Potter and the Goblet of Fire_'s opening chapter - it involves the caretaker of the Riddle mansion being accused of murdering the Riddles, being suspected by everyone in village for the rest of his life, and finally killed by Voldemort.
+    -   The first three chapters of the first book, which begins by detailing the past eleven years of Harry's life with his abusive relatives, the Dursleys, years after the murder of his parents.
+    -   The death of an anti-Death Eater teacher in the beginning of _Harry Potter and the Deathly Hallows_ is not encouraging, even if she was a Red Shirt. The next chapter involves Harry mourning Dumbledore and learning that Rita Skeeter is publishing an unflattering book about him.
+-   One of the sequels to _Gorky Park_, _Havana Bay_, starts out with our hero going to Cuba to investigate the mysterious death of an old friend of his. He is shown to _already_ be planning to commit suicide, because of the accidental death of his wife, due to a lazy nurse not reading her medical chart to find she was allergic to penicillin. Of course, just as he's about to kill himself, he's interrupted by a hitman sent to kill him, who he instinctively uses his suicide weapon to kill in self defense. Poor bastard can't even off himself without some mishap getting in his way.
+-   _The Howling (1977)_ begins with Karyn being horrifically raped in her own home and suffering a miscarriage, leaving her completely traumatised and destroying her previously happy life. And that's _before_ the werewolves show up.
+-   _If I Stay_ opens with the protagonist, Mia, being put into a coma after a car crash killed her parents and younger brother and being given the choice as to stay or go to the afterlife.
+-   _It_. The first three chapters detail the gruesome murder of Georgie Denbrough, the beating and murder of Adrian Mellon, and the suicide of Stan Uris, respectively. _It_ is not for the squeamish.
+-   _The Killing Star_. Humanity finds the first irrefutable proof of spacfaring aliens in the form of gamma rays consistent with antimatter-powered engines. Almost immediately afterward, every inhabited body in the Solar system is hit with relativistic bombs moving at 92% the speed of light, instantly destroying civilization and annihilating most of the human species. That's all within the first four chapters.
+-   _L.A. Confidential:_ In the prologue, a lone crooked cop loses a shootout with a group of crooked cops. Before he dies, he, and the reader, learn that the leader of the crooked cops is a senior officer in the Los Angeles Police Department.
+-   _The Land Of Oblivion_ begins with heroine's brother dying in a freak accident.
+-   _The Lost Fleet_ series starts with John Geary waking up from cold sleep to find out that the war with the Syndicate Worlds, the start of which he witnessed, has lasted for over 100 years. Worse, The Alliance fleet has just been lured into an ambush far from Alliance space and crippled. The admiral in charge and his entire staff are dead, and Geary, who has been elevated to myth-like status by propaganda, is expected to take command and save everyone. Even worse, the near-constant brutal war has not only concepts like fleet tactics a thing of the past, but morality has been one of the first casualties of the war, with the Alliance fleet matching the Syndics atrocity-for-atrocity. Also, one of the first casualties Geary experiences is his grandnephew.
+-   Many of the novels in _The Lost Regiment_ series start on this note. Alternatively, they might start with something good happening, which immediately turns into something bad. For example, the first novel has the 35th Maine retreating from Gettysburg after sustaining heavy casualties (including the protagonist's brother). Before they know it, they find themselves on another world, ruled by hordes of mounted 9-foot-tall Human Aliens with a taste for human flesh. The local humans (also transplanted) are hopelessly stagnated, their religious leaders are corrupt beyond measure, and the political leaders are little more than warlords fighting among one another.
+-   In the first book of _The Night Angel Trilogy_, before any of the action has even started, 12-year-old Azoth's guild leader dies, making the Rat the new leader. Rat then threatens Azoth with homelessness, kidnaps and rapes his best friend, Jarl, and mutilates Doll Girl.
+-   The first chapter of the third _Noob_ novel reveals that the player presented as The Ace in the two previous got his avatar erased and all his accomplishments taken off record. Due to said avatar being illegally enhanced without him knowing about it.
+-   _Noobtown_ begins with the main character being killed in a car accident and being reborn in another world.
+-   Seanan McGuire's _October Daye_ novel _Rosemary And Rue_ opens with the heroine being turned into a fish for fourteen years, and as a consequence losing both her fiance and child, and turning into an almost complete basket case.
+-   _Off Armageddon Reef_ opens with the last human fleet preparing for a battle they know they will lose against a foe that has exterminated all human colonies and they know will do the same to Earth itself.
+-   _The Posterchildren_ opens with Corbin Underwood's funeral.
+-   The beginning of the third book in _Beka Cooper_ begins with the funeral of the protagonist's abusive fiancée.
+-   By the second chapter of _Reckless_ , Will is already turning into living stone. What happened in the twelve years since chapter one? You can catch up on that later.
+-   _Remnants_, by K.A. Applegate, starts with the end of the world.
+-   _Requiem for a Wren_ by Nevil Shute: The protagonist returns from England to Australia to take over his family's farm, and in the first few pages we learn that he had lost his feet in the war and that his parents are becoming old and frail. He is met at the airport by one of the farm staff instead of his father, because one of the house maids had killed herself that morning.
+-   _The Secret Garden_: The book opens with Mary's entire household (including her parents) dying of the cholera.
+-   _A Song of Ice and Fire_ books starts with a prologue where a POV character, who is not really part of the cast, dies at the end of the chapter. The prologue of the first book, _A Game of Thrones_, showcased the return of The Others/White Walkers with the POV character dead at the end of the chapter.
+-   _The Wild Ones_ starts with Kit's parents being murdered after the Flealess raid his home, and him left to fend for himself in Ankle Snap City.
+-   _Survivors_ begins with an earthquake, forcing the humans to evacuate and leave their dogs behind to fend for themselves. Lucky and Sweet are the only survivors of the rescue they were staying at after the building collapses.
+-   _Bravelands_ starts off with Fearless and his pride being attacked by a group of males. The males murder Fearless' father Gallant, take over the pride, and try to kill Fearless and his sister. Fearless runs off and ends up rescued by a group of baboons, where he lives for the next year.
+-   _The Stand_, as an After the End story, begins with the outbreak of "Captain Trips", the weaponized virus that kills the vast majority of humanity.
+-   _The Cold Moons_ starts with all the badgers in Bamber's region, including his brother, his mate, and his newborn cubs, being poisoned to death in human badger cullings. This leaves Bamber the only badger in Yellow Copse and causes him to flee.
+-   _The Kid_ begins with Precious, the protagonist of the previous novel dying of AIDS and her son Abdul being placed into foster care.
+-   _The Kaiju Preservation Society_ starts with Jamie being fired by his boss and forced to work as a food delivery driver, just as the COVID-19 pandemic sweeps the nation.
+-   _Roys Bedoys_:
+    -   “Get Well Soon, Roys Bedoys!” begins with Roys telling Mrs. Bedoys that he feels unwell.
+    -   “Easter is Cancelled, Roys Bedoys!” begins with Roys and Loys crying about an Easter egg hunt being cancelled.
+    -   “You Have No Friends, Roys Bedoys!” begins with Roys crying about his friends allegedly ignoring him.
+-   _A Strange And Stubborn Endurance_: Part One of the book is quite a bleak introduction. Protagonist Velasin is sexually assaulted by a former lover, and caught by a foreign envoy and his own father, who disowns him for his homosexuality. The agreement to marry him off to a foreign clan surprisingly is maintained, this time with a promise to marry him to a man instead, but it is also used as a way to exile him from his home country. Dealing with the post-traumatic stress of such violence, Velasin is inconsolable and near suicidal. It's not until Part Two, with the introduction of his husband-to-be, Caethari, that the story starts getting some levity as he proves an understanding and kind Love Interest that helps him heal.
+
+    Live-Action TV 
+
+-   _24_:
+    -   Season 1 begins with Mandy bombing a passenger plane.
+    -   Season 4 begins with a suicide bomber blowing up a train.
+    -   At the start of season 5, two main characters are killed, a third badly wounded, and Jack is forced out of a quiet life in hiding.
+    -   Season 6 starts with a bus getting bombed and Jack almost getting tortured to death.
+    -   Season 9 (_24: Live Another Day_) begins with British soldiers being killed by a hacked drone and one of their own framed for it. It's also revealed that President Heller (formerly Secretary of Defense) has developed dementia.
+-   _Andromeda_ starts with a massive rebellion. The protagonist is betrayed by his Number Two and best friend and is forced to kill him. He and his ship are trapped at the event horizon of a black hole and come out 300 years later, only to learn that the rebellion succeeded, and the once-mighty Commonwealth is gone. The three galaxies have been plunged into chaos for all this time. Things get worse from there.
+-   _Babylon 5_:
+    -   The series starts with humanity almost being destroyed by aliens. Things get _really bad_ after that.
+    -   Especially notable is the intro for Season Three, in which Susan Ivanova (the most cynical character on the show) outright states that the characters and the entire premise of the station didn't succeed, and as a result, an entirely new phase for the show has begun. _"The Babylon Project was our last, best hope for peace. It failed."_
+-   _Battlestar Galactica (1978)_ and _Battlestar Galactica (2003)_: Both versions of this show begin with the Cylons nuking the Twelve Colonies and killing nearly 50 billion people.
+-   _Blake's 7_: The first episode starts with the massacre of an Earth resistance group and ends with the murder of Blake's lawyer and the man's girlfriend, while Blake himself is tried under false evidence and exiled to the penal colony Cygnus Alpha. Now begins a four-year caper which leads...nowhere. Except perhaps down.
+-   "Swan Song", the penultimate episode of _The Big Leap_'s first season, starts just after Paula and Mike's wedding, and shows her decline as her cancer starts taking it's toll over the next few weeks. She passes away from an embolism before the opening credits.
+-   _A Chef's Life_: You can't get a series premiere for a documentary about a chef more downer than her new restaurant burning down. The rest of the first season, particularly the next episode or so, concentrates on the rebuilding efforts for Chef and the Farmer.
+-   _Deadliest Catch_:
+    -   The opilio crab fishing season during Season 17<sup>note&nbsp;</sup>  started with this when _Summer Bay_ captain "Wild Bill" Wichrowski got a phone call telling him that his deck boss Nick McGlashan had died from a drug overdose.
+    -   Season 18 started with the announcement that the Alaska government had shut down the 2021–22 red king crab season, forcing the fleet to scramble for different ways to make a living.
+-   Colombian telenovela _Decisiones Extremas_ had an episode "Las pulseras del sexo" that began with a high school teacher finding a girl lying on the classroom floor with her uniform made a mess and the tights torn off, implying she was raped to death.
+-   _Doctor Who_:
+    -   Just about every story or episode begins with some disposable twerp getting killed by the villain or monster.
+    -   The Doctor "dies" at the beginning of "The Impossible Astronaut". This also happened at the beginning of "Time and the Rani" and the TV movie in the nineties.
+-   _Falling Skies_: The pilot has a child recall the Alien Invasion (and the death of his mother in the attack), illustrating it with a series of drawings. The actual show takes place six months after the invasion and the resulting devastation.
+-   _Firefly_ opens with the Independents losing the Battle of Serenity Valley, the deciding battle of the civil war, and the Despair Event Horizon for the main character.
+-   _The Flash_ starts with Barry's mom being killed by a strange yellow figure, and his father is sent to jail for her murder.
+-   The First Episode of _For the People_ ends with Sandra losing her case defending a young man accused of terrorism (in a situation which was clearly entrapment and Seth and Allison breaking up over their case.
+-   Similar to its original source, _Game of Thrones_ starts with three Night Watch rangers scouting beyond the Wall until two of them were killed by a White Walker which showcased their return to Westeros.
+-   The Jim Davidson sitcom _Up the Elephant and Round the Castle_ had a sequel _Home James_, which saw the main character lose the house he inherited that was the setting for the series and lose his factory job.
+-   _JAG_: Most of the openings start with an accident occurring or a crime being committed.
+-   _Jericho (2006)_: The pilot has the people of the titular town witness a mushroom cloud on the horizon, which signifies the destruction of Denver. It's not until later that they learn that 32 major cities across the US have been nuked. Things get worse for the town, as the infrastructure starts to crumble almost immediately.
+-   _Kamen Rider Drive_ starts off with quite possibly one of the most BRUTAL opening scenes in the history of the franchise. To elaborate, the show starts with people just going about their own business. Then everything starts to dramatically slow down. But rather than this being the case of slowing time itself, everyone caught up in it is fully aware of their surroundings but unable to move or even scream. And then to make the matter worse, the Roidmudes start going around destroying everything in sight... all the while people are living statues and can't even scream for help. And to hammer the point home, this was a GLOBAL occurrence.
+-   _Law & Order: Special Victims Unit_: The episodes tend to start with a really gruesome intro where some random citizen stumbles over someone who just got traumatized or murdered. This is also the case of the mother series, _Law & Order_, and it is true of the whole _Law & Order_ franchise as well.
+-   _The Lord of the Rings: The Rings of Power_ starts with showing Arda in its early stages when the world was not touched by Evil yet. But once Morgoth destroys the Two Trees of Valinor and turns the city of Tirion into a wasteland, this leads to the exile of the Elves and the War of Wrath against Morgoth. Galadriel narrates how she lost her brother and had to take over his quest driven by revenge.
+-   You wouldn't expect a program like _Mister Rogers' Neighborhood_ to have one of these, but episode 1210 begins with an unusually sour Mr. Rogers singing the opening theme, which is played in an unusually staccato-ish and overall downbeat manner, and instead of changing into a sweater and sneakers, fiddles with a parking ticket he'd just gotten. Instead of "Hi, neighbor!", he then proceeds to say the following:
+    
+    **Mister Rogers**: I don't feel like singing "a beautiful day in this neighborhood." Oh, it's beautiful enough outside, all right, but _I_ don't feel beautiful. In fact, I'd like to take this ticket and rip it up. This is a parking ticket. Yes, I parked my car in a... in one of those places that has a meter. You ever seen a parking meter? You know, you have to put nickels or dimes or something in and then... turn the thing and then this... _\[demonstrates with his hand\]_ this just goes up like that? Pay for parking. Well, I drove downtown, and all I had was a dollar bill in my pocket. I didn't have change to put in there. Well, I went into the drug store and got some change, and when I came out again, there was a lady writing out this ticket. And I had the change right there and I said, "L-Look, I just went in there to get the change. Don't give me a ticket." And she said, "Here's your ticket. Tell your story to the judge."
+    
+-   _One Foot in the Grave_ begins with Victor losing his job (to an electronic box no less) and having to deal with early retirement.
+-   _Poirot_: Not the series itself, but the final episode ("Curtain") starts with Margaret Litchfield getting hanged during the opening credits... a victim of the Miscarriage of Justice and of a Gambit Roulette started by Manipulative Bastard Stephen Norton.
+-   _Power Rangers in Space_ begins with the forces of evil celebrating the defeat of the Power Rangers after Divatox destroyed the Power Chamber, Zordon in captivity, and the Turbo Rangers left adrift in space.
+-   _Power Rangers RPM_: Starts off with 99% of humanity dead from nuclear Robot War, and only one city left.
+-   _The Prisoner (1967)_: The episode "Hammer Into Anvil" begins with a woman throwing herself to her death from a window to escape a brutal interrogation. What follows is one of the most comedic episodes of the show, with one of its happiest individual endings.
+-   _Red Dwarf_ starts off with everybody dying from a radiation leak in what is surely the bleakest beginning any sitcom has ever had.
+    -   In the first act of "Better Than Life", Rimmer receives a letter from his mother telling him that his father has died. While obviously everyone he'd ever known prior to the radiation leak besides Lister and Holly had been dead for millions of years, hearing the news makes the reality sink in.
+    -   "The Inquisitor" starts with Lister and Kryten being erased from history, although inevitably they're able to reverse this.
+-   _Revolution_: The pilot episode begins with the blackout occurring worldwide, acting as an unusual form of the apocalypse.
+-   _Stargirl_ starts with most of the Justice Society of America being wiped out by the Injustice Society, leaving only Stripsey and Hourman alive. Before dying, Starman asks Stripsey to take care of the Cosmic Staff and to find a new wielder for it. Years later, Stripsey reveals that Hourman was killed in a car crash while following up on some leads into the Injustice Society.
+-   _Supernatural_:
+    -   The pilot kicks off with Sam and Dean's mother, Mary Winchester, dying a gruesome, nightmarish death\- stabbed, pinned to the ceiling, and consumed by flames. The same episode ends with Sam's girlfriend Jessica dying the same way. Between that, Sam is ripped from his happy, normal life when Dean tells him they have to save their missing father.
+    -   The first episode of Season 2 ends with John Winchester trading his life for Dean's, and leaving Dean with feelings of immense self-hatred out of John's sacrifice. Not only that, but the sacrifice itself is the starting point of the series-wide trend of the Winchester brothers sacrificing their lives for the other over and over again. And it's revealed several episodes later that John's last words to Dean were to kill Sam if Sam's demon powers from Azazel went out of control.
+    -   Season 13 opens with Castiel and Crowley dead, Mary Winchester stuck in a post-apocalyptic Alternate Dimension with Lucifer, causing the brothers to believe she's dead too, and Dean stuck in grieving over the former three.
+-   _Super Sentai_:
+    -   _Choujuu Sentai Liveman_ opens with the three main protagonists' friends at the Academia being murdered by three other treacherous students who join Professor Bias, leaving the heroes heartbroken and betrayed.
+    -   _Chikyuu Sentai Fiveman_'s first episode opens with the two alien friends of the heroes' family being killed in cold blood by the Zone Army, then the heroes as children are forcefully separated from their parents and forced to live far away on Earth for their safeties, which ends up nearly ravaged by the Zone arriving on the planet to destroy it.
+    -   _Uchu Sentai Kyuranger_ starts off with eighty-eight constellations of the universe (including the planet Earth) suffers under the tyrannical Space Shogunate Jark Matter. While it's spiritual predecessor started off with a similar invasion of Earth, in that series, all the previous 34 teams stopped the initial invasion. _Kyuranger_ is confirmed to take place in alternate universe without previous teams, allowing Jark Matter to conquer Earth without a bigger struggle. Not any better.
+-   _Twin Peaks_: Begins with Laura Palmer's body being discovered and nearly the entire town grieving for her death.
+-   _Ultra Series_:
+    -   _Ultraman Leo_ starts off with Ultraseven disabled and an entire island-city being destroyed by the villains, while the planet L77 is shown blowing up in _the opening credits_. And it only gets worse from there...
+    -   Of course, _Leo_'s opening seems outright optimistic in direct comparison to it's Spiritual Successor, _Ultraman Geed_, which has Belial _win_ within the first few minutes of the first episode, causing the destruction of _the entire universe_ - while Ultraman King manages to restore the universe, much like with _Leo_, another Ultra ends up injured and stranded on Earth to help the titular Ultra of this series (in this case, it's Seven's son, Ultraman Zero, who was injured after failing to stop Belial). And the kicker this time? The titular Ultra is Belial's _own son_.
+-   _Veronica Mars_: At the beginning of this show, Veronica's dad has been voted out of office, her alcoholic mom has abandoned them, and none of her former friends are speaking to her...and those are just the things that are actually shown in the first episode. If we count things that are talked about and then shown later, we also get Rape as Backstory and a murdered best friend.
+
+    Manhwa 
+
+-   _Kiss Wood_ starts with explaining how nature is slowly being weeded out of the world and how Sul, an ex-gardener, has the only garden left in the entire city. Nobody else in the city likes this and have demanded numerous times for him to remove it; his niece, who lives with him, leaves as she feels he pays all of his attention to the garden and none to her. Then Sul's garden and house is set on fire, during which he is blinded and is sent to the hospital. End of Chapter One. He then gets trapped in a dangerous world from which he needs to escape, fast.
+
+    Music 
+
+-   Blutengel's song "Frozen Heart" starts out just as bleak as the name sounds like, but it turns out to be more about Defrosting Ice Queen.
+-   Daniel Amos's album _Fearful Symmetry_ opens with "A Sigh for You", a meditation on sorrow that would be wangst if it weren't paired with such an upbeat melody. The lyrics become far more hopeful on the rest of the songs.
+-   "Prelude" opens _Bad Ideas_, Tessa Violet's darkest album yet, with a quiet, resigned description of an unhealthy relationship, admissions that this isn't the first relationship of this sort they've had, and the protagonist speculating that they might be the problem, and not their cold, taciturn lover.
+-   "Little Kings" by Paul Kelly from his _Words and Music_ album is darker and more political than anything else on the album. Kelly has said that this song and the closing track "Melting" were the most difficult songs to sequence.
+
+    Podcast 
+
+-   The beginning of _Guiders of Our Dreams_ shows the apocalypse occurring while Artemis making a deal with Eclipse to create a new Earth, and Eclipse removing the atmosphere from it.
+
+    Tabletop Games 
+
+-   _Kingdom Death_ opens with a doozy: humanity is reduced to the dregs of the Stone Age, trapped in a realm of near-eternal darkness, and beset on all sides by grotesque monsters. A handful of starving people gather together by one of the few sources of light to try and build some kind of civilization. In most campaigns the story has a Downer Ending, too, as the survivors are wiped out in a suitably ironic fashion.
+
+    Theatre 
+
+-   The first minute of _Jasper in Deadland_ establishes that Jasper's life sucks for a number of reasons - his mother is leaving, his father is an Addled Addict, he has bad grades and no chance of getting into college, and the only real good thing in his life is his best friend, Agnes. And then Agnes drowns and he gets pulled into The Underworld when he tries to save her.
+-   The plot of the first scene of _La forza del destino_ goes like this: Don Alvaro of Incan descent and Spanish noblewoman Leonora love each othe to the immense disapproval of her father the Marquis of Calatrava because of the former's origins to the point that when he interrupts the lovers right in the middle of their attempted elopement her wants to get Alvaro executed (he also thinks he 'dishonoured' his daughter). To show he has no ill will, Alvaro tries to surrender and throws his pistol on the floor. Tragically, the pistol fires on its own upon hitting ground mortally wounding the Marquis who curses Leonora with his last words. The lovers have no choice but to run away only to get quickly separated (they won't see each other until the very last scene and their reunion goes horribly wrong).
+-   _Orfeo ed Euridice_ starts with Orpheus and the chorus in extreme grief over Eurydice's recent death.
+
+    Visual Novels 
+
+-   _Daughter for Dessert_ begins with Lainie dying while giving birth to Amanda.
+-   At the beginning of _Double Homework_, the protagonist causes an incident that kills 12 people. It is later revealed to be an avalanche.
+-   _Princess Evangile_ begins with Masaya broke, his Con Man of a father _selling him out to the Yakuza_, and being forced to run away with nothing but 160 yen in his pocket just to survive.
+-   _Katawa Shoujo_ opens with a Love Confession. Normally a happy event, especially as both parts want a relationship. Except this time it's directly responsible for the main character suffering a heart attack, which leads to extended hospitalisation and eventually forcing him to enter the high school the majority of game takes place at.
+-   _Melody_ begins with Bethany breaking up with the protagonist and kicking him out of their house. He has to sell a bunch of his stuff and move far away just to get away from her.
+-   _Minotaur Hotel_: The place you start off isn't very pretty, and once you actually get to the hotel itself, it's in absolute ruin, indicating the foul event that destroyed the place, with the servant of the hotel being in a miserable weakened state.
+-   _Ace Attorney_, being a series where every case is a murder case, starts many games this way:
+    -   _Phoenix Wright: Ace Attorney_: Phoenix has his childhood friend Larry Butz as the client, with Larry having been accused of murdering his girlfriend. At the start of the second case, Phoenix's mentor Mia Fey is killed.
+    -   _Phoenix Wright: Ace Attorney – Justice For All_: The game opens up with a Nightmare Sequence where a giant version of the Judge tells Phoenix he's no longer worthy of his attorney's badge. When he wakes up, he's lost his memory (due to the murderer whacking him with a fire extinguisher), giving a convenient excuse for Maya Fey to give him a recap of how his profession works (and for new players, how to play the game).
+    -   _Apollo Justice: Ace Attorney_ opens with the reveal that Phoenix Wright, now a Living Legend, is no longer a defense attorney. In fact, he's Apollo's very first client. Then Apollo finds out at the end of the case that his mentor, Kristoph Gavin, was the murderer.
+-   _Sunrider 4: The Captain's Return_ opens with the Final Speech that Kayto Shields gave at the end of the previous game as he prepared to sacrifice himself and his ship to save his home planet from annihilation. Six years later, the once-legendary starship captain is now a miserable nobody living on a backwater PACT-controlled mining colony. The monotony of his depressing new life is broken up by the sudden announcement that PACT has kicked the Solar Alliance out of the Neutral Rim. The war is over, and he lost.
+
+    Webcomics 
+
+-   _My Impossible Soulmate_:
+    -   The prologue starts with Chiaki's crush getting into a relationship before she could confess her love (a relationship which quickly turns out toxic) and ends with her being sent to another world when running to break up a screaming match between them.
+    -   The first chapter begins on a similarly downbeat note, with Chiaki having a Heroic BSoD upon finding out where she is.
+-   _Boxdog_ begins with the introduction of the title character as homeless. From there on, it only continues with exploring the hardships of her life.
+-   In _I'm the Grim Reaper_, we begin with Scarlet arriving in hell, subsequently meeting the devil, being momentarily sent to the 9th circle of hell, and becoming a grim reaper.
+-   _Heartcore_ opens with the near-genocide of the beastmen at the hands of the demons, and the demonic princess Amethyst having her energy forcibly siphoned and her body horrifically scarred by her Archnemesis Dad Royce.
+-   _Rain_ starts with a short prologue set in 1999, where a then-four year old Rain's dream of becoming a mother gets shot down by her mother and gets her laughed at by her siblings.
+-   _Little Step_ is a Period Piece that starts with a Native American child waking up to the sight of half of his tribe having been massacred.
+-   The first scene of _Vápnthjófr saga_ after the prologue takes place in a prison, with prisoners lingering at deaths' door.
+-   _Friends Till Death_: It starts off with Herz begging God to let him die!
+-   _The Apothecary Will Make This Battered Elf Happy_ starts with the titular Apothecary going to the nearby city to purchase the ingredients necesary to make medicine, only to find that his regular suplier is also selling an enslaved elf. The supplier tells the Apothecary that some nobleman duped her on him because of her ill health, and the Apothecary gives her a quick check up and shows that she has hearing and sight damage, a missing eye, her limbs are necrotic, with gangrene beginning to set in, missing most of her teeth, and is severely traumatized. The Apothecary buys her under the guise that he'll kill her and use her body parts to make medicine, but in reality he decides to heal her by any means, and when he gets her to his shop, he cleans her body and sees she's covered in scars from all the beatings she recieved, and while in his care she falls ill due to a curse placed by her former master.
+
+    Web Original 
+
+-   _Right Wing Radio Duck_ starts off with Donald Duck learning about the large income gap between the upper and middle classes, followed by him getting fired and unable to find a new job, and finally facing foreclosure on his house. The rest of the short follows Donald as he discovers a new idol in the form of Glenn Beck.
+-   The sixth episode of _Don't Hug Me I'm Scared_ opens with Yellow Guy alone in his room, crying over the loss of his best friends after the events of 4 and 5. Before going to sleep, he looks at his buddies' now-empty beds and tearfully says, "Good night, guys. I miss you..."
+-   _Reversal of the Heart_ starts with a man killing a baby dragon to give its chest gem to his love.
+-   By the start of _Corruptus_, the third and final installment of the _Abandoned by Disney_ trilogy, the Narrator has had his ISP drop him, his phone bricked, his library card revoked, and he's been subjected to stalking, harassment, vandalism, and paranoia-inducing incidents for the last two years. He's understandably quite bitter and tired, and wonders how long its been since there was a culling of the wealthy elite.
+-   _Dinosauria_; the third short "A More Ancient Spring" opens with a male _Lambeosaurus_ returning to his nest to find his mate's fresh corpse in the jaws of a _Gorgosaurus_.
+-   Lift You Up starts with Iris in a spaceship, video chatting with Mike while they're watching soccer, planning to leave her space mission to go home in a few weeks. But suddenly, a mysterious orange laser blasts the Earth, killing Mike and forcing Robot to move the spaceship to flee while a horrified Iris watches the explosion, tearfully calling out Mike's name. This starts the plot.
+
+    Western Animation 
+
+-   _Galaxy Rangers_: The Crown stages a sudden, brutal attack on Kirwin, capturing dozens of humans and (is implied to be) killing the Kiwi residents. The Hero is captured by SpacePirates, brutally gunned down and paralyzed, requiring an Emergency Transformation to save his life. His wife makes a Heroic Sacrifice to save their kids, but is marched off to a Fate Worse than Death. (In the original demo reel, the kids also didn't make it). Now humanity is embroiled in a nasty interstellar war with an Evil Overlord who wants to mash them down for Life Energy.
+-   _Arcane_'s very first scene shows a young Vi and Powder walking across a bridge where a violent conflict has taken place, only to discover the dead bodies of their parents. It firmly establishes that the series will be a good deal Darker and Edgier than the game on which it's based.
+-   _Avatar: The Last Airbender_. The opening narration basically tells us that the world has been at war _for a hundred years_, an entire nation of Air Benders (core to the very balance of the world itself) have been _wiped out entirely_ and that the forces of good have been _losing_ the entire time. Even worse, the Avatar, who is supposed to bring balance to the world (due to the unique ability to master all four elements, among other abilities) has been missing since the beginning of the war. The next scene is the reawakening of the Avatar (a 12 year old boy, and the Last of His Kind). Back from the Brink indeed.
+-   _Batman Beyond_, which begins with a prologue of an older Bruce Wayne having to retire as Batman after developing a heart condition that nearly gets him killed in a battle and forces him to use a gun during the fight. When the setting then fast forwards to the contemporary era, the show's other protagonist Terry McGinnis promptly suffers a tragedy of his own when his father is murdered. Things do gradually get better for both characters over the remainder of the series.
+-   "Blue Cat Blues" (1956), an abnormally depressing _Tom and Jerry_ cartoon. It begins with a depressed Tom sitting on a railway track, Spurned into Suicide. Jerry internally narrates his sad story; the dame he loves has left him for his more affluent rival, Butch. Tom tries everything he can to win her back, but to no avail. Broken, he takes to drinking, and has to be saved from his first suicide attempt by Jerry. Close narration, Jerry sees that the mouse he loves has also left him for a wealthier mouse; dejected, he sits next to Tom on the track, and together they wait for the train to come so they can pass into the next world. As you can imagine, there is little to nothing funny about it in the slightest.
+-   _Capitol Critters_: The first episode begins with Max's family including various younger siblings being killed by exterminators.
+-   _Centaurworld_: The first minute of "Hello Rainbow Road" is Horse's monologue about the war and how it has ravaged hers and Rider's world. Rider and Horse meant to bring the artifact back to their village for a contingency plan, only to find the flaming ruins of the village.
+-   The first half of _Class of 3000_'s pilot episode, "Home" is this. Sunny leaves the music business, the class loses their music teacher (and fears being separated), and their attempts to sell tickets for a benefit concert fall flat.
+-   The _Herself the Elf_ special starts with Herself being captured and imprisoned for a year while her friends fruitlessly search for her.
+-   In _Highlander: The Animated Series_, the series started 700 years after an asteroid hit the Earth and plunged the world in chaos. One immortal, Kortan, rule over the world unchallenged and it's up to a new immortal, Quentin, to defeat him.
+-   _Jem_ has one hell of a Mood Whiplash at the start of the series. At the start of the first episode all the Holograms are seen going to a premiere and surrounded by screaming fans. Then it cuts to the rainy funeral of their father.
+    
+    Jerrica: "I remember how it all began.. With the unexpected death of my father."
+    
+-   _Madeline_:
+    -   The second act of the original begins when Madeline contracts appendicitis. Fortunately, when the doctors remove fix her damaged appendix, a Happy Ending is triggered.
+    -   The third part of _Madeline's Rescue_ starts with Genevieve being stolen by Lord Cucuface and abandoned where she would have a hard time surviving on her own, invoking the third act's Downer Ending. However, these tropes get flipped on their heads for the next act when Genevieve arrives home. In the final act, Lord Cucuface shows up again to do his inspection, but this time, the Downer Ending gets turned on its head when he has a change of heart.
+    -   Some of the specials have this:
+        -   Part three of _Madeline & the Can-can Cliques_ involves Yvette forming her own club, at which Danielle forms hers and the girls start hating those from the different club. Cue that part's Downer Ending where the girls warp their prayer into a hateful "But most of all we... hate each other!" and refuse to sleep together except with those from the same club. The fourth act begins as the taxi vanishes and they have to walk, and they get lost. Fortunately, Madeline and Miss Clavel use this to defeat The Power of Hate that the girls got infected by, paving the way for a Happy Ending.
+-   _Masters of the Universe: Revelation_: Teela being promoted as her father's successor as Man-At-Arms is immediately overshadowed by Skeletor and Evil-Lyn successfully infiltrating Castle Grayskull and almost stealing its secret, which would've resulted in the end of the universe had been not for the Sorceress stopping time so that He-Man can perform a Heroic Sacrifice. In the process, He-Man is revealed to be Adam and seemingly dies along with Skeletor, but the revelation of kept secrets and the loss of Eternia's prince causes King Randor to banish Man-At-Arms while Teela leaves.
+-   _My Little Pony: Rescue at Midnight Castle_: About two minutes into the special, a bunch of dragons come flying in and steal several ponies.
+-   In _The Owl House_ episode "Reaching Out", Luz wakes up only to find a note on her phone about an event with her mom, which makes her depressed as she ignores it at the cold opening. It turns out that she has a very good reason for it.
+-   In _Samurai Jack_, the first episode ends with the title character almost defeating Aku after a brutal battle and at the verge of ending him, and Aku opening a Time Portal, and throwing him millennia into the future, where he's the supreme ruler. Season 5 finale shows us Future Jack actually defeated him immediately after that.
+-   The Five-Episode Pilot of _She-Ra: Princess of Power_ begins with Etheria in a bad state, Hordak having succeeded there where Skeletor has failed on Eternia. The entirety of the series dealt with the protagonists as La Résistance trying to overthrow the Evil Horde. (A goal they never truly achieved, due to well, the plot of the show.)
+-   _Simba: è nato un re_ starts with Simba's father being shot by humans. He's then taken in by wolves.
+-   _Skull Island (2023)_: At the climax of the series premiere, the murderous sea kraken which functions as the Big Bad kills Mike's father and Cap's long-time old friend in front of them, and it destroys their ship and casts the survivors adrift on Skull Island whilst separating the teenagers from the sole surviving adult, Cap.
+-   _Thundarr the Barbarian_: "_The year: 1994. From out of space comes a runaway planet, hurtling between the Earth and the Moon, unleashing cosmic destruction! Man's civilization is cast in ruin!_"
+-   _Visionaries_ started with the mysterious event that caused technology to stop functioning, leading to the Age of Magic and a medieval-like After the End setting.
+
+___

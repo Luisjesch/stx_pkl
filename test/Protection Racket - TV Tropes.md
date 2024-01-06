@@ -1,0 +1,156 @@
+_"Now the guy's got Paulie as a partner. Any problems, he goes to Paulie. Trouble with the bill? He can go to Paulie. Trouble with the cops, deliveries, Tommy, he can call Paulie. But now the guy's gotta come up with Paulie's money every week, no matter what. Business bad? Fuck you, pay me. Oh, you had a fire? Fuck you, pay me. Place got hit by lightning, huh? Fuck you, pay me."_
+
+A criminal, usually part of The Mafia or an ethnic equivalent, offers protection to the neighborhood. He will approach local small businesses and comment on their "nice things" and how they wouldn't want anything to happen to them. Most likely the person he is "protecting" them from is himself. The catch is that he will extort regular fees from the person they are "protecting", and if the character does not pay up, the criminal will make it clear who exactly they are "protecting" them from. Sometimes however Neighbourhood-Friendly Gangsters genuinely do protect the businesses from some outside threat, such as rival criminals, delinquents and corrupt authorities.
+
+A more powerful and high ranking criminal may do this to other criminals, not tolerating crime in their territory unless they get a cut of the action. A Corrupt Cop can also offer this to criminal (or even legit) buisnesses.
+
+In Medieval focused works, taxes from the local lord, or said lord's relationship with his liege, are usually portrayed in a similar manner.
+
+Monster Protection Racket is when a character causes a threat, real or faked, so he can stop it and look like a hero. In this case however, the people running the racket are rarely interested in looking the part of the hero.
+
+Compare Loan Shark, the other main underworld mean of extorting people. In this case the money is genuinely owed, albeit with steep interest. See also "Blackmail" Is Such an Ugly Word.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Advertising 
+
+-   Parodied in a Miller Lite commercial. Two mafioso (played by Frank Vincent and Mike Starr) walk into a regular convenience chain store and attempt to shake down the clerk, leading to a One Dialogue, Two Conversations misunderstanding.
+
+    Anime & Manga 
+
+-   _One Piece_: In addition to regular pirating activities like plundering, some pirate crews also get into the racketeering business. Examples include:
+    -   The Arlong Pirates are a Fishman pirate crew who took over several towns/villages in East Blue, including Nami's hometown, and force the citizens to pay an exorbitant protection fee to keep living. Failing to pay your fee will result in your entire village being destroyed and everyone killed even if it was only a single person who couldn't pay. The reason they are able to get away with it and avoid unwanted attention is because the captain, Arlong, bribes the local Marines into looking the other way with some of the money he and his crew earn.
+    -   The Big Mom pirates operate a massive racket covering numerous islands in the New World. Each territory given protection by Big Mom has to pay at least 10 tons of sweets/candies every month in order to maintain that protection. However, if an island misses even a single payment, Big Mom will send her forces to destroy the island as an example to others. Even if you had a good reason for missing a payment, such as Fishman Island being unable to pay due to their candy factory being damaged during the attack by Hody and his crew, they will still come and destroy your island.
+-   _Rebuild World_: The slums of Kugamayama City are run by various slumlord gangs who get their operating funds from this. Akira sets up Sheryl as his partner and proxy in charge of a section of the slums. Two of said gangs get big and powerful enough to start charging people in the Lower Districts (the working class section), which prompts a Government Conspiracy to get rid of those two N.G.O. Superpower gangs.
+-   Tetsu Ushio from the _Yu-Gi-Oh!_ manga and Toei anime was running a protection service from bullies for a hefty fee. He was shown forcing Yugi to pay him for protection even with Yugi refusing. Ushio soon became the first victim of Yami.
+
+    Comic Books 
+
+-   Dick Grayson became Robin because of this: a local mobster named Tony Zucco sabotaged his parents' act when Haly's Circus refused to pay him money.
+-   _Wonder Woman_:
+    -   _Sensation Comics_: The Blue Seal Gang presents themselves to new players in Triboro City as their only protection from ending up in the morgue, for which they want a hefty sum. The only threat they "protect" people from is themselves however, as they murder those who oppose them.
+    -   _Wonder Woman (1942)_: Earth-Two Huntress and Blackwing fight a group that's been forcing small business owners all over Gotham to pay them protection money and are lead by a guy who goes by Boa.
+
+    Fan Works 
+
+-   _The Bolt Chronicles_: Labradoodle Kelvin and pigeons Vinny, Joey, and Bobby spend most of "The Protection Payment" trying to scrape up food offerings for Mittens's Mafia don style shakedown.
+-   _Two Letters_: The _new_ Ladybug firmly believes that she should get paid for her services, and has roped the richest citizens of Paris into doing so in exchange for endorsements. When Bob Roth decided to stop paying, she waited until _after_ she'd saved him from another disgruntled, akumatized employee, then made a comment in passing about how he didn't support her. This turned her adoring public completely against him, leading to the complete collapse of his record label. Mayor Bourgeois is horrified about potentially meeting the same fate if he doesn't keep her happy.
+
+    Films — Animation 
+
+-   _Batman: Under the Red Hood_: The titular "Red Hood" decides that crime can't be stopped, merely managed, and sets up a protection racket to replace Black Mask's. He offers the Gotham's drug dealers protection from Black Mask and Batman, in exchange for forty percent profits and an agreement to stay away from children. Unlike most examples his threats are not subtle, he shows the kingpins the heads of their lieutenants and threatens to do worse.
+-   _Bolt_: Mittens the cat is introduced conducting a shakedown on the pigeons of New York, extorting them for half the food they can find over a week in exchange for 'protection'. As we see when Louie comes up short, what she's protecting them from is the (projected) threat of her own claws turned on them.
+-   _A Bug's Life_: The grasshoppers extort food from Flik's ant colony every year as a protection fee, which Hopper says is to protect against "bigger bugs who might try to take advantage of them".
+-   _Shark Tale_: The sharks run by Don Lino run such a protection racket, and Don Lino deciding that Sykes needs to start paying him protection money is what kickstarts the plot, as Sykes now needs protagonist Oscar to pay _his_ debts.
+
+    Films — Live-Action 
+
+-   _Brother Orchid_ is about a gangster who runs a protection racket, only to retire from crime when his underlings get too violent and start murdering the competition. He changes his mind and tries to reassert control of his gang when he runs out of money.
+-   _The Departed_: Costello's Irish-American crew is involved in shaking down various businesses in Boston. In the prologue, Costello is shown doing the collecting personally before he later hands it off to his underlings as he rises in power; he meets his protege Sullivan while doing his rounds and his eventual mistress is the daughter of a corner store owner. Costigan also beats up two mafioso from Providence who attempt to extort an Indian store owner.
+-   Henry Hill from _GoodFellas_ describes a typical mafia racket, entered into by way of a deal with a restaurant owner who was sick of having to deal with vicious gangster Tommy DeVito disrupting his business and scaring off his customers and went to the guy's boss, Paul Cicero, for help. Henry notes that Paulie will help the owner with any problem, but the help comes at a steep price, and he will accept no excuses for late payments.
+-   In _Kenny & Company_, The Bully Johnny Hoffman demands protection money from Kenny, and beats him up if he doesn't have any.
+    
+    **Kenny**: Me and Sherman and a couple other kids have to pay him protection money.  
+    **Dad**: Well, what's he protecting you from?  
+    _(long pause)_  
+    **Kenny**: I don't know.
+    
+-   _The Mayor of Hell_: Jimmy and his fellow teenage Delinquents run such a scam. When people park their cars in Jimmy's neighborhood, the gang offers to watch their cars. If they refuse, the kids vandalize the cars, puncturing tires and stealing radiator caps.
+-   _The Public Pays_ is a 1930s MGM "Crime Does Not Pay" short. In this installment of the series the "Creamery Betterment Association" moves into town and starts demanding all the local dairies start paying them a penny for every bottle of milk they sell. If a dairy owner balks, the Creamy Betterment folks wreck his business, with threats of violence to his family if the owner still refuses to play ball.
+-   _Road House (1989)_: Brad Wesley runs a protection racket on all local businesses in the guise of managing the local "business owners association". All the local cops are in his pocket and he likes to make a public display of wrecking the business of anyone who refuses to pay.
+-   In _Sherlock Holmes (1932)_, New York gangster Homer Jones introduces an American-style protection racket—including bombings and drive-by shootings—to London. This provides enough chaos and keeps the police distracted so Moriarty can implement his master plan.
+-   In _Skyscraper_, a Nebulous Evil Organization came to billionaire Zhao and threatened to make sure he would never be able to finish the construction of his super-scraper "the Pearl" unless he paid up. Zhao pretended to oblige but the electronic transfer of his "payment" included a Trojan horse virus that datamined the organization's financial records and gave Zhao a complete breakdown of their structure. The organization sent their personal Dragon Botha to get the original copy of the program as a result, and he set the Pearl on fire for two reasons: to force Zhao to get the copy and to demonstrate that the organization's threats weren't a bluff.
+-   _Venom_: Shopkeeper Mrs. Chen is robbed by a man implied to be part of some sort of racket, given how regularly and brazenly he robs her. The first time, Eddie Brock shrinks away, but when Brock gains the Venom symbiote he confronts the man and bites his head off.
+
+    Literature 
+
+-   In 1 Samuel 25, David and his men protected Nabal's flocks, and David sent to ask for supplies in return. When Nabal responded by insulting David and turning his men away empty-handed, David furiously swore that he would leave not one male of Nabal's household alive by morning. Fortunately, Nabal's wife, Abigail, met David in secret on the way, gave him supplies, apologized for her husband's behavior, and convinced him to turn back.
+-   In _Discworld_ the Ankh-Morpork Thieves' Guild switched from random theft to charging people theft insurance policies where they only burglarize them on a pre-determined annual date, after Lord Vetinari proposed the scheme and informed the Guild leadership that he knew where they lived.
+-   _The Dresden Files_: One of the many money making operations John Marcone runs. Notable for actually providing effective protection, up to and including Marcone himself strapping on an automatic weapon and leading a raid on whoever hurt the person paying him.
+-   The standard protection racket shows up in _The Expanse_ novels, as most of the series takes place in the impoverished and crime-ridden slums of the Belt.
+    -   In _Leviathan Wakes_, Ceres cop Joe Miller interviews a shopkeeper who used to pay protection money "insurance" to one of the local criminal syndicates. He never went to the cops before because this was just how things worked. When the extortionists suddenly disappeared he figured that the cops had finally managed to put the gang out of commission, and so when a new criminal claiming to be with the Outer Planets Alliance tries to pull the same scam he actually reports him to the cops. Since the cops _hadn't_ managed to stamp out the gangs, this is one of the clues to Miller that something big is in the works and he initially thinks the OPA muscled them out to take over their territory. Then when the _real_ OPA executes the new extortionist he realizes that the OPA is planning to take over the _cops_, not the gangs.
+    -   In _Nemesis Games_, Amos Burton is traveling to Luna aboard a Belter ship and midway through the voyage a gang enters the cabin and runs the usual protection scam against the passengers. The other passengers are about to pay, but Amos interrupts and tells the crooks that they're _not_ paying and that the gang better not try this again with anybody else in this cabin. The gang tries to catch him later in the bathrooms to punish him for interfering, but he points out that they have radically misjudged who he is and brutally beats the entire gang.
+-   In William Jeffrey's "The Facsimile Shop" Henry and Alex come into the newly-established shop. Henry drops one of the replica art objects and makes a speech touting the advantages of belonging to the Sentinel Protective Association. The owner, James Raleigh, pays the "membership fee" and first month's dues with the counterfeit money he'd printed as a test run earlier that morning before making hasty plans to re-establish his shop in another state.
+-   In _The Godfather_, the alleged "Black Hand" Don Fanucci extorted payments from shopkeepers and illegal gambling in the post-World War I immigrant neighborhood of New York. Until he attempted to get a cut of the cash that Vito Corleone, Salvatore Tessio and Peter Clemenza make by stealing and fencing women's fashions, of all things. Corleone launches himself toward his destiny by dealing with Fanucci, then taking his place. The neighborhood, incidentally, is just fine with this, since Vito is not only far smarter and braver than Fanucci, he also shows himself to be a true protector of his fellow Italians.
+-   _I, Claudius_: Amongst Piso's many crimes, he tries to pull one of these on the shopkeepers while he's governor of Syria. Those that refuse to pay are attacked by masked bandits.
+-   _The Taking of Pelham One Two Three_: Mr. Grey was fired from the Mafia for being too violent for them. The novel then explains that Mr. Grey's excessive taste for violence got in the way of running protection rackets effectively; the victims felt no obligation to cooperate since he tended to beat them whether they paid or not.
+-   The Ink in _Skate the Thief_ uses this as a form of passive income, offering security against crime, made good by the fact that they themselves control crime in Caribol.
+-   In _Will in Scarlet_, it becomes apparent near the end of the book that the Sheriff turns a blind eye to the various bands of outlaws in Sherwood Forest as long as they try to avoid killing those they rob, and don't target the people who have paid him protection money. Will and his band are ignorant of this scheme, and disrupt it.
+-   "Work Ethic": While at first Kristine operate on a basic payment plan (she gives them food, they fix and clean things), they eventually start purposefully break things just so Kristine can pay them to fix it. This is considered a natural progression of how House Fey operate according to Monster.
+-   _Yendi_. Vlad Taltos is a leader in the Jhereg (fantasy equivalent of The Mafia and the Yakuza) in charge of the criminal activities of an area of the city of Adrilankha. One of his operations is the protection racket that extracts money from merchants in his area. It provides most of his income, and when a rival crimelord starts attacking the businesses under his protection, he must take action to stay in charge.
+
+    Live-Action TV 
+
+-   _Adam-12_ had an episode with a racket targeting Jewish-owned businesses. The store owner that’s focused on doesn’t scare easy because he was a Holocaust survivor but it’s hard even for him. Eventually his wife gets hurt and he decides to help the police out a stop to it.
+-   _Badger_: In "Setts, Lies and Videotape", Chris and Jackie Mason), two teenage hoodlums, terrorize a council estate and run a protection racket which preys on the local traders, mocking the police when they try to intervene. But when they decide to step into the big time by running a badger bait in a wharfside warehouse, they incur McCabe's wrath.
+-   In the Canadian series _Bad Blood 2017_ Declan Gardiner rose through the ranks of the Montreal Mafia because of his "work smarter, not harder" approach to traditional mob rackets. The old-school mobsters had problems collecting protection from immigrant store owners because the immigrants escaped war zones and tyrannical regimes and were not easily intimidated. Declan solved the problem by offering the store owners actual protection that they could not get from the city's bigoted and corrupt police force. Anyone who paid would no longer be harrassed with red tape by the city's corrupt bureaucracy and other criminal gangs were told to stay away. When a bunch of thugs almost killed an immigrant kid, Daclan personally tracked down the culprits, pistol whipped them and made sure that the kid would never again be bullied or even insulted. This brought Declan to the attention of The Don Vito Rizzuto who was running a big scale version of the same scheme on the city's construction industry and other criminal gangs. If you wanted to build a new apartment building or a mall, you paid Vito a "consulting fee" and he would make sure that you had no problems with inspectors or the unions. If you wanted to deal illegal drugs, you gave Vito a cut and he would make sure that the police stayed away and the other gangs did not infringe on your territory. The central conflict of the first season is started when Vito's son Nico decides to renege on the arrangement and turn it back into a straight up extortion racket.
+-   _Barney Miller_: In "Protection" the cops of the 12th Precinct are shocked to discover that local business owners are paying the mob for protection from crime, instead of coming to them. There's a rumor spreading around that the precinct will be disbanded due to New York City budget cuts. Inspector Luger soon arrives and confirms that it's true.
+-   _Bonanza_: The episode, "Death at Dawn," has Virginia City in the grips of a murderous gang who are plaguing it with a protection racket. When they murder a shopkeeper for refusing, the Cartwrights are determined to stop them even as they threaten Ben.
+-   _Burn Notice_:
+    -   "Broken Rules": A gang is shaking down businesses in a neighborhood in Little Havana. The shopkeeper who hires Michael to deal with them says that "at first they said it was for 'protection'. Now they don't even bother to lie". The gang turns out to be run by a businesswoman who is trying to drive out the residents so she can cheaply buy up the real estate.
+    -   "Friendly Fire": Team Westen tracks a fugitive who is hosted by a gang that is running a protection racket against another gang. The smaller gang robs baby formula and the like from warehouses to deliver to impoverished residents at a discount, whereas the bigger gang is pushing them to steal prescription drugs for black market sale.
+-   _Daredevil (2015)_: Wilson Fisk spends season 3 plotting to make himself a one-stop shop for bribery and protection. He becomes an FBI informant and blackmails his handlers to get them under his thumb, and uses the fact that he sold out the Albanians as a means of scaring gangs into paying him a protection tax, lest they want to risk him also selling them out. In episode 9, he has his FBI handlers round up a bunch of powerful crime bosses, to whom he pitches his offer of protection and demands a 20% cut of their individual profits as tribute. One of the crime bosses, Everett Starr, balks at the payment, prompting Dex to kill him with a baton. This scares the remaining four bosses into quickly agreeing to Fisk's terms.
+-   In the season five premier of _The Expanse_, Amos is traveling to Luna aboard a Belter ship and midway through the voyage a man comes into the cabin and suggests that everybody there purchase "travel insurance". Two of the Belters say they bought insurance before they left, but the man says _that_ insurance expired and they need to re-buy. He is very quick to say it's completely up to them to buy or not, but warns that you never know what could happen on a long journey. When he finishes his spiel and the two Belters are about to pay, Amos tells the crook that they're _not_ paying and that he better not try this again with anybody else in this cabin. The gang tries to catch him later in the bathrooms to punish him for interfering, but he points out that they have radically misjudged who he is and brutally beats the entire gang.
+-   An episode of _Flashpoint_ sees the team go up against The Triads who're running a protection racket on stores in chinatown.
+-   Parodied several times in _Monty Python's Flying Circus_:
+    -   In one sketch, two members of Cockney Mafiosi approach the colonel in command of a British Army base played by Graham Chapman. One of them says "You've got a nice army base here, colonel. We wouldn't want anything to happen to it." They further imply that the base's equipment could get broken and its personnel set on fire if the Army doesn't pay them off. They then ask for a ludicrously small payment.
+    -   Doug and Dinsdale Piranha's careers got off to an inauspicious start when they began to operate what they called "The Operation," under whose terms their selected victim would be beaten up if he paid them the protection money. Four months later, they abandoned this operation in favor of "The Other Operation," in which they would threaten not to beat their victim up if he didn't pay them. This operation was likewise unsuccessful, but "The Other Other Operation," in which they threatened to beat up victims who didn't pay, was the turning point.
+-   _Police Squad!_ parodied this in the episode "Rendezvous at Big Gulch (Terror in the Neighborhood)". When mobsters beat up a ballet teacher for missing a protection payment, it falls to the men of Police Squad to break up the racket. Detectives Drebin and Nordberg go undercover, posing as locksmiths to attract the mobsters to their business. The mobsters soon arrive, and Drebin refuses to pay, so the mobsters try to intimidate him by perforating the shopfront with machine guns... and then throwing a single rock through the window. Naturally, Drebin fixates on the rock and doesn't even notice the numerous bullet holes. Meanwhile, Nordberg keeps focusing on ways to improve revenue at the shop, apparently forgetting why he went undercover in the first place.
+-   _The Sopranos_: Played with in the final season. One of the family's minor protected businesses folds and is replaced with a Brand X Starbucks. Patsy Parisi and one of his guys go in to try this routine on the new manager. The manager recognizes what they are doing, but in an almost sympathetic tone he points out that the company is a billion dollar multinational with complete insurance so they won't care — or even notice — if the place is vandalized. What's more, every single bean is in the computer so he can't even cave under personal threats, since if he started skimming for the mob he'd be fired immediately and a new manager brought in, starting the process all over again. The two mobsters leave, complaining about the state of modern business and how tough things have gotten for 'the little guy'. The episode ends with Tony Soprano himself selling one of his buildings in Newark to Jamba Juice who push out the current tenant to install a franchise, and when Patsy learns about that he wonders what is even happening to the city.
+-   _Star Trek: The Original Series_: Played for laughs and satire in "A Piece of the Action", as the entire planet is Mafia run with gang territories being more or less their own nations, protection rackets have effectively evolved into the equivalent of taxation. At one point several local citizens complain to a lieutenant, demanding to know when The Don is going to send someone to fix the broken streetlamps, arguing that their always on time with their payments with the lieutenant half-heartedly trying to reassure them that if they put their complaints in writing someone will look into it.
+-   _Steptoe and Son_: In a tribute/parody of The Seven Samurai one episode features Albert and Harold facing a local gang boss, trying to set up an "insurance agency" in their area, with him having his two goons smash to pieces a massive vase they just acquired to underline his offer. For added points, he goes as far as having it registered as an official insurance agency, to make it harder to pin anything on him for taking the people's money.
+-   _Yancy Derringer_: In "Mayhem at the Market, merchants are in such fear for their lives that Yancy gets no cooperation in his attempt to break a new protection racket.
+
+    Tabletop Games 
+
+-   In _Blades in the Dark_, protection racket is one of the claims (sources of income) available to the Bravos crew type.
+-   _Dungeons & Dragons_: In the _Forgotten Realms_ setting priests of the ocean goddess Umberlee often exploit their goddess' reputation for causing storms and drowning people on a whim to run protection rackets over harbors and shipping companies, charging ship captains a fee in exchange for travelling with their ship or mentioning it in their prayers so that it will be spared from Umberlee's destructive wrath.
+-   In _Warhammer_, Former Imperial Ambassador to Couronne Matthias von Pfeildorf compares Bretonnia's political system to this trope:
+    
+    _We have political systems like this in the Empire. We call them 'protection rackets_'
+    
+
+    Video Games 
+
+-   _Crying Suns_: When Admiral Ellys Idaho reaches the Empire’s heartlands in chapter 5, he discovers that the Imperial fleet is extorting a monthly tribute from planetary rulers in exchange for protection from "threats".
+-   _The Godfather_: You unsurprisingly spend the bulk of your time taking these over from other Families on behalf of the Corleones. The "protection" aspect is played straight: extortable businesses are guarded by Mooks from appropriate Families, and more lucrative businesses tend to have more powerful guards. Convincing the shopkeeper to pay you, however, is pure Shame If Something Happened.
+-   One of your missions for the Mafia in _Grand Theft Auto III_ has you chauffeuring a mafioso as he makes his rounds on a protection racket. At one point he goes into one business that hasn't paid with a baseball bat while we don't get to see what happens, but what we hear isn't pleasant.
+-   _Honkai Impact 3rd_: around 500 years before the present, the Schicksal Organization lost a lot of their members and resources in their crusades against the Honkai threats. They had to resort to extorting money from the closest people (in Europe) at the time to cover their loss, under the pretense of "buying 'indulgences' as a means to pay for their 'original sins' for those who didn't go to the war".
+
+-   _Mass Effect_: The mercenary groups in the Terminus Systems like the Blue Suns and the Blood Pack operate protection rackets on various lawless colonies like Omega, among other criminal activities.
+-   _Neverwinter Nights 2_:
+    -   One of your first missions after arriving in Neverwinter involves a stubborn shopkeeper who is being threatened by the local Thieves' Guild to join a protection scheme. You can either join the guild and "persuade" the shop keeper that paying the guild is in his best interests, or join the City Watch and kill the thugs who come to shake him down.
+    -   A later quest involves an eccentric market stall owner who's actually overjoyed that thugs are trying to coerce her into paying their protection fee, seeing it as a sign of her successful her business has become.
+-   In _Republic: The Revolution_, the Racketeering action (available only to functionaries of the Criminal "profession") lets you set up a protection racket, albeit targeting not the regular folks, but other racketeers with the end goal of your functionary becoming the top dog of the district's criminal underworld and controlling it from the shadows.
+-   In _Rimworld_, raider factions will occasionally contact the player's and demand payment for "protection", and if the player refuses they'll state that they "can't guarantee your safety" before immediately attacking.
+
+    Web Animation 
+
+-   _Blood Sun Vendetta_: Pozo Sin Madre is under protection money by Dirty Cops for safety from Cartels and Corrupt Cops. When they threaten the senior who didn't have their money, Jose immediately tells them to shut it and get out of town.
+
+    Web Original 
+
+-   _The Heaven Cycle_: King of hell Azazel offers random cities to renegade demon Naberius to destroy and to turn their inhabitants into his twisted art projects, so Naberius does not prey on Azazel and his fellow demons.
+
+    Western Animation 
+
+-   _Avatar: The Last Airbender_:
+    -   In the _Avatar: The Last Airbender_ episode, "Zuko Alone", a group of Earth Kingdom soldiers does this to the small Earth Nation village they are supposed to be protecting, threatening violent consequences if they aren't paid. The group is much less organized than most examples, but it works because almost anyone who could fight back against them is off fighting in the war.
+    -   _The Legend of Korra_: The Establishing Character Moment of the Triple-Threat Triad is a few members of the Triad walking up to a shopkeeper and asking for protection money: either the man will pay or they will use their Bending abilities to wreck the establishment.
+-   _Ben 10: Omniverse_: The first episode shows an alien gangsters from Undertown implementing one on various shopkeepers, which Ben attempts to investigate. Either the gangsters get their money, or they wreck the _entire_ establishment.
+-   A one-off villain in _Freakazoid!_ was a mobster who forced business owners to pay him for "Oops Insurance". If they didn't pay, he'd break something in their store and say, "Oops".
+-   _Gargoyles_: "Protection" deals with such a thing. The subject is apparently new to Goliath, who is uniquely disgusted by such threats being known under the title of what gargoyles are usually all about doing sincerely.
+-   _My Little Pony 'n Friends_: In "Spike's Search", the dragons are implied to be running these for the villages around Dream Valley, demanding donations of food and burning down towns that are slow in complying.
+    
+    **Dragon Leader:** We generously offer to _protect_ the citizens of a nearby village for a _token_ consideration — a selection of their best foodstuffs and delicacies. But the townspeople... have been slow to respond to our _magnanimous_ offer, so a little _visit_ is in order.
+    
+
+    Real Life 
+
+-   Meyer Lansky first met Lucky Luciano when the latter attempted to racket the former for a small gambling operation.
+
+___

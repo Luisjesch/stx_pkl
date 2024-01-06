@@ -1,0 +1,182 @@
+_"This isn't over yet,_ I'm _not finished."_
+
+— **Daniel Garner**, after being offered a chance to meet his wife in Heaven, _Painkiller_
+
+A choice is offered: an afterlife of unending bliss, or a chance to return to mortal life. The offer could come from a god, an angel, or the spirit of a deceased loved one. Often, it comes at the end of the hero's journey, or during a Near-Death Experience towards the climax.
+
+There are many reasons why this offer might be refused. Perhaps the character has Unfinished Business. Perhaps he feels it's his duty to return. The offer may have come at a time when the life of a loved one hangs in balance, or when the fight against the Big Bad has reached a pivotal point. Maybe the character simply feels that life is worth living.
+
+In most cases, refusing the offer is portrayed as a heroic action. After all, the hero is sacrificing infinite happiness so that he can do what is needed. The sacrifice might be mitigated if the character knows he can eventually enter the afterlife he has refused anyway.
+
+This might be an element of some stories involving Lotus Eater Machines, but there's a slightly different dynamic at play with a true afterlife. A character who figures out he's in a deceptive Lotus-Eater Machine might reject it on the basis that it's "not real," while a character rejecting a genuine Big Good certified Heaven knows that no truer happiness exists.
+
+Compare Hell Seeker, contrast Heaven Seeker.
+
+This is often a Death Trope and occasionally an Ending Trope, so expect spoilers.
+
+___
+
+## Examples
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   After Goku's first death in _Dragon Ball Z_, he chooses to head to be trained under King Kai and eventually return to Earth to fight the Saiyans, despite being all but guaranteed to go to Heaven.
+-   _The Legendary Hero Is Dead!_: Touka is offered his idealized afterlife, one populated with duplicates of every girl he has ever met who adore him and are all naked except for his fetish, stockings. When he is reminded that the real Yuna is in danger, he immediately chooses to go back and save her.
+-   Played for Laughs in _Magical Pokaan_. After making a lot of trouble, Yuuma is put into a stereotypical Fluffy Cloud Heaven. However, she begins to feel lonely, and begs to be returned to her friends on Earth. The Powers That Be comply.
+-   In episode 21 of _Space☆Dandy_, Dandy refuses to accept death to enter a world where sadness doesn't exist, believing that happiness is impossible without sadness.
+    -   Also, at the very end of the show, when the narrator reveals Dandy's destiny of taking his place as God, Dandy nonchalantly blows him off so he can go to Boobie's.
+-   _Voltron_ has an angelic being offer eternal paradise to our heroes, who all but immediately refuse. Internal monologues then confirm their unending devotion to the people of Arus.
+
+    Comic Books 
+
+-   Happened in the comic _Grimjack_ — the title character died, but chose to leave Heaven and move into a cloned body to save a friend. And hunt down an old enemy. Consequences happen.
+-   One of the several deliberately-incompatible origin stories of _The Phantom Stranger_ says that he's the original Wandering Jew, who was doomed to walk the earth until Judgement Day after he was mean to Jesus at the crucifixion, and all his other powers were gained as he learned various kinds of magic in unsuccessful attempts to escape his doom. This origin story ends in the present day, where God tells him he's earned time off for good behavior and can go to heaven now, and he asks to stick around on Earth and keep helping people.
+-   There was a brief period for The Punisher, starting with the _Purgatory_ miniseries, where he was killed and then resurrected as an agent of heaven killing demons. Frank ultimately opted to return to life as a human because he preferred killing human criminals to slaying demons. Or re-uniting with his family.
+-   Done as a bit of a Sadistic Choice early on to _The Spectre_; the Voice (implied to be God) says he's now earned the right to pass on to Heaven, a one time only offer... just as his love interest has a bullet speeding at her head.
+-   A forced—and thereby perhaps subverted—version of this happened in _X-Men_—Gambit had been speared through with a sword and was lying on the ground slowly bleeding to death, literally walking towards a 'beautiful' white light and reassuring Rogue that he was in a state of grace and could finally go to Heaven—she grabbed him and yanked him back into his body, refusing to let him leave her behind. Needless to say, he was not happy about this.
+-   In the _Green Arrow_ story "Quiver", Ollie was already in heaven when his body was resurrected without a soul. The villain of the story wanted to possess the body as part of his evil plan to eventually claim the power of a demon. Ollie's body (which had a mind of his own based on Ollie's memories prior to the downward spiral leading to his death) tried to convince Ollie to merge with him again to fight the villain. Ollie refused at first, believing he had earned the right to rest. At the same time, Ollie's son Connor was desperately fighting the villain's summoned demons in an attempt to save Ollie. Ollie was convinced to merge with his body again. Not for himself, not even for the world, but for his son.
+-   In the _Doctor Who Magazine_ comics, the Eighth Doctor has the opportunity to unite with the space-time vortex, becoming one with everything, but renounces it to save his companion's life.
+-   _All-Star Superman:_ At the climax, Superman dies, and has a vision of Jor-El, who tells him he can either ascend to where all the other Kryptonians have gone and "dance through the fields of consciousness", or go back and save his friends from Lex Luthor. Naturally, Clark chooses to go back.
+-   _Buffy the Vampire Slayer_: At the end of Season Eight's "Twilight" story arc, both Buffy and Angel choose to remain on Earth rather than live in a paradise dimension together for eternity. She realizes that her friends and family are fighting a unwinnable battle against demons, and despite Angel's pleas, Buffy returns to Earth to save them. Angel follows her.
+-   _Spawn_ plays with this one. Spawn, after saving all of existence from the Dark God Urizen, is offered a place in Heaven complete with a halo. However, after having fought Heaven's corrupt forces for over a hundred issues he wants nothing to do with them.
+-   _Wonder Woman (1987)_: When she's brought back from death as the Goddess of Truth the Olympians spirit Diana away to Olympus which they see as a paradise retirement for her, though Athena and Ares seem to know better. Diana finds it dull, torturous and annoying to be expected to walk about serenely, seek out and expose lies for the Olympians and observe life on earth from afar, so she keeps breaking the rules until she's downgraded back to a superpowered human and returned to earth.
+
+    Fan Works 
+
+-   _Rosario Vampire: Brightest Darkness_:
+    -   Upon her definitive death in Act VI, Felucia Sonsta is offered a place in Heaven, but instead explicitly requests to go to Hell so she can follow up on her earlier See You in Hell threat to Hokuto and the Kikion sisters and spend eternity making them suffer for torturing and molesting her. After the destruction of the Kikions' souls in the next arcs, Felucia accepts an offer of a Redemption Quest from the Lord of Hell to get into Heaven because, without them to torture, she sees no point in staying in Hell anymore.
+    -   In Act VI chapter 39, Akasha reveals to Moka that she has been Dead All Along; she was offered a place in Heaven by the Almighty, but refused to accept it because, having been indirectly responsible for Alucard's initial rise to power, she feels she needs to actually earn it.
+-   _Blood and Spirit_: In chapter 37, upon being killed, Link unhesitatingly agrees to return to life without Zelda to stop Veress, willing to live without his true love for the sake of fulfilling his duty while knowing he'll eventually come back anyway. Having passed their test, the goddesses allow them _both_ to return to life.
+-   _The Peace Not Promised_: After his second chance at life, Severus Snape has largely resolved his regrets; he has reconciled with Lily, they are happily married, she's pregnant with his son, and Voldemort is dead. However, in the process of taking Voldemort down, he was struck with the Killing Curse. He reaches the afterlife and learns that his wedding ring, set with powerful alchemical stones connected with life and death, is unexpectedly a counter to the Killing Curse — but he could still choose to rest and finally be at peace if he wanted. He decides to return and be a father.
+-   There's a moment of this in the _Danny Phantom_/_Beetlejuice_ crossover story, _Say It Thrice_. When offered the chance to move on rather than suffer oblivion due to the damage from holding the Gem of Osiris, Betelgeuse decides to risk staying anyway.
+-   In the _Angel_/_The Hunger Games_ fic "Demon's Games", after Buffy helps free Dawn's soul from being trapped by the Senior Partners to power Panem's defences, Cordelia appears to reveal that it is possible to transfer the essence of the Key to Buffy, which will heal her current sickness and make her essentially immortal. While Buffy is initially hesitant as this will prevent her joining Dawn and her other lost friends in Heaven, she accepts the proposal as this will allow her to be with Angel back on Earth, and Cordelia notes that eventually Buffy and Angel will see them all in Heaven after the final battle between Good and Evil when Heaven and Earth will somehow "come together".
+-   Referenced in a sense in _Lost in Camelot_; despite Kenzi's complaints about some aspects of life in Camelot, such as the lack of proper toilet facilities or good music, when given the chance to return to her home time, Kenzi declines in favour of staying with Bo, who can’t go back to 2012 for various reasons.
+-   Invoked in the _Futurama_ fanfic _Blame It on the Brain_; after defeating Onespawn, Fry uses his temporary connection to the fabric of reality to create a world where he and Leela are living happy lives in the twentieth century, with Bender and Scruffy operating a mechanic's shop, Fry's dog Seymour living happily with him and Leela, and Fry now actually smart after he restores his Delta Brainwave, but Leela convinces Fry that they have to accept reality, prompting him to rebuild history the way it was.
+-   In the finale of _Evolution II_, Cole McGrath goes braindead after using the RFI to defeat the Beast, where meets up with the spirits of people who had died in Empire City. After learning that his powers give him the unique ability to resurrect him from this state, Cole is forced to choose between staying and being with his deceased loved ones, especially Trish, or going back to the land of the living. He chooses to return.
+
+    Films — Animated 
+
+-   A non-heroic example happens at the _beginning_ of _All Dogs Go to Heaven_, with the main character sneaking out of heaven despite being warned that he can never return.
+-   In the Disney version of _Hercules_, the titular Hercules chooses to remain on Earth with Meg instead of returning to Olympus after achieving godhood.
+-   A non-dead version happens in _Animalympics_; While doing some mountain climbing in the frosty peaks of Animalympics Island, Kurt Wuffner finds a secluded utopia called Dogri-La. However, he leaves it so he can compete in the downhill skiing event. After takes the gold, he declares his intent to find The Shangri-La again.
+    
+    **Wuffner:** I left a strange, wonderful mountain paradise because I _had_ to win this race. I know I'll never stop climbing until I find Dogri-La.
+    
+
+    Films — Live-Action 
+
+-   In _Big Fish_ Edward Bloom follows an overgrown path through a dark and scary forest. He comes to Spectre, a beautiful, peaceful town full of friendly and happy people who cryptically inform him that he's 'early'. He hangs around for a little bit, but then decides to leave. He states that he'd be happy if he ended up there eventually, but he has to live his life first.
+-   Another forced-and-thereby-possibly-subverted example: at the end of _Constantine (2005)_, the dying John Constantine is about to enter heaven, when Lucifer deliberately heals him to make sure he has another chance at messing up his salvation on earth.
+-   In _Idle Hands_, after getting killed, Mick and Pnub refused to "come to the light" because it was too far. Anton blew off Heaven after accidentally getting crushed by a car in a hydraulic lift, because Molly taking care of him in bed "beats the shit out of Heaven."
+-   In _Star Trek: Generations_ Kirk is reluctant to leave the Nexus at first, but soon realizes that the ability to make a difference in the real world is more important to him than anything the Nexus could offer. The tipping point is when he jumps a ravine with his horse, one he jumped numerous times in the real world, only to realize here that the element of danger which made it feel exciting when it was real is absent since he knows he's in the Nexus. Picard's experience with the Nexus is similar.
+-   In _What Dreams May Come_, after escaping Hell, Chris and Annie have an opportunity to spend eternity in a literal house of their dreams in Heaven, but choose to be reincarnated in order to get a second chance at a successful Childhood Friend Romance.
+-   _Purgatory_: The single good-aligned bandit is dead and gets the chance to skip waiting in purgatory for ten years and go straight to heaven, but he decides to stay because the town needs a good sheriff.
+-   _Wishmaster 4: The Prophecy Fulfilled_: In the climax the evil genie offers the heroine a perfect fantasy world where all her wishes can come true in an effort to win her to his side. She refuses his offer so she can save her boyfriend.
+
+    Literature 
+
+-   _Escape from Hell (2009)_:
+    -   While crossing the flaming tombs of the Sixth Circle where heretics are punished, Allen comes across Charles Francis Adams, the real-life son of John Quincy Adams. In life, Charles had been part of a religious tradition that among other things emphasized reason over formal doctrine and did not consider damnation to be permanent or Jesus to be God — son of, perhaps, but not God. This didn't get him damned — it was enough for him not to be considered a Christian, but he was otherwise morally upright enough to be placed among the virtuous pagans, whose Circle is essentially a terrestrial paradise. The reason he's down there now is because he marched up to Minos anyway and insisted on being judged as a Christian. The judge of the dead reluctantly dropped him off among the heretics, although he was not trapped inside a burning tomb and can wander free; he has spent his time since trying to talk others into redeeming themselves — after all, he believes damnation to be temporary, and he was evidently not judged as a heretic, was he?
+    -   Later, in the Bolgias, the group comes across Aimee McPherson, a radio preacher of the Twenties and Thirties. When she came to Minos to be judged, she was meant to go to Purgatory — she had sinned in life, repeatedly, but repented when it happened and honestly tried to serve God. She had made her living as a soulsaver on Earth and decided that she wanted to keep at it in the afterlife, and as such asked Minos to place her in Hell instead so that she could try to rescue the sinners there.
+-   In Terry Pratchett's _Nation_ Locaha, the god of death, offers Mau the chance to ascend to the "Perfect World". Mau refuses, preferring to make his own world a little more perfect. Locaha notes with pride that everyone he's chosen has made the same choice.
+-   At the end of _The Chronicles of Prydain_, Taran is offered the chance to sail to the Summer Country. He stays to help rebuild after the war, and becomes the new High King. Eilonwy also decides to stay with him.
+-   The book version of _The Spiderwick Chronicles_ plays it straight with Arthur Spiderwick now 120 years old due to living with the sylph for 80 years and after seeing his daughter (now 86 years old) one last time, he steps onto Earth and turns to dust.
+    -   Subverted in the film where Lucinda asks to go with Arthur and the sylph transform her back into her 6-year-old self so she can live with her father forever.
+-   In _Harry Potter and the Deathly Hallows_ Harry has a near death experience in which Dumbledore gives him the option to pass on to the next world. He returns to continue the fight against Voldemort.
+-   In L. Jagi Lamplighter's _Prospero Regained_, Cornelius dies in the final battle, and is found standing over his own corpse. Not only are angels ready to escort him to Heaven, he can now see. His brothers are unable to persuade him to stay, but Miranda comments on how he can retire as he wished, and he puts off the angels and has his father resurrect him.
+-   Percy Jackson of _Percy Jackson and the Olympians_ refuses the offer to become lieutenant to his father, Poseidon, and gain eternal immortality. He refuses it on the grounds that he's about to enter high school and he doesn't want to lose the possibilities his mortal life gives him, but it's heavily implied it's so he can stay with Annabeth. Hardly surprising, since the series is published by Disney...
+    -   There was also the fact that he was basically being given a chance to get _anything_ from the gods, and he wanted to do something to improve the general lives of most demigods.
+    -   There are a couple of other examples of this in the series. In the fourth book, Percy is given the choice to either stay on Calypso's island or return to his quest. In the seventh book/second book in the Sequel Series, he is given another choice to either live a long, peaceful life under the sea, or to jump into a new conflict, experience pain and suffering, and possibly die. While neither Calypso's island or the ocean were exactly _paradise,_ they were both places Percy would have been very happy to live. It never takes him long to make the choice.
+-   In the Gemma Doyle books, Gemma is gravely injured. She has to chose between dying and passing into the afterlife, honored as a hero, or being restored to life, granted one wish, and forgotten by time. She chooses life, and wishes that her mentor/enemy be allowed into Heaven.
+-   In _Tolkien's Legendarium_:
+    -   After her death, Lúthien is given the choice between staying in the Undying Lands but being separated from Beren, her mortal lover, forever, or returning to Middle-Earth with him as a mortal, and eventually dying a second death, after which they can depart Arda together. Anyone who's familiar with Tolkien's Legendarium knows which choice she went with.
+    -   Half-elves are given the choice to become full Elf or Man. Those who opt for the latter become mortal, are barred from entering the Undying Lands, and will leave Arda upon death. There have been two half-elves who choose this fate: Elros, Elrond's brother and Aragorn's ancestor as the first King of Númenor; and Arwen, Elrond's daughter, who echoes her great-grandmother Lúthien by choosing to become mortal so she can live, die, and leave Arda together with Aragorn.
+-   In Tamora Pierce's _The Immortals_ - a part of her Tortall universe - Daine makes this choice at the end of The Realms of The Gods, deciding to remain in the mortal realms rather than become a minor goddess and live with her parents, the God of the Hunt and the northern Goddess of childbirth. It's not an easy choice; she did promise her mother she would stay - but in the end her parents understand that she has a life in Tortall and that was where she belonged.
+-   _Jonathan Livingston Seagull_: After Jonathan Ascends to a Higher Plane of Existence, he refuses to remain in the transcendent world because he laments the plight of his fellow seagulls and wants to help them realize the truth. The more advanced spirits tell him that he's wasting his time, but they understand that he has to make the attempt in order to advance in his own journey towards enlightenment.
+-   In the _Last Herald-Mage Trilogy_, Vanyel Ashkevron is met by the Shadow-Lover, a gentle and compassionate incarnation of Death, after he is badly wounded. He does _want_ to lay down his burdens and know true peace at last, having some Death Seeker tendencies, and was relieved to see Death, but then Death actually puts the choice to him. Living will mean his life gets inexorably worse as his friends die and his burdens grow heavier, that he'll take serious wounds and not die of them, and that his end will bring only more pain. Van then asks a follow-up question about what will happen to everyone he leaves behind if he dies, and finds that they will die sooner and in greater number than otherwise, that his country as he knows it will not long survive him, and so with great reluctance he chooses to live.
+-   In _Timewyrm: Revelation_, following the Seventh Doctor's final confrontation with the Timewyrm, he has the opportunity to be one with the universe or return to the physical world. He opts to return.
+-   In _The Bands of Mourning_, Wax is killed and has a talk with Harmony, who offers him the chance to go on to the great adventure that is the cosmere's afterlife or to accept his allies' attempts to heal him and return to the mortal plane. Wax, naturally, chooses to return to life.
+-   In the _Warrior Cats_ book _Squirrelflight's Hope_, Squirrelflight and Leafpool are caught between life and death while badly injured, and it becomes clear that they can choose whether to stay in StarClan, or return to life. Leafpool decides to stay, and despite their late mother trying to convince Squirrelflight to do so too, Squirrelflight is insistent upon returning to life so that she can be with her mate.
+
+    Live-Action TV 
+
+-   At the end of _Ashes to Ashes (2008)_, Alex believes herself to still be alive and happily exclaims to Gene that she can now leave his purgatory to go back to her daughter. Devastatingly, Alex reads from Gene's expression and through a hallucination that she is in fact dead and cannot go back.
+    -   Even after this, Alex still refuses to go to heaven as she wants to stay and help Gene. Gene convinces Alex that she has to go, but that he cannot.
+-   _Buffy the Vampire Slayer_: The episode "Normal Again" offers up a suggestion that Buffy's life in Sunnydale is all a hallucination and she's actually a normal girl in a mental hospital. The episode ends with her choosing her life in Sunnydale and giving up the possibility of a normal life.
+-   On _The Good Place_, Team Cockroach finally enters the Good Place but sees that its denizens are all listless because living in paradise and having all your wishes fulfilled gets boring after one or two Jeremy Bearimys. They question whether all their effort was worth it and decide to make some changes — namely, allowing people to pass on to a new, unknown experience.
+-   _The Lord of the Rings: The Rings of Power_: Gil-galad offers Galadriel the chance to return to Valinor and she accepts it temporary. While on the ship that carries her to Valinor, Galadriel decides last minute she just cannot live her quest for Sauron unfinished not even for Paradise, and jumps on the sea, determined to swim back to Middle-earth.
+-   By the end of _Lost Girl_'s Season 5 pilot episodes, Kenzi allows Bo to "rescue" her from Valhalla although she was really happy there, wanted for nothing and was hours away from marrying the man she loved and who was killed on Earth before they could tie the knot. Unsurprisingly, she comes to regret the decision in the very same episode and effectively leaves the cast for the rest of the series except for a brief appearance in the finale.
+-   _Stargate SG-1_ has some examples with ascension. Daniel Jackson ascends and descends a couple of times for various reasons. It's not really heaven, but is an afterlife.
+    -   As a result, SG-1 has even parodied Daniel's multiple deaths.
+-   Dean in the _Supernatural_ Season 4 finale (as well as generally throughout season 5). It's more of a practical than a heroic decision, as paradise would require letting Dean's brother, Sam, drink gallons of demon blood to release Lucifer, starting the apocalypse and becoming inhuman in the process, and offering possession to Michael (which would essentially lobotomize him) to kill Lucifer in Sam's body, while wiping out half the earth's population in the process. It's also unclear exactly what would be so good about the paradise that would follow, as the angels only wanted it because they were dicks who were tired of ruling the world in _God_'s absence.
+
+    Music 
+
+-   Mentioned in the song "Luciforms" by The Mars Volta.
+    
+    "if heaven breathes, then someone trade places with me  
+    'cause I don't wanna tear feathers instead of rags"
+    
+-   "Sixteen Tons", first recorded by Merle Travis, has a twist to it:
+-   Subverted in "The Third Heaven" by Carman. The narrator has a fatal accident and Jesus offers him a chance to return to life, but he decides to stay in Heaven.
+-   Played with in Dream Theater's song "The Ministry of Lost Souls". The lyrics sound like they fit this trope, but the song is actually about a woman with Survivor Guilt.
+-   In _Arms Tonite_ by Mother Mother, the singer, having just died in the arms of their lover, decides the romantic nature of the incident isn't worth being separated from their lover and fights to escape the afterlife and be reunited with them.
+-   In _Engel_ by Rammstein, the singer thinks that Heaven sounds unpleasant and repeats the line "Gott weiß ich will kein Engel sein" (God knows I don't want to be an angel) over and over.
+
+    Religion & Mythology 
+
+-   In Buddhism, Bodhisattvas are enlightened souls who decide to reincarnate again to help others reach enlightenment.
+    -   Kṣitigarbha refuses Buddhahood until all the Hells are empty. Which can be measured in Sextillions of years.
+-   Often a story element in a Near-Death Experience tale.
+    -   On many YouTube videos featuring Near-Death Experience tales, the protagonist is permitted a glimpse of both Heaven and Hell, and is told it's God's will that they return to warn others before they are permitted to enter Heaven on a more permanent basis.
+-   The story of Castor and Pollux in Greek mythology. Castor was the mortal son of Leda and her husband; Pollux was the demigod son of Leda and Zeus, who had seduced her (though Zeus had a reputation for this sort of thing). It really didn't matter to them; the brothers were inseparable heroes. When they fell in battle, Pollux the demigod was whisked up to Olympus, and Castor was sent down to the Underworld with Hades. Cue Pollux getting infuriated and marching down to where Hades was keeping his brother, and refusing to leave. This forced the Olympians into a bit of a Logic Bomb, as Pollux couldn't stay there and there was no way he was leaving without Castor. A compromise was reached, and they became the constellation Gemini.
+-   According to _The War of the Irish with the Foreigners_, the warrior Dunlang O'Hartigan (Dúnlaing Ó hArtagáin) was loved by a lady of the _aes sídhe_ (a.k.a. fairies) who offered him immortality and eternal youth and bliss until the Day of Judgment and (this is explicitly included) entrance into Heaven after the Judgment, if he would stay with her. Dunlang however leaves her to aid his friend Murchadh, the son of Brian Boru, in the Battle of Clontarf, if only because he has promised Murchadh to fight by his side, and even though he knows by way of a prophecy that he will die in the battle. When Dunlang arrives just in time to join the battle, Murchadh, hearing his story, in turn mentions that he, too, has been hosted in "hills and fairy mansions" where similar offers were made to him, but he always refused because he would never abandon his country or relatives. True to the prophecy, both Dunlang and Murchadh die in the battle.
+-   Swedenborgians (those who follow the visions described by Emanuel Swedenborg of the afterlife) believe that there are angels in Hell who willingly choose to be there to help the locals not harm each other and other stuff. Swedenborgians teach of a Self-Inflicted Hell in the sense that no one is sentenced to hell, sinners goes to hell on their own initiative because their evil nature make them naturally attracted to hell and they are more "happy" there than in heaven.
+
+    Tabletop Games 
+
+-   Seen in the Saints of _In Nomine_, humans who have died and gone to Heaven but volunteer to return to Earth to continue the fight against Hell. Likewise, every human soul has the opportunity to climb Jacob's Ladder to reach the Higher Heavens and their ultimate reward but many linger on the lowest level ... in some cases, to help plan and organize the War.
+
+    Theater 
+
+-   In Thornton Wilder's "Pullman Car Hiawatha", a one-act existential comedy, a woman named Harriet dies on the titular train and is visited by the Archangels Michael and Gabriel, but initially refuses to go to heaven, saying that she would rather remain on Earth and watch over her husband.
+
+    Video Games 
+
+-   In _God of War: Chains of Olympus_, Kratos, of all people, gives up spending eternity in Elysium with his daughter to save the world from Persephone.
+-   In _Heroes of Might and Magic_ _IV_, Tarnum from the _Chronicles_ series finally redeems himself for the crimes of his first life and earns a place in the barbarian afterlife. He did this by guiding his foster son Waerjak (the player character in the Might campaign of _IV_) into reuniting the scattered barbarian tribes and making a new home for them on Axeoth while avoiding the mistakes Tarnum himself made in the past. Tarnum ultimately chooses to stay with his people and his son, having found a new reason to live.
+-   There's a version of this trope in _Dragon Age: Origins_, when the Warden is fighting through the mage tower and confronts a Sloth demon. The demon sends the Warden and their companions into a deep, deathlike sleep, and the Warden finds him/herself in a very altered reality where certain impossible things are taking place. Rather than accept the happiness offered in this altered state, the Warden insists that things are wrong, and proceeds to spend the next portion of the game fighting not only to escape their own dreams, but also to rescue their companions, who are trapped in similar situations.
+-   In _Beyond: Two Souls_, the final chapter ends with Jodie hovering in a limbo between life and death where she is presented with a choice: join all the friends and family she lost in the Infraworld, or return to the world of the living. Opting for the latter embodies this trope to a T.
+-   In _Asura's Wrath_, Chakravartin, The Creator declares Asura perfect and worthy of being his successor, effectively making Asura God, and returns his daughter to him. The offer is made with an extended hand, and Asura responds by extending his... except his is closed.
+-   In _South Park: The Fractured but Whole_, if Mysterion (Kenny) is killed in battle, he becomes a ghost with a completely different moveset. His new Limit Break has him ascend to Heaven, where many attractive naked women await him. As much as he might want to go, he ultimately can't bring himself to abandon his allies in mid-battle, and returns to Earth, bringing himself back to life and healing allies near him.
+-   _Batman: Arkham City_: When Batman is a death's door from the Titan infection that has been slowly killing him for most of the game, he sees a vision of his parents waiting for him in the afterlife, telling him it's time for him to rest. Batman refuses, stating that his work isn't over yet. It's left ambiguous whether or not this is just a hallucination caused by the disease (though according to Oracle, Batman's lifesigns completely flatlined at that moment).
+-   The end of _Shantae_ has the titular hero being granted a chance to enter the Genie Realm, making her a full genie like she has always wanted. The downside is she would never see her adopted family or friends ever again since genies are not allowed to meddle in the affairs of mortals. Shantae refuses the offer.
+
+    Web Comics 
+
+-   In _Narbonic_ a party consisting of civilians, one Blood Knight, and one Mad Scientist is attacked by cherubim - mindless hungry feathery insect-things - and in apology Heaven sends them an ambassador to escort one of them directly to eternal bliss. Everyone has better things to do, apparently.
+    
+    Eternity. Another concept mortals can't seem to wrap their minds around.
+    
+-   _The Order of the Stick_:
+    -   Roy enjoys a peaceful afterlife with his family in Celestia following his untimely demise in battle. However, upon realizing that his allies have failed to resurrect him on schedule, he rushes off to search for answers rather than keep waiting in paradise.
+    -   Similarly, Durkon tells Thor under no uncertain terms that he _will_ return to the mortal plane to attend his own unfinished business (i.e. ensuring that his son won't grow up without even knowing him), despite holding a rare ticket to the "good" afterlife. His resurrection is more prompt; his only regret is that he couldn't stay longer to ask more questions before returning.
+    -   Minrah also turns back, partly because she was with Durkon when it was revealed to both of them that the fate of the world rests on the Order's mission — and partly for personal reasons such as never having gotten to decide for herself whether she wants to have children.
+-   Parodied in _Saturday Morning Breakfast Cereal_, where the offeree waxes philosophical about why he would refuse paradise, then, upon being told that it's a real offer and not hypothetical, accepts instantly.
+-   A dark version occurs in _Subnormality_ "Captain Estar Goes to Heaven". A ruthless hitwoman murders the guy claiming he knows the location of the planet where Heaven is located, and is subsequently captured and tortured by other hitmen, who decide to go to the planet on a lark. They end up slaughtered by the angels, while Estar is given paradise; an alternate reality where she never became a hitwoman and lives with her dad. She immediately runs back to her ship and reinstates her killing career, realizing that however horrible her original 'destiny' is, it's where she belongs.
+
+    Western Animation 
+
+-   In one episode of _Futurama,_ Bender dies and spends most of the episode as a Virtual Ghost. At the end he's offered the opportunity to go to Robot Heaven, but says "screw this!" and comes back to "life".
+-   At the end of the Star Wars ripoff 80s cartoon _Starchaser: The Legend of Orin_ the hero is offered the chance to Ascend to a Higher Plane of Existence but turns it down out of love or friendship or ... something.
+-   A possible interpretation of Chapter 8 of _Over the Garden Wall_. In a dream, Greg enters a magical sphere reminiscent of Fluffy Cloud Heaven and is offered the opportunity to return home. Given that Wirt is too far gone in his despair to go too, Greg refuses the offer and asks to take his place.
+-   Optimus Primal does this in an early episode of _Beast Machines_ as Megatron still needs dealing with and Cybertron needs liberating, which kicks off his spiritual bent that he holds through much of the series.
+    
+    "Yes, I _am_ ready to rejoin the Matrix...but not _today_."
+    
+-   _Masters of the Universe: Revelation_: Prince Adam is killed and winds up in Preternia. He is happy there, but when Teela manages to contact him and reveal Eternia needs him and He-Man more than ever, he chooses to go back, even after he is warned there is a chance he won't go to Preternia again if he dies again.
+-   _Xavier: Renegade Angel_: At one point in the episode "Signs from Godrilla," the audience is shown a scene from a Christian action movie where an archetypal Action Hero dies and goes to Heaven. Refusing to stay and allow his still-living wife to be eaten by "Filipino gators," he demands that the angels let him go back to Earth. When they refuse, he pulls out a pair of machine guns and mows them all down before jumping over the pearly gates and down to Earth.
+
+___

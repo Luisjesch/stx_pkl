@@ -1,0 +1,1787 @@
+_"I saw a werewolf with a Chinese menu in his hand,  
+Walking through the streets of Soho in the rain,  
+He was looking for the place called Lee Ho Fook's  
+Gonna get a big dish of beef chow mein."_
+
+Urban Fantasy, also sometimes called "Modern Fantasy", is a genre that combines common fantasy conventions with a modern setting. The name "Urban Fantasy" is sometimes taken to imply that all works in the genre must take place in a large city, but this is not the case. Rather, the name implies throwing fantasy elements into more modern, _urban_ societies (hence its secondary name). Still, it's very common for Urban Fantasy stories to take place in a large, well-known city, all the easier for their fantasy elements to hide themselves in.
+
+As a genre, Urban Fantasy is sometimes seen as more accessible to the average reader than the Medieval European Fantasy due to the Like Reality, Unless Noted nature of it, and the fact that modern settings are familiar to readers whereas the The Middle Ages is something that modern readers may have trouble relating to. The exact cut off date for what falls under Urban Fantasy is fuzzy, as the works which most commonly get this label applied to them feature settings in the present day, but works taking place as far back as the Victorian Era are generally included. Works taking place more than ten to twenty years in the future however, are not.
+
+Urban Fantasies almost always take place on Earth, rather than a Constructed World, or if not on Earth then in a place so close as to make little difference. Alternate History is common, incorporating Fantasy elements into real historical events, with humans living alongside magic, though if this isn't done there is usually a Masquerade, implying that witches, elves and fairies live alongside us, just in hiding and probably forming a complete Wainscot Society. In such stories, The Unmasqued World is a common plotline. Another common convention used in Urban Fantasy is to suggest that at one point the world resembled a Medieval European Fantasy but The Magic Goes Away, and in the present The Magic Comes Back and now humans have to adjust to it.
+
+Urban Fantasy often crosses paths with a number of genres, including Alternate History, Cosmic Horror Story, Dungeon Punk, Gothic Punk, Horror, Magic Realism, New Weird, Paranormal Romance, Paranormal Investigation, Science Fantasy, Supernatural Fiction and Supernatural Thriller. Sometimes it's difficult to tell whether a work qualifies, but generally speaking Urban Fantasy is known for showing the impact of modern society on the fantasy elements included in it. Elves carry guns, witches use microwaves and Leprechauns work at the bank. It takes more than tossing in the odd vampire solely for the fear-factor to truly apply.
+
+Or, more cynically, a work is Urban Fantasy if it has a half-naked woman on the cover, and Paranormal Romance if it has a half-naked man on the cover.
+
+The genre can also be split into two distinct sub-genres of its own. In one, the fantasy elements are out in the open while in the other, they exist in a kind of a shadow society, with rest of the world operating normally, generally unaware of its existence.
+
+Gaslamp Fantasy, Supernatural Soap Opera and Historical Fantasy are notable subgenres. Urban Fantasy is itself a subgenre of Speculative Fiction, specifically Fantasy. Many works that throw mystery-genre elements into the mix also rate as Fantastic Noir. Most of the Vampire Fiction published in recent times falls under this genre, whereas in the past it followed the conventions of Horror. Urban Fantasy is often considered the fantasy equivalent of 20 Minutes into the Future.
+
+If you want to know how to write an Urban Fantasy, please visit the Write an Urban Fantasy page.
+
+If you want to see a list of common tropes of this genre, see Urban Fantasy Tropes.
+
+___
+
+## Examples:
+
+    open/close all folders 
+
+    Anime & Manga 
+
+-   _Agni's Philosophy_
+-   _Ah! My Goddess_
+-   _Alice & Zoroku_
+-   _All Around Type-Moon_
+-   _The Ancient Magus' Bride_
+-   _ARIA_ (later on)
+-   _Artiswitch_
+-   _Ayakashi Triangle_
+-   _Ayashimon_
+-   _Bleach_ (in part)
+-   _Blood Blockade Battlefront_
+-   _Blood Lad_
+-   _Bokura no Kiseki_
+-   _Blast of Tempest_
+-   _Blue Exorcist_
+-   _Bone Collection_
+-   _The Breaker_: Although it's technically an urban Wuxia Manhwa, it sometimes gives off this feeling.
+-   _Bungo Stray Dogs_ (Combines a real-life city setting with magic mundane to it)
+-   _Cardcaptor Sakura_
+-   _A Certain Magical Index: Miracle of Endymion_
+-   _Chainsaw Man_
+-   _Child of Kamiari Month_
+-   _Chrono Crusade_
+-   _Code-E_
+-   _Code Geass_
+    -   _Code Geass: Lelouch of the Re;surrection_
+-   _Concrete Revolutio: Choujin Gensou_
+-   _Dark Gathering_
+-   _Dead Mount Death Play_
+-   _DEAD Tube_
+-   _Death Note_
+-   _Descendants of Darkness_
+-   _Destiny of the Shrine Maiden_
+-   _Devilman_
+    -   _Devilman_
+    -   _Violence Jack_
+    -   _Devilman Lady_
+    -   _Devilman Grimoire_
+    -   _DEVILMAN crybaby_
+-   _Digimon_
+    -   _Digimon Ghost Game_
+-   _Doron Dororon_
+-   _Fantastic Detective Labyrinth_
+-   _Fate/Prototype_
+-   _Flying Witch_
+-   _Fruits Basket_
+-   _Ga-Rei_
+    -   _Ga-Rei -Zero-_
+-   _GeGeGe no Kitarō_
+-   _Gingitsune_
+-   _Gugure! Kokkuri-san_
+-   _Gunbured × Sisters_: An ecchi action-comedy about nuns with guns slaying vampires in a modern urban city.
+-   _Hell Girl_
+-   _Hellsing_
+-   _Hell Warden Higuma_
+-   _Hetalia: Axis Powers_ (Magic Realism elements, at least)
+-   _High Card_
+-   _Hime-chan's Ribbon_
+-   _The Ice Guy and His Cool Female Colleague_
+-   _Inuyasha_ (in part)
+-   _Iris Zero_
+-   _JoJo's Bizarre Adventure_
+-   _Jujutsu Kaisen_ (Half this, Half Dark Fantasy)
+-   _Kamichu!_
+-   _Kamisama Kiss_
+-   _Karneval_
+-   _Karura Mau!_
+-   _Kiki's Delivery Service_
+-   _Koi Neko_
+-   _Level 1 Demon Lord and One Room Hero_
+-   _Little Witch Academia_
+    -   _Little Witch Academia (2013)_
+    -   _Little Witch Academia: The Enchanted Parade_
+    -   _Little Witch Academia (2017)_
+-   _Magu-chan: God of Destruction_
+-   _Majinden_
+-   _Makaryuudo Demon Hunter_
+-   _Make the Exorcist Fall in Love_
+-   _Maryuu Senki_
+-   _Midnight Occult Civil Servants_
+-   _Miraculous: Tales of Ladybug & Cat Noir_
+-   _Miss Kobayashi's Dragon Maid_
+-   _Mitama Security: Spirit Busters_
+-   _Mnemosyne_, though the second half shifts to 20 Minutes into the Future, turning into Science Fantasy.
+-   _Mob Psycho 100_
+-   _Monster Musume_ blends this with Paranormal Romance.
+-   _Mononoke Sharing_
+-   _Musuko ga Kawaikute Shikataganai Mazoku no Hahaoya_
+-   _My Girlfriend Without Wasabi_
+-   _Nabari no Ou_
+-   _Negima! Magister Negi Magi_
+    -   _UQ Holder!_
+-   _Neko Musume Michikusa Nikki_
+-   _Nura: Rise of the Yokai Clan_
+-   _Nurse Angel Ririka SOS_
+-   _Ojamajo Doremi_
+-   _Oku-sama wa Mahou Shoujo: Bewitched Agnes_ (a.k.a. _My Wife is a Magical Girl: Bewitched Agnes_)
+-   _One-Punch Man_
+-   _Oshi no Ko_
+-   _Otaku Elf_
+-   _Panty & Stocking with Garterbelt_
+-   _Paranoia Agent_
+-   _Peacock King_
+-   _Persona 3_
+-   _Persona 3: The Movie_
+-   _Persona 4: The Animation_
+    -   _Persona 4: The Golden Animation_
+-   _Persona 5: The Day Breakers_
+-   _Persona -trinity soul-_
+-   _Pokémon: The Series_
+    -   _Pokémon Origins_
+-   _Pretty Cure_
+-   _Puella Magi Madoka Magica_
+-   _Ranma ½_
+-   _Rosario + Vampire_
+-   _Sailor Moon_
+    -   _Sailor Moon Crystal_
+-   _Scott Pilgrim Takes Off_
+-   _Secret of Cerulean Sand_
+-   _Servamp_
+-   _The Severing Crime Edge_
+-   _Special 7: Special Crime Investigation Unit_
+-   _Shugo Chara!_
+-   _Shutendoji_
+-   _Spirited Away_
+-   _Stitch!_
+-   _The Vampire Dies in No Time_
+-   _Tokyo Babylon_
+-   _Tokyo Ghoul_
+-   _Tokyo Shinobi Squad_
+-   _Transformers: Robots in Disguise_
+-   _Ultra Maniac_
+-   _Ushio and Tora_
+-   _Venus Versus Virus_
+-   _Witch Hunter Robin_
+-   _Witch Watch_
+-   _Wizard Barristers_
+-   _X1999_
+-   _Yamada-kun and the Seven Witches_
+-   _Yokai Girls_
+-   _Yo-kai Watch_
+-   _Yozakura Quartet_
+-   _Yu-Gi-Oh!_
+-   _YuYu Hakusho_
+-   _The World Ends With You: The Animation_
+-   _Zatch Bell!_
+-   _Zombie Land Saga_
+
+    Asian Animation 
+
+-   _Flower Fairy_
+-   _Green Snake (2021)_
+-   _Stitch & Ai_
+
+    Comic Books 
+
+-   _AstroWitch_
+-   _Bad Wolf_
+-   _Beasts of Burden_
+-   _Bizancio_
+-   _Blackbird (2018)_
+-   _Black Cherry_
+-   _Black Magick_
+-   _The Books of Magic_
+-   _Chicago Typewriter_
+-   _Coffin Hill_
+-   _Crimson_
+-   _The Crow_
+-   _Dark Blood_
+-   _The Darkness_
+-   DC Universe (Urban Science Fantasy)
+    -   _Hellblazer_
+    -   _Klarion the Witch Boy_
+    -   _The Sandman (1989)_
+    -   _Spirit World (2023)_
+    -   _Wonder Woman_
+        -   _Wonder Woman: Odyssey_
+        -   _Wonder Woman (2011)_
+    -   _Zatanna_
+-   _Death Vigil_
+-   _Les Démons d'Alexia_
+-   _The Dresden Files_
+    -   _Welcome to the Jungle_
+    -   _Ghoul Goblin_
+    -   _War Cry_
+    -   _Down Town_
+    -   _Wild Card_
+    -   _Dog Men_
+-   _The Eye Sees_
+-   _Fables_
+-   _Gaslighters_
+-   _Gravel_
+-   _Gravity Falls: Lost Legends_
+-   _The Green Knight_
+-   _Hellaween_
+-   _Hellboy_
+    -   _B.P.R.D._
+-   _Hexed_
+-   _Hex Wives_
+-   _Hilda_
+-   _Invincible_ (Urban Science Fantasy)
+-   _Jax Epoch and the Quicken Forbidden_
+-   _The Lost Boy_
+-   _Lucifer_
+-   _Magic Powder_
+-   Marvel Universe (Urban Science Fantasy)
+    -   _Doctor Strange_
+    -   _Ghost Rider_
+-   _Master Mystic_
+-   _Mother Hubbard_
+-   _The Mythology Class_
+-   _Nightschool_
+-   _Night Moves (IDW)_
+-   _Once & Future_
+-   _Proof_
+-   _Phonogram_
+-   _Rachel Rising_
+-   _Raptors_
+-   _Rivers of London_
+-   _Robyn Hood_
+-   _Sabrina the Teenage Witch_
+-   _Scott Pilgrim_
+-   _Seekers of the Weird_
+-   _Shaman's Tears_
+-   _The Sandman (1989)_
+-   _Spawn_
+-   _Spellbinders_
+-   _Steelgrip Starkey and the All-Purpose Power Tool_
+-   _Trese_
+-   _Warrior Nun Areala_
+-   _The Wicked + The Divine_
+-   _Wonder Man (Fox)_
+-   _Witchblade_
+-   _The Wraith_
+
+    Comic Strips 
+
+-   _Scary Gary_
+
+    Fanfiction 
+
+-   _Adorable Murderbeasts_
+-   _All Things End_
+-   _Another Time, Another Place, Another Story_
+-   _Avenger Goddess_ (_Marvel Cinematic Universe_, _Wonder Woman (2017)_)
+-   _Avenger of Steel_ (_Marvel Cinematic Universe_, _Man of Steel_)
+-   _Blue Moon_ (_Twilight_, _Buffy the Vampire Slayer_)
+-   _The Calvinverse_
+-   _Chrysalis Visits The Hague_
+-   _Code Geass: Paladins of Voltron_ (crossover with _Code Geass_ and _Voltron: Legendary Defender_)
+-   _Code Jedi_ (_Code Geass_, _Star Wars_)
+-   _Code Prime_ (crossover with _Code Geass_ and _Transformers_)
+-   _Constellations_ (_Ōkami_, _Worm_)
+-   _Danny Phantom: Lost Episodes Series_ (_Danny Phantom_)
+-   _Facing the Future Series_ (_Danny Phantom_)
+-   _The Flash Sentry Chronicles_ (_My Little Pony: Friendship is Magic_ and _My Little Pony: Equestria Girls_)
+-   _Friends with Everybody_
+-   _Ghost Ghost I Know You Live Within Me_
+-   _Guardians, Wizards, and Kung-Fu Fighters_ (_Jackie Chan Adventures_, _W.I.T.C.H._)
+-   _Hololive Apocalypse_
+-   _I Just Love Killin'_ (_Rick and Morty_, _Worm_)
+-   _J-WITCH Series_ (_Jackie Chan Adventures_, _W.I.T.C.H._)
+-   _Keepers of the Elements_
+-   _The Ketsueki Quadrilogy_ (_Mortal Kombat_, _Street Fighter_, _Tekken_, _Soul Series_)
+-   _Kingdom Hearts: Cody's Story_ (_Kingdom Hearts_, _Total Drama_)
+-   _Kira Is Justice_
+-   _Mad World (Invader Zim)_ (_Invader Zim_/_Johnny the Homicidal Maniac_)
+-   _The Many Dates of Danny Fenton_ (_Danny Phantom_ Western Animation, TV Series, and Comic Books.)
+-   _Monster Chronicles_ (_Total Drama_)
+-   _My Lesbian Life with Monster Girls: Monster Yurisume_ (_Monster Musume_)
+-   _The New Adventures of Invader Zim_ (_Invader Zim_)
+-   _Nightmare in Arkham_ (_Batman_, _A Nightmare on Elm Street_)
+-   _Of Fur, Fangs and Flying Brooms_ (Vocaloid)
+-   _Oh Rhonda!_ (_Hey Arnold!_)
+-   _Pretty Cure Perfume Preppy_
+-   _Project Bluefield_ delves into this when exploring games with fantasy settings, such as _Fire Emblem: Awakening_.
+-   _ResurrectedMemories_ (_Danny Phantom_)
+-   _The Return_
+-   _Rick and The Loud House_ (_Rick and Morty_, _The Loud House_)
+-   _Rick and Morty New Drama Adventures_ (_Rick and Morty_, _Total Drama_)
+-   _Rosario to Kiva_ (_Kamen Rider Kiva_, _Rosario + Vampire_)
+-   _Seven Days in Sunny June_ (_My Little Pony: Equestria Girls_)
+-   _Spidey vs. the Forces of Evil_ (_Spider-Man_, _Star vs. the Forces of Evil_)
+-   _Super Network Wars_ (combined with Mega Crossover)
+-   _Theogony_ (_Worm_, _God of War_)
+-   _Touhou Days Woven With Illusion_
+-   _Tokimeki PokéLive! and TwinBee_ (_Pokémon_, _Love Live!_, _Tokimeki Memorial_ and _Twinbee_)
+-   _Universe Falls_ (crossover with _Gravity Falls_ and _Steven Universe_)
+    -   _Momswap Rises_
+-   _Vampire Lovers_ (_Descendants 2_, _The X-Files_)
+    -   _Vampire Lovers The Apocalypse_
+
+    Film — Animation 
+
+-   _Abominable_
+-   _The Amazing Adventures of the Living Corpse_
+-   _Atlantis: The Lost Empire_
+    -   _Atlantis: Milo's Return_
+-   _Coco_
+-   _Coraline_
+-   _Elemental (2023)_
+-   _Hilda and the Mountain King_
+-   _Hoodwinked!_
+-   _Hotel Transylvania_
+    -   _Hotel Transylvania 2_
+    -   _Hotel Transylvania 3: Summer Vacation_
+    -   _Hotel Transylvania: Transformania_
+-   _Ladybug & Cat Noir: The Movie_
+-   _Lilo & Stitch_ franchise
+    -   _Lilo & Stitch_
+    -   _Stitch! The Movie_
+    -   _Lilo & Stitch 2: Stitch Has a Glitch_
+        -   _The Origin of Stitch_
+    -   _Leroy & Stitch_
+-   _Luca_
+-   _Monsters, Inc._
+    -   _Monsters University_
+-   _My Little Pony: Equestria Girls_
+    -   _My Little Pony: Equestria Girls_
+    -   _My Little Pony: Equestria Girls – Rainbow Rocks_
+    -   _My Little Pony: Equestria Girls – Friendship Games_
+    -   _My Little Pony: Equestria Girls – Legend of Everfree_
+    -   _My Little Pony: Equestria Girls – Magical Movie Night_
+-   _My Moon_
+-   _Onward_
+-   _Over the Moon_
+-   _The Princess and the Frog_
+-   _The Return of Hanuman_
+-   _Rise of the Guardians_
+-   _Scooby-Doo Direct-to-Video Film Series_
+    -   _Scooby-Doo on Zombie Island_
+    -   _Scooby-Doo! and the Witch's Ghost_
+    -   _Scooby-Doo and the Alien Invaders_
+    -   _Scooby-Doo and the Cyber Chase_
+-   _Smallfoot_
+-   _Song of the Sea_
+-   _The Super Mario Bros. Movie_
+-   _Toy Story_ franchise
+    -   _Toy Story_
+    -   _Toy Story 2_
+    -   _Toy Story 3_
+    -   _Toy Story 4_
+-   _Turning Red_
+-   _Wendell & Wild_
+-   _Wish Dragon_
+
+    Film — Live-Action 
+
+-   _Bedknobs and Broomsticks_
+-   _Bell, Book and Candle_ — witches in 1958 Manhattan
+-   _Big Trouble in Little China_
+-   _Blood & Chocolate (2007)_ (even more so than the book, seeing as it moves the setting to contemporary Bucharest)
+-   _The Blood Spattered Bride_
+-   _Bright_
+-   _Bruce Almighty_
+    -   _Evan Almighty_
+-   _The Cabin in the Woods_
+-   _Carnage for the Destroyer_
+-   _Cast a Deadly Spell_
+-   _Child's Play_
+    -   _Child's Play (1988)_
+    -   _Child's Play 2_
+    -   _Child's Play 3_
+    -   _Bride of Chucky_
+    -   _Seed of Chucky_
+    -   _Curse of Chucky_
+    -   _Cult of Chucky_
+-   _Children's Party at the Palace_
+-   _The Christmas Chronicles_
+-   _City of Angels_
+-   _Constantine (2005)_
+-   _Cradle of Fear_
+-   _The Craft_
+-   _The Craft: Legacy_
+-   _The Crow_
+-   _Danger Diva_
+-   _Dark Angel: The Ascent_
+-   _Dave Made a Maze_
+-   _The Dead One_
+-   _Drive Angry_
+-   _Elf_
+-   _End of Days_: Arnold Schwarzenegger tries to stop Armaggedon in New York City, 1999.
+-   _Fantastic Beasts_
+    -   _Fantastic Beasts and Where to Find Them_
+    -   _Fantastic Beasts: The Crimes of Grindelwald_
+    -   _Fantastic Beasts: The Secrets of Dumbledore_
+-   _Faust: Love of the Damned_
+-   _The Field Guide to Evil_
+-   _Freddy vs. Jason_ (_Friday the 13th_ / _A Nightmare on Elm Street_ crossover)
+-   _Friday the 13th_
+    -   _Friday the 13th (1980)_
+    -   _Friday the 13th Part 2_
+    -   _Friday the 13th Part III_
+    -   _Friday the 13th: The Final Chapter_
+    -   _Friday the 13th Part V: A New Beginning_
+    -   _Friday the 13th Part VI: Jason Lives_
+    -   _Friday the 13th Part VII: The New Blood_
+    -   _Friday the 13th Part VIII: Jason Takes Manhattan_
+    -   _Jason Goes to Hell: The Final Friday_
+    -   _Jason X_
+-   _Fright Night (1985)_
+    -   _Fright Night Part 2_
+    -   _Fright Night (2011)_
+    -   _Fright Night 2: New Blood_
+-   _From Dusk Till Dawn_
+-   _Ghostbusters_
+    -   _Ghostbusters (1984)_
+        -   _Ghostbusters II_
+        -   _Ghostbusters: Afterlife_
+        -   _Ghostbusters: Frozen Empire_
+    -   _Ghostbusters (2016)_
+-   _Godmothered_
+-   _The Golden Child_
+-   _Goosebumps_
+    -   _Goosebumps (2015)_
+    -   _Goosebumps 2: Haunted Halloween_
+-   _Harry Potter_
+    -   _Harry Potter and the Philosopher's Stone_
+    -   _Harry Potter and the Chamber of Secrets_
+    -   _Harry Potter and the Prisoner of Azkaban_
+    -   _Harry Potter and the Goblet of Fire_
+    -   _Harry Potter and the Order of the Phoenix_
+    -   _Harry Potter and the Half-Blood Prince_
+    -   _Harry Potter and the Deathly Hallows_
+-   _Hellboy_
+    -   _Hellboy (2004)_
+        -   _Hellboy II: The Golden Army_
+    -   _Hellboy (2019)_
+-   _Highlander_
+-   _Hocus Pocus_
+    -   _Hocus Pocus 2_
+-   _The Howling_
+    -   _The Howling (1981)_
+-   _The Hunger_
+-   _Ink_
+-   _Kazaam_
+-   _The Kid Who Would Be King_
+-   _The Last Dragon_
+-   _The Last Witch Hunter_
+-   _The Librarian_
+-   _Little Nicky_
+-   _The Magical Christmas Tree_
+-   _Mandy (2018)_
+-   _Mara and the Firebringer_
+-   _Marvel Cinematic Universe_
+    -   _Doctor Strange (2016)_
+        -   _Doctor Strange in the Multiverse of Madness_
+    -   _Shang-Chi and the Legend of the Ten Rings_
+    -   _Spider-Man: No Way Home_
+    -   _Thor_
+        -   _Thor: The Dark World_
+        -   _Thor: Ragnarok_
+        -   _Thor: Love and Thunder_
+    -   _Werewolf by Night (2022)_
+-   _Mary Poppins_
+    -   _Mary Poppins Returns_
+-   _Men in Black_
+    -   _Men in Black_
+    -   _Men in Black II_
+    -   _Men in Black 3_
+    -   _Men in Black: International_
+-   _The Mummy Trilogy_
+    -   _The Mummy (1999)_
+    -   _The Mummy Returns_
+    -   _The Mummy: Tomb of the Dragon Emperor_
+-   _A Nightmare on Elm Street_
+    -   _A Nightmare on Elm Street (1984)_
+    -   _A Nightmare on Elm Street Part 2: Freddy's Revenge_
+    -   _A Nightmare on Elm Street 3: Dream Warriors_
+    -   _A Nightmare on Elm Street 4: The Dream Master_
+    -   _A Nightmare on Elm Street 5: The Dream Child_
+    -   _Freddy's Dead: The Final Nightmare_
+    -   _A Nightmare on Elm Street (2010)_
+-   _Parking (1985)_
+-   _Q: The Winged Serpent_
+-   _R.I.P.D._
+-   _The Santa Clause_
+-   _Scott Pilgrim vs. The World_
+-   _The Shaggy Dog_
+-   _Shortcut to Happiness_
+-   _Shredder Orpheus_
+-   _The Smurfs_
+    -   _The Smurfs 2_
+-   _The Sorcerer's Apprentice_
+-   _Spawn (1997)_
+-   _Tower of Terror_
+-   _Troll (1986)_
+-   _Underworld (2003)_
+-   _Violent Night_
+-   _What We Do in the Shadows_
+-   _Wilder Napalm_
+-   _Wings of Desire_
+-   _Witch Way Love_
+-   _WolfCop_
+
+    Literature 
+
+This is technically one of the oldest genres in speculative fiction, predating the more strict separation of Science Fiction into a separate genre. Stoker's _Dracula_ is probably the most well-remembered, but far from the last, example from the 1800s, positing an entire ecosystem of vampires and hunters alongside modern life.
+
+-   _The Abandon Trilogy_
+-   _Adventures of a Demon-Hunting Soccer Mom_
+-   _The Aether Cycle_
+-   _Ahriman Trilogy_
+-   _Akata Witch_
+-   _Alcatraz Series_
+-   _Alex Verus_
+-   _All Those Explosions Were Someone Else's Fault_, crossed with Superhero Literature.
+-   _Allie Beckstrom_
+-   _Alterworld_
+-   _Amagi Brilliant Park_
+-   _American Gods_
+-   _Anansi Boys_
+-   _The Angel of the Crows_ (where "modern" meants the late Victorian era)
+-   _Anita Blake_
+-   _Antipaladin Blues_
+-   _The Apocalypse Door_
+-   _Applied Mythology_
+-   _Arcane Advent_
+-   _Ardath_, partly.
+-   _Artemis Fowl_
+-   _The Art of Arrow Cutting_
+-   _Baccano!_
+-   _Bakemonogatari_ tends to feel more like a Ghost Story, but takes place in an All Myths Are True Urban Fantasy setting. One character is even haunted by a god (who are apparently _really bad_ at telling individuals apart).
+-   _The Bane Chronicles_
+-   _The Bartimaeus Trilogy_
+-   _Bas-Lag Cycle_:
+    -   _Perdido Street Station_
+    -   _The Scar_
+    -   _Iron Council_
+-   _The Behemoth_
+-   _Bedlam's Bard_ and _SERRAted Edge_ series by Mercedes Lackey and various co-authors
+-   _Beyond the Boundary_
+-   _Black Blade_
+-   _Black Blood Brothers_
+-   _Black London_
+-   _Blood and Chocolate (1997)_
+-   _Blood Books_
+    -   _Smoke and Shadows_
+-   _Blood Singer Series_
+-   _Bobby Dollar_
+-   _Bone Song_
+-   _Bone Street Rumba_
+-   _Book Of Night_
+-   _The Borrible Trilogy_
+-   _Breaking the Wall_
+-   _Brown Girl in the Ring_
+-   _The Cornersville Trace Mythos_
+-   _Bloodsucking Fiends_
+-   _Bordertown_
+-   _Bras and Broomsticks_
+-   _Burning Bright_
+-   _Cal Leandros_
+-   _The Camp Half-Blood Series_
+    -   _Percy Jackson and the Olympians_
+    -   _The Heroes of Olympus_
+    -   _The Trials of Apollo_
+    -   _Demigods & Magicians_
+    -   _The Demigod Diaries_
+    -   _The Demigod Files_
+-   _The Case Files of Yakushiji Ryoko_ (Partially)
+-   _The Case of the Toxic Spell Dump_, though it may overlap with Magical Realism.
+-   _Card Force Infection_
+-   _Cassandra Palmer_
+-   _The Cavaliers Series_
+-   _Cemetery Boys_
+-   _Cerberus High_
+-   _Cerberus High II_
+-   _A Certain Magical Index_
+-   _The Changeling_
+-   _The Changeover_
+-   _The Chaos Cycle_
+-   _Charlie and the Chocolate Factory_
+    -   _Charlie and the Great Glass Elevator_
+-   _Chicagoland Vampires_
+-   _Children of the Red King_
+-   _Chronicles of Nick_
+-   _City of Devils_
+-   _The Clairvoyant Countess_
+-   _Clandestine Daze_
+-   _Claw & Warder_
+-   _The Coldest Girl in Coldtown_
+-   _Colt Regan_
+-   _The Confessions of Peter Crossman_
+-   _Cop Craft_
+-   _Coraline_
+-   _Coyote Blue_
+-   _Craft Sequence_
+    -   _Three Parts Dead_
+    -   _Two Serpents Rise_
+    -   _Full Fathom Five_
+    -   _Last First Snow_
+    -   _Four Roads Cross_
+    -   _Ruin of Angels_
+-   _Crescent City_: While the series is not set on Earth in modern times per se, there exist modern technologies like cell phones, computers, cars, and surveillance cameras, which coexist with magic and supernatural beings.
+-   _The Crossroads Series_
+-   _Cruel Illusions_
+-   _The Crush_
+-   _Cultivation Chat Group_
+-   The _Cursed World_ series.
+-   _The Curse Workers_
+-   _Dance Of The Butterfly_
+-   _Daniel Faust_
+-   _Dan Shamble, Zombie P.I._
+-   _Dante Valentine_ (Science Fantasy variant)
+-   _The Dark Artifices_
+-   _Darker Than You Think_
+-   _The Darkest Part of the Forest_
+-   _Darkness Visible_
+-   _Dark Touch_
+-   _Daughter of Smoke and Bone_
+-   _Daughters of the Moon_
+-   _Dead Silver_
+-   _Deacon Chalk_
+-   _Dechance Chronicles_
+-   _Declare_
+-   _Demon Accords_
+-   _The Demon's Lexicon_
+-   _Demon Squad_
+-   _Den of Shadows_
+    -   _Demon in My View_
+-   _The Devil is a Part-Timer!_
+-   _Devilish_
+-   _Devils & Thieves_
+-   _The Dreamside Road_
+-   _Diana Tregarde_ series
+-   _Diary Of A Bomoh_
+-   _Differently Morphous_
+-   _Digital Devil Story_
+-   _A Dirty Job_
+-   _A Discovery of Witches_
+-   _Discworld_ transitioned slowly towards this as modern technologies and ideas found themselves homes on the Disc, especially in Ankh-Morpork.
+-   _The Dollmaker_
+-   _Dora Wilk Series_
+    -   _Shaman Blues_
+    -   _The Girl from the Miracles District_
+-   _Dracula_
+-   _Dragons And Dwarves_
+-   _Draw One in the Dark_
+-   _The Dresden Files_
+    -   _Storm Front_
+    -   _Fool Moon_
+    -   _Grave Peril_
+    -   _Summer Knight_
+    -   _Death Masks_
+    -   _Blood Rites_
+    -   _Dead Beat_
+    -   _Proven Guilty_
+    -   _White Night_
+    -   _Small Favor_
+    -   _Turn Coat_
+    -   _Changes_
+    -   _Ghost Story_
+    -   _Cold Days_
+    -   _Skin Game_
+    -   _Peace Talks_
+    -   _Battle Ground (2020)_
+    -   _Side Jobs_
+    -   _Brief Cases_
+-   _Dr. Greta Helsing_
+-   _Durarara!!_
+-   _Dust City_
+-   _Dying With Her Cheer Pants On_
+-   _Each Little Universe_
+-   _The Eccentric Family_
+-   _Eclipse_
+-   _Elatsoe_
+-   _The Eldest Curses_
+-   _Elemental Assassin_
+-   _Elemental Masters_ (a variant where "modern" means the late 19th and early 20th centuries)
+-   _Esther Diamond_
+-   _Ethan Banning_
+-   _Evernight_
+-   _Everyman_
+-   _Everything's Better With Elves_
+-   _Evie Scelan_
+-   _Existentially Challenged_
+-   _The Fae of Calaveras County_
+-   _Faerie Tale_
+-   _Family Matters Series_
+-   _Family Skeleton Mysteries_
+-   _Fantasy And Forensics_
+-   _Fates Road_
+-   _Favor Of Ares_
+-   _Fearless Series_
+-   _Feliks, Net & Nika_
+-   _Feline Wizards_
+-   _Felix Castor_
+-   _Ferals Series_
+-   _The Ferryman Institute_
+-   _Fever Series_
+-   _The Fey and the Fallen_
+-   _Fluke, or, I Know Why the Winged Whale Sings_
+-   _The Folk of the Air_
+-   _The Fowl Twins_
+-   _Fred, The Vampire Accountant_
+-   _The Freya Series_
+-   _Galefire_
+-   _Geist Series_
+-   _Get Blank_
+-   _Georgina Kincaid_
+-   _Ghost Finders_
+-   _Ghost Roads_
+-   _Ghosts Of The Shadowmarket_
+-   _Gil's All Fright Diner_
+    -   _Bigfoot Dreams_
+-   _The Goddess Test_
+-   _Gods Play_
+-   _The Good Fairies of New York_
+-   _Good Omens_
+-   _Goosebumps_
+    -   _Goosebumps_ (original series)
+    -   _Give Yourself Goosebumps_
+    -   _Goosebumps HorrorLand_
+-   _Gossamer Axe_
+-   _Greywalker_
+-   _Grimm Tales_ series
+-   _Grounded for All Eternity_
+-   _The Guardians (Meljean Brook)_
+-   _Guild Hunter_
+-   _The Half Life Trilogy_
+-   _Halvgudene_ (in part)
+-   _Hand of Mercy_
+-   _Harda Horda_ (an anthology, but comes with four different variants of the trope)
+-   _Harry Potter_
+    -   _Harry Potter and the Philosopher's Stone_
+    -   _Harry Potter and the Chamber of Secrets_
+    -   _Harry Potter and the Prisoner of Azkaban_
+    -   _Harry Potter and the Goblet of Fire_
+    -   _Harry Potter and the Order of the Phoenix_
+    -   _Harry Potter and the Half-Blood Prince_
+    -   _Harry Potter and the Deathly Hallows_
+-   _The Harry Stubbs Adventures_
+-   _Haruhi Suzumiya_
+-   _Hell's Kitchen Sink_
+-   _Das Herz Der Quelle_
+-   _High School Dx D_
+-   _Hilda Tie-In Series_
+-   _Hocus Pocus & The All-New Sequel_
+-   _The Hollows_
+-   _House of Doors_
+-   _The House of Night_
+-   _The House In The Cerulean Sea_
+-   _How to Sell a Haunted House_
+-   _Human (2015)_
+-   _Hush, Hush_
+-   _The Hypnotists_
+-   _If I Go It Will Be Double_
+-   _An Invitation from Thanatos_
+-   _Imagine Someday_
+-   _Immortals After Dark_
+-   _Incarnations of Immortality_
+-   _InCryptid_
+-   _Indexing_
+-   _Infinity Cycle_
+-   _Inner Demons_
+-   _Instinct Rising_
+-   _Iron Covenant_
+-   _Iron Druid Chronicles_
+-   _Jack Bishop_
+-   _Jackie and Craig_
+-   _Jakub Wędrowycz_
+-   _Jane Yellowrock_
+-   _Jason Wood_
+-   _The Jeremiah School_
+-   _Jill Kismet_
+-   _John Golden_
+-   _Johnny Maxwell Trilogy_
+-   _Journey to Chaos_
+-   _The Kane Chronicles_
+-   _Kate Daniels_
+-   _Kaze no Stigma_
+-   _Kire_
+-   _Kitty Norville_
+-   _Labyrinth Lost_
+-   _Labyrinths of Echo_
+-   _Last Call at the Nightshade Lounge_
+-   _The Last Dragonslayer_ Series:
+    -   _The Last Dragonslayer_
+    -   _The Song of the Quarkbeast_
+    -   _The Eye of Zoltar_
+    -   _The Great Troll War_
+-   _The Last Vampire_
+-   _League of Magi_
+-   _Legendborn_
+-   _The Legion_
+-   _Lie Huo Jiao Chou_
+-   _Life and Death: Twilight Reimagined_
+-   _Lizzy and Diesel_
+-   _Lockwood & Co._
+-   _The Longing of Shiina Ryo_
+-   _Longsummer Nights_
+-   _Luda_
+-   _The M Universe_
+    -   _The Curse of M_
+    -   _The Storm of M_
+    -   _The War of M_
+    -   _The World Of M_
+    -   _The Years Of M_
+-   _Madison Avery_
+-   _Magical Girls (2014)_
+-   _Magical Warfare_
+-   _Magic Ex Libris_
+-   _Magic for Liars_
+-   _Magic Shop_
+-   _Magic Time_
+-   _Magik Online_
+-   _The Magisterium_
+-   _Magnus Chase and the Gods of Asgard_
+-   _Mail Fox Tales_
+-   _The Making Of Yolanda La Bruja_ takes place in the Bronx where the protagonist, per ancestral tradition, is about to be initiated into a witch, but she must be claimed by an Unknown first.
+-   _Manifestation_
+-   _Market of Monsters_
+-   _Marla Mason_
+-   _Matthew Swift_
+    -   _Magicals Anonymous_
+-   _The Mediator_
+-   _Mediochre Q Seth Series_
+-   _A Memoir by Lady Trent_ is set in a Victorian-esque world where dragons and other fantasy creatures exist, but magic is absent. Most of the series takes place in decidedly _non-urban_ settings, though.
+-   _The Memory Wars_
+-   _Mercy Thompson_
+-   _Mick Oberon_
+-   _Midnights Twins Trilogy_
+-   _Miles Pennoyer_
+    -   _Number Seven Queer Street_
+-   _Miriam Black_
+-   _Miskatonic University - Elder Gods 101_
+-   _Modern Faerie Tales_
+-   _Modern Healing Mage_
+-   _Monster_
+-   _Monster Hunter International_
+-   _Moonflowers_
+-   _Morganville Vampires_
+-   _The Mortal Instruments_
+-   _Mouse (2017)_
+-   _Mr Blank_
+-   _Murderess_ starts off as this, up until its protagonist crosses over to a Magical Land.
+-   _My Favorite Band Does Not Exist_
+-   _Myriad Colors Phantom World_
+-   _Mythos Academy_
+-   _Nasuverse_
+    -   _DDD_
+    -   _The Garden of Sinners_
+    -   _Fate/Zero_
+-   _Nathaniel Keene_. Well, more like Small-Town Fantasy.
+-   _The Nekropolis Archives_
+-   _A Net of Dawn and Bones_
+-   _Nevermoor_
+-   _Neverwhere_
+-   _Newshound_
+-   _Night Huntress_
+-   _Nightside_
+-   _Night Watch (Series)_
+-   _Night World_
+    -   _Secret Vampire_
+    -   _Daughters of Darkness (1996)_
+    -   _Spellbinder (1996)_
+    -   _Dark Angel (1996)_
+    -   _The Chosen (1997)_
+    -   _Soulmate_
+    -   _Huntress (1997)_
+    -   _Black Dawn_ (although this one takes place primarily in a valley resembling the late medieval period)
+-   _Ninja Gaiden (NES)_ (Worlds of Power)
+-   _No Gods for Drowning_
+-   _Nomes Trilogy_
+-   _The Nullweaver Cycle_
+-   _October Daye_
+-   _The Office Of Lost And Found_
+-   _Oksa Pollock_
+-   _Old Scores_
+-   _The One Who Eats Monsters_
+-   _Only Echoes Remain_
+-   _ONSET_
+-   _The Others Series_
+-   _Otherverse_
+    -   _Pact_
+    -   _Pale_
+-   _The Otherworld Series_
+-   _The Paragon Society_
+-   _Parahumans_
+    -   _Worm_
+-   _Paraiso Street_
+-   _Paranormalcy_
+-   _The Parasol Protectorate_
+    -   _The Custard Protocol_
+-   _Pax Arcana_
+-   _Phenomena_ (in part)
+-   _Practical Demonkeeping_
+-   _President's Vampire_
+-   _Pretty When She Dies_
+-   _Princess Holy Aura_
+-   _Quincy Harker, Demon Hunter_
+-   _Ravelling Wrath_
+-   _Ravensong_
+-   _Reaper (Taulsn)_
+-   _Red Moon Rising (Moore)_
+-   _Red Room_
+-   _Red Winter Trilogy_
+-   _Repairman Jack_
+-   _The Rest Of Us Just Live Here_
+-   _Retired Witches Mysteries_
+-   _Rivers of London_
+-   _Rollerskater_
+-   _A Romance of Two Worlds_
+-   _Roverandom_
+-   _Sabina Kane_
+-   _Sacred and Terrible Air_
+-   _San Amaro Investigations_
+-   _Sandman Slim_
+-   _Santiago Nights_
+-   _Secret City_
+-   _Secret Histories_
+-   _The Section 13 Case Files_
+-   _Sekret_
+-   _Shades Of London_
+-   _Shadow Grail_ series
+-   _Shadow Ops_
+-   _Shadow Police_ series
+-   _The Shadowspawn_
+-   _The Shadow Project_
+-   _Shaman of the Undead_
+-   _Shifters Series_
+-   _Shifting Elements_
+-   _Silicon Wolfpack_
+-   _Skate the Thief_
+-   _Skellig_
+-   _Skulduggery Pleasant_
+-   _The Sookie Stackhouse Mysteries_
+-   _Soul Screamers_
+-   _Special Circumstances_
+-   _Spellbent_
+-   _The Spiderwick Chronicles_
+-   _The Stolen Heir Duology_
+-   _The Stupidest Angel: A Heartwarming Tale of Christmas Terror_
+-   _The Sunbearer Trials_
+-   _Supernatural Investigations_
+-   _The Supernaturals Series_
+    -   _The Supernaturals: The Earth Titan_
+    -   _The Supernaturals 2: A Nice Quiet Town_
+-   _The Supervillainy Saga_
+    -   _The Rules of Supervillainy_
+    -   _The Games of Supervillainy_
+    -   _The Secrets of Supervillainy_
+    -   _The Science of Supervillainy_
+    -   _The Tournament of Supervillainy_
+    -   _The Future of Supervillainy_
+    -   _The Horror Of Supervillainy_
+    -   _Tales of Supervillainy: Cindy's Seven_
+    -   _The Fall Of Supervillainy_
+    -   _Tales Of Supervillainy: Cindy's Seven_
+-   _Sweep_
+-   _Tales from the Shadowhunter Academy_
+-   _Tales of Elethiya_
+-   _The Tarot Sequence_
+-   _Team Human_
+-   _Technomancer_
+-   _Teddy London_
+-   _Time Out of Time_
+-   _The Tome of Bill_
+-   _Towers Trilogy_
+-   _Trail of Lightning_
+-   _Tripswitch_
+-   _Trollhunters_
+-   _Trylle Trilogy_
+-   _Twilight_
+    -   _Midnight Sun (2020)_
+-   _Uncommon Animals_
+-   _Unhallowed_
+-   _The United States Of Asgard_
+-   _The United States of Monsters_
+    -   _Psycho Killers in Love_
+    -   _Red Room_
+    -   _The Bright Falls Mysteries_
+    -   _Morgan Detective Agency_
+    -   _Straight Outta Fangton_
+-   _The Unorthodox Chronicles_
+-   _Urban Dragon_
+-   _Urban Shaman_
+-   _The Vu_
+-   _Valducan_
+-   _Vampire Academy_
+-   _The Vampire Diaries_
+-   _Vampire Chronicles_
+-   _Vampire: The Masquerade_ novels
+    -   _Masquerade of the Red Death_
+    -   _Vampire: The Masquerade 5th Edition_
+    -   _Vampire: The Masquerade Clan Novels_
+    -   _Vampire: The Masquerade Prince Duology_
+-   _Vampirocracy_
+-   _Void City_
+-   _WaR: Wizards and Robots_
+-   _War for the Oaks_
+-   _The War of the Flowers_
+-   _Watersong_
+-   _Wayward Children_
+-   _Weaveworld_
+-   _We Walk the Night_
+-   _When Hell Freezes Over_
+-   _When We Were Animals_
+-   _When We Were Magic_
+-   _The White Rabbit Chronicles_
+-   _Wicked (Nancy Holder)_
+-   _Wicked Lovely_
+-   _Winter's Tale (Emrys Vaughn)_
+-   _The Witch of Knightcharm_
+-   _The Witches of Bailiwick_
+-   _Witches of East End_
+-   _The Witches of Thistle Grove_
+-   _The Witch Watch_
+-   _Wizard of the Pigeons_
+-   _The Wizards on Walnut Street_
+-   _Women of the Otherworld_
+-   _The Word and the Void_
+-   _Young Wizards_ (in part)
+-   _Ysabel_
+-   _The Zashiki Warashi of Intellectual Village_
+-   _Zellie Wells Trilogy_
+-   _Zoë Martinique_
+-   _The Zombie Knight_
+-   _Zora Banks_
+
+    Live-Action TV 
+
+-   _The 10th Kingdom_
+-   _Ace Lightning_
+-   _Alice (2009)_
+-   _The Almighty Johnsons_
+-   _American Gods (2017)_
+-   _American Horror Story: Coven_
+-   _Bar Karma_
+-   _Beauty and the Beast (1987)_
+-   _Being Human (UK)_
+    -   _Becoming Human_
+    -   _Being Human (US)_
+-   _Believe_ (Partially)
+-   _Big Wolf on Campus_
+-   _Bitten_
+-   _Brand New Cherry Flavor_
+-   _Buffyverse_
+    -   _Buffy the Vampire Slayer_
+    -   _Angel_
+-   _Carnivàle_
+-   _Carnival Row_
+-   _The Champions (1968)_
+-   _Charmed (1998)_
+    -   _Charmed (2018)_
+-   _The Charmings_
+-   _The Chronicle_
+-   _Cleverman_
+-   _Constantine (2014)_
+-   _Crazyhead_
+-   _Dark Shadows_
+    -   _Dark Shadows (1991)_
+-   _Dead Gorgeous_
+-   _Dead Last_
+-   _Dead Like Me_
+-   _Death Note_
+-   _Death Valley_
+-   _Demons_
+-   _Diablero_
+-   _A Discovery of Witches_
+-   _The Dresden Files_
+-   _Early Edition_
+-   _Eerie, Indiana_
+-   _Estoy Vivo_
+-   _The Fades_
+-   _First Kill_
+-   _Forever (2014)_
+-   _Friday the 13th: The Series_
+-   _GARO_
+-   _The Gates_
+-   _The Ghost and Mrs. Muir_
+-   _Good Omens (2019)_
+-   _Goosebumps (1995)_
+-   _Grimm_
+-   _The Guardians of Justice_
+-   _Happy!_
+-   _Haven_
+-   _Helstrom_
+-   _Hemlock Grove_
+-   _HEX_
+-   _iZombie_
+-   _The Imperfects_
+-   _Just Add Magic_
+-   Some _Kamen Rider_
+    -   _Kamen Rider Amazon_
+    -   _Kamen Rider Kuuga_
+    -   _Kamen Rider Agito_
+    -   _Kamen Rider Ryuki_
+    -   _Kamen Rider Hibiki_
+    -   _Kamen Rider Kiva_
+    -   _Kamen Rider OOO_
+    -   _Kamen Rider Wizard_
+    -   _Kamen Rider Gaim_
+    -   _Kamen Rider Ghost_
+    -   _Rider Time: Kamen Rider Shinobi_
+    -   _Kamen Rider Saber_
+    -   _Kamen Rider Revice_
+    -   _Kamen Rider Gotchard_
+-   _Kindred: The Embraced_
+-   _Kolchak: The Night Stalker_
+-   _Kung Fu (2021)_ (Shows up near the end of the first season)
+-   _The Librarians (2014)_
+-   _Lockwood & Co. (2023)_
+-   _Lost Girl_
+-   _The Lost Room_
+-   _Lucifer (2016)_
+-   _The Magicians (2016)_
+-   _Marvel Cinematic Universe_
+    -   _Agents of S.H.I.E.L.D._
+    -   _Cloak & Dagger (2018)_
+    -   _The Defenders (2017)_
+    -   _Iron Fist (2017)_
+    -   _Moon Knight (2022)_
+    -   _Ms. Marvel (2022)_
+    -   _Runaways (2017)_
+    -   _WandaVision_
+-   _The Messengers_
+-   _My Babysitter's a Vampire_
+-   _My Girlfriend Is a Nine-Tailed Fox_
+-   _My Roommate is a Gumiho_
+-   _Nanny and the Professor_
+-   _Neverland_
+-   _Night Stalker_
+-   _Nowhere Boys_
+-   _October Faction_
+-   _Once Upon a Time_
+-   _The Other Kingdom_
+-   _Penny Dreadful_
+    -   _Penny Dreadful: City of Angels_
+-   _Percy Jackson and the Olympians (2023)_
+-   _Power Rangers_
+-   _Pushing Daisies_
+-   _Ragnarok (2020)_
+-   _Red: Werewolf Hunter_
+-   _Relic Hunter_
+-   _Rentaghost_
+-   _Riverdale_ (season 6)
+-   _Round the Twist_
+-   _Reaper_
+-   _Sanctuary_
+-   _Sabrina the Teenage Witch_
+    -   _Chilling Adventures of Sabrina_
+-   _The Sandman (2022)_
+-   _Santa Clarita Diet_
+-   _The School Nurse Files_
+-   _The Secret Adventures of Jules Verne_
+-   _Seriously Weird_
+-   _Servant_
+-   _Sesame Street_
+-   _Shadow Chasers_
+-   _Shadowhunters_
+-   _She-Wolf of London_
+-   _Sir Arthur Conan Doyle's The Lost World_
+-   _Sleepy Hollow_
+-   _So Weird_
+-   _Special Unit 2_
+-   _Spirited_
+-   _Stan Lee's Lucky Man_ (Partially)
+-   _Strange_
+-   _Stranger Things_
+-   Some _Super Sentai_:
+    -   _Kyōryū Sentai Zyuranger_
+    -   _Gosei Sentai Dairanger_
+    -   _Ninja Sentai Kakuranger_
+    -   _Seijuu Sentai Gingaman_
+    -   _Hyakujuu Sentai Gaoranger_
+    -   _Ninpuu Sentai Hurricaneger_
+    -   _Mahou Sentai Magiranger_
+    -   _Juken Sentai Gekiranger_
+    -   _Samurai Sentai Shinkenger_
+    -   _Tensou Sentai Goseiger_
+    -   _Zyuden Sentai Kyoryuger_
+    -   _Ressha Sentai ToQger_
+    -   _Shuriken Sentai Ninninger_
+    -   _Kishiryu Sentai Ryusoulger_
+    -   _Mashin Sentai Kiramager_
+-   _Supernatural_
+-   _Teen Wolf_
+-   _Tidelands (Netflix)_
+-   _Tin Man_
+-   _Todd and the Book of Pure Evil_
+-   _True Blood_
+-   _The Twilight Zone_
+    -   _The Twilight Zone (1959)_
+    -   _The Twilight Zone (1985)_
+    -   _The Twilight Zone (2002)_
+    -   _The Twilight Zone (2019)_
+-   _Twin Peaks_
+-   The Vampire Diaries Universe
+    -   _The Vampire Diaries_
+    -   _The Originals_
+    -   _Legacies_
+-   _Warehouse 13_
+-   _The Watch (2021)_
+-   _Wellington Paranormal_
+-   _What We Do in the Shadows (2019)_
+-   _Whoniverse_
+    -   _Doctor Who_
+    -   _The Sarah Jane Adventures_
+    -   _Torchwood_
+    -   _Class (2016)_
+-   _Witches of East End_
+-   _Wizards of Waverly Place_
+-   _Wolf Lake_
+-   _Wolf Pack_
+-   _Wynonna Earp_
+-   _The X-Files_
+    -   _The X-Files_
+    -   _Millennium (1996)_
+    -   _The Lone Gunmen_
+-   _The Zack Files_
+
+    Manhua 
+
+-   _Cultivator Against Hero Society_
+
+    Podcast 
+
+-   _Brimstone Valley Mall_
+-   _The Byron Chronicles_
+-   _Less is Morgue_
+-   _Metamor City_
+-   _Residents Of Proserpina Park_
+
+    Radio 
+
+-   _Pilgrim_
+-   The title character of _Deacon_ was cursed with immortality by Voodoo gods and now protects lost people from threats from the spirit realm in Bristol. Not totally dissimilar to _Pilgrim_, and runs in the same Radio 4 slot.
+
+    Roleplay 
+
+-   _Fire Emblem On Forums Demon Soul Saga_
+-   _IndoHogwarts_
+-   _Marked RP_
+
+    Tabletop Games 
+
+-   _Beyond the Pale_
+-   _Call of Cthulhu_ — The defualt setting is the 1920s, but there are options for modern-day and many others.
+    -   _Trail of Cthulhu_ — on the other hand, is set in the 1930s.
+    -   _Delta Green_
+    -   _Masks of Nyarlathotep_
+-   _City of Mist_ is Urban Fantasy crossed with Film Noir.
+-   _Conspiracy X_ mixes the supernatural and aliens.
+    -   So does Dark•Matter (1999).
+-   _d20 Modern_: Specifically the Urban Arcana setting.
+-   _The Dresden Files_
+-   _East Texas University_, a campaign setting for _Savage Worlds_
+-   _Feng Shui_: Specifically supernatural adventures in the Contemporary juncture.
+-   _Fireborn_; in an interesting twist, while magic does appear in the modern age it's only in isolated pockets, usually around places with waaaaaaayyy more history than other places. While the Source book focuses on London, it also hints at almost every major city in Greece along with Mount Olympus and the City of Rome just as few examples
+-   _GURPS Technomancer_
+-   _Immortal The Invisible War_
+-   _In Nomine_
+-   _KULT_
+-   _Little Fears_
+-   _Masque of the Red Death_, a campaign setting for _Dungeons & Dragons_ and a spinoff of _Ravenloft_ set in the 1890s.
+-   _Monsters and Other Childish Things_
+-   _Monsterhearts_
+-   _Monster of the Week_
+-   _Nightbane_
+-   _Ninjas And Superspies_ (Mostly from the _Mystic China_ sourcebook onwards.)
+-   _Nobilis_
+-   _OverTheEdge_
+-   _Scion_
+-   _Shadowrun_ mixes Urban Fantasy with Cyberpunk.
+-   _The Small Folk_ describes itself as "wainscot urban fantasy", being concerned with very Little People hiding in the corners of modern human civilization.
+-   _Trail of Cthulhu_
+-   _Unhallowed Metropolis_
+-   _Unknown Armies_
+-   _Urban Shadows_, an urban fantasy game that uses the _Powered by the Apocalypse_ rule system.
+-   _WitchCraft_
+-   _The World of Darkness_
+    -   _The World of Darkness_
+        -   _Changeling: The Dreaming_
+        -   _Demon: The Fallen_
+        -   _Hunter: The Reckoning_
+        -   _Kindred of the East_
+        -   _Mage: The Ascension_
+        -   _Mummy: The Resurrection_
+        -   _Orpheus_
+        -   _Vampire: The Masquerade_
+        -   _Vampire: The Masquerade 5th Edition_
+        -   _Chicago By Night_
+        -   _Vampire: The Eternal Struggle_
+        -   _Werewolf: The Apocalypse_
+        -   _Wraith: The Oblivion_
+    -   WoD fan-made gamelines:
+        -   _Senshi: The Merchandising_
+        -   _Tech Infantry_
+        -   _Zombie: The Coil_
+    -   _Chronicles of Darkness_
+        -   _Changeling: The Lost_
+        -   _Demon: The Descent_
+        -   _Geist: The Sin-Eaters_
+        -   _Hunter: The Vigil_
+        -   _Mage: The Awakening_
+        -   _Mummy: The Curse_
+        -   _Promethean: The Created_
+        -   _Vampire: The Requiem_
+        -   _Werewolf: The Forsaken_
+    -   CoD fan-made gamelines:
+        -   _Demon: The Redemption_
+        -   _Dragon: The Embers_
+        -   _Genius: The Transgression_
+        -   _Hunchback: The Lurching_
+        -   _Hunter the Vigil: Dream Catchers_
+        -   _Hunter: The Vigil – Dark and Light_
+        -   _Janus: The Persona_
+        -   _Leviathan: The Tempest_
+        -   _Outsider: The Calling_
+        -   _Pathogen: The Infected_
+        -   _Princess: The Hopeful_
+        -   _Psychic: The Gifted_
+        -   _Siren: The Drowning_
+        -   _Wraith: The Arising_
+    -   _Monte Cook's World of Darkness_
+
+    Theatre 
+
+-   _Angels in America_
+-   _Quidam_ (by Cirque du Soleil)
+
+    Video Games 
+
+-   _Arcana Heart_
+-   _Bayonetta_: Angels and Demons fighting Witches.
+-   _Banzai Pecan_
+-   _Blood-over- nobody,lives._
+-   _Bullet Witch_
+-   _Castlevania: Lords of Shadow 2_
+-   _Code Atma_
+-   _Coraline_
+-   _Devil May Cry_: While all installments of the series use modern-day technology and concepts mixed with supernatural fantasy, the urban settings are more evident in _Devil May Cry 2_ (which has a corporate skyscraper), _DmC: Devil May Cry_ (which takes place entirely in a city) and _Devil May Cry 5_ (with battles taking place in the city streets, rooftops, and subway stations). The other games typically lean more towards a very old-world gothic feel, with _Devil May Cry 4_ heavily relying on Roman Catholic imagery.
+-   _Dark_
+-   _Deathloop_
+-   _Disco Elysium_
+-   The _Dishonored_ series:
+    -   _Dishonored_
+    -   _Dishonored 2_
+    -   _Dishonored: Death of the Outsider_
+-   _Dislyte_
+-   _Dungeon Munchies_
+-   _Dusk Diver_
+-   _ELEX_
+-   _Eternal Darkness_
+-   _Fahrenheit_
+-   _Fear & Hunger: Termina_: The first game in the series is Medieval European Dark Fantasy, but has since averted Medieval Stasis progressed to an alternate universe World War 2-era technological level.
+-   _Final Fantasy_
+    -   _Final Fantasy VII_ is a deconstruction where the MegaCorp Shinra has taken the advancements of its magical energy research and oppressed the people of Midgar with it, turning what could be a highly advanced urbanized society into a series of slums that are forced to abide by Shinra's overreach.
+        -   _Final Fantasy VII Remake_ makes this even clearer, with even more real world urban elements like street signs and brick apartment buildings featured due to enhanced fidelity.
+        -   _Final Fantasy VII Rebirth_ adds additional fantasy and urban locales on top of the city of Midgard, including sleepy suburbs, port cities, remote villages, and more.
+    -   _Final Fantasy VIII_
+    -   _Final Fantasy XIII_ and its sequels are another deconstruction: while four of the six heroes hail from an extremely advanced society (while the other two come from a world more closely resembling our own modernity), most of the game's plot takes place in either the wilds of said society, or in a world untouched by humans for centuries.
+    -   _Final Fantasy XV_
+-   _Folklore_
+-   _Gabriel Knight_
+-   _Ghostwire: Tokyo_
+-   _Gravity Falls: Legend of the Gnome Gemulets_
+-   _Heroes Phantasia_
+-   _July Anarchy_
+-   _The King of Fighters_
+-   _The Legend of Heroes: Trails from Zero and Trails to Azure_
+-   _Mitsurugi Kamui Hikae_
+-   _Mind Zero_
+-   _Mortal Kombat_: Contemporary world fights invaders from other dimensions that use magic.
+-   _Mother_
+    -   _Earthbound Beginnings_
+    -   _EarthBound (1994)_
+    -   _Mother 3_ is a deconstruction, where the idyllic, simple Tazmily Village is corrupted into urban trappings, making the former villagers less friendly than they were before.
+-   _Mr. Bones_
+-   _Namco × Capcom_
+    -   _Project × Zone_
+-   _Nexus Clash_, although players can also visit the home planes of the various supernatural forces that have converged on our world, where this trope doesn't apply as much.
+-   _Ninja Gaiden_
+    -   _Ninja Gaiden (Arcade)_
+    -   _Ninja Gaiden (NES)_
+    -   _Ninja Gaiden II: The Dark Sword of Chaos_
+    -   _Ninja Gaiden III: The Ancient Ship of Doom_
+    -   _Ninja Gaiden Shadow_
+    -   _Ninja Gaiden (2004)_
+    -   _Ninja Gaiden: Dragon Sword_
+    -   _Ninja Gaiden II (2008)_
+    -   _Ninja Gaiden 3 (2012)_
+    -   _Yaiba: Ninja Gaiden Z_
+-   _Parasite Eve_
+    -   _Parasite Eve 2_
+    -   _The 3rd Birthday_
+-   _Pendula Swing_
+-   _Phantom Breaker_
+-   _Pokémon_: Set in a fantastical version of real world where monsters can be captured, trained, bred, and forced to fight.
+    -   _Pokémon Red and Blue_
+    -   _Pokémon Gold and Silver_
+    -   _Pokémon Ruby and Sapphire_
+    -   _Pokémon Diamond and Pearl_
+    -   _Pokémon Black and White_
+    -   _Pokémon Black 2 and White 2_
+    -   _Pokémon X and Y_
+    -   _Pokémon Sun and Moon_
+    -   _Pokémon Ultra Sun and Ultra Moon_
+    -   _Pokémon Sword and Shield_
+    -   _Pokémon Scarlet and Violet_
+-   _Power Gig: Rise of the SixString_
+-   _Puyo Puyo_
+-   _QP Shooting_
+-   _Sakura Note: Ima ni Tsunagaru Mirai_
+-   _Sailor Moon: Another Story_
+-   _Secret of Evermore_
+-   _The Secret World_: Premise involves 3 conspiracies making sure the rest of the world doesn't get exposed to the supernatural.
+-   _Shadow Hearts_
+    -   _Shadow Hearts_
+    -   _Shadow Hearts: Covenant_
+    -   _Shadow Hearts: From The New World_
+-   _Shadowrun_
+-   _She Dreams Elsewhere_
+-   _Shin Megami Tensei_
+    -   _Shin Megami Tensei I_, but only in the first third of the game. Afterwards it segues into an After the End setting.
+    -   _Shin Megami Tensei if..._
+    -   _Shin Megami Tensei IV_, but only a third of the way into the game. Before that, it exists in a Schizo Tech Medieval setting.
+    -   _Shin Megami Tensei IV: Apocalypse_
+    -   _Shin Megami Tensei V_
+    -   _Shin Megami Tensei Liberation: Dx2_: A mysteriously appearing app on your phone introduces the player to a hidden underworld of demon summoners.
+    -   _Catherine_: a story about a town where men's dreams are being invaded by a succubus.
+    -   _Devil Survivor_ deals with the aftermath of a demon attack which leaves an entire city isolated from the rest of the world. The player character has a device which can tell when any other device holder will die, thus giving the means to prevent said deaths.
+    -   _Devil Survivor 2_ involves the sudden invasion of a group of Eldritch Abomination aliens. The Demon Summoning Program is distributed as a cellphone app, and there's a website that shows the user images of their friends' deaths, once again enabling you to stop them.
+    -   _Persona_
+        -   _Persona_: A hospital is transformed into a demon filled labyrinth, and only a small group of high school kids can rescue their friend, thanks to the manifestation of their own psyche.
+        -   _Persona 2_: In Sumaru City, a mysterious individual named JOKER seems to have made rumors into reality. All hell breaks loose.
+        -   _Persona 3_: A young student with the ability to perceive a moment in time called the Dark Hour gets caught up with a school club filled with individuals who can do the same in order to stop the destruction of the human race.
+        -   _Persona 4_: A young student and his new friends get caught up in a grisly murder case when it is discovered that the culprit is using a supernatural realm that can be accessed via television as their murder weapon.
+        -   _Persona 4: Arena_
+        -   _Persona 4: Arena Ultimax_
+        -   _Persona 4: Dancing All Night_
+        -   _Persona 5_: A young student is put on probation and sent to live in Tokyo where he teams up with other outcasts to "steal the hearts" of corrupted adults.
+        -   _Persona 5 Strikers_: A few months after the end of his probation, the student visits his friends for summer vacation. They travel to various cities and once again steal the hearts of the corrupt.
+        -   _Persona 5: The Phantom X_
+    -   _Devil Summoner_
+        -   _Devil Summoner_
+        -   _Soul Hackers_
+        -   _Soul Hackers 2_
+        -   _Raidou Kuzunoha vs. The Soulless Army_
+        -   _Raidou Kuzunoha vs. King Abaddon_
+-   _Sonic the Hedgehog_: Particularly the games spanning the _Sonic Adventure_ series to _Sonic Unleashed_. After that they started dialing back the urban influences to go back to the more whimsical settings of the earlier games (though they still remain and are evident in the earlier installments to a degree as well).
+-   _Stardew Valley_, though the titular land isn't exactly "urban" per se, more rural.
+-   _Stray Gods_
+-   _Street Fighter_
+-   _Super Mario Bros._: While most of the mainline games are typically straight fantasies, several of the spin-off franchises do tend to incorporate modern urban landscapes into the setting. Mostly via the _Mario Kart_ games.
+    -   _Super Mario Odyssey_: The game has the Metro Kingdom, which in contrast to the game’s whimsical settings, is a realistic looking city based off of New York City. Complete with realistic looking humans.
+-   _Tekken_
+-   _Tokyo Xanadu_
+-   _Unavowed_
+-   _Under Night In-Birth_
+-   _Undertale_
+    -   _Deltarune_
+-   _Vampire: The Masquerade - Bloodlines_:Based off of the TTRPG of the same name.
+    -   _Vampire: The Masquerade – Bloodlines 2_
+    -   The latter half of _Vampire: The Masquerade – Redemption_ switches from Prague and Vienna during The Crusades to London and New York in 1999.
+-   _Vampyr_
+-   _WarioWare_
+    -   _WarioWare, Inc.: Mega Microgame$_
+    -   _WarioWare, Inc.: Mega Party Game$!_
+    -   _WarioWare: Twisted!_
+    -   _WarioWare: Touched!_
+    -   _WarioWare: Smooth Moves_
+    -   _WarioWare: Snapped!_
+    -   _Game & Wario_
+    -   _WarioWare Gold_
+-   _White Day: A Labyrinth Named School_
+-   _The Wolf Among Us_: Modern day where Fairytale characters reside in NYC.
+-   _The World Ends with You_: The franchise takes place in modern-day Japanese ward of Shibuya, and features many references to local popular spots, as characters trapped in a Supernatural "Reaper's Game" use powers to fight monsters, hidden from the eyes of the general public.
+    -   _NEO: The World Ends with You_
+-   _Wuppo_
+-   _Zenless Zone Zero_ is a particularly futuristic case. Many of the characters wouldn't look out of place in a standard fantasy world, such as the demi-humans who are Little Bit Beastly or Beast Men, most characters fight with melee weapons like swords, but the world's technology is highly futuristic and sci-fi in nature, and all of the locales shown so far have been highly urbanized environments, albeit oftentimes in decay and disarray.
+
+    Visual Novels 
+
+-   _Astoria: Fate's Kiss_
+-   _Coffee Talk_
+-   _Dies Irae_
+-   _Dra+Koi_
+-   _Ever After Academy_
+-   _Havenfall Is for Lovers_
+-   _Hiiro no Kakera_
+-   _Kanon_
+-   _Nasuverse_
+    -   _Tsukihime_
+    -   _Fate/stay night_
+    -   _Fate/hollow ataraxia_
+    -   _Witch on the Holy Night_
+-   _Ne no Kami: The Two Princess Knights of Kyoto_
+-   _Rewrite_
+-   _Sable's Grimoire_
+-   _Sin With Me_
+-   _We Know the Devil_
+
+    Web Animation 
+
+-   _Broken Saints_
+-   _Helluva Boss_
+-   _Holidaze (2019)_
+-   _Human Kind Of_
+-   _The Kirlian Frequency_
+-   _Matt 'n' Dusty_
+-   _SCP Foundation_ cartoons:
+    -   _Confinement_
+    -   _Detective Void_
+    -   _SCP Animated - Tales from the Foundation_
+    -   _SCP Chronicles_'
+    -   _The Offshoot_
+-   _Spooky Month_
+
+    Webcomics 
+
+-   _Anarchy Dreamers_
+-   _Annyseed_
+-   _Appetite_
+-   _Athena Complex_
+-   _Atomic Laundromat_
+-   _Autumn Bay_
+-   _Bad Moon Rising_
+-   _Black Haze_
+-   _Blade Girl_
+-   _Blip_
+-   _But I'm a Cat Person_
+-   _Charby the Vampirate_
+-   _City of Trees_
+-   _Corner Alley 13_
+-   _Corner The Maze_
+-   _Critter Coven_
+-   _Crystal Heroes_
+-   _The Curse Of Gaea_
+-   _Dark Dungeons, Light Bot_
+-   _Darwin Carmichael Is Going to Hell_
+-   _Death Clown_
+-   _Demonology 101_
+-   _Dog Nigga_
+-   _Dudim In The Family_
+-   _The Echo Chronicles_
+-   _Eerie Cuties_
+-   _Elf Blood_
+-   _El Goonish Shive_
+-   _Everyday Abnormal_
+-   _The Fan_
+-   _The Far Side Of Utopia_
+-   _Floraverse_
+-   _Ghost Theater_
+-   _Godslave_
+-   _Grrl Power_
+-   _Gunnerkrigg Court_
+-   _Hanna Is Not a Boy's Name_
+-   _Here There Be Monsters_
+-   _Holiday Wars_
+-   _Homestuck_, at least at the beginning.
+-   _Horror Shop_
+-   _Housepets!_
+-   _How to Raise Your Teenage Dragon_
+-   _Jungle Juice_
+-   _Karin-dou 4koma_
+-   _The Legend of Genji_
+-   _Legio Arcana_
+-   _Lemme Addams_
+-   _Les Normaux_
+-   _A Magical Roommate_
+-   _Magick Chicks_
+-   _MegaTokyo_
+-   _Modern MoGal_
+-   _Molten Blade_
+-   _Morph E_
+-   _Newman_
+-   _Noblesse_
+-   _The Noordegraaf Files_
+-   _Not Drunk Enough_
+-   _No Songs For The Dead_
+-   _Only Silver_
+-   _Otter Soldiers_
+-   _Paranatural_
+-   _Professor Amazing and the Incredible Golden Fox_
+-   _Royal_
+-   _Sacred Grounds_
+-   _Salad Days_
+-   _Shifters_
+-   _Silver Bullet Nights_
+-   _Skin Deep_
+-   _Sleepless Domain_
+-   _Sluggy Freelance_
+-   _Spina Cage_
+-   _Solstice Twins_
+-   _Soul Symphony_
+-   _Supernatural Law_
+-   _SwordCat Princess_
+-   _The Sword Interval_
+-   _Templars of the Shifting Verse_
+-   _This Is the Worst Idea You've Ever Had!_
+-   _Turbo Defiant_
+-   _Two Keys_
+-   _Uncommon Animals_
+-   _Unholy Blood_
+-   _Urban Animal_
+-   _Vibe_
+-   _Villain to Kill_
+-   _The Warrior Returns_
+-   _Weenie Licked_
+-   _The Wotch_
+-   _Zebra Girl_
+
+    Web Original 
+
+-   _Angel of Death_
+-   _Arcana Magi Universe_
+    -   _Arcana Magi_
+    -   _Arcana Magi Bolt_
+    -   _Arcana Magi Cross_
+    -   _Arcana Magi Divine_
+    -   _Arcana Magi Fifth World_
+    -   _Arcana Magi Memorial_
+    -   _Arcana Magi Pure_
+    -   _Arcana Magi Rush_
+    -   _Arcana Magi Wisp_
+    -   _Arcana Magi Zero_
+-   _The Arkn Mythos_
+    -   _The Arknverse_
+    -   _Arkn: Eternal_
+    -   _Arkn: Legacy_
+    -   _The Arkn Mythos Extended Universe_
+-   _Billibub Baddings_
+-   _Britsune Garden Series_
+    -   _Britsune Garden_
+-   _Chatoyant College_
+-   _City on the Edge of Nowhere_
+-   _The Crocodile God_
+-   _The Dread Eclipse_ is an ongoing Grimdark switchblade-and-sorcery web serial by Mabel Harper and Cassidy Webb about two modern-day mages attempting to solve a mass murder within the city of Philadelphia. Notable for having two Transgender protagonists.
+-   _Ede Valley_
+-   _Elsewhere University_
+-   _Goodbye Strangers_
+-   _The Grimmery_
+-   _Last Mage_
+-   _The Magic Trials_
+-   _Magical Girl Policy_
+-   _Metro City Chronicles_
+-   _Moonflowers_
+-   _New York Magician_
+-   _Not All Heroes_
+-   _Paranoid Mage_ follows formerly mundane Callum Wells as he goes on the run from the totalitarian Magical Society seeking to control him in modern day America.
+-   _Protect Him_
+-   _The Saints_
+-   _SCP Foundation_
+    -   _The Wanderer's Library_
+    -   _Chaos Insurgency_
+-   _Solo Leveling_
+-   _Spaghetti Ice_
+-   _Stellar Ranger Dark Star_
+-   _Takotsubo_
+-   _Tall Tales_
+-   _Trinton Chronicles_
+-   _Unsong_
+-   _Void Domain_
+
+    Web Videos 
+
+-   _Cafae Latte_
+-   _Carmilla the Series_
+-   _Echo Chamber_
+-   _Forever Sucks_
+-   _Hallowed Worldly_
+-   _Last Life_
+-   _Satellite City_
+-   _The Vampire Diaries: A Darker Truth_
+-   _The Wizards Of Aus_
+
+    Western Animation 
+
+-   _Aaahh!!! Real Monsters_
+-   _American Dragon: Jake Long_
+-   _Arcane_
+-   _Axe Cop_
+-   _Ben 10_
+    -   _Ben 10_
+    -   _Ben 10: Alien Force_
+    -   _Ben 10: Ultimate Alien_
+    -   _Ben 10: Omniverse_
+    -   _Ben 10 (2016)_
+-   _Captain N: The Game Master_
+-   _City of Ghosts_
+-   _Close Enough_
+-   _Constantine: City of Demons_
+-   _Courage the Cowardly Dog_
+-   _Dan Vs._
+-   _Danny Phantom_
+-   _Fantomcat_
+-   _The Fairly OddParents!_
+-   _Filmation's Ghostbusters_
+-   _Gargoyles_
+-   _Ghostbusters_
+    -   _The Real Ghostbusters_
+    -   _Extreme Ghostbusters_
+-   _God, the Devil and Bob_
+-   _Gravity Falls_
+-   _The Grim Adventures of Billy & Mandy_
+-   _Hazbin Hotel_
+-   _Hilda_
+-   _Inside Job (2021)_
+-   _Invincible (2021)_
+-   _Jackie Chan Adventures_
+-   _Kim Possible_
+-   _The Legend of Korra_, a rare Constructed World version, with a Far East Culture Chop Suey setting combining Steam/Diesel Punk, and The Roaring '20s, where Supernatural Martial Arts and Mix-and-Match Critters are just as normal as the newly-invented car.
+-   _The Life and Times of Juniper Lee_
+-   _Lilo & Stitch: The Series_
+-   _Little Demon_
+-   _Lost in Oz_
+-   _Love, Death & Robots_
+-   _Martin Mystery_ (Partially with Paranormal Investigation)
+-   _Men in Black: The Series_
+-   _Miraculous Ladybug_
+-   _The Modifyers_
+-   _Monster Allergy_
+-   _Monsters at Work_
+-   _My Little Pony: Equestria Girls_
+-   _Nate Is Late_
+-   _Neo Yokio_
+-   _The Owl House_
+-   _The Powerpuff Girls_
+    -   _The Powerpuff Girls (1998)_
+    -   _The Powerpuff Girls (2016)_
+-   _Puppy in My Pocket: Adventures in Pocketville_
+-   _Regular Show_
+-   _Sabrina: The Animated Series_
+-   _Sabrina: Secrets of a Teenage Witch_
+-   _The Secret Saturdays_
+-   _The Simpsons: Treehouse of Horror_
+-   _Star vs. the Forces of Evil_
+-   _Steven Universe_ (with a liberal dash of Science Fantasy)
+-   _Supernatural Academy_
+-   _Tales of Arcadia_
+    -   _Trollhunters_
+    -   _3Below_
+    -   _Wizards (2020)_
+-   _Todd McFarlane's Spawn_
+-   _Total DramaRama_
+-   _Transformers_
+    -   _The Transformers_
+    -   _Transformers: Animated_
+    -   _Transformers: Prime_
+    -   _Transformers: Rescue Bots_
+    -   _Unicron Trilogy_
+-   _Trese_
+-   _Trollz_
+-   _Tuttle Twins_
+-   _Ugly Americans_
+-   _Villainous (Cartoon Network)_
+-   _Welcome to the Wayne_
+-   _Winx Club_
+-   _Wishfart_
+-   _W.I.T.C.H._
+-   _Xiaolin Showdown_
+    -   _Xiaolin Chronicles_
+
+___
