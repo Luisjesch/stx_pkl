@@ -39,8 +39,10 @@ if os.path.isfile("processed_tropes.txt"):
 
 
 if os.path.isfile("vdbs/tropes.pkl"):
+    index = faiss.read_index("tropes.index")
     with open("vdbs/tropes.pkl", "rb") as f:
-        fulldb = pickle.load(f)
+        fulldb = pickle.load(f)    
+    fulldb.index = index
 
 for ix, p in enumerate(ps):
     try:
