@@ -44,6 +44,15 @@ if os.path.isfile("vdbs/tropes.pkl"):
         fulldb = pickle.load(f)    
     fulldb.index = index
 
+
+if fulldb is None:
+    fulldb = store
+else:
+    fulldb.merge_from(store)
+
+docstoindex = []
+processedtropes = []
+
 for ix, p in enumerate(ps):
     try:
         print(f"{p.name}")
@@ -63,7 +72,6 @@ for ix, p in enumerate(ps):
                 continue
             pars.append(line)
 
-        docstoindex = []
         sumindex={}
 
         for ipar,par in enumerate(list(pars)):
@@ -75,26 +83,24 @@ for ix, p in enumerate(ps):
             doc_metadata.update({'lastupdate': dtnow,'src':srcpath})
             doctoindex = Document(page_content=str(par), metadata=dict(doc_metadata))
             docstoindex.append(doctoindex)
+
+        processedtropes.append(p.name)
     
-        store = FAISS.from_documents(docstoindex, embeddings)
-        if fulldb is None:
-            fulldb = store
-        else:
-            fulldb.merge_from(store)
-
-        faiss.write_index(fulldb.index, "docs.index")
-
-        with open("vdbs/tropes.pkl", "wb") as f:
-            pickle.dump(fulldb, f)
-
-        with open("processed_tropes.txt", "a+") as pd:
-            pd.write("%s\n"%p.name)
-            
-        print("%s processed!" % p)
-
     except Exception as e:
         print(e)
         print("%s skipped!"%p)
 
+store = FAISS.from_documents(docstoindex, embeddings)
+
+faiss.write_index(fulldb.index, "docs.index")
+
+with open("vdbs/tropes.pkl", "wb") as f:
+    pickle.dump(fulldb, f)
+
+with open("processed_tropes.txt", "a+") as pd:
+    allprocessed = "\n".join(processedtropes)
+    pd.write("%s\n"%p.name)
+    
+print("%s processed!" % p)
 # embeddings = OpenAIEmbeddings(open_api_key="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",model="ada",max_retries=3, request_timeout=60)
 # embeddings = LlamaCppEmbeddings(model_path="/models/ggml-alpaca-7b-q4.bin",n_gpu_layers=4)
